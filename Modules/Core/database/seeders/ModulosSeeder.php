@@ -3,7 +3,7 @@
 namespace Modules\Core\Database\Seeders;
 
 use Illuminate\Database\Seeder;
-use Modules\Core\Models\Modulo;
+use Modules\Core\app\Models\Modulo;
 
 class ModulosSeeder extends Seeder
 {

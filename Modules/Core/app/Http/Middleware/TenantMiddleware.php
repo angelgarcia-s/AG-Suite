@@ -1,11 +1,11 @@
 <?php
 
-namespace Modules\Core\Http\Middleware;
+namespace Modules\Core\app\Http\Middleware;
 
 use Closure;
 use Illuminate\Http\Request;
 use Symfony\Component\HttpFoundation\Response;
-use Modules\Core\Models\Empresa;
+use Modules\Core\app\Models\Empresa;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\View;
 

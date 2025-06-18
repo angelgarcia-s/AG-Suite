@@ -4,10 +4,10 @@ namespace Modules\Core\Database\Seeders;
 
 use Illuminate\Database\Seeder;
 use App\Models\User;
-use Modules\Core\Models\Cliente;
-use Modules\Core\Models\Empresa;
-use Modules\Core\Models\Modulo;
-use Modules\Core\Models\Plan;
+use Modules\Core\app\Models\Cliente;
+use Modules\Core\app\Models\Empresa;
+use Modules\Core\app\Models\Modulo;
+use Modules\Core\app\Models\Plan;
 use Carbon\Carbon;
 
 class EmpresaSaaSSeeder extends Seeder
@@ -39,6 +39,37 @@ class EmpresaSaaSSeeder extends Seeder
         $this->command->info('💳 Creando planes de suscripción...');
 
         $planes = [
+            [
+                'nombre' => 'Matriz SaaS',
+                'slug' => 'matriz-saas',
+                'descripcion' => 'Plan especial para la empresa matriz del SaaS',
+                'precio_mensual' => 0,
+                'precio_anual' => 0,
+                'precio_usuario_adicional_mensual' => 0,
+                'precio_usuario_adicional_anual' => 0,
+                'precio_empresa_adicional_mensual' => 0,
+                'precio_empresa_adicional_anual' => 0,
+                'limite_empresas' => 999999, // Sin límite (valor muy alto en lugar de null)
+                'limite_usuarios' => 999999, // Sin límite (valor muy alto en lugar de null)
+                'permite_empresas_adicionales' => false,
+                'permite_usuarios_adicionales' => false,
+                'maximo_empresas_totales' => null, // Sin límite (estos sí son nulleables)
+                'maximo_usuarios_totales' => null, // Sin límite (estos sí son nulleables)
+                'limite_almacenamiento_gb' => 100, // Gran capacidad para la matriz
+                'soporte_prioritario' => true,
+                'backup_automatico' => true,
+                'api_acceso' => true,
+                'orden' => 0,
+                'activo' => true,
+                'destacado' => true,
+                'caracteristicas' => [
+                    'Acceso completo a todos los módulos',
+                    'Soporte prioritario 24/7',
+                    'Backup automático cada hora',
+                    'API completa para integraciones',
+                    'Sin límites de empresas o usuarios'
+                ]
+            ],
             [
                 'nombre' => 'Básico',
                 'slug' => 'basico',
@@ -140,38 +171,6 @@ class EmpresaSaaSSeeder extends Seeder
                     'Reportes avanzados'
                 ]
             ],
-            [
-                'nombre' => 'Matriz SaaS',
-                'slug' => 'matriz-saas',
-                'descripcion' => 'Plan especial para la empresa matriz del SaaS',
-                'precio_mensual' => 0,
-                'precio_anual' => 0,
-                'precio_usuario_adicional_mensual' => 0,
-                'precio_usuario_adicional_anual' => 0,
-                'precio_empresa_adicional_mensual' => 0,
-                'precio_empresa_adicional_anual' => 0,
-                'limite_empresas' => 999999,
-                'limite_usuarios' => 999999,
-                'permite_empresas_adicionales' => true,
-                'permite_usuarios_adicionales' => true,
-                'maximo_empresas_totales' => null,
-                'maximo_usuarios_totales' => null,
-                'limite_almacenamiento_gb' => 999999,
-                'soporte_prioritario' => true,
-                'backup_automatico' => true,
-                'api_acceso' => true,
-                'orden' => 0,
-                'activo' => true,
-                'destacado' => false,
-                'caracteristicas' => [
-                    'Acceso ilimitado a todos los módulos',
-                    'Usuarios ilimitados',
-                    'Empresas ilimitadas',
-                    'Almacenamiento ilimitado',
-                    'Acceso completo de administración',
-                    'Plan especial para empresa matriz'
-                ]
-            ]
         ];
 
         foreach ($planes as $planData) {

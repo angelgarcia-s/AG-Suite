@@ -4,10 +4,10 @@ namespace Modules\Core\Database\Seeders;
 
 use Illuminate\Database\Seeder;
 use App\Models\User;
-use Modules\Core\Models\Cliente;
-use Modules\Core\Models\Empresa;
-use Modules\Core\Models\Modulo;
-use Modules\Core\Models\Plan;
+use Modules\Core\app\Models\Cliente;
+use Modules\Core\app\Models\Empresa;
+use Modules\Core\app\Models\Modulo;
+use Modules\Core\app\Models\Plan;
 use Illuminate\Support\Facades\Hash;
 use Carbon\Carbon;
 

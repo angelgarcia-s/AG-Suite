@@ -1,9 +1,9 @@
 <?php
 
-namespace Modules\Core\Traits;
+namespace Modules\Core\app\Traits;
 
-use Modules\Core\Models\Empresa;
-use Modules\Core\Helpers\TenantHelper;
+use Modules\Core\app\Models\Empresa;
+use Modules\Core\app\Helpers\TenantHelper;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Scope;

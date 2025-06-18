@@ -5,7 +5,7 @@
     "keywords": ["core", "multitenant", "saas"],
     "priority": 0,
     "providers": [
-        "Modules\\Core\\Providers\\CoreServiceProvider"
+        "Modules\\Core\\app\\Providers\\CoreServiceProvider"
     ],
     "files": []
 }

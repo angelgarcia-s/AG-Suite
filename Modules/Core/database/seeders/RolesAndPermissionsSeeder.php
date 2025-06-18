@@ -6,7 +6,7 @@ use Illuminate\Database\Seeder;
 use Spatie\Permission\Models\Permission;
 use Spatie\Permission\Models\Role;
 use Illuminate\Support\Facades\Schema;
-use Modules\Core\Models\Modulo;
+use Modules\Core\app\Models\Modulo;
 
 class RolesAndPermissionsSeeder extends Seeder
 {

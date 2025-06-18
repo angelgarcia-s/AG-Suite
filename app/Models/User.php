@@ -9,7 +9,7 @@ use Illuminate\Notifications\Notifiable;
 use Laravel\Sanctum\HasApiTokens;
 use Spatie\Permission\Traits\HasRoles;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
-use Modules\Core\Models\Empresa;
+use Modules\Core\app\Models\Empresa;
 use Carbon\Carbon;
 
 class User extends Authenticatable

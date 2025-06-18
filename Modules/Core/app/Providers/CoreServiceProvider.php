@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Core\Providers;
+namespace Modules\Core\app\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -16,7 +16,7 @@ class CoreServiceProvider extends ServiceProvider
     {
         // Cargar migraciones del módulo
         $this->loadMigrationsFrom(module_path($this->moduleName, 'database/migrations'));
-        
+
         // Registrar configuraciones básicas del módulo
         $this->registerConfig();
     }
@@ -28,7 +28,7 @@ class CoreServiceProvider extends ServiceProvider
     {
         // Registro básico sin dependencias complejas
         $this->mergeConfigFrom(
-            module_path($this->moduleName, 'config/config.php'), 
+            module_path($this->moduleName, 'config/config.php'),
             $this->moduleNameLower
         );
     }
@@ -39,7 +39,7 @@ class CoreServiceProvider extends ServiceProvider
     protected function registerConfig(): void
     {
         $configPath = module_path($this->moduleName, 'config/config.php');
-        
+
         if (file_exists($configPath)) {
             $this->publishes([
                 $configPath => config_path($this->moduleNameLower.'.php')

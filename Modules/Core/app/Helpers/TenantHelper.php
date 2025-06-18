@@ -1,8 +1,8 @@
 <?php
 
-namespace Modules\Core\Helpers;
+namespace Modules\Core\app\Helpers;
 
-use Modules\Core\Models\Empresa;
+use Modules\Core\app\Models\Empresa;
 use Illuminate\Support\Facades\Auth;
 
 class TenantHelper
