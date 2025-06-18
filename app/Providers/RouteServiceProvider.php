@@ -35,6 +35,10 @@ class RouteServiceProvider extends ServiceProvider
 
             Route::middleware('web')
                 ->group(base_path('routes/web.php'));
+                
+            // Rutas del módulo Onboarding (registro de clientes)
+            Route::middleware('web')
+                ->group(base_path('Modules/Onboarding/routes/web.php'));
         });
     }
 }

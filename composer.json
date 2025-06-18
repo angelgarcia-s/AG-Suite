@@ -30,8 +30,18 @@
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/",
-            "Modules\\": "Modules/"
-        }
+            "Modules\\Core\\app\\": "Modules/Core/app/",
+            "Modules\\Core\\Models\\": "Modules/Core/app/Models/",
+            "Modules\\Core\\Helpers\\": "Modules/Core/app/Helpers/",
+            "Modules\\Core\\Http\\": "Modules/Core/app/Http/",
+            "Modules\\Core\\Traits\\": "Modules/Core/app/Traits/",
+            "Modules\\Core\\Providers\\": "Modules/Core/app/Providers/",
+            "Modules\\Core\\Database\\Seeders\\": "Modules/Core/database/seeders/",
+            "Modules\\Onboarding\\app\\": "Modules/Onboarding/app/"
+        },
+        "files": [
+            "app/helpers.php"
+        ]
     },
     "autoload-dev": {
         "psr-4": {

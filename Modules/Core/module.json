@@ -1,0 +1,11 @@
+{
+    "name": "Core",
+    "alias": "core",
+    "description": "Módulo Core - Sistema base multitenant",
+    "keywords": ["core", "multitenant", "saas"],
+    "priority": 0,
+    "providers": [
+        "Modules\\Core\\Providers\\CoreServiceProvider"
+    ],
+    "files": []
+}
