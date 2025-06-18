@@ -21,8 +21,8 @@
                                                       <img src="{{asset('build/assets/images/faces/15.jpg')}}" alt="">
                                                   </span>
                                                   <div>
-                                                      <p class="mb-0 font-semibold">Json Taylor - <span class="text-[0.6875rem] text-[#8c9097] dark:text-white/50 font-normal">Tue,25 Dec 2022 - 11:45</span></p>
-                                                      <p class="mb-0 text-[#8c9097] dark:text-white/50"></p>
+                                                      <p class="mb-0 font-semibold">Json Taylor - <span class="text-[0.6875rem] text-[#8c9097] font-normal">Tue,25 Dec 2022 - 11:45</span></p>
+                                                      <p class="mb-0 text-[#8c9097]"></p>
                                                   </div>
                                               </div>
                                               <div class="sm:mt-0 mt-2">
@@ -34,7 +34,7 @@
                                       <a href="javascript:void(0);">
                                           <img src="{{asset('build/assets/images/media/media-23.jpg')}}" class="card-img rounded-0 blog-details-img" alt="...">
                                       </a>
-                                      <div class="box-body border-b dark:border-defaultborder/10 border-dashed">
+                                      <div class="box-body border-b border-dashed">
                                           <div class="sm:flex block items-center justify-between">
                                               <div class="flex items-center">
                                                   <span class="badge bg-success/10 text-success me-4">
@@ -55,10 +55,10 @@
                                           <h6 class="font-semibold text-[1rem] mb-2">
                                               Seeing with “fresh eyes” – A deeper nature experience
                                           </h6>
-                                          <p class="mb-6 text-[#8c9097] dark:text-white/50">
+                                          <p class="mb-6 text-[#8c9097]">
                                               Around the time I first learned how to meditate, something amazing happened to me. It happened one day, quite spontaneously.  I was working as a lawyer at the time and I used to walk down a little lane way to the train station on my commute to work. It’s not an especially beautiful lane way
                                           </p>
-                                          <p class="mb-[3rem] text-[#8c9097] dark:text-white/50">
+                                          <p class="mb-[3rem] text-[#8c9097]">
                                               The world is animated by the wind. This invisible, mysterious force can bring a landscape alive. Its absence can cast a calm stillness over the earth. On barren mountain tops its power is barely perceptible; in forests and seas its presence becomes manifest. Winds are wild, and sometimes destructive. When we look deeply into the surely gravity’s law, strong as an ocean current, takes hold of even the strongest thing and pulls it toward the heart of the world. Each thing- each stone, blossom, child – is held in place. Only we, in our arrogance, push out beyond what we belong to for some empty freedom. If we surrendered
                                           </p>
                                           <div class="box !bg-light !mb-[3rem] shadow-none">
@@ -70,7 +70,7 @@
                                                   </blockquote>
                                               </div>
                                           </div>
-                                          <p class="mb-[3rem] text-[#8c9097] dark:text-white/50">
+                                          <p class="mb-[3rem] text-[#8c9097]">
                                               From enchanting nature's beauty quotes that evoke visions of lush meadows full of brilliantly-colored flowers or dense forests with sky-high trees to famous quotes about nature's ever-present—and absolutely fundamental—role in our lives, these 101 quotes about nature will have you itching to get off your couch and get outside. For famous <b>quotes about nature</b>, we have them here!
                                           </p>
                                           <p class="text-center">
@@ -87,20 +87,20 @@
                                       <div class="box-body">
                                           <div class="grid grid-cols-12 gap-4">
                                               <div class="xl:col-span-6  col-span-12">
-                                                  <label for="blog-first-name" class="form-label dark:!text-defaulttextcolor/70">First Name</label>
-                                                  <input type="text" class="form-control dark:bg-bodybg !rounded-sm block w-full" id="blog-first-name" placeholder="Enter Name">
+                                                  <label for="blog-first-name" class="form-label">First Name</label>
+                                                  <input type="text" class="form-control !rounded-sm block w-full" id="blog-first-name" placeholder="Enter Name">
                                               </div>
                                               <div class="xl:col-span-6 col-span-12">
-                                                  <label for="blog-last-name" class="form-label dark:!text-defaulttextcolor/70">Last Name</label>
-                                                  <input type="text" class="form-control dark:bg-bodybg !rounded-sm block w-full" id="blog-last-name" placeholder="Enter Name">
+                                                  <label for="blog-last-name" class="form-label">Last Name</label>
+                                                  <input type="text" class="form-control !rounded-sm block w-full" id="blog-last-name" placeholder="Enter Name">
                                               </div>
                                               <div class="xl:col-span-12 col-span-12">
-                                                  <label for="blog-email" class="form-label dark:!text-defaulttextcolor/70">Email ID</label>
-                                                  <input type="text" class="form-control dark:bg-bodybg !rounded-sm block w-full" id="blog-email" placeholder="Enter Email">
+                                                  <label for="blog-email" class="form-label">Email ID</label>
+                                                  <input type="text" class="form-control !rounded-sm block w-full" id="blog-email" placeholder="Enter Email">
                                               </div>
                                               <div class="xl:col-span-12 col-span-12">
-                                                  <label for="blog-comment" class="form-label dark:!text-defaulttextcolor/70 ">Write Comment</label>
-                                                  <textarea class="form-control dark:bg-bodybg !rounded-sm block w-full" id="blog-comment" rows="5"></textarea>
+                                                  <label for="blog-comment" class="form-label ">Write Comment</label>
+                                                  <textarea class="form-control !rounded-sm block w-full" id="blog-comment" rows="5"></textarea>
                                               </div>
                                           </div>
                                       </div>
@@ -117,9 +117,9 @@
                                           <span class="avatar avatar-rounded avatar-xxl !mb-4">
                                               <img src="{{asset('build/assets/images/faces/2.jpg')}}" alt="img">
                                           </span>
-                                          <p class="mb-1 text-[0.9375rem] font-semibold text-defaulttextcolor dark:text-defaulttextcolor/70 leading-none">Emiley Jackson</p>
-                                          <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-1"><span>emaileyjackson2134</span>@gmail.com</p>
-                                          <p class="text-[#8c9097] dark:text-white/50 mb-0 p-4 pb-0">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution </p>
+                                          <p class="mb-1 text-[0.9375rem] font-semibold text-defaulttextcolor leading-none">Emiley Jackson</p>
+                                          <p class="text-[0.75rem] text-[#8c9097] mb-1"><span>emaileyjackson2134</span>@gmail.com</p>
+                                          <p class="text-[#8c9097] mb-0 p-4 pb-0">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution </p>
                                       </div>
                                       <div class="box-footer border-t blockt border-dashed text-center">
                                           <div>
@@ -161,7 +161,7 @@
                                                           <p class="mb-1 popular-blog-content text-truncate">
                                                               There are many variations of passages of Lorem Ipsum available
                                                           </p>
-                                                          <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">24,Nov 2022 - 18:27</span>
+                                                          <span class="text-[#8c9097] text-[0.6875rem]">24,Nov 2022 - 18:27</span>
                                                       </div>
                                                       <div>
                                                           <button aria-label="button" type="button" class="ti-btn ti-btn-light ti-btn-sm rtl:rotate-180"><i class="ri-arrow-right-s-line"></i></button>
@@ -178,7 +178,7 @@
                                                           <p class="mb-1 popular-blog-content text-truncate">
                                                               Latin words, combined with a handful of model sentence
                                                           </p>
-                                                          <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">28,Nov 2022 - 10:45</span>
+                                                          <span class="text-[#8c9097] text-[0.6875rem]">28,Nov 2022 - 10:45</span>
                                                       </div>
                                                       <div>
                                                           <button aria-label="button" type="button" class="ti-btn ti-btn-light ti-btn-sm rtl:rotate-180"><i class="ri-arrow-right-s-line"></i></button>
@@ -195,7 +195,7 @@
                                                           <p class="mb-1 popular-blog-content text-truncate">
                                                               Contrary to popular belief, Lorem Ipsum is not simply random
                                                           </p>
-                                                          <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">30,Nov 2022 - 08:32</span>
+                                                          <span class="text-[#8c9097] text-[0.6875rem]">30,Nov 2022 - 08:32</span>
                                                       </div>
                                                       <div>
                                                           <button aria-label="button" type="button" class="ti-btn ti-btn-light ti-btn-sm rtl:rotate-180"><i class="ri-arrow-right-s-line"></i></button>
@@ -212,7 +212,7 @@
                                                           <p class="mb-1 popular-blog-content text-truncate">
                                                               It was popularised in the 1960s with the release of Letraset sheets containing
                                                           </p>
-                                                          <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">3,Dec 2022 - 12:56</span>
+                                                          <span class="text-[#8c9097] text-[0.6875rem]">3,Dec 2022 - 12:56</span>
                                                       </div>
                                                       <div>
                                                           <button aria-label="button" type="button" class="ti-btn ti-btn-light ti-btn-sm rtl:rotate-180"><i class="ri-arrow-right-s-line"></i></button>
@@ -235,7 +235,7 @@
                                           <div class="text-center">
                                               <h6 class="font-semibold mb-4 text-[1rem]"><span class="text-primary text-[1.125rem]">1658</span> Subscribers</h6>
                                               <div class="input-group mb-4">
-                                                  <input type="text" class="form-control dark:bg-bodybg !rounded-s-md" placeholder="Email Here" aria-label="blog-email" aria-describedby="blog-subscribe">
+                                                  <input type="text" class="form-control !rounded-s-md" placeholder="Email Here" aria-label="blog-email" aria-describedby="blog-subscribe">
                                                   <button class="ti-btn bg-primary text-white text-primary !rounded-s-none !mb-0" type="button" id="blog-subscribe">Subscribe</button>
                                               </div>
                                               <label class="form-check-label">
@@ -378,55 +378,55 @@
                                       <div class="box-body">
                                           <div class="blog-popular-tags">
                                               <a href="javascript:void(0);">
-                                                  <span class="badge bg-light text-[#8c9097] dark:text-white">#blogger</span>
+                                                  <span class="badge bg-light text-[#8c9097]">#blogger</span>
                                               </a>
                                               <a href="javascript:void(0);">
-                                                  <span class="badge bg-light text-[#8c9097] dark:text-white">#styleblogger</span>
+                                                  <span class="badge bg-light text-[#8c9097]">#styleblogger</span>
                                               </a>
                                               <a href="javascript:void(0);">
-                                                  <span class="badge bg-light text-[#8c9097] dark:text-white">#livecolorfully</span>
+                                                  <span class="badge bg-light text-[#8c9097]">#livecolorfully</span>
                                               </a>
                                               <a href="javascript:void(0);">
-                                                  <span class="badge bg-light text-[#8c9097] dark:text-white">#amwriting</span>
+                                                  <span class="badge bg-light text-[#8c9097]">#amwriting</span>
                                               </a>
                                               <a href="javascript:void(0);">
-                                                  <span class="badge bg-light text-[#8c9097] dark:text-white">#analytics</span>
+                                                  <span class="badge bg-light text-[#8c9097]">#analytics</span>
                                               </a>
                                               <a href="javascript:void(0);">
-                                                  <span class="badge bg-light text-[#8c9097] dark:text-white">#designblogger</span>
+                                                  <span class="badge bg-light text-[#8c9097]">#designblogger</span>
                                               </a>
                                               <a href="javascript:void(0);">
-                                                  <span class="badge bg-light text-[#8c9097] dark:text-white">#picoftheday</span>
+                                                  <span class="badge bg-light text-[#8c9097]">#picoftheday</span>
                                               </a>
                                               <a href="javascript:void(0);">
-                                                  <span class="badge bg-light text-[#8c9097] dark:text-white">#adventure</span>
+                                                  <span class="badge bg-light text-[#8c9097]">#adventure</span>
                                               </a>
                                               <a href="javascript:void(0);">
-                                                  <span class="badge bg-light text-[#8c9097] dark:text-white">#landscape</span>
+                                                  <span class="badge bg-light text-[#8c9097]">#landscape</span>
                                               </a>
                                               <a href="javascript:void(0);">
-                                                  <span class="badge bg-light text-[#8c9097] dark:text-white">#fitnessgoals</span>
+                                                  <span class="badge bg-light text-[#8c9097]">#fitnessgoals</span>
                                               </a>
                                               <a href="javascript:void(0);">
-                                                  <span class="badge bg-light text-[#8c9097] dark:text-white">#foodblogger</span>
+                                                  <span class="badge bg-light text-[#8c9097]">#foodblogger</span>
                                               </a>
                                               <a href="javascript:void(0);">
-                                                  <span class="badge bg-light text-[#8c9097] dark:text-white">#vegan</span>
+                                                  <span class="badge bg-light text-[#8c9097]">#vegan</span>
                                               </a>
                                               <a href="javascript:void(0);">
-                                                  <span class="badge bg-light text-[#8c9097] dark:text-white">#portrait</span>
+                                                  <span class="badge bg-light text-[#8c9097]">#portrait</span>
                                               </a>
                                               <a href="javascript:void(0);">
-                                                  <span class="badge bg-light text-[#8c9097] dark:text-white">#canonphotography</span>
+                                                  <span class="badge bg-light text-[#8c9097]">#canonphotography</span>
                                               </a>
                                               <a href="javascript:void(0);">
-                                                  <span class="badge bg-light text-[#8c9097] dark:text-white">#fineart</span>
+                                                  <span class="badge bg-light text-[#8c9097]">#fineart</span>
                                               </a>
                                               <a href="javascript:void(0);">
-                                                  <span class="badge bg-light text-[#8c9097] dark:text-white">#trending</span>
+                                                  <span class="badge bg-light text-[#8c9097]">#trending</span>
                                               </a>
                                               <a href="javascript:void(0);">
-                                                  <span class="badge bg-light text-[#8c9097] dark:text-white">#lifestyle</span>
+                                                  <span class="badge bg-light text-[#8c9097]">#lifestyle</span>
                                               </a>
                                           </div>
                                       </div>

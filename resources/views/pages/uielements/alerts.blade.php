@@ -12,16 +12,16 @@
                     <!-- Page Header -->
                     <div class="block justify-between page-header md:flex">
                         <div>
-                            <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold">Alerts</h3>
+                            <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold">Alerts</h3>
                         </div>
                         <ol class="flex items-center whitespace-nowrap min-w-0">
                             <li class="text-[0.813rem] ps-[0.5rem]">
-                            <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                            <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                             Ui Elements
-                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                             </a>
                             </li>
-                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                             Alerts
                             </li>
                         </ol>
@@ -105,7 +105,7 @@
                                 </div>
                             </div>
                             <div class="box-body">
-                                <div class="bg-gray-50 border border-gray-200 dark:bg-light dark:border-defaultborder/10 alert mb-0"
+                                <div class="bg-gray-50 border border-gray-200 alert mb-0"
                                     role="alert">
                                     <div class="flex">
                                         <div class="sm:flex-shrink-0">
@@ -116,7 +116,7 @@
                                             </svg>
                                         </div>
                                         <div class="flex-1 md:flex md:justify-between ms-2">
-                                            <p class="text-sm dark:text-defaulttextcolor/70">
+                                            <p class="text-sm">
                                                 A new software update is available. See what's new in version 3.0.7
                                             </p>
                                             <p class="text-sm mt-3 md:mt-0 md:ms-6">
@@ -131,7 +131,7 @@
                                 <!-- Prism Code -->
 <pre class="language-html"><code class="language-html">
    
-&lt;div class="bg-gray-50 border border-gray-200 dark:bg-light dark:border-defaultborder/10 alert mb-0"
+&lt;div class="bg-gray-50 border border-gray-200 alert mb-0"
 role="alert"&gt;
 &lt;div class="flex"&gt;
     &lt;div class="sm:flex-shrink-0"&gt;
@@ -142,7 +142,7 @@ role="alert"&gt;
         &lt;/svg&gt;
     &lt;/div&gt;
     &lt;div class="flex-1 md:flex md:justify-between ms-2"&gt;
-        &lt;p class="text-sm dark:text-defaulttextcolor/70"&gt;
+        &lt;p class="text-sm"&gt;
             A new software update is available. See what's new in version 3.0.7
         &lt;/p&gt;
         &lt;p class="text-sm mt-3 md:mt-0 md:ms-6"&gt;
@@ -272,7 +272,7 @@ role="alert"&gt;
                                 </div>
                                 <div class="alert alert-dark" role="alert">
                                     A simple dark alert with <a href="javascript:void(0);"
-                                        class="alert-link dark:text-defaulttextcolor/70">an example link</a>.
+                                        class="alert-link">an example link</a>.
                                     Give it a click if you like.
                                 </div>
                             </div>
@@ -313,7 +313,7 @@ role="alert"&gt;
                                 &lt;/div&gt;
                                 &lt;div class="alert alert-dark" role="alert"&gt;
                                     A simple dark alert with &lt;a href="javascript:void(0);"
-                                        class="alert-link dark:text-defaulttextcolor/70"&gt;an example link&lt;/a&gt;.
+                                        class="alert-link"&gt;an example link&lt;/a&gt;.
                                     Give it a click if you like.
                                 &lt;/div&gt;</code></pre>
                                 <!-- Prism Code -->
@@ -2215,7 +2215,7 @@ role="alert"&gt;
                                 </div>
                             </div>
                             <div class="box-body">
-                                <div class="alert alert-primary alert-dismissible dark:!bg-bodybg fade show custom-alert-icon shadow-sm flex items-center"
+                                <div class="alert alert-primary alert-dismissible fade show custom-alert-icon shadow-sm flex items-center"
                                     role="alert" id="dismiss-alert40">
                                     <div>
                                         <svg class="svg-primary me-1" xmlns="http://www.w3.org/2000/svg" height="1.5rem"
@@ -2326,7 +2326,7 @@ role="alert"&gt;
                             <div class="box-footer hidden border-t-0">
                                 <!-- Prism Code -->
                                 <pre class="language-html"><code class="language-html">
-                                    &lt;div class="alert alert-primary alert-dismissible dark:!bg-bodybg fade show custom-alert-icon shadow-sm flex items-center"
+                                    &lt;div class="alert alert-primary alert-dismissible fade show custom-alert-icon shadow-sm flex items-center"
                                     role="alert" id="dismiss-alert40"&gt;
                                     &lt;div&gt;
                                         &lt;svg class="svg-primary me-1" xmlns="http://www.w3.org/2000/svg" height="1.5rem"
@@ -2948,8 +2948,8 @@ role="alert"&gt;
                     <div class="xl:col-span-12 col-span-12">
                         <div class="grid grid-cols-12 gap-6">
                             <div class="xxl:col-span-3 xl:col-span-6 lg:col-span-6 md:col-span-6 sm:col-span-6 col-span-12">
-                                <div class="box !bg-white dark:!bg-bodybg !border-0">
-                                    <div class="alert custom-alert1 alert-primary !bg-white dark:!bg-bodybg" id="dismiss-alert69">
+                                <div class="box !bg-white !border-0">
+                                    <div class="alert custom-alert1 alert-primary !bg-white" id="dismiss-alert69">
                                         <button type="button" class="btn-close ms-auto"
                                             data-hs-remove-element="#dismiss-alert69" aria-label="Close"><i
                                                 class="bi bi-x"></i></button>
@@ -3176,7 +3176,7 @@ role="alert"&gt;
                                                     warning message</div>
                                                 <div class="text-[0.75rem]">
                                                     <a href="javascript:void(0);"
-                                                        class="text-black dark:text-white font-semibold me-2 inline-block">cancel</a>
+                                                        class="text-black font-semibold me-2 inline-block">cancel</a>
                                                     <a href="javascript:void(0);"
                                                         class="text-warning font-semibold">open</a>
                                                 </div>

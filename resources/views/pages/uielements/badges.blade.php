@@ -12,16 +12,16 @@
                 <!-- Page Header -->
                 <div class="block justify-between page-header md:flex">
                     <div>
-                        <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Badges</h3>
+                        <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Badges</h3>
                     </div>
                     <ol class="flex items-center whitespace-nowrap min-w-0">
                         <li class="text-[0.813rem] ps-[0.5rem]">
-                          <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                          <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                            Ui Elements
-                            <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                            <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                           </a>
                         </li>
-                        <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                        <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                             Badges
                         </li>
                     </ol>
@@ -123,8 +123,8 @@
                                 <span class="badge bg-danger/10 text-danger">Danger</span>
                                 <span class="badge bg-warning/10 text-warning">Warning</span>
                                 <span class="badge bg-info/10 text-info">Info</span>
-                                <span class="badge bg-light/10 text-black dark:text-defaulttextcolor/70">Light</span>
-                                <span class="badge bg-black/10 text-black dark:text-defaulttextcolor/70">Dark</span>
+                                <span class="badge bg-light/10 text-black">Light</span>
+                                <span class="badge bg-black/10 text-black">Dark</span>
                             </div>
                             <div class="box-footer hidden border-t-0">
                                 <!-- Prism Code -->
@@ -134,8 +134,8 @@
                                     &lt;span class="badge bg-danger/10 text-danger"&gt;Danger&lt;/span&gt;
                                     &lt;span class="badge bg-warning/10 text-warning"&gt;Warning&lt;/span&gt;
                                     &lt;span class="badge bg-info/10 text-info"&gt;Info&lt;/span&gt;
-                                    &lt;span class="badge bg-light/10 text-black dark:text-defaulttextcolor/70"&gt;Light&lt;/span&gt;
-                                    &lt;span class="badge bg-black/10 text-black dark:text-defaulttextcolor/70"&gt;Dark&lt;/span&gt;</code></pre>
+                                    &lt;span class="badge bg-light/10 text-black"&gt;Light&lt;/span&gt;
+                                    &lt;span class="badge bg-black/10 text-black"&gt;Dark&lt;/span&gt;</code></pre>
                                 <!-- Prism Code -->
                             </div>
                         </div>
@@ -275,8 +275,8 @@
                                 <span class="badge bg-outline-danger">Danger</span>
                                 <span class="badge bg-outline-warning">Warning</span>
                                 <span class="badge bg-outline-info">Info</span>
-                                <span class="badge bg-outline-light !text-black dark:!text-defaulttextcolor/70">Light</span>
-                                <span class="badge bg-outline-dark dark:!text-defaulttextcolor/70">Dark</span>
+                                <span class="badge bg-outline-light !text-black">Light</span>
+                                <span class="badge bg-outline-dark">Dark</span>
                             </div>
                             <div class="box-footer hidden border-t-0">
                                 <!-- Prism Code -->
@@ -287,8 +287,8 @@
                                     &lt;span class="badge bg-outline-danger"&gt;Danger&lt;/span&gt;
                                     &lt;span class="badge bg-outline-warning"&gt;Warning&lt;/span&gt;
                                     &lt;span class="badge bg-outline-info"&gt;Info&lt;/span&gt;
-                                    &lt;span class="badge bg-outline-light !text-black dark:!text-defaulttextcolor/70"&gt;Light&lt;/span&gt;
-                                    &lt;span class="badge bg-outline-dark dark:!text-defaulttextcolor/70"&gt;Dark&lt;/span&gt;</code></pre>
+                                    &lt;span class="badge bg-outline-light !text-black"&gt;Light&lt;/span&gt;
+                                    &lt;span class="badge bg-outline-dark"&gt;Dark&lt;/span&gt;</code></pre>
                                 <!-- Prism Code -->
                             </div>
                         </div>
@@ -311,8 +311,8 @@
                                 <span class="badge !rounded-full bg-outline-danger">Danger</span>
                                 <span class="badge !rounded-full bg-outline-warning">Warning</span>
                                 <span class="badge !rounded-full bg-outline-info">Info</span>
-                                <span class="badge !rounded-full bg-outline-light !text-black dark:!text-defaulttextcolor/70">Light</span>
-                                <span class="badge !rounded-full bg-outline-dark  dark:!text-defaulttextcolor/70">Dark</span>
+                                <span class="badge !rounded-full bg-outline-light !text-black">Light</span>
+                                <span class="badge !rounded-full bg-outline-dark ">Dark</span>
                             </div>
                             <div class="box-footer hidden border-t-0">
                                 <!-- Prism Code -->
@@ -323,8 +323,8 @@
                                     &lt;span class="badge !rounded-full bg-outline-danger"&gt;Danger&lt;/span&gt;
                                     &lt;span class="badge !rounded-full bg-outline-warning"&gt;Warning&lt;/span&gt;
                                     &lt;span class="badge !rounded-full bg-outline-info"&gt;Info&lt;/span&gt;
-                                    &lt;span class="badge !rounded-full bg-outline-light !text-black dark:!text-defaulttextcolor/70"&gt;Light&lt;/span&gt;
-                                    &lt;span class="badge !rounded-full bg-outline-dark  dark:!text-defaulttextcolor/70"&gt;Dark&lt;/span&gt;</code></pre>
+                                    &lt;span class="badge !rounded-full bg-outline-light !text-black"&gt;Light&lt;/span&gt;
+                                    &lt;span class="badge !rounded-full bg-outline-dark "&gt;Dark&lt;/span&gt;</code></pre>
                                 <!-- Prism Code -->
                             </div>
                         </div>
@@ -564,12 +564,12 @@
                                             </div>
                                             <div>
                                                 <span class="relative">
-                                                    <svg class="fill-textmuted dark:fill-textmuted/50 w-8 h-8 text-[2rem]" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M12 22c1.1 0 2-.9 2-2h-4c0 1.1.89 2 2 2zm6-6v-5c0-3.07-1.64-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2z"></path></svg>
+                                                    <svg class="fill-textmuted w-8 h-8 text-[2rem]" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M12 22c1.1 0 2-.9 2-2h-4c0 1.1.89 2 2 2zm6-6v-5c0-3.07-1.64-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2z"></path></svg>
                                                     <span class="badge !rounded-full bg-success text-white absolute -end-2 top-0">14</span>
                                                 </span>
                                             </div>
                                             <div>
-                                                <span class="badge border dark:border-light bg-light text-defaulttextcolor font-semibold font-[.7rem]"><i class="fe fe-eye me-2 inline-block"></i>13.2k</span>
+                                                <span class="badge border bg-light text-defaulttextcolor font-semibold font-[.7rem]"><i class="fe fe-eye me-2 inline-block"></i>13.2k</span>
                                             </div>
                                             <div>
                                                 <span class="text-badge relative">
@@ -590,7 +590,7 @@
                                             &lt;/div&gt;
                                             &lt;div&gt;
                                                 &lt;span class="relative"&gt;
-                                                    &lt;svg class="fill-textmuted dark:fill-textmuted/50 w-8 h-8 text-[2rem]" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"&gt;&lt;path d="M12 22c1.1 0 2-.9 2-2h-4c0 1.1.89 2 2 2zm6-6v-5c0-3.07-1.64-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2z"&gt;&lt;/path&gt;&lt;/svg&gt;
+                                                    &lt;svg class="fill-textmuted w-8 h-8 text-[2rem]" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"&gt;&lt;path d="M12 22c1.1 0 2-.9 2-2h-4c0 1.1.89 2 2 2zm6-6v-5c0-3.07-1.64-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2z"&gt;&lt;/path&gt;&lt;/svg&gt;
                                                     &lt;span class="badge !rounded-full bg-success text-white absolute -end-2 top-0"&gt;14&lt;/span&gt;
                                                 &lt;/span&gt;
                                             &lt;/div&gt;

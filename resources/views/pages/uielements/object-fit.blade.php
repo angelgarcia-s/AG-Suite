@@ -12,16 +12,16 @@
                         <!-- Page Header -->
                         <div class="block justify-between page-header md:flex">
                             <div>
-                                <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Object Fit</h3>
+                                <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Object Fit</h3>
                             </div>
                             <ol class="flex items-center whitespace-nowrap min-w-0">
                                 <li class="text-[0.813rem] ps-[0.5rem]">
-                                  <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                  <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                   Ui Elements
-                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                   </a>
                                 </li>
-                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                     Object Fit
                                 </li>
                             </ol>
@@ -41,14 +41,14 @@
                                     </div>
                                     <div class="box-body object-fit-container">
                                         <img src="{{asset('build/assets/images/media/media-28.jpg')}}"
-                                            class="object-contain border dark:border-defaultborder/10 !rounded-md"
+                                            class="object-contain border !rounded-md"
                                             alt="...">
                                     </div>
                                     <div class="box-footer hidden border-t-0">
                                         <!-- Prism Code -->
                                         <pre
                                             class="language-html"><code class="language-html">
-                                                &lt;img src="{{asset('build/assets/images/media/media-28.jpg')}}" class="object-contain border dark:border-defaultborder/10 !rounded-md" alt="..."&gt;
+                                                &lt;img src="{{asset('build/assets/images/media/media-28.jpg')}}" class="object-contain border !rounded-md" alt="..."&gt;
                                             </code></pre>
                                         <!-- Prism Code -->
                                     </div>
@@ -65,13 +65,13 @@
                                     </div>
                                     <div class="box-body object-fit-container">
                                         <img src="{{asset('build/assets/images/media/media-28.jpg')}}"
-                                            class="object-cover border dark:border-defaultborder/10 md:!rounded-md" alt="...">
+                                            class="object-cover border md:!rounded-md" alt="...">
                                     </div>
                                     <div class="box-footer hidden border-t-0">
                                         <!-- Prism Code -->
                                         <pre
                                             class="language-html"><code class="language-html">&lt;img src="{{asset('build/assets/images/media/media-28.jpg')}}"
-                                                class="object-cover border dark:border-defaultborder/10 md:!rounded-md" alt="..."&gt;</code></pre>
+                                                class="object-cover border md:!rounded-md" alt="..."&gt;</code></pre>
                                         <!-- Prism Code -->
                                     </div>
                                 </div>
@@ -87,14 +87,14 @@
                                     </div>
                                     <div class="box-body object-fit-container">
                                         <img src="{{asset('build/assets/images/media/media-28.jpg')}}"
-                                            class="object-fill border dark:border-defaultborder/10 !rounded-md" alt="...">
+                                            class="object-fill border !rounded-md" alt="...">
                                     </div>
                                     <div class="box-footer hidden border-t-0">
                                         <!-- Prism Code -->
                                         <pre
                                             class="language-html"><code class="language-html">
                                                 &lt;img src="{{asset('build/assets/images/media/media-28.jpg')}}"
-                                                class="object-fill border dark:border-defaultborder/10 !rounded-md" alt="..."&gt;</code></pre>
+                                                class="object-fill border !rounded-md" alt="..."&gt;</code></pre>
                                         <!-- Prism Code -->
                                     </div>
                                 </div>
@@ -110,14 +110,14 @@
                                     </div>
                                     <div class="box-body object-fit-container">
                                         <img src="{{asset('build/assets/images/media/media-28.jpg')}}"
-                                            class="object-scale-down border dark:border-defaultborder/10 !rounded-md" alt="...">
+                                            class="object-scale-down border !rounded-md" alt="...">
                                     </div>
                                     <div class="box-footer hidden border-t-0">
                                         <!-- Prism Code -->
                                         <pre
                                             class="language-html"><code class="language-html">
                                                 &lt;img src="{{asset('build/assets/images/media/media-28.jpg')}}"
-                                                class="object-scale-down border dark:border-defaultborder/10 !rounded-md" alt="..."&gt;</code></pre>
+                                                class="object-scale-down border !rounded-md" alt="..."&gt;</code></pre>
                                         <!-- Prism Code -->
                                     </div>
                                 </div>
@@ -133,14 +133,14 @@
                                     </div>
                                     <div class="box-body object-fit-container">
                                         <img src="{{asset('build/assets/images/media/media-28.jpg')}}"
-                                            class="object-none border dark:border-defaultborder/10 !rounded-md" alt="...">
+                                            class="object-none border !rounded-md" alt="...">
                                     </div>
                                     <div class="box-footer hidden border-t-0">
                                         <!-- Prism Code -->
                                         <pre
                                             class="language-html"><code class="language-html">
                                                 &lt;img src="{{asset('build/assets/images/media/media-28.jpg')}}"
-                                                class="object-none border dark:border-defaultborder/10 !rounded-md" alt="..."&gt;</code></pre>
+                                                class="object-none border !rounded-md" alt="..."&gt;</code></pre>
                                         <!-- Prism Code -->
                                     </div>
                                 </div>
@@ -156,14 +156,14 @@
                                     </div>
                                     <div class="box-body object-fit-container">
                                         <img src="{{asset('build/assets/images/media/media-28.jpg')}}"
-                                            class="sm:object-contain border dark:border-defaultborder/10 !rounded-md" alt="...">
+                                            class="sm:object-contain border !rounded-md" alt="...">
                                     </div>
                                     <div class="box-footer hidden border-t-0">
                                         <!-- Prism Code -->
                                         <pre
                                             class="language-html"><code class="language-html">
                                                 &lt;img src="{{asset('build/assets/images/media/media-28.jpg')}}"
-                                                class="sm:object-contain border dark:border-defaultborder/10 !rounded-md" alt="..."&gt;</code></pre>
+                                                class="sm:object-contain border !rounded-md" alt="..."&gt;</code></pre>
                                         <!-- Prism Code -->
                                     </div>
                                 </div>
@@ -179,14 +179,14 @@
                                     </div>
                                     <div class="box-body object-fit-container">
                                         <img src="{{asset('build/assets/images/media/media-28.jpg')}}"
-                                            class="md:object-contain border dark:border-defaultborder/10 !rounded-md" alt="...">
+                                            class="md:object-contain border !rounded-md" alt="...">
                                     </div>
                                     <div class="box-footer hidden border-t-0">
                                         <!-- Prism Code -->
                                         <pre
                                             class="language-html"><code class="language-html">
                                                 &lt;img src="{{asset('build/assets/images/media/media-28.jpg')}}"
-                                                class="md:object-contain border dark:border-defaultborder/10 !rounded-md" alt="..."&gt;</code></pre>
+                                                class="md:object-contain border !rounded-md" alt="..."&gt;</code></pre>
                                         <!-- Prism Code -->
                                     </div>
                                 </div>
@@ -202,14 +202,14 @@
                                     </div>
                                     <div class="box-body object-fit-container">
                                         <img src="{{asset('build/assets/images/media/media-28.jpg')}}"
-                                            class="lg:object-contain border dark:border-defaultborder/10 !rounded-md" alt="...">
+                                            class="lg:object-contain border !rounded-md" alt="...">
                                     </div>
                                     <div class="box-footer hidden border-t-0">
                                         <!-- Prism Code -->
                                         <pre
                                             class="language-html"><code class="language-html">
                                                 &lt;img src="{{asset('build/assets/images/media/media-28.jpg')}}"
-                                                class="lg:object-contain border dark:border-defaultborder/10 !rounded-md" alt="..."&gt;</code></pre>
+                                                class="lg:object-contain border !rounded-md" alt="..."&gt;</code></pre>
                                         <!-- Prism Code -->
                                     </div>
                                 </div>
@@ -225,14 +225,14 @@
                                     </div>
                                     <div class="box-body object-fit-container">
                                         <img src="{{asset('build/assets/images/media/media-28.jpg')}}"
-                                            class="xl:object-contain border dark:border-defaultborder/10 !rounded-md" alt="...">
+                                            class="xl:object-contain border !rounded-md" alt="...">
                                     </div>
                                     <div class="box-footer hidden border-t-0">
                                         <!-- Prism Code -->
                                         <pre
                                             class="language-html"><code class="language-html">
                                                 &lt;img src="{{asset('build/assets/images/media/media-28.jpg')}}"
-                                                class="xl:object-contain border dark:border-defaultborder/10 !rounded-md" alt="..."&gt;</code></pre>
+                                                class="xl:object-contain border !rounded-md" alt="..."&gt;</code></pre>
                                         <!-- Prism Code -->
                                     </div>
                                 </div>
@@ -248,7 +248,7 @@
                                     </div>
                                     <div class="box-body object-fit-container">
                                         <img src="{{asset('build/assets/images/media/media-28.jpg')}}"
-                                            class="xxl:object-contain border dark:border-defaultborder/10 !rounded-md"
+                                            class="xxl:object-contain border !rounded-md"
                                             alt="...">
                                     </div>
                                     <div class="box-footer hidden border-t-0">
@@ -256,7 +256,7 @@
                                         <pre
                                             class="language-html"><code class="language-html">
                                                 &lt;img src="{{asset('build/assets/images/media/media-28.jpg')}}"
-                                                class="xxl:object-contain border dark:border-defaultborder/10 !rounded-md"
+                                                class="xxl:object-contain border !rounded-md"
                                                 alt="..."&gt;</code></pre>
                                         <!-- Prism Code -->
                                     </div>
@@ -275,7 +275,7 @@
                                     </div>
                                     <div class="box-body object-fit-container">
                                         <video src="{{asset('build/assets/video/1.mp4')}}"
-                                            class="object-contain !rounded-md border dark:border-defaultborder/10"
+                                            class="object-contain !rounded-md border"
                                             autoplay loop muted></video>
                                     </div>
                                     <div class="box-footer hidden border-t-0">
@@ -283,7 +283,7 @@
                                         <pre
                                             class="language-html"><code class="language-html">
                                                 &lt;video src="{{asset('build/assets/video/1.mp4')}}"
-                                                class="object-contain !rounded-md border dark:border-defaultborder/10"
+                                                class="object-contain !rounded-md border"
                                                 autoplay loop muted&gt;&lt;/video&gt;</code></pre>
                                         <!-- Prism Code -->
                                     </div>
@@ -302,7 +302,7 @@
                                     </div>
                                     <div class="box-body object-fit-container">
                                         <video src="{{asset('build/assets/video/1.mp4')}}"
-                                            class="object-cover !rounded-md border dark:border-defaultborder/10"
+                                            class="object-cover !rounded-md border"
                                             autoplay loop muted></video>
                                     </div>
                                     <div class="box-footer hidden border-t-0">
@@ -310,7 +310,7 @@
                                         <pre
                                             class="language-html"><code class="language-html">
                                                 &lt;video src="{{asset('build/assets/video/1.mp4')}}"
-                                                class="object-cover !rounded-md border dark:border-defaultborder/10"
+                                                class="object-cover !rounded-md border"
                                                 autoplay loop muted&gt;&lt;/video&gt;
                                             </code></pre>
                                         <!-- Prism Code -->
@@ -330,7 +330,7 @@
                                     </div>
                                     <div class="box-body object-fit-container">
                                         <video src="{{asset('build/assets/video/1.mp4')}}"
-                                            class="object-fill !rounded-md border dark:border-defaultborder/10"
+                                            class="object-fill !rounded-md border"
                                             autoplay loop muted></video>
                                     </div>
                                     <div class="box-footer hidden border-t-0">
@@ -338,7 +338,7 @@
                                         <pre
                                             class="language-html"><code class="language-html">
                                                 &lt;video src="{{asset('build/assets/video/1.mp4')}}"
-                                                class="object-fill !rounded-md border dark:border-defaultborder/10"
+                                                class="object-fill !rounded-md border"
                                                 autoplay loop muted&gt;&lt;/video&gt;</code></pre>
                                         <!-- Prism Code -->
                                     </div>
@@ -357,7 +357,7 @@
                                     </div>
                                     <div class="box-body object-fit-container">
                                         <video src="{{asset('build/assets/video/1.mp4')}}"
-                                            class="object-scale-down !rounded-md border dark:border-defaultborder/10"
+                                            class="object-scale-down !rounded-md border"
                                             autoplay loop muted></video>
                                     </div>
                                     <div class="box-footer hidden border-t-0">
@@ -365,7 +365,7 @@
                                         <pre
                                             class="language-html"><code class="language-html">
                                                 &lt;video src="{{asset('build/assets/video/1.mp4')}}"
-                                                class="object-scale-down !rounded-md border dark:border-defaultborder/10"
+                                                class="object-scale-down !rounded-md border"
                                                 autoplay loop muted&gt;&lt;/video&gt;
                                             </code></pre>
                                         <!-- Prism Code -->
@@ -385,7 +385,7 @@
                                     </div>
                                     <div class="box-body object-fit-container">
                                         <video src="{{asset('build/assets/video/1.mp4')}}"
-                                            class="object-none !rounded-md border dark:border-defaultborder/10"
+                                            class="object-none !rounded-md border"
                                             autoplay loop muted></video>
                                     </div>
                                     <div class="box-footer hidden border-t-0">
@@ -393,7 +393,7 @@
                                         <pre
                                             class="language-html"><code class="language-html">
                                                 &lt;video src="{{asset('build/assets/video/1.mp4')}}"
-                                                class="object-none !rounded-md border dark:border-defaultborder/10"
+                                                class="object-none !rounded-md border"
                                                 autoplay loop muted&gt;&lt;/video&gt;
                                             </code></pre>
                                         <!-- Prism Code -->

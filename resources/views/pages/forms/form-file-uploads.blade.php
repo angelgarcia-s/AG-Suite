@@ -18,16 +18,16 @@
                         <!-- Page Header -->
                         <div class="block justify-between page-header md:flex">
                             <div>
-                                <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> File Uploads</h3>
+                                <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> File Uploads</h3>
                             </div>
                             <ol class="flex items-center whitespace-nowrap min-w-0">
                                 <li class="text-[0.813rem] ps-[0.5rem]">
-                                  <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                  <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                     Form Elements
-                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                   </a>
                                 </li>
-                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                     File Uploads
                                 </li>
                             </ol>
@@ -44,11 +44,11 @@
                                     <div class="box-body">
                                         <div>
                                             <label for="file-input" class="sr-only">Choose file</label>
-                                            <input type="file" name="file-input" id="file-input" class="block w-full border border-gray-200 focus:shadow-sm dark:focus:shadow-white/10 rounded-sm text-sm focus:z-10 focus:outline-0 focus:border-gray-200 dark:focus:border-white/10 dark:border-white/10 dark:text-white/50
+                                            <input type="file" name="file-input" id="file-input" class="block w-full border border-gray-200 focus:shadow-sm rounded-sm text-sm focus:z-10 focus:outline-0 focus:border-gray-200
                                               file:border-0
                                               file:bg-light file:me-4
                                               file:py-3 file:px-4
-                                              dark:file:bg-black/20 dark:file:text-white/50">
+                                             ">
                                         </div>
                                     </div>
                                 </div>
@@ -62,7 +62,7 @@
                                         <div>
                                             <label class="block">
                                                 <span class="sr-only">Choose Profile photo</span>
-                                                <input type="file" class="block w-full border border-gray-200 focus:shadow-sm dark:focus:shadow-white/10 rounded-sm text-sm focus:z-10 focus:outline-0 focus:border-gray-200 dark:focus:border-white/10 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50
+                                                <input type="file" class="block w-full border border-gray-200 focus:shadow-sm rounded-sm text-sm focus:z-10 focus:outline-0 focus:border-gray-200
                                                 file:me-4 file:py-2 file:px-4
                                                 file:rounded-s-sm file:border-0
                                                 file:text-sm file:font-semibold
@@ -87,29 +87,29 @@
                                     <div class="box-body space-y-3">
                                         <div>
                                             <label for="small-file-input" class="sr-only">Choose file</label>
-                                            <input type="file" name="small-file-input" id="small-file-input" class="block w-full border border-gray-200 focus:shadow-sm dark:focus:shadow-white/10 rounded-sm text-sm focus:z-10 focus:outline-0 focus:border-gray-200 dark:focus:border-white/10 dark:border-white/10 dark:text-white/50
+                                            <input type="file" name="small-file-input" id="small-file-input" class="block w-full border border-gray-200 focus:shadow-sm rounded-sm text-sm focus:z-10 focus:outline-0 focus:border-gray-200
                                               file:border-0
                                               file:bg-light file:me-4
                                               file:py-2 file:px-4
-                                              dark:file:bg-black/20 dark:file:text-white/50">
+                                             ">
                                         </div>
 
                                         <div>
                                             <label for="file-input-medium" class="sr-only">Choose file</label>
-                                            <input type="file" name="file-input-medium" id="file-input-medium" class="block w-full border border-gray-200 focus:shadow-sm dark:focus:shadow-white/10 rounded-sm text-sm focus:z-10 focus:outline-0 focus:border-gray-200 dark:focus:border-white/10 dark:border-white/10 dark:text-white/50
+                                            <input type="file" name="file-input-medium" id="file-input-medium" class="block w-full border border-gray-200 focus:shadow-sm rounded-sm text-sm focus:z-10 focus:outline-0 focus:border-gray-200
                                               file:border-0
                                               file:bg-light file:me-4
                                               file:py-3 file:px-4
-                                              dark:file:bg-black/20 dark:file:text-white/50">
+                                             ">
                                         </div>
 
                                         <div>
                                             <label for="large-file-input" class="sr-only">Choose file</label>
-                                            <input type="file" name="large-file-input" id="large-file-input" class="block w-full border border-gray-200 focus:shadow-sm dark:focus:shadow-white/10 rounded-sm text-sm focus:z-10 focus:outline-0 focus:border-gray-200 dark:focus:border-white/10 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50
+                                            <input type="file" name="large-file-input" id="large-file-input" class="block w-full border border-gray-200 focus:shadow-sm rounded-sm text-sm focus:z-10 focus:outline-0 focus:border-gray-200
                                               file:border-0
                                               file:bg-light file:me-4
                                               file:py-3 file:px-4 file:sm:py-5
-                                              dark:file:bg-black/20 dark:file:text-white/50">
+                                             ">
                                         </div>
                                     </div>
                                 </div>

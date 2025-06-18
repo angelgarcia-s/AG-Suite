@@ -10,16 +10,16 @@
                         <!-- Page Header -->
                         <div class="block justify-between page-header md:flex">
                             <div>
-                                <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Live Auction</h3>
+                                <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Live Auction</h3>
                             </div>
                             <ol class="flex items-center whitespace-nowrap min-w-0">
                                 <li class="text-[0.813rem] ps-[0.5rem]">
-                                  <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                  <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                     NFT
-                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                   </a>
                                 </li>
-                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                     Live Auction
                                 </li>
                             </ol>
@@ -90,15 +90,15 @@
                                                         </div>
                                                         <div class="flex-grow">
                                                             <span class="mb-0 block text-[.875rem] font-semibold">BitMaster</span>
-                                                            <span class="text-[.8125rem] text-[#8c9097] dark:text-white/50">@bit_master<i class="bi bi-patch-check-fill text-success ms-1 text-[.9375rem]"></i></span>
+                                                            <span class="text-[.8125rem] text-[#8c9097]">@bit_master<i class="bi bi-patch-check-fill text-success ms-1 text-[.9375rem]"></i></span>
                                                         </div>
                                                     </div>
-                                                    <span class="text-[.8125rem] text-[#8c9097] dark:text-white/50">1.2K Likes</span>
+                                                    <span class="text-[.8125rem] text-[#8c9097]">1.2K Likes</span>
                                                 </div>
                                                 <div class="text-[.9375rem] font-semibold mb-2"><a href="javascript:void(0);">Chromatic Chaos</a></div>
                                                 <div class="flex items-end flex-wrap gap-2">
                                                     <div class="flex-grow">
-                                                        <p class="text-[.875rem] mb-1 text-[#8c9097] dark:text-white/50">Highest Bid</p>
+                                                        <p class="text-[.875rem] mb-1 text-[#8c9097]">Highest Bid</p>
                                                         <div class="text-[1rem] mb-0 flex items-center font-semibold">
                                                             <span class="avatar avatar-xs me-1"><img src="{{asset('build/assets/images/nft-images/34.png')}}" alt=""></span>
                                                             1.19ETH
@@ -131,15 +131,15 @@
                                                         </div>
                                                         <div class="flex-grow">
                                                             <span class="mb-0 block text-[.875rem] font-semibold">SpaceY NFT</span>
-                                                            <span class="text-[.8125rem] text-[#8c9097] dark:text-white/50">@sp1116 <i class="bi bi-patch-check-fill text-success ms-1 text-[.9375rem]"></i></span>
+                                                            <span class="text-[.8125rem] text-[#8c9097]">@sp1116 <i class="bi bi-patch-check-fill text-success ms-1 text-[.9375rem]"></i></span>
                                                         </div>
                                                     </div>
-                                                    <span class="text-[.8125rem] text-[#8c9097] dark:text-white/50">1.45K Likes</span>
+                                                    <span class="text-[.8125rem] text-[#8c9097]">1.45K Likes</span>
                                                 </div>
                                                 <div class="text-[.9375rem] font-semibold mb-2"><a href="javascript:void(0);">NFT Lorem Shapes</a></div>
                                                 <div class="flex items-end flex-wrap gap-2">
                                                     <div class="flex-grow">
-                                                        <p class="text-[.875rem] mb-1 text-[#8c9097] dark:text-white/50">Highest Bid</p>
+                                                        <p class="text-[.875rem] mb-1 text-[#8c9097]">Highest Bid</p>
                                                         <div class="text-[1rem] mb-0 flex items-center font-semibold">
                                                             <span class="avatar avatar-xs me-1"><img src="{{asset('build/assets/images/nft-images/34.png')}}" alt=""></span>
                                                             1.16ETH
@@ -172,15 +172,15 @@
                                                         </div>
                                                         <div class="flex-grow">
                                                             <span class="mb-0 block text-[.875rem] font-semibold">NFTNinja</span>
-                                                            <span class="text-[.8125rem] text-[#8c9097] dark:text-white/50">@nftninja<i class="bi bi-patch-check-fill text-success ms-1 text-[.9375rem]"></i></span>
+                                                            <span class="text-[.8125rem] text-[#8c9097]">@nftninja<i class="bi bi-patch-check-fill text-success ms-1 text-[.9375rem]"></i></span>
                                                         </div>
                                                     </div>
-                                                    <span class="text-[.8125rem] text-[#8c9097] dark:text-white/50">0.37K Likes</span>
+                                                    <span class="text-[.8125rem] text-[#8c9097]">0.37K Likes</span>
                                                 </div>
                                                 <div class="text-[.9375rem] font-semibold mb-2"><a href="javascript:void(0);">Chromatic Chaos</a></div>
                                                 <div class="flex items-end flex-wrap gap-2">
                                                     <div class="flex-grow">
-                                                        <p class="text-[.875rem] mb-1 text-[#8c9097] dark:text-white/50">Highest Bid</p>
+                                                        <p class="text-[.875rem] mb-1 text-[#8c9097]">Highest Bid</p>
                                                         <div class="text-[1rem] mb-0 flex items-center font-semibold">
                                                             <span class="avatar avatar-xs me-1"><img src="{{asset('build/assets/images/nft-images/34.png')}}" alt=""></span>
                                                             1.64ETH
@@ -213,15 +213,15 @@
                                                         </div>
                                                         <div class="flex-grow">
                                                             <span class="mb-0 block text-[.875rem] font-semibold">CryptoCraft</span>
-                                                            <span class="text-[.8125rem] text-[#8c9097] dark:text-white/50">@cryptocraft<i class="bi bi-patch-check-fill text-success ms-1 text-[.9375rem]"></i></span>
+                                                            <span class="text-[.8125rem] text-[#8c9097]">@cryptocraft<i class="bi bi-patch-check-fill text-success ms-1 text-[.9375rem]"></i></span>
                                                         </div>
                                                     </div>
-                                                    <span class="text-[.8125rem] text-[#8c9097] dark:text-white/50">0.62K Likes</span>
+                                                    <span class="text-[.8125rem] text-[#8c9097]">0.62K Likes</span>
                                                 </div>
                                                 <div class="text-[.9375rem] font-semibold mb-2"><a href="javascript:void(0);">Virtual Veracity</a></div>
                                                 <div class="flex items-end flex-wrap gap-2">
                                                     <div class="flex-grow">
-                                                        <p class="text-[.875rem] mb-1 text-[#8c9097] dark:text-white/50">Highest Bid</p>
+                                                        <p class="text-[.875rem] mb-1 text-[#8c9097]">Highest Bid</p>
                                                         <div class="text-[1rem] mb-0 flex items-center font-semibold">
                                                             <span class="avatar avatar-xs me-1"><img src="{{asset('build/assets/images/nft-images/34.png')}}" alt=""></span>
                                                             2.57ETH
@@ -254,15 +254,15 @@
                                                         </div>
                                                         <div class="flex-grow">
                                                             <span class="mb-0 block text-[.875rem] font-semibold">DigitalDreamer</span>
-                                                            <span class="text-[.8125rem] text-[#8c9097] dark:text-white/50">@d_dreamer<i class="bi bi-patch-check-fill text-success ms-1 text-[.9375rem]"></i></span>
+                                                            <span class="text-[.8125rem] text-[#8c9097]">@d_dreamer<i class="bi bi-patch-check-fill text-success ms-1 text-[.9375rem]"></i></span>
                                                         </div>
                                                     </div>
-                                                    <span class="text-[.8125rem] text-[#8c9097] dark:text-white/50">0.5K Likes</span>
+                                                    <span class="text-[.8125rem] text-[#8c9097]">0.5K Likes</span>
                                                 </div>
                                                 <div class="text-[.9375rem] font-semibold mb-2"><a href="javascript:void(0);">Crypto Cosmos</a></div>
                                                 <div class="flex items-end flex-wrap gap-2">
                                                     <div class="flex-grow">
-                                                        <p class="text-[.875rem] mb-1 text-[#8c9097] dark:text-white/50">Highest Bid</p>
+                                                        <p class="text-[.875rem] mb-1 text-[#8c9097]">Highest Bid</p>
                                                         <div class="text-[1rem] mb-0 flex items-center font-semibold">
                                                             <span class="avatar avatar-xs me-1"><img src="{{asset('build/assets/images/nft-images/34.png')}}" alt=""></span>
                                                             0.45ETH
@@ -295,15 +295,15 @@
                                                         </div>
                                                         <div class="flex-grow">
                                                             <span class="mb-0 block text-[.875rem] font-semibold">PixelProphet</span>
-                                                            <span class="text-[.8125rem] text-[#8c9097] dark:text-white/50">@pixelprophet<i class="bi bi-patch-check-fill text-success ms-1 text-[.9375rem]"></i></span>
+                                                            <span class="text-[.8125rem] text-[#8c9097]">@pixelprophet<i class="bi bi-patch-check-fill text-success ms-1 text-[.9375rem]"></i></span>
                                                         </div>
                                                     </div>
-                                                    <span class="text-[.8125rem] text-[#8c9097] dark:text-white/50">1.2K Likes</span>
+                                                    <span class="text-[.8125rem] text-[#8c9097]">1.2K Likes</span>
                                                 </div>
                                                 <div class="text-[.9375rem] font-semibold mb-2"><a href="javascript:void(0);">Electric Euphoria</a></div>
                                                 <div class="flex items-end flex-wrap gap-2">
                                                     <div class="flex-grow">
-                                                        <p class="text-[.875rem] mb-1 text-[#8c9097] dark:text-white/50">Highest Bid</p>
+                                                        <p class="text-[.875rem] mb-1 text-[#8c9097]">Highest Bid</p>
                                                         <div class="text-[1rem] mb-0 flex items-center font-semibold">
                                                             <span class="avatar avatar-xs me-1"><img src="{{asset('build/assets/images/nft-images/34.png')}}" alt=""></span>
                                                             0.45ETH
@@ -336,15 +336,15 @@
                                                         </div>
                                                         <div class="flex-grow">
                                                             <span class="mb-0 block text-[.875rem] font-semibold">PixelMaestro</span>
-                                                            <span class="text-[.8125rem] text-[#8c9097] dark:text-white/50">@pixelmaestro<i class="bi bi-patch-check-fill text-success ms-1 text-[.9375rem]"></i></span>
+                                                            <span class="text-[.8125rem] text-[#8c9097]">@pixelmaestro<i class="bi bi-patch-check-fill text-success ms-1 text-[.9375rem]"></i></span>
                                                         </div>
                                                     </div>
-                                                    <span class="text-[.8125rem] text-[#8c9097] dark:text-white/50">1.9K Likes</span>
+                                                    <span class="text-[.8125rem] text-[#8c9097]">1.9K Likes</span>
                                                 </div>
                                                 <div class="text-[.9375rem] font-semibold mb-2"><a href="javascript:void(0);">Meta-Morphosis</a></div>
                                                 <div class="flex items-end flex-wrap gap-2">
                                                     <div class="flex-grow">
-                                                        <p class="text-[.875rem] mb-1 text-[#8c9097] dark:text-white/50">Highest Bid</p>
+                                                        <p class="text-[.875rem] mb-1 text-[#8c9097]">Highest Bid</p>
                                                         <div class="text-[1rem] mb-0 flex items-center font-semibold">
                                                             <span class="avatar avatar-xs me-1"><img src="{{asset('build/assets/images/nft-images/34.png')}}" alt=""></span>
                                                             2.07ETH
@@ -377,15 +377,15 @@
                                                         </div>
                                                         <div class="flex-grow">
                                                             <span class="mb-0 block text-[.875rem] font-semibold">ArtTechie</span>
-                                                            <span class="text-[.8125rem] text-[#8c9097] dark:text-white/50">@arttechie<i class="bi bi-patch-check-fill text-success ms-1 text-[.9375rem]"></i></span>
+                                                            <span class="text-[.8125rem] text-[#8c9097]">@arttechie<i class="bi bi-patch-check-fill text-success ms-1 text-[.9375rem]"></i></span>
                                                         </div>
                                                     </div>
-                                                    <span class="text-[.8125rem] text-[#8c9097] dark:text-white/50">1.3K Likes</span>
+                                                    <span class="text-[.8125rem] text-[#8c9097]">1.3K Likes</span>
                                                 </div>
                                                 <div class="text-[.9375rem] font-semibold mb-2"><a href="javascript:void(0);">Digital Dreamscape</a></div>
                                                 <div class="flex items-end flex-wrap gap-2">
                                                     <div class="flex-grow">
-                                                        <p class="text-[.875rem] mb-1 text-[#8c9097] dark:text-white/50">Highest Bid</p>
+                                                        <p class="text-[.875rem] mb-1 text-[#8c9097]">Highest Bid</p>
                                                         <div class="text-[1rem] mb-0 flex items-center font-semibold">
                                                             <span class="avatar avatar-xs me-1"><img src="{{asset('build/assets/images/nft-images/34.png')}}" alt=""></span>
                                                             0.24ETH
@@ -431,12 +431,12 @@
                                                                 </div>
                                                                 <div class="items-center">
                                                                     <p class="mb-0 font-semibold">Joseph Smith<i class="bi bi-patch-check-fill text-success ms-2"></i></p>
-                                                                    <span class="text-[.75rem] text-[#8c9097] dark:text-white/50">@josephsmith</span>
+                                                                    <span class="text-[.75rem] text-[#8c9097]">@josephsmith</span>
                                                                 </div>
                                                             </div>
                                                             <div class="text-end">
                                                                 <span class="block font-semibold text-success">+18.93ETH</span>
-                                                                <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem]">22 NFT's</span>
+                                                                <span class="block text-[#8c9097] text-[0.6875rem]">22 NFT's</span>
                                                             </div>
                                                         </div>
                                                     </li>
@@ -450,12 +450,12 @@
                                                                 </div>
                                                                 <div class="items-center">
                                                                     <p class="mb-0 font-semibold">Elisha Sean<i class="bi bi-patch-check-fill text-success ms-2"></i></p>
-                                                                    <span class="text-[.75rem] text-[#8c9097] dark:text-white/50">@elishasean</span>
+                                                                    <span class="text-[.75rem] text-[#8c9097]">@elishasean</span>
                                                                 </div>
                                                             </div>
                                                             <div class="text-end">
                                                                 <span class="block font-semibold text-success">+12.45ETH</span>
-                                                                <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem]">17 NFT's</span>
+                                                                <span class="block text-[#8c9097] text-[0.6875rem]">17 NFT's</span>
                                                             </div>
                                                         </div>
                                                     </li>
@@ -469,12 +469,12 @@
                                                                 </div>
                                                                 <div class="items-center">
                                                                     <p class="mb-0 font-semibold">Json Taylor<i class="bi bi-patch-check-fill text-success ms-2"></i></p>
-                                                                    <span class="text-[.75rem] text-[#8c9097] dark:text-white/50">@jsontaylor</span>
+                                                                    <span class="text-[.75rem] text-[#8c9097]">@jsontaylor</span>
                                                                 </div>
                                                             </div>
                                                             <div class="text-end">
                                                                 <span class="block font-semibold text-success">+11.25ETH</span>
-                                                                <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem]">15 NFT's</span>
+                                                                <span class="block text-[#8c9097] text-[0.6875rem]">15 NFT's</span>
                                                             </div>
                                                         </div>
                                                     </li>
@@ -488,12 +488,12 @@
                                                                 </div>
                                                                 <div class="items-center">
                                                                     <p class="mb-0 font-semibold">Julia Camo<i class="bi bi-patch-check-fill text-success ms-2"></i></p>
-                                                                    <span class="text-[.75rem] text-[#8c9097] dark:text-white/50">@juliacamo</span>
+                                                                    <span class="text-[.75rem] text-[#8c9097]">@juliacamo</span>
                                                                 </div>
                                                             </div>
                                                             <div class="text-end">
                                                                 <span class="block font-semibold text-success">+10.48ETH</span>
-                                                                <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem]">14 NFT's</span>
+                                                                <span class="block text-[#8c9097] text-[0.6875rem]">14 NFT's</span>
                                                             </div>
                                                         </div>
                                                     </li>
@@ -507,12 +507,12 @@
                                                                 </div>
                                                                 <div class="items-center">
                                                                     <p class="mb-0 font-semibold">Charles Achilles<i class="bi bi-patch-check-fill text-success ms-2"></i></p>
-                                                                    <span class="text-[.75rem] text-[#8c9097] dark:text-white/50">@charlesachilles</span>
+                                                                    <span class="text-[.75rem] text-[#8c9097]">@charlesachilles</span>
                                                                 </div>
                                                             </div>
                                                             <div class="text-end">
                                                                 <span class="block font-semibold text-success">+9.58ETH</span>
-                                                                <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem]">12 NFT's</span>
+                                                                <span class="block text-[#8c9097] text-[0.6875rem]">12 NFT's</span>
                                                             </div>
                                                         </div>
                                                     </li>
@@ -526,12 +526,12 @@
                                                                 </div>
                                                                 <div class="items-center">
                                                                     <p class="mb-0 font-semibold">Amanda Nanes<i class="bi bi-patch-check-fill text-success ms-2"></i></p>
-                                                                    <span class="text-[.75rem] text-[#8c9097] dark:text-white/50">amandananes@</span>
+                                                                    <span class="text-[.75rem] text-[#8c9097]">amandananes@</span>
                                                                 </div>
                                                             </div>
                                                             <div class="text-end">
                                                                 <span class="block font-semibold text-success">+7.67ETH</span>
-                                                                <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem]">11 NFT's</span>
+                                                                <span class="block text-[#8c9097] text-[0.6875rem]">11 NFT's</span>
                                                             </div>
                                                         </div>
                                                     </li>
@@ -546,7 +546,7 @@
                                                     Recent Activity
                                                 </div>
                                                 <div class="hs-dropdown ti-dropdown">
-                                                    <a href="javascript:void(0);" class="p-2 text-[.75rem] text-[#8c9097] dark:text-white/50" aria-expanded="false">
+                                                    <a href="javascript:void(0);" class="p-2 text-[.75rem] text-[#8c9097]" aria-expanded="false">
                                                         Today<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                                     </a>
                                                     <ul class="hs-dropdown-menu ti-dropdown-menu hidden" role="menu">
@@ -566,7 +566,7 @@
                                                                 </span>
                                                             </div>
                                                             <div>
-                                                                <div class="mb-1"><a href="javascript:void(0);" class="font-semibold">DreamSpace</a><span class="text-[.75rem] text-[#8c9097] dark:text-white/50 ms-2">24 mins ago</span></div>
+                                                                <div class="mb-1"><a href="javascript:void(0);" class="font-semibold">DreamSpace</a><span class="text-[.75rem] text-[#8c9097] ms-2">24 mins ago</span></div>
                                                                 <div class="text-[.8125rem]">Purchsed from you by <a class="underline" href="javascript:void(0);">Mitchell</a> for <span class="text-success font-semibold text-[.75rem]">0.57ETH</span>.</div>
                                                             </div>
                                                         </div>
@@ -579,7 +579,7 @@
                                                                 </span>
                                                             </div>
                                                             <div>
-                                                                <div class="mb-1"><span class="font-semibold">DreamSpace</span><span class="text-[.75rem] text-[#8c9097] dark:text-white/50 ms-2">16 mins ago</span></div>
+                                                                <div class="mb-1"><span class="font-semibold">DreamSpace</span><span class="text-[.75rem] text-[#8c9097] ms-2">16 mins ago</span></div>
                                                                 <div class="text-[.8125rem]">You started following mark zensberg.</div>
                                                             </div>
                                                         </div>
@@ -592,7 +592,7 @@
                                                                 </span>
                                                             </div>
                                                             <div>
-                                                                <div class="mb-1"><span class="font-semibold">Neo Nebulae</span><span class="text-[.75rem] text-[#8c9097] dark:text-white/50 ms-2">5 mins ago</span></div>
+                                                                <div class="mb-1"><span class="font-semibold">Neo Nebulae</span><span class="text-[.75rem] text-[#8c9097] ms-2">5 mins ago</span></div>
                                                                 <div class="text-[.8125rem]">You showed interest in purchasing <a href="javascript:void(0);" class="text-[.75rem] text-warning font-semibold">NeoNebulae</a>.</div>
                                                             </div>
                                                         </div>
@@ -605,7 +605,7 @@
                                                                 </span>
                                                             </div>
                                                             <div>
-                                                                <div class="mb-1"><span class="font-semibold">Neo Nebulae</span><span class="text-[.75rem] text-[#8c9097] dark:text-white/50 ms-2">16 mins ago</span></div>
+                                                                <div class="mb-1"><span class="font-semibold">Neo Nebulae</span><span class="text-[.75rem] text-[#8c9097] ms-2">16 mins ago</span></div>
                                                                 <div class="text-[.8125rem]">Purchased from <a href="javascript:void(0);" class="underline">Cyber Canvas</a> for <span class="font-semibold text-[.75rem] text-pink">1.345ETH</span>.</div>
                                                             </div>
                                                         </div>

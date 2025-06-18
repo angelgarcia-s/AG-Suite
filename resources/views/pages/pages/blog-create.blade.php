@@ -26,16 +26,16 @@
                         <!-- Page Header -->
                         <div class="block justify-between page-header md:flex">
                             <div>
-                                <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Blog Create </h3>
+                                <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Blog Create </h3>
                             </div>
                             <ol class="flex items-center whitespace-nowrap min-w-0">
                                 <li class="text-[0.813rem] ps-[0.5rem]">
-                                  <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                  <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                   Blog
-                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                   </a>
                                 </li>
-                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                     Blog Create 
                                 </li>
                             </ol>
@@ -154,7 +154,7 @@
                                                         <p class="mb-1 popular-blog-content text-truncate">
                                                             There are many variations of passages of Lorem Ipsum available
                                                         </p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">24,Nov 2022 - 18:27</span>
+                                                        <span class="text-[#8c9097] text-[0.6875rem]">24,Nov 2022 - 18:27</span>
                                                     </div>
                                                     <div>
                                                         <button aria-label="button" type="button" class="ti-btn ti-btn-light ti-btn-sm rtl:rotate-180"><i class="ri-arrow-right-s-line"></i></button>
@@ -171,7 +171,7 @@
                                                         <p class="mb-1 popular-blog-content text-truncate">
                                                             Latin words, combined with a handful of model sentence
                                                         </p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">28,Nov 2022 - 10:45</span>
+                                                        <span class="text-[#8c9097] text-[0.6875rem]">28,Nov 2022 - 10:45</span>
                                                     </div>
                                                     <div>
                                                         <button aria-label="button" type="button" class="ti-btn ti-btn-light ti-btn-sm rtl:rotate-180"><i class="ri-arrow-right-s-line"></i></button>
@@ -188,7 +188,7 @@
                                                         <p class="mb-1 popular-blog-content text-truncate">
                                                             Contrary to popular belief, Lorem Ipsum is not simply random
                                                         </p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">30,Nov 2022 - 08:32</span>
+                                                        <span class="text-[#8c9097] text-[0.6875rem]">30,Nov 2022 - 08:32</span>
                                                     </div>
                                                     <div>
                                                         <button aria-label="button" type="button" class="ti-btn ti-btn-light ti-btn-sm rtl:rotate-180"><i class="ri-arrow-right-s-line"></i></button>
@@ -205,7 +205,7 @@
                                                         <p class="mb-1 popular-blog-content text-truncate">
                                                             It was popularised in the 1960s with the release of Letraset sheets containing
                                                         </p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">3,Dec 2022 - 12:56</span>
+                                                        <span class="text-[#8c9097] text-[0.6875rem]">3,Dec 2022 - 12:56</span>
                                                     </div>
                                                     <div>
                                                         <button aria-label="button" type="button" class="ti-btn ti-btn-light ti-btn-sm rtl:rotate-180"><i class="ri-arrow-right-s-line"></i></button>
@@ -222,7 +222,7 @@
                                                         <p class="mb-1 popular-blog-content text-truncate">
                                                             It was popularised in the 1960s with the release of Letraset sheets containing
                                                         </p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">16,Dec 2022 - 04:56</span>
+                                                        <span class="text-[#8c9097] text-[0.6875rem]">16,Dec 2022 - 04:56</span>
                                                     </div>
                                                     <div>
                                                         <button aria-label="button" type="button" class="ti-btn ti-btn-light ti-btn-sm rtl:rotate-180"><i class="ri-arrow-right-s-line"></i></button>
@@ -239,7 +239,7 @@
                                                         <p class="mb-1 popular-blog-content text-truncate">
                                                             It was popularised in the 1960s with the release of Letraset sheets containing
                                                         </p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">31,Dec 2022 - 18:06</span>
+                                                        <span class="text-[#8c9097] text-[0.6875rem]">31,Dec 2022 - 18:06</span>
                                                     </div>
                                                     <div>
                                                         <button aria-label="button" type="button" class="ti-btn ti-btn-light ti-btn-sm rtl:rotate-180"><i class="ri-arrow-right-s-line"></i></button>
@@ -256,7 +256,7 @@
                                                         <p class="mb-1 popular-blog-content text-truncate">
                                                             It was popularised in the 1960s with the release of Letraset sheets containing
                                                         </p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">15,Dec 2022 - 14:31</span>
+                                                        <span class="text-[#8c9097] text-[0.6875rem]">15,Dec 2022 - 14:31</span>
                                                     </div>
                                                     <div>
                                                         <button aria-label="button" type="button" class="ti-btn ti-btn-light ti-btn-sm rtl:rotate-180"><i class="ri-arrow-right-s-line"></i></button>

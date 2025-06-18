@@ -10,16 +10,16 @@
                         <!-- Page Header -->
                         <div class="block justify-between page-header md:flex">
                             <div>
-                                <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold">Wallet</h3>
+                                <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold">Wallet</h3>
                             </div>
                             <ol class="flex items-center whitespace-nowrap min-w-0">
                                 <li class="text-[0.813rem] ps-[0.5rem]">
-                                  <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                  <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                     Crypto
-                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                   </a>
                                 </li>
-                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                   Wallet
                                 </li>
                             </ol>
@@ -46,13 +46,13 @@
                                                         </span>
                                                     </div>
                                                     <div>
-                                                        <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] font-normal">Available BTC</span>
+                                                        <span class="block text-[#8c9097] text-[0.75rem] font-normal">Available BTC</span>
                                                         <span class="font-semibold">0.05437 BTC</span>
                                                     </div>
                                                 </div>
                                                 <div>
                                                     <span class="font-semibold">$1646.94 USD</span>
-                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] font-normal">In USD</span>
+                                                    <span class="block text-[#8c9097] text-[0.75rem] font-normal">In USD</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -78,13 +78,13 @@
                                                         </span>
                                                     </div>
                                                     <div>
-                                                        <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] font-normal">Available ETH</span>
+                                                        <span class="block text-[#8c9097] text-[0.75rem] font-normal">Available ETH</span>
                                                         <span class="font-semibold">2.3892 ETH</span>
                                                     </div>
                                                 </div>
                                                 <div>
                                                     <span class="font-semibold">$4581.24 USD</span>
-                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] font-normal">In USD</span>
+                                                    <span class="block text-[#8c9097] text-[0.75rem] font-normal">In USD</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -110,13 +110,13 @@
                                                         </span>
                                                     </div>
                                                     <div>
-                                                        <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] font-normal">Available XRP</span>
+                                                        <span class="block text-[#8c9097] text-[0.75rem] font-normal">Available XRP</span>
                                                         <span class="font-semibold">234.943 XRP</span>
                                                     </div>
                                                 </div>
                                                 <div>
                                                     <span class="font-semibold">$192.29 USD</span>
-                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] font-normal">In USD</span>
+                                                    <span class="block text-[#8c9097] text-[0.75rem] font-normal">In USD</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -142,13 +142,13 @@
                                                         </span>
                                                     </div>
                                                     <div>
-                                                        <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] font-normal">Available LTC</span>
+                                                        <span class="block text-[#8c9097] text-[0.75rem] font-normal">Available LTC</span>
                                                         <span class="font-semibold">37.254 LTC</span>
                                                     </div>
                                                 </div>
                                                 <div>
                                                     <span class="font-semibold">$3519.01 USD</span>
-                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] font-normal">In USD</span>
+                                                    <span class="block text-[#8c9097] text-[0.75rem] font-normal">In USD</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -182,7 +182,7 @@
                                                             </div>
                                                       </div>
                                                       <div>
-                                                            <span class="avatar avatar-xxl border dark:border-defaultborder/10">
+                                                            <span class="avatar avatar-xxl border">
                                                                 <img src="{{asset('build/assets/images/media/media-89.png')}}" class="p-1 qr-image" alt="">
                                                             </span>
                                                       </div>
@@ -197,8 +197,8 @@
                                                                         </span>
                                                                     </div>
                                                                     <div>
-                                                                        <span class="block text-[#8c9097] dark:text-white/50">Received</span>
-                                                                        <span class="block font-semibold">6.2834 <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50 font-normal">BTC</span></span>
+                                                                        <span class="block text-[#8c9097]">Received</span>
+                                                                        <span class="block font-semibold">6.2834 <span class="text-[0.75rem] text-[#8c9097] font-normal">BTC</span></span>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -212,8 +212,8 @@
                                                                         </span>
                                                                     </div>
                                                                     <div>
-                                                                        <span class="block text-[#8c9097] dark:text-white/50">Sent</span>
-                                                                        <span class="block font-semibold">2.7382 <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50 font-normal">BTC</span></span>
+                                                                        <span class="block text-[#8c9097]">Sent</span>
+                                                                        <span class="block font-semibold">2.7382 <span class="text-[0.75rem] text-[#8c9097] font-normal">BTC</span></span>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -227,8 +227,8 @@
                                                                         </span>
                                                                     </div>
                                                                     <div>
-                                                                        <span class="block text-[#8c9097] dark:text-white/50">Wallet Balance</span>
-                                                                        <span class="block font-semibold">12.5232 <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50 font-normal">BTC</span></span>
+                                                                        <span class="block text-[#8c9097]">Wallet Balance</span>
+                                                                        <span class="block font-semibold">12.5232 <span class="text-[0.75rem] text-[#8c9097] font-normal">BTC</span></span>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -255,7 +255,7 @@
                                                             </div>
                                                       </div>
                                                       <div>
-                                                            <span class="avatar avatar-xxl border dark:border-defaultborder/10">
+                                                            <span class="avatar avatar-xxl border">
                                                                 <img src="{{asset('build/assets/images/media/media-89.png')}}" class="p-1 qr-image" alt="">
                                                             </span>
                                                       </div>
@@ -270,8 +270,8 @@
                                                                         </span>
                                                                     </div>
                                                                     <div>
-                                                                        <span class="block text-[#8c9097] dark:text-white/50">Received</span>
-                                                                        <span class="block font-semibold">6.2834 <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50 font-normal">ETH</span></span>
+                                                                        <span class="block text-[#8c9097]">Received</span>
+                                                                        <span class="block font-semibold">6.2834 <span class="text-[0.75rem] text-[#8c9097] font-normal">ETH</span></span>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -285,8 +285,8 @@
                                                                         </span>
                                                                     </div>
                                                                     <div>
-                                                                        <span class="block text-[#8c9097] dark:text-white/50">Sent</span>
-                                                                        <span class="block font-semibold">2.7382 <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50 font-normal">ETH</span></span>
+                                                                        <span class="block text-[#8c9097]">Sent</span>
+                                                                        <span class="block font-semibold">2.7382 <span class="text-[0.75rem] text-[#8c9097] font-normal">ETH</span></span>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -300,8 +300,8 @@
                                                                         </span>
                                                                     </div>
                                                                     <div>
-                                                                        <span class="block text-[#8c9097] dark:text-white/50">Wallet Balance</span>
-                                                                        <span class="block font-semibold">12.5232 <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50 font-normal">ETH</span></span>
+                                                                        <span class="block text-[#8c9097]">Wallet Balance</span>
+                                                                        <span class="block font-semibold">12.5232 <span class="text-[0.75rem] text-[#8c9097] font-normal">ETH</span></span>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -328,7 +328,7 @@
                                                             </div>
                                                       </div>
                                                       <div>
-                                                            <span class="avatar avatar-xxl border dark:border-defaultborder/10">
+                                                            <span class="avatar avatar-xxl border">
                                                                 <img src="{{asset('build/assets/images/media/media-89.png')}}" class="p-1 qr-image" alt="">
                                                             </span>
                                                       </div>
@@ -343,8 +343,8 @@
                                                                         </span>
                                                                     </div>
                                                                     <div>
-                                                                        <span class="block text-[#8c9097] dark:text-white/50">Received</span>
-                                                                        <span class="block font-semibold">6.2834 <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50 font-normal">LTC</span></span>
+                                                                        <span class="block text-[#8c9097]">Received</span>
+                                                                        <span class="block font-semibold">6.2834 <span class="text-[0.75rem] text-[#8c9097] font-normal">LTC</span></span>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -358,8 +358,8 @@
                                                                         </span>
                                                                     </div>
                                                                     <div>
-                                                                        <span class="block text-[#8c9097] dark:text-white/50">Sent</span>
-                                                                        <span class="block font-semibold">2.7382 <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50 font-normal">LTC</span></span>
+                                                                        <span class="block text-[#8c9097]">Sent</span>
+                                                                        <span class="block font-semibold">2.7382 <span class="text-[0.75rem] text-[#8c9097] font-normal">LTC</span></span>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -373,8 +373,8 @@
                                                                         </span>
                                                                     </div>
                                                                     <div>
-                                                                        <span class="block text-[#8c9097] dark:text-white/50">Wallet Balance</span>
-                                                                        <span class="block font-semibold">12.5232 <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50 font-normal">LTC</span></span>
+                                                                        <span class="block text-[#8c9097]">Wallet Balance</span>
+                                                                        <span class="block font-semibold">12.5232 <span class="text-[0.75rem] text-[#8c9097] font-normal">LTC</span></span>
                                                                     </div>
                                                                 </div>
                                                             </div>

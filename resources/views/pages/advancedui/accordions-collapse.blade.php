@@ -12,16 +12,16 @@
                       <!-- Page Header -->
                       <div class="block justify-between page-header md:flex">
                           <div>
-                              <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold">Accordions &amp; Collapse</h3>
+                              <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold">Accordions &amp; Collapse</h3>
                           </div>
                           <ol class="flex items-center whitespace-nowrap min-w-0">
                               <li class="text-[0.813rem] ps-[0.5rem]">
-                                <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                 Advanced Ui
-                                  <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                  <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                 </a>
                               </li>
-                              <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                              <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                               Accordions &amp; Collapse
                               </li>
                           </ol>
@@ -44,7 +44,7 @@
                                     <div class="box-body">
                                         <div class="hs-accordion-group">
                                             <div class="hs-accordion accordion-item overflow-hidden !border-b-0" id="hs-basic-heading-one">
-                                              <button class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group py-0 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                              <button class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group py-0 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                 aria-controls="hs-basic-collapse-one" type="button">
                                                 Accordion #1
                                               </button>
@@ -74,7 +74,7 @@
 
                                             <div class="hs-accordion accordion-item !border-b-0" id="hs-basic-heading-two">
                                               <button
-                                                class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group pb-0 pt-3 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group pb-0 pt-3 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                 aria-controls="hs-basic-collapse-two" type="button">
                                                 Accordion #2
                                               </button>
@@ -103,7 +103,7 @@
 
                                             <div class="hs-accordion accordion-item overflow-hidden" id="hs-basic-heading-three">
                                               <button
-                                                class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group pb-0 pt-3 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group pb-0 pt-3 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                 aria-controls="hs-basic-collapse-three" type="button">
                                                 Accordion #3
                                               </button>
@@ -136,7 +136,7 @@
                                         <pre class="language-html"><code class="language-html">
                                             &lt;div class="hs-accordion-group"&gt;
                                                 &lt;div class="hs-accordion accordion-item  overflow-hidden  !border-b-0" id="hs-basic-heading-one"&gt;
-                                                  &lt;button class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group py-0 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                  &lt;button class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group py-0 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                     aria-controls="hs-basic-collapse-one" type="button"&gt;
                                                     Accordion #1
                                                   &lt;/button&gt;
@@ -164,7 +164,7 @@
                                                 &lt;/div&gt;
                                                 &lt;div class="hs-accordion accordion-item !border-b-0" id="hs-basic-heading-two"&gt;
                                                   &lt;button
-                                                    class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group pb-0 pt-3 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                    class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group pb-0 pt-3 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                     aria-controls="hs-basic-collapse-two" type="button"&gt;
                                                     Accordion #2
                                                   &lt;/button&gt;
@@ -192,7 +192,7 @@
                                                 &lt;/div&gt;
                                                 &lt;div class="hs-accordion accordion-item  overflow-hidden !border-b-0" id="hs-basic-heading-three"&gt;
                                                   &lt;button
-                                                    class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group pb-0 pt-3 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                    class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group pb-0 pt-3 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                     aria-controls="hs-basic-collapse-three" type="button"&gt;
                                                     Accordion #3
                                                   &lt;/button&gt;
@@ -239,16 +239,16 @@
                                         <div class="hs-accordion-group">
                                             <div class="hs-accordion accordion-item  overflow-hidden !border-b-0" id="hs-basic-with-arrow-heading-one">
                                               <button
-                                                class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group py-0 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group py-0 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                 aria-controls="hs-basic-with-arrow-collapse-one" type="button">
                                                 <svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                 </svg>
                                                 <svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -279,16 +279,16 @@
                                             </div>
                                             <div class="hs-accordion accordion-item !border-b-0" id="hs-basic-with-arrow-heading-two">
                                               <button
-                                                class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group pb-0 pt-3 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group pb-0 pt-3 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                 aria-controls="hs-basic-with-arrow-collapse-two" type="button">
                                                 <svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                 </svg>
                                                 <svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -319,16 +319,16 @@
                                             </div>
                                             <div class="hs-accordion accordion-item  overflow-hidden" id="hs-basic-with-arrow-heading-three">
                                               <button
-                                                class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group pb-0 pt-3 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group pb-0 pt-3 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                 aria-controls="hs-basic-with-arrow-collapse-three" type="button">
                                                 <svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                 </svg>
                                                 <svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -366,16 +366,16 @@
         &lt;div class="hs-accordion-group"&gt;
         &lt;div class="hs-accordion accordion-item  overflow-hidden !border-b-0" id="hs-basic-with-arrow-heading-one"&gt;
           &lt;button
-            class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group py-0 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-primary dark:text-gray-200 dark:hover:text-white/80"
+            class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group py-0 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
             aria-controls="hs-basic-with-arrow-collapse-one" type="button"&gt;
             &lt;svg
-              class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+              class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500"
               width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
               &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                 stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
             &lt;/svg&gt;
             &lt;svg
-              class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+              class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
               width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
               &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                 stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -406,16 +406,16 @@
         &lt;/div&gt;
         &lt;div class="hs-accordion accordion-item !border-b-0" id="hs-basic-with-arrow-heading-two"&gt;
           &lt;button
-            class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group pb-0 pt-3 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-primary dark:text-gray-200 dark:hover:text-white/80"
+            class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group pb-0 pt-3 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
             aria-controls="hs-basic-with-arrow-collapse-two" type="button"&gt;
             &lt;svg
-              class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+              class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500"
               width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
               &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                 stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
             &lt;/svg&gt;
             &lt;svg
-              class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+              class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
               width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
               &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                 stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -446,16 +446,16 @@
         &lt;/div&gt;
         &lt;div class="hs-accordion accordion-item  overflow-hidden !border-b-0" id="hs-basic-with-arrow-heading-three"&gt;
           &lt;button
-            class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group pb-0 pt-3 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-primary dark:text-gray-200 dark:hover:text-white/80"
+            class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group pb-0 pt-3 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
             aria-controls="hs-basic-with-arrow-collapse-three" type="button"&gt;
             &lt;svg
-              class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+              class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500"
               width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
               &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                 stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
             &lt;/svg&gt;
             &lt;svg
-              class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+              class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
               width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
               &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                 stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -511,17 +511,17 @@
                                         <div class="hs-accordion-group">
                                             <div class="hs-accordion accordion-item  overflow-hidden !border-b-0" id="hs-basic-with-title-and-arrow-stretched-heading-one">
                                               <button
-                                                class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group py-0 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group py-0 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                 aria-controls="hs-basic-with-title-and-arrow-stretched-collapse-one" type="button">
                                                 Accordion #1
                                                 <svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                 </svg>
                                                 <svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -530,7 +530,7 @@
                                               <div id="hs-basic-with-title-and-arrow-stretched-collapse-one"
                                                 class="hs-accordion-content w-full overflow-hidden transition-[height] duration-300"
                                                 aria-labelledby="hs-basic-with-title-and-arrow-stretched-heading-one">
-                                                <p class="text-gray-800 !py-3 !px-4 dark:text-gray-200">
+                                                <p class="text-gray-800 !py-3 !px-4">
                                                   <em>This is the third item's accordion body.</em> It is hidden by default, until the collapse
                                                   plugin adds the appropriate classes that we use to style each element. These classes control the
                                                   overall appearance, as well as the showing and hiding via CSS transitions.
@@ -539,17 +539,17 @@
                                             </div>
                                             <div class="hs-accordion accordion-item !border-b-0" id="hs-basic-with-title-and-arrow-stretched-heading-two">
                                               <button
-                                                class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group pb-0 pt-3 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group pb-0 pt-3 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                 aria-controls="hs-basic-with-title-and-arrow-stretched-collapse-two" type="button">
                                                 Accordion #2
                                                 <svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                 </svg>
                                                 <svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -558,7 +558,7 @@
                                               <div id="hs-basic-with-title-and-arrow-stretched-collapse-two"
                                                 class="hs-accordion-content accordion-body hidden w-full overflow-hidden transition-[height] duration-300"
                                                 aria-labelledby="hs-basic-with-title-and-arrow-stretched-heading-two">
-                                                <p class="text-gray-800 dark:text-gray-200">
+                                                <p class="text-gray-800">
                                                   <em>This is the third item's accordion body.</em> It is hidden by default, until the collapse
                                                   plugin adds the appropriate classes that we use to style each element. These classes control the
                                                   overall appearance, as well as the showing and hiding via CSS transitions.
@@ -567,17 +567,17 @@
                                             </div>
                                             <div class="hs-accordion accordion-item  overflow-hidden" id="hs-basic-with-title-and-arrow-stretched-heading-three">
                                               <button
-                                                class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group pb-0 pt-3 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group pb-0 pt-3 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                 aria-controls="hs-basic-with-title-and-arrow-stretched-collapse-three" type="button">
                                                 Accordion #3
                                                 <svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                 </svg>
                                                 <svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -586,7 +586,7 @@
                                               <div id="hs-basic-with-title-and-arrow-stretched-collapse-three"
                                                 class="hs-accordion-content accordion-body hidden w-full overflow-hidden transition-[height] duration-300"
                                                 aria-labelledby="hs-basic-with-title-and-arrow-stretched-heading-three">
-                                                <p class="text-gray-800 dark:text-gray-200">
+                                                <p class="text-gray-800">
                                                   <em>This is the third item's accordion body.</em> It is hidden by default, until the collapse
                                                   plugin adds the appropriate classes that we use to style each element. These classes control the
                                                   overall appearance, as well as the showing and hiding via CSS transitions.
@@ -601,17 +601,17 @@
                                             &lt;div class="hs-accordion-group"&gt;
                                               &lt;div class="hs-accordion accordion-item  overflow-hidden !border-b-0" id="hs-basic-with-title-and-arrow-stretched-heading-one"&gt;
                                                 &lt;button
-                                                  class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group py-0 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                  class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group py-0 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                   aria-controls="hs-basic-with-title-and-arrow-stretched-collapse-one" type="button"&gt;
                                                   Accordion #1
                                                   &lt;svg
-                                                    class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                   &lt;/svg&gt;
                                                   &lt;svg
-                                                    class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -620,7 +620,7 @@
                                                 &lt;div id="hs-basic-with-title-and-arrow-stretched-collapse-one"
                                                   class="hs-accordion-content w-full overflow-hidden transition-[height] duration-300"
                                                   aria-labelledby="hs-basic-with-title-and-arrow-stretched-heading-one"&gt;
-                                                  &lt;p class="text-gray-800 !py-3 !px-4 dark:text-gray-200"&gt;
+                                                  &lt;p class="text-gray-800 !py-3 !px-4"&gt;
                                                     &lt;em&gt;This is the third item's accordion body.&lt;/em&gt; It is hidden by default, until the collapse
                                                     plugin adds the appropriate classes that we use to style each element. These classes control the
                                                     overall appearance, as well as the showing and hiding via CSS transitions.
@@ -629,17 +629,17 @@
                                               &lt;/div&gt;
                                               &lt;div class="hs-accordion accordion-item !border-b-0" id="hs-basic-with-title-and-arrow-stretched-heading-two"&gt;
                                                 &lt;button
-                                                  class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group pb-0 pt-3 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                  class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group pb-0 pt-3 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                   aria-controls="hs-basic-with-title-and-arrow-stretched-collapse-two" type="button"&gt;
                                                   Accordion #2
                                                   &lt;svg
-                                                    class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                   &lt;/svg&gt;
                                                   &lt;svg
-                                                    class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -648,7 +648,7 @@
                                                 &lt;div id="hs-basic-with-title-and-arrow-stretched-collapse-two"
                                                   class="hs-accordion-content accordion-body hidden w-full overflow-hidden transition-[height] duration-300"
                                                   aria-labelledby="hs-basic-with-title-and-arrow-stretched-heading-two"&gt;
-                                                  &lt;p class="text-gray-800 dark:text-gray-200"&gt;
+                                                  &lt;p class="text-gray-800"&gt;
                                                     &lt;em&gt;This is the third item's accordion body.&lt;/em&gt; It is hidden by default, until the collapse
                                                     plugin adds the appropriate classes that we use to style each element. These classes control the
                                                     overall appearance, as well as the showing and hiding via CSS transitions.
@@ -657,17 +657,17 @@
                                               &lt;/div&gt;
                                               &lt;div class="hs-accordion accordion-item  overflow-hidden" id="hs-basic-with-title-and-arrow-stretched-heading-three"&gt;
                                                 &lt;button
-                                                  class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group pb-0 pt-3 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                  class="hs-accordion-toggle accordion-button hs-accordion-active:text-primary hs-accordion-active:pb-3 group pb-0 pt-3 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                   aria-controls="hs-basic-with-title-and-arrow-stretched-collapse-three" type="button"&gt;
                                                   Accordion #3
                                                   &lt;svg
-                                                    class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                   &lt;/svg&gt;
                                                   &lt;svg
-                                                    class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -676,7 +676,7 @@
                                                 &lt;div id="hs-basic-with-title-and-arrow-stretched-collapse-three"
                                                   class="hs-accordion-content accordion-body hidden w-full overflow-hidden transition-[height] duration-300"
                                                   aria-labelledby="hs-basic-with-title-and-arrow-stretched-heading-three"&gt;
-                                                  &lt;p class="text-gray-800 dark:text-gray-200"&gt;
+                                                  &lt;p class="text-gray-800"&gt;
                                                     &lt;em&gt;This is the third item's accordion body.&lt;/em&gt; It is hidden by default, until the collapse
                                                     plugin adds the appropriate classes that we use to style each element. These classes control the
                                                     overall appearance, as well as the showing and hiding via CSS transitions.
@@ -707,19 +707,19 @@
                                     </div>
                                     <div class="box-body">
                                         <div class="hs-accordion-group">
-                                            <div class="hs-accordion active overflow-hidden bg-white dark:bg-bodybg border -mt-px first:rounded-t-sm last:rounded-b-sm dark:bg-bgdark dark:border-white/10" id="hs-accordion-heading-1">
+                                            <div class="hs-accordion active overflow-hidden bg-white border -mt-px first:rounded-t-sm last:rounded-b-sm" id="hs-accordion-heading-1">
                                               <button
-                                                class="hs-accordion-toggle hs-accordion-active:text-primary hs-accordion-active:bg-primary/10 group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                class="hs-accordion-toggle hs-accordion-active:text-primary hs-accordion-active:bg-primary/10 group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                 aria-controls="hs-accordion-collapse-1" type="button">
                                                 Accordion #1
                                                 <svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                 </svg>
                                                 <svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -728,26 +728,26 @@
                                               <div id="hs-accordion-collapse-1"
                                                 class="hs-accordion-content w-full overflow-hidden transition-[height] duration-300"
                                                 aria-labelledby="hs-accordion-heading-1">
-                                                <p class="text-gray-800 dark:text-gray-200 py-4 px-5">
+                                                <p class="text-gray-800 py-4 px-5">
                                                   <em>This is the third item's accordion body.</em> It is hidden by default, until the collapse
                                                   plugin adds the appropriate classes that we use to style each element. These classes control the
                                                   overall appearance, as well as the showing and hiding via CSS transitions.
                                                 </p>
                                               </div>
                                             </div>
-                                            <div class="hs-accordion overflow-hidden bg-white dark:bg-bodybg border -mt-px first:rounded-t-sm last:rounded-b-sm dark:bg-bgdark dark:border-white/10" id="hs-accordion-heading-2">
+                                            <div class="hs-accordion overflow-hidden bg-white border -mt-px first:rounded-t-sm last:rounded-b-sm" id="hs-accordion-heading-2">
                                               <button
-                                                class="hs-accordion-toggle hs-accordion-active:text-primary hs-accordion-active:bg-primary/10 group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                class="hs-accordion-toggle hs-accordion-active:text-primary hs-accordion-active:bg-primary/10 group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                 aria-controls="hs-accordion-collapse-2" type="button">
                                                 Accordion #2
                                                 <svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                 </svg>
                                                 <svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -756,26 +756,26 @@
                                               <div id="hs-accordion-collapse-2"
                                                 class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300"
                                                 aria-labelledby="hs-accordion-heading-2">
-                                                <p class="text-gray-800 dark:text-gray-200 py-4 px-5">
+                                                <p class="text-gray-800 py-4 px-5">
                                                   <em>This is the third item's accordion body.</em> It is hidden by default, until the collapse
                                                   plugin adds the appropriate classes that we use to style each element. These classes control the
                                                   overall appearance, as well as the showing and hiding via CSS transitions.
                                                 </p>
                                               </div>
                                             </div>
-                                            <div class="hs-accordion overflow-hidden bg-white dark:bg-bodybg border -mt-px first:rounded-t-sm last:rounded-b-sm dark:bg-bgdark dark:border-white/10" id="hs-accordion-heading-3">
+                                            <div class="hs-accordion overflow-hidden bg-white border -mt-px first:rounded-t-sm last:rounded-b-sm" id="hs-accordion-heading-3">
                                               <button
-                                                class="hs-accordion-toggle hs-accordion-active:text-primary hs-accordion-active:bg-primary/10 group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                class="hs-accordion-toggle hs-accordion-active:text-primary hs-accordion-active:bg-primary/10 group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                 aria-controls="hs-accordion-collapse-3" type="button">
                                                 Accordion #3
                                                 <svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                 </svg>
                                                 <svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -784,7 +784,7 @@
                                               <div id="hs-accordion-collapse-3"
                                                 class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300"
                                                 aria-labelledby="hs-accordion-heading-3">
-                                                <p class="text-gray-800 dark:text-gray-200 py-4 px-5">
+                                                <p class="text-gray-800 py-4 px-5">
                                                   <em>This is the third item's accordion body.</em> It is hidden by default, until the collapse
                                                   plugin adds the appropriate classes that we use to style each element. These classes control the
                                                   overall appearance, as well as the showing and hiding via CSS transitions.
@@ -797,19 +797,19 @@
                                         <!-- Prism Code -->
                                         <pre class="language-html"><code class="language-html">
                                             &lt;div class="hs-accordion-group"&gt;
-                                              &lt;div class="hs-accordion active overflow-hidden bg-white dark:bg-bodybg border -mt-px first:rounded-t-sm last:rounded-b-sm dark:bg-bgdark dark:border-white/10" id="hs-accordion-heading-1"&gt;
+                                              &lt;div class="hs-accordion active overflow-hidden bg-white border -mt-px first:rounded-t-sm last:rounded-b-sm" id="hs-accordion-heading-1"&gt;
                                                 &lt;button
-                                                  class="hs-accordion-toggle hs-accordion-active:text-primary hs-accordion-active:bg-primary/10 group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                  class="hs-accordion-toggle hs-accordion-active:text-primary hs-accordion-active:bg-primary/10 group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                   aria-controls="hs-accordion-collapse-1" type="button"&gt;
                                                   Accordion #1
                                                   &lt;svg
-                                                    class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                   &lt;/svg&gt;
                                                   &lt;svg
-                                                    class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -818,26 +818,26 @@
                                                 &lt;div id="hs-accordion-collapse-1"
                                                   class="hs-accordion-content w-full overflow-hidden transition-[height] duration-300"
                                                   aria-labelledby="hs-accordion-heading-1"&gt;
-                                                  &lt;p class="text-gray-800 dark:text-gray-200 py-4 px-5"&gt;
+                                                  &lt;p class="text-gray-800 py-4 px-5"&gt;
                                                     &lt;em&gt;This is the third item's accordion body.&lt;/em&gt; It is hidden by default, until the collapse
                                                     plugin adds the appropriate classes that we use to style each element. These classes control the
                                                     overall appearance, as well as the showing and hiding via CSS transitions.
                                                   &lt;/p&gt;
                                                 &lt;/div&gt;
                                               &lt;/div&gt;
-                                              &lt;div class="hs-accordion overflow-hidden bg-white dark:bg-bodybg border -mt-px first:rounded-t-sm last:rounded-b-sm dark:bg-bgdark dark:border-white/10" id="hs-accordion-heading-2"&gt;
+                                              &lt;div class="hs-accordion overflow-hidden bg-white border -mt-px first:rounded-t-sm last:rounded-b-sm" id="hs-accordion-heading-2"&gt;
                                                 &lt;button
-                                                  class="hs-accordion-toggle hs-accordion-active:text-primary hs-accordion-active:bg-primary/10 group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                  class="hs-accordion-toggle hs-accordion-active:text-primary hs-accordion-active:bg-primary/10 group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                   aria-controls="hs-accordion-collapse-2" type="button"&gt;
                                                   Accordion #2
                                                   &lt;svg
-                                                    class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                   &lt;/svg&gt;
                                                   &lt;svg
-                                                    class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -846,26 +846,26 @@
                                                 &lt;div id="hs-accordion-collapse-2"
                                                   class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300"
                                                   aria-labelledby="hs-accordion-heading-2"&gt;
-                                                  &lt;p class="text-gray-800 dark:text-gray-200 py-4 px-5"&gt;
+                                                  &lt;p class="text-gray-800 py-4 px-5"&gt;
                                                     &lt;em&gt;This is the third item's accordion body.&lt;/em&gt; It is hidden by default, until the collapse
                                                     plugin adds the appropriate classes that we use to style each element. These classes control the
                                                     overall appearance, as well as the showing and hiding via CSS transitions.
                                                   &lt;/p&gt;
                                                 &lt;/div&gt;
                                               &lt;/div&gt;
-                                              &lt;div class="hs-accordion overflow-hidden bg-white dark:bg-bodybg border -mt-px first:rounded-t-sm last:rounded-b-sm dark:bg-bgdark dark:border-white/10" id="hs-accordion-heading-3"&gt;
+                                              &lt;div class="hs-accordion overflow-hidden bg-white border -mt-px first:rounded-t-sm last:rounded-b-sm" id="hs-accordion-heading-3"&gt;
                                                 &lt;button
-                                                  class="hs-accordion-toggle hs-accordion-active:text-primary hs-accordion-active:bg-primary/10 group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                  class="hs-accordion-toggle hs-accordion-active:text-primary hs-accordion-active:bg-primary/10 group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                   aria-controls="hs-accordion-collapse-3" type="button"&gt;
                                                   Accordion #3
                                                   &lt;svg
-                                                    class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                   &lt;/svg&gt;
                                                   &lt;svg
-                                                    class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -874,7 +874,7 @@
                                                 &lt;div id="hs-accordion-collapse-3"
                                                   class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300"
                                                   aria-labelledby="hs-accordion-heading-3"&gt;
-                                                  &lt;p class="text-gray-800 dark:text-gray-200 py-4 px-5"&gt;
+                                                  &lt;p class="text-gray-800 py-4 px-5"&gt;
                                                     &lt;em&gt;This is the third item's accordion body.&lt;/em&gt; It is hidden by default, until the collapse
                                                     plugin adds the appropriate classes that we use to style each element. These classes control the
                                                     overall appearance, as well as the showing and hiding via CSS transitions.
@@ -899,19 +899,19 @@
                                     </div>
                                     <div class="box-body">
                                         <div class="hs-accordion-group">
-                                            <div class="hs-accordion active overflow-hidden bg-white dark:bg-bodybg border -mt-px first:rounded-t-sm last:rounded-b-sm dark:bg-bgdark dark:border-white/10" id="hs-accordion-heading-1-primary">
+                                            <div class="hs-accordion active overflow-hidden bg-white border -mt-px first:rounded-t-sm last:rounded-b-sm" id="hs-accordion-heading-1-primary">
                                               <button
-                                                class="hs-accordion-toggle hs-accordion-active:text-secondary hs-accordion-active:bg-secondary/10 group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-secondary dark:text-gray-200 dark:hover:text-white/80"
+                                                class="hs-accordion-toggle hs-accordion-active:text-secondary hs-accordion-active:bg-secondary/10 group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                 aria-controls="hs-accordion-collapse-1-primary" type="button">
                                                 Accordion #1
                                                 <svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-secondary block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-secondary block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                 </svg>
                                                 <svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-secondary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-secondary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -920,26 +920,26 @@
                                               <div id="hs-accordion-collapse-1-primary"
                                                 class="hs-accordion-content w-full overflow-hidden transition-[height] duration-300"
                                                 aria-labelledby="hs-accordion-heading-1-primary">
-                                                <p class="text-gray-800 dark:text-gray-200 py-4 px-5">
+                                                <p class="text-gray-800 py-4 px-5">
                                                   <em>This is the third item's accordion body.</em> It is hidden by default, until the collapse
                                                   plugin adds the appropriate classes that we use to style each element. These classes control the
                                                   overall appearance, as well as the showing and hiding via CSS transitions.
                                                 </p>
                                               </div>
                                             </div>
-                                            <div class="hs-accordion overflow-hidden bg-white dark:bg-bodybg border -mt-px first:rounded-t-sm last:rounded-b-sm dark:bg-bgdark dark:border-white/10" id="hs-accordion-heading-2-primary">
+                                            <div class="hs-accordion overflow-hidden bg-white border -mt-px first:rounded-t-sm last:rounded-b-sm" id="hs-accordion-heading-2-primary">
                                               <button
-                                              class="hs-accordion-toggle hs-accordion-active:text-secondary hs-accordion-active:bg-secondary/10 group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-secondary dark:text-gray-200 dark:hover:text-white/80"
+                                              class="hs-accordion-toggle hs-accordion-active:text-secondary hs-accordion-active:bg-secondary/10 group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                               aria-controls="hs-accordion-collapse-1-primary" type="button">
                                               Accordion #2
                                               <svg
-                                                class="hs-accordion-active:hidden hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-secondary block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                class="hs-accordion-active:hidden hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-secondary block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                 width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                 <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                   stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                               </svg>
                                               <svg
-                                                class="hs-accordion-active:block hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-secondary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                class="hs-accordion-active:block hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-secondary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                 width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                 <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                   stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -948,26 +948,26 @@
                                               <div id="hs-accordion-collapse-2-primary"
                                                 class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300"
                                                 aria-labelledby="hs-accordion-heading-2-primary">
-                                                <p class="text-gray-800 dark:text-gray-200 py-4 px-5">
+                                                <p class="text-gray-800 py-4 px-5">
                                                   <em>This is the third item's accordion body.</em> It is hidden by default, until the collapse
                                                   plugin adds the appropriate classes that we use to style each element. These classes control the
                                                   overall appearance, as well as the showing and hiding via CSS transitions.
                                                 </p>
                                               </div>
                                             </div>
-                                            <div class="hs-accordion overflow-hidden bg-white dark:bg-bodybg border -mt-px first:rounded-t-sm last:rounded-b-sm dark:bg-bgdark dark:border-white/10" id="hs-accordion-heading-3-primary">
+                                            <div class="hs-accordion overflow-hidden bg-white border -mt-px first:rounded-t-sm last:rounded-b-sm" id="hs-accordion-heading-3-primary">
                                               <button
-                                                class="hs-accordion-toggle hs-accordion-active:text-secondary hs-accordion-active:bg-secondary/10 group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-secondary dark:text-gray-200 dark:hover:text-white/80"
+                                                class="hs-accordion-toggle hs-accordion-active:text-secondary hs-accordion-active:bg-secondary/10 group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                 aria-controls="hs-accordion-collapse-1-primary" type="button">
                                                 Accordion #3
                                                 <svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-secondary block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-secondary block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                 </svg>
                                                 <svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-secondary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-secondary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -976,7 +976,7 @@
                                               <div id="hs-accordion-collapse-3-primary"
                                                 class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300"
                                                 aria-labelledby="hs-accordion-heading-3-primary">
-                                                <p class="text-gray-800 dark:text-gray-200 py-4 px-5">
+                                                <p class="text-gray-800 py-4 px-5">
                                                   <em>This is the third item's accordion body.</em> It is hidden by default, until the collapse
                                                   plugin adds the appropriate classes that we use to style each element. These classes control the
                                                   overall appearance, as well as the showing and hiding via CSS transitions.
@@ -989,19 +989,19 @@
                                         <!-- Prism Code -->
                                         <pre class="language-html"><code class="language-html">
                                             &lt;div class="hs-accordion-group"&gt;
-                                              &lt;div class="hs-accordion active overflow-hidden bg-white dark:bg-bodybg border -mt-px first:rounded-t-sm last:rounded-b-sm dark:bg-bgdark dark:border-white/10" id="hs-accordion-heading-1-primary"&gt;
+                                              &lt;div class="hs-accordion active overflow-hidden bg-white border -mt-px first:rounded-t-sm last:rounded-b-sm" id="hs-accordion-heading-1-primary"&gt;
                                                 &lt;button
-                                                  class="hs-accordion-toggle hs-accordion-active:text-secondary hs-accordion-active:bg-secondary/10 group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-secondary dark:text-gray-200 dark:hover:text-white/80"
+                                                  class="hs-accordion-toggle hs-accordion-active:text-secondary hs-accordion-active:bg-secondary/10 group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                   aria-controls="hs-accordion-collapse-1-primary" type="button"&gt;
                                                   Accordion #1
                                                   &lt;svg
-                                                    class="hs-accordion-active:hidden hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-secondary block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:hidden hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-secondary block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                   &lt;/svg&gt;
                                                   &lt;svg
-                                                    class="hs-accordion-active:block hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-secondary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:block hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-secondary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -1010,26 +1010,26 @@
                                                 &lt;div id="hs-accordion-collapse-1-primary"
                                                   class="hs-accordion-content w-full overflow-hidden transition-[height] duration-300"
                                                   aria-labelledby="hs-accordion-heading-1-primary"&gt;
-                                                  &lt;p class="text-gray-800 dark:text-gray-200 py-4 px-5"&gt;
+                                                  &lt;p class="text-gray-800 py-4 px-5"&gt;
                                                     &lt;em&gt;This is the third item's accordion body.&lt;/em&gt; It is hidden by default, until the collapse
                                                     plugin adds the appropriate classes that we use to style each element. These classes control the
                                                     overall appearance, as well as the showing and hiding via CSS transitions.
                                                   &lt;/p&gt;
                                                 &lt;/div&gt;
                                               &lt;/div&gt;
-                                              &lt;div class="hs-accordion overflow-hidden bg-white dark:bg-bodybg border -mt-px first:rounded-t-sm last:rounded-b-sm dark:bg-bgdark dark:border-white/10" id="hs-accordion-heading-2-primary"&gt;
+                                              &lt;div class="hs-accordion overflow-hidden bg-white border -mt-px first:rounded-t-sm last:rounded-b-sm" id="hs-accordion-heading-2-primary"&gt;
                                                 &lt;button
-                                                class="hs-accordion-toggle hs-accordion-active:text-secondary hs-accordion-active:bg-secondary/10 group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-secondary dark:text-gray-200 dark:hover:text-white/80"
+                                                class="hs-accordion-toggle hs-accordion-active:text-secondary hs-accordion-active:bg-secondary/10 group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                 aria-controls="hs-accordion-collapse-1-primary" type="button"&gt;
                                                 Accordion #2
                                                 &lt;svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-secondary block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-secondary block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                   &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                 &lt;/svg&gt;
                                                 &lt;svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-secondary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-secondary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                   &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -1038,26 +1038,26 @@
                                                 &lt;div id="hs-accordion-collapse-2-primary"
                                                   class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300"
                                                   aria-labelledby="hs-accordion-heading-2-primary"&gt;
-                                                  &lt;p class="text-gray-800 dark:text-gray-200 py-4 px-5"&gt;
+                                                  &lt;p class="text-gray-800 py-4 px-5"&gt;
                                                     &lt;em&gt;This is the third item's accordion body.&lt;/em&gt; It is hidden by default, until the collapse
                                                     plugin adds the appropriate classes that we use to style each element. These classes control the
                                                     overall appearance, as well as the showing and hiding via CSS transitions.
                                                   &lt;/p&gt;
                                                 &lt;/div&gt;
                                               &lt;/div&gt;
-                                              &lt;div class="hs-accordion overflow-hidden bg-white dark:bg-bodybg border -mt-px first:rounded-t-sm last:rounded-b-sm dark:bg-bgdark dark:border-white/10" id="hs-accordion-heading-3-primary"&gt;
+                                              &lt;div class="hs-accordion overflow-hidden bg-white border -mt-px first:rounded-t-sm last:rounded-b-sm" id="hs-accordion-heading-3-primary"&gt;
                                                 &lt;button
-                                                  class="hs-accordion-toggle hs-accordion-active:text-secondary hs-accordion-active:bg-secondary/10 group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-secondary dark:text-gray-200 dark:hover:text-white/80"
+                                                  class="hs-accordion-toggle hs-accordion-active:text-secondary hs-accordion-active:bg-secondary/10 group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                   aria-controls="hs-accordion-collapse-1-primary" type="button"&gt;
                                                   Accordion #3
                                                   &lt;svg
-                                                    class="hs-accordion-active:hidden hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-secondary block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:hidden hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-secondary block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                   &lt;/svg&gt;
                                                   &lt;svg
-                                                    class="hs-accordion-active:block hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-secondary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:block hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-secondary hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -1066,7 +1066,7 @@
                                                 &lt;div id="hs-accordion-collapse-3-primary"
                                                   class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300"
                                                   aria-labelledby="hs-accordion-heading-3-primary"&gt;
-                                                  &lt;p class="text-gray-800 dark:text-gray-200 py-4 px-5"&gt;
+                                                  &lt;p class="text-gray-800 py-4 px-5"&gt;
                                                     &lt;em&gt;This is the third item's accordion body.&lt;/em&gt; It is hidden by default, until the collapse
                                                     plugin adds the appropriate classes that we use to style each element. These classes control the
                                                     overall appearance, as well as the showing and hiding via CSS transitions.
@@ -1097,19 +1097,19 @@
                                     </div>
                                     <div class="box-body">
                                         <div class="hs-accordion-group">
-                                            <div class="hs-accordion active overflow-hidden bg-white dark:bg-bodybg border -mt-px first:rounded-t-sm last:rounded-b-sm dark:bg-bgdark dark:border-white/10" id="hs-primary-heading-1">
+                                            <div class="hs-accordion active overflow-hidden bg-white border -mt-px first:rounded-t-sm last:rounded-b-sm" id="hs-primary-heading-1">
                                               <button
-                                                class="hs-accordion-toggle hs-accordion-active:text-white hs-accordion-active:bg-primary group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-white dark:text-gray-200 dark:hover:text-white/80"
+                                                class="hs-accordion-toggle hs-accordion-active:text-white hs-accordion-active:bg-primary group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                 aria-controls="hs-primary-collapse-1" type="button">
                                                 Accordion #1
                                                 <svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-white hs-accordion-active:group-hover:text-white block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-white hs-accordion-active:group-hover:text-white block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                 </svg>
                                                 <svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-white hs-accordion-active:group-hover:text-white hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-white hs-accordion-active:group-hover:text-white hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -1118,26 +1118,26 @@
                                               <div id="hs-primary-collapse-1"
                                                 class="hs-accordion-content w-full overflow-hidden transition-[height] duration-300"
                                                 aria-labelledby="hs-primary-heading-1">
-                                                <p class="text-gray-800 dark:text-gray-200 py-4 px-5">
+                                                <p class="text-gray-800 py-4 px-5">
                                                   <em>This is the third item's accordion body.</em> It is hidden by default, until the collapse
                                                   plugin adds the appropriate classes that we use to style each element. These classes control the
                                                   overall appearance, as well as the showing and hiding via CSS transitions.
                                                 </p>
                                               </div>
                                             </div>
-                                            <div class="hs-accordion overflow-hidden bg-white dark:bg-bodybg border -mt-px first:rounded-t-sm last:rounded-b-sm dark:bg-bgdark dark:border-white/10" id="hs-primary-heading-2">
+                                            <div class="hs-accordion overflow-hidden bg-white border -mt-px first:rounded-t-sm last:rounded-b-sm" id="hs-primary-heading-2">
                                               <button
-                                                class="hs-accordion-toggle hs-accordion-active:text-white hs-accordion-active:bg-primary group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-white dark:text-gray-200 dark:hover:text-white/80"
+                                                class="hs-accordion-toggle hs-accordion-active:text-white hs-accordion-active:bg-primary group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                 aria-controls="hs-primary-collapse-2" type="button">
                                                 Accordion #2
                                                 <svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-white hs-accordion-active:group-hover:text-white block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-white hs-accordion-active:group-hover:text-white block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                 </svg>
                                                 <svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-white hs-accordion-active:group-hover:text-white hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-white hs-accordion-active:group-hover:text-white hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -1146,26 +1146,26 @@
                                               <div id="hs-primary-collapse-2"
                                                 class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300"
                                                 aria-labelledby="hs-primary-heading-2">
-                                                <p class="text-gray-800 dark:text-gray-200 py-4 px-5">
+                                                <p class="text-gray-800 py-4 px-5">
                                                   <em>This is the third item's accordion body.</em> It is hidden by default, until the collapse
                                                   plugin adds the appropriate classes that we use to style each element. These classes control the
                                                   overall appearance, as well as the showing and hiding via CSS transitions.
                                                 </p>
                                               </div>
                                             </div>
-                                            <div class="hs-accordion overflow-hidden bg-white dark:bg-bodybg border -mt-px first:rounded-t-sm last:rounded-b-sm dark:bg-bgdark dark:border-white/10" id="hs-primary-heading-3">
+                                            <div class="hs-accordion overflow-hidden bg-white border -mt-px first:rounded-t-sm last:rounded-b-sm" id="hs-primary-heading-3">
                                               <button
-                                                class="hs-accordion-toggle hs-accordion-active:text-white hs-accordion-active:bg-primary group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-white dark:text-gray-200 dark:hover:text-white/80"
+                                                class="hs-accordion-toggle hs-accordion-active:text-white hs-accordion-active:bg-primary group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                 aria-controls="hs-primary-collapse-3" type="button">
                                                 Accordion #3
                                                 <svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-white hs-accordion-active:group-hover:text-white block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-white hs-accordion-active:group-hover:text-white block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                 </svg>
                                                 <svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-white hs-accordion-active:group-hover:text-white hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-white hs-accordion-active:group-hover:text-white hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -1174,7 +1174,7 @@
                                               <div id="hs-primary-collapse-3"
                                                 class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300"
                                                 aria-labelledby="hs-primary-heading-3">
-                                                <p class="text-gray-800 dark:text-gray-200 py-4 px-5">
+                                                <p class="text-gray-800 py-4 px-5">
                                                   <em>This is the third item's accordion body.</em> It is hidden by default, until the collapse
                                                   plugin adds the appropriate classes that we use to style each element. These classes control the
                                                   overall appearance, as well as the showing and hiding via CSS transitions.
@@ -1187,19 +1187,19 @@
                                         <!-- Prism Code -->
                                         <pre class="language-html"><code class="language-html">
                                             &lt;div class="hs-accordion-group"&gt;
-                                              &lt;div class="hs-accordion active overflow-hidden bg-white dark:bg-bodybg border -mt-px first:rounded-t-sm last:rounded-b-sm dark:bg-bgdark dark:border-white/10" id="hs-primary-heading-1"&gt;
+                                              &lt;div class="hs-accordion active overflow-hidden bg-white border -mt-px first:rounded-t-sm last:rounded-b-sm" id="hs-primary-heading-1"&gt;
                                                 &lt;button
-                                                  class="hs-accordion-toggle hs-accordion-active:text-white hs-accordion-active:bg-primary group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-white dark:text-gray-200 dark:hover:text-white/80"
+                                                  class="hs-accordion-toggle hs-accordion-active:text-white hs-accordion-active:bg-primary group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                   aria-controls="hs-primary-collapse-1" type="button"&gt;
                                                   Accordion #1
                                                   &lt;svg
-                                                    class="hs-accordion-active:hidden hs-accordion-active:text-white hs-accordion-active:group-hover:text-white block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:hidden hs-accordion-active:text-white hs-accordion-active:group-hover:text-white block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                   &lt;/svg&gt;
                                                   &lt;svg
-                                                    class="hs-accordion-active:block hs-accordion-active:text-white hs-accordion-active:group-hover:text-white hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:block hs-accordion-active:text-white hs-accordion-active:group-hover:text-white hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -1208,26 +1208,26 @@
                                                 &lt;div id="hs-primary-collapse-1"
                                                   class="hs-accordion-content w-full overflow-hidden transition-[height] duration-300"
                                                   aria-labelledby="hs-primary-heading-1"&gt;
-                                                  &lt;p class="text-gray-800 dark:text-gray-200 py-4 px-5"&gt;
+                                                  &lt;p class="text-gray-800 py-4 px-5"&gt;
                                                     &lt;em&gt;This is the third item's accordion body.&lt;/em&gt; It is hidden by default, until the collapse
                                                     plugin adds the appropriate classes that we use to style each element. These classes control the
                                                     overall appearance, as well as the showing and hiding via CSS transitions.
                                                   &lt;/p&gt;
                                                 &lt;/div&gt;
                                               &lt;/div&gt;
-                                              &lt;div class="hs-accordion overflow-hidden bg-white dark:bg-bodybg border -mt-px first:rounded-t-sm last:rounded-b-sm dark:bg-bgdark dark:border-white/10" id="hs-primary-heading-2"&gt;
+                                              &lt;div class="hs-accordion overflow-hidden bg-white border -mt-px first:rounded-t-sm last:rounded-b-sm" id="hs-primary-heading-2"&gt;
                                                 &lt;button
-                                                  class="hs-accordion-toggle hs-accordion-active:text-white hs-accordion-active:bg-primary group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-white dark:text-gray-200 dark:hover:text-white/80"
+                                                  class="hs-accordion-toggle hs-accordion-active:text-white hs-accordion-active:bg-primary group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                   aria-controls="hs-primary-collapse-2" type="button"&gt;
                                                   Accordion #2
                                                   &lt;svg
-                                                    class="hs-accordion-active:hidden hs-accordion-active:text-white hs-accordion-active:group-hover:text-white block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:hidden hs-accordion-active:text-white hs-accordion-active:group-hover:text-white block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                   &lt;/svg&gt;
                                                   &lt;svg
-                                                    class="hs-accordion-active:block hs-accordion-active:text-white hs-accordion-active:group-hover:text-white hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:block hs-accordion-active:text-white hs-accordion-active:group-hover:text-white hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -1236,26 +1236,26 @@
                                                 &lt;div id="hs-primary-collapse-2"
                                                   class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300"
                                                   aria-labelledby="hs-primary-heading-2"&gt;
-                                                  &lt;p class="text-gray-800 dark:text-gray-200 py-4 px-5"&gt;
+                                                  &lt;p class="text-gray-800 py-4 px-5"&gt;
                                                     &lt;em&gt;This is the third item's accordion body.&lt;/em&gt; It is hidden by default, until the collapse
                                                     plugin adds the appropriate classes that we use to style each element. These classes control the
                                                     overall appearance, as well as the showing and hiding via CSS transitions.
                                                   &lt;/p&gt;
                                                 &lt;/div&gt;
                                               &lt;/div&gt;
-                                              &lt;div class="hs-accordion overflow-hidden bg-white dark:bg-bodybg border -mt-px first:rounded-t-sm last:rounded-b-sm dark:bg-bgdark dark:border-white/10" id="hs-primary-heading-3"&gt;
+                                              &lt;div class="hs-accordion overflow-hidden bg-white border -mt-px first:rounded-t-sm last:rounded-b-sm" id="hs-primary-heading-3"&gt;
                                                 &lt;button
-                                                  class="hs-accordion-toggle hs-accordion-active:text-white hs-accordion-active:bg-primary group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-white dark:text-gray-200 dark:hover:text-white/80"
+                                                  class="hs-accordion-toggle hs-accordion-active:text-white hs-accordion-active:bg-primary group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                   aria-controls="hs-primary-collapse-3" type="button"&gt;
                                                   Accordion #3
                                                   &lt;svg
-                                                    class="hs-accordion-active:hidden hs-accordion-active:text-white hs-accordion-active:group-hover:text-white block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:hidden hs-accordion-active:text-white hs-accordion-active:group-hover:text-white block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                   &lt;/svg&gt;
                                                   &lt;svg
-                                                    class="hs-accordion-active:block hs-accordion-active:text-white hs-accordion-active:group-hover:text-white hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:block hs-accordion-active:text-white hs-accordion-active:group-hover:text-white hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -1264,7 +1264,7 @@
                                                 &lt;div id="hs-primary-collapse-3"
                                                   class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300"
                                                   aria-labelledby="hs-primary-heading-3"&gt;
-                                                  &lt;p class="text-gray-800 dark:text-gray-200 py-4 px-5"&gt;
+                                                  &lt;p class="text-gray-800 py-4 px-5"&gt;
                                                     &lt;em&gt;This is the third item's accordion body.&lt;/em&gt; It is hidden by default, until the collapse
                                                     plugin adds the appropriate classes that we use to style each element. These classes control the
                                                     overall appearance, as well as the showing and hiding via CSS transitions.
@@ -1289,19 +1289,19 @@
                                     </div>
                                     <div class="box-body">
                                         <div class="hs-accordion-group">
-                                            <div class="hs-accordion active overflow-hidden bg-white dark:bg-bodybg border -mt-px first:rounded-t-sm last:rounded-b-sm dark:bg-bgdark dark:border-white/10" id="hs-secondary-heading-1">
+                                            <div class="hs-accordion active overflow-hidden bg-white border -mt-px first:rounded-t-sm last:rounded-b-sm" id="hs-secondary-heading-1">
                                               <button
-                                                class="hs-accordion-toggle hs-accordion-active:text-white hs-accordion-active:bg-secondary group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-white dark:text-gray-200 dark:hover:text-white/80"
+                                                class="hs-accordion-toggle hs-accordion-active:text-white hs-accordion-active:bg-secondary group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                 aria-controls="hs-secondary-collapse-1" type="button">
                                                 Accordion #1
                                                 <svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-white hs-accordion-active:group-hover:text-white block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-white hs-accordion-active:group-hover:text-white block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                 </svg>
                                                 <svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-white hs-accordion-active:group-hover:text-white hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-white hs-accordion-active:group-hover:text-white hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -1310,26 +1310,26 @@
                                               <div id="hs-secondary-collapse-1"
                                                 class="hs-accordion-content w-full overflow-hidden transition-[height] duration-300"
                                                 aria-labelledby="hs-secondary-heading-1">
-                                                <p class="text-gray-800 dark:text-gray-200 py-4 px-5">
+                                                <p class="text-gray-800 py-4 px-5">
                                                   <em>This is the third item's accordion body.</em> It is hidden by default, until the collapse
                                                   plugin adds the appropriate classes that we use to style each element. These classes control the
                                                   overall appearance, as well as the showing and hiding via CSS transitions.
                                                 </p>
                                               </div>
                                             </div>
-                                            <div class="hs-accordion overflow-hidden bg-white dark:bg-bodybg border -mt-px first:rounded-t-sm last:rounded-b-sm dark:bg-bgdark dark:border-white/10" id="hs-secondary-heading-2">
+                                            <div class="hs-accordion overflow-hidden bg-white border -mt-px first:rounded-t-sm last:rounded-b-sm" id="hs-secondary-heading-2">
                                               <button
-                                                class="hs-accordion-toggle hs-accordion-active:text-white hs-accordion-active:bg-secondary group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-white dark:text-gray-200 dark:hover:text-white/80"
+                                                class="hs-accordion-toggle hs-accordion-active:text-white hs-accordion-active:bg-secondary group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                 aria-controls="hs-secondary-collapse-2" type="button">
                                                 Accordion #2
                                                 <svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-white hs-accordion-active:group-hover:text-white block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-white hs-accordion-active:group-hover:text-white block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                 </svg>
                                                 <svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-white hs-accordion-active:group-hover:text-white hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-white hs-accordion-active:group-hover:text-white hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -1338,26 +1338,26 @@
                                               <div id="hs-secondary-collapse-2"
                                                 class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300"
                                                 aria-labelledby="hs-secondary-heading-2">
-                                                <p class="text-gray-800 dark:text-gray-200 py-4 px-5">
+                                                <p class="text-gray-800 py-4 px-5">
                                                   <em>This is the third item's accordion body.</em> It is hidden by default, until the collapse
                                                   plugin adds the appropriate classes that we use to style each element. These classes control the
                                                   overall appearance, as well as the showing and hiding via CSS transitions.
                                                 </p>
                                               </div>
                                             </div>
-                                            <div class="hs-accordion overflow-hidden bg-white dark:bg-bodybg border -mt-px first:rounded-t-sm last:rounded-b-sm dark:bg-bgdark dark:border-white/10" id="hs-secondary-heading-3">
+                                            <div class="hs-accordion overflow-hidden bg-white border -mt-px first:rounded-t-sm last:rounded-b-sm" id="hs-secondary-heading-3">
                                               <button
-                                                class="hs-accordion-toggle hs-accordion-active:text-white hs-accordion-active:bg-secondary group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-white dark:text-gray-200 dark:hover:text-white/80"
+                                                class="hs-accordion-toggle hs-accordion-active:text-white hs-accordion-active:bg-secondary group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                 aria-controls="hs-secondary-collapse-3" type="button">
                                                 Accordion #3
                                                 <svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-white hs-accordion-active:group-hover:text-white block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-white hs-accordion-active:group-hover:text-white block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                 </svg>
                                                 <svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-white hs-accordion-active:group-hover:text-white hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-white hs-accordion-active:group-hover:text-white hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -1366,7 +1366,7 @@
                                               <div id="hs-secondary-collapse-3"
                                                 class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300"
                                                 aria-labelledby="hs-secondary-heading-3">
-                                                <p class="text-gray-800 dark:text-gray-200 py-4 px-5">
+                                                <p class="text-gray-800 py-4 px-5">
                                                   <em>This is the third item's accordion body.</em> It is hidden by default, until the collapse
                                                   plugin adds the appropriate classes that we use to style each element. These classes control the
                                                   overall appearance, as well as the showing and hiding via CSS transitions.
@@ -1379,19 +1379,19 @@
                                         <!-- Prism Code -->
                                         <pre class="language-html"><code class="language-html">
                                             &lt;div class="hs-accordion-group"&gt;
-                                              &lt;div class="hs-accordion active overflow-hidden bg-white dark:bg-bodybg border -mt-px first:rounded-t-sm last:rounded-b-sm dark:bg-bgdark dark:border-white/10" id="hs-secondary-heading-1"&gt;
+                                              &lt;div class="hs-accordion active overflow-hidden bg-white border -mt-px first:rounded-t-sm last:rounded-b-sm" id="hs-secondary-heading-1"&gt;
                                                 &lt;button
-                                                  class="hs-accordion-toggle hs-accordion-active:text-white hs-accordion-active:bg-secondary group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-white dark:text-gray-200 dark:hover:text-white/80"
+                                                  class="hs-accordion-toggle hs-accordion-active:text-white hs-accordion-active:bg-secondary group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                   aria-controls="hs-secondary-collapse-1" type="button"&gt;
                                                   Accordion #1
                                                   &lt;svg
-                                                    class="hs-accordion-active:hidden hs-accordion-active:text-white hs-accordion-active:group-hover:text-white block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:hidden hs-accordion-active:text-white hs-accordion-active:group-hover:text-white block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                   &lt;/svg&gt;
                                                   &lt;svg
-                                                    class="hs-accordion-active:block hs-accordion-active:text-white hs-accordion-active:group-hover:text-white hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:block hs-accordion-active:text-white hs-accordion-active:group-hover:text-white hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -1400,26 +1400,26 @@
                                                 &lt;div id="hs-secondary-collapse-1"
                                                   class="hs-accordion-content w-full overflow-hidden transition-[height] duration-300"
                                                   aria-labelledby="hs-secondary-heading-1"&gt;
-                                                  &lt;p class="text-gray-800 dark:text-gray-200 py-4 px-5"&gt;
+                                                  &lt;p class="text-gray-800 py-4 px-5"&gt;
                                                     &lt;em&gt;This is the third item's accordion body.&lt;/em&gt; It is hidden by default, until the collapse
                                                     plugin adds the appropriate classes that we use to style each element. These classes control the
                                                     overall appearance, as well as the showing and hiding via CSS transitions.
                                                   &lt;/p&gt;
                                                 &lt;/div&gt;
                                               &lt;/div&gt;
-                                              &lt;div class="hs-accordion overflow-hidden bg-white dark:bg-bodybg border -mt-px first:rounded-t-sm last:rounded-b-sm dark:bg-bgdark dark:border-white/10" id="hs-secondary-heading-2"&gt;
+                                              &lt;div class="hs-accordion overflow-hidden bg-white border -mt-px first:rounded-t-sm last:rounded-b-sm" id="hs-secondary-heading-2"&gt;
                                                 &lt;button
-                                                  class="hs-accordion-toggle hs-accordion-active:text-white hs-accordion-active:bg-secondary group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-white dark:text-gray-200 dark:hover:text-white/80"
+                                                  class="hs-accordion-toggle hs-accordion-active:text-white hs-accordion-active:bg-secondary group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                   aria-controls="hs-secondary-collapse-2" type="button"&gt;
                                                   Accordion #2
                                                   &lt;svg
-                                                    class="hs-accordion-active:hidden hs-accordion-active:text-white hs-accordion-active:group-hover:text-white block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:hidden hs-accordion-active:text-white hs-accordion-active:group-hover:text-white block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                   &lt;/svg&gt;
                                                   &lt;svg
-                                                    class="hs-accordion-active:block hs-accordion-active:text-white hs-accordion-active:group-hover:text-white hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:block hs-accordion-active:text-white hs-accordion-active:group-hover:text-white hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -1428,26 +1428,26 @@
                                                 &lt;div id="hs-secondary-collapse-2"
                                                   class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300"
                                                   aria-labelledby="hs-secondary-heading-2"&gt;
-                                                  &lt;p class="text-gray-800 dark:text-gray-200 py-4 px-5"&gt;
+                                                  &lt;p class="text-gray-800 py-4 px-5"&gt;
                                                     &lt;em&gt;This is the third item's accordion body.&lt;/em&gt; It is hidden by default, until the collapse
                                                     plugin adds the appropriate classes that we use to style each element. These classes control the
                                                     overall appearance, as well as the showing and hiding via CSS transitions.
                                                   &lt;/p&gt;
                                                 &lt;/div&gt;
                                               &lt;/div&gt;
-                                              &lt;div class="hs-accordion overflow-hidden bg-white dark:bg-bodybg border -mt-px first:rounded-t-sm last:rounded-b-sm dark:bg-bgdark dark:border-white/10" id="hs-secondary-heading-3"&gt;
+                                              &lt;div class="hs-accordion overflow-hidden bg-white border -mt-px first:rounded-t-sm last:rounded-b-sm" id="hs-secondary-heading-3"&gt;
                                                 &lt;button
-                                                  class="hs-accordion-toggle hs-accordion-active:text-white hs-accordion-active:bg-secondary group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500 dark:hs-accordion-active:text-white dark:text-gray-200 dark:hover:text-white/80"
+                                                  class="hs-accordion-toggle hs-accordion-active:text-white hs-accordion-active:bg-secondary group py-4 px-5 inline-flex items-center justify-between gap-x-3 w-full font-semibold text-start text-gray-800 transition hover:text-gray-500"
                                                   aria-controls="hs-secondary-collapse-3" type="button"&gt;
                                                   Accordion #3
                                                   &lt;svg
-                                                    class="hs-accordion-active:hidden hs-accordion-active:text-white hs-accordion-active:group-hover:text-white block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:hidden hs-accordion-active:text-white hs-accordion-active:group-hover:text-white block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                   &lt;/svg&gt;
                                                   &lt;svg
-                                                    class="hs-accordion-active:block hs-accordion-active:text-white hs-accordion-active:group-hover:text-white hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                    class="hs-accordion-active:block hs-accordion-active:text-white hs-accordion-active:group-hover:text-white hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                     width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                     &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                       stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -1456,7 +1456,7 @@
                                                 &lt;div id="hs-secondary-collapse-3"
                                                   class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300"
                                                   aria-labelledby="hs-secondary-heading-3"&gt;
-                                                  &lt;p class="text-gray-800 dark:text-gray-200 py-4 px-5"&gt;
+                                                  &lt;p class="text-gray-800 py-4 px-5"&gt;
                                                     &lt;em&gt;This is the third item's accordion body.&lt;/em&gt; It is hidden by default, until the collapse
                                                     plugin adds the appropriate classes that we use to style each element. These classes control the
                                                     overall appearance, as well as the showing and hiding via CSS transitions.
@@ -1495,13 +1495,13 @@
                                                         aria-controls="hs-basic-collapse1" type="button">
                                                         Accordion Item #1
                                                         <svg
-                                                        class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-primary group-hover:text-primary dark:text-primary"
+                                                        class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-primary group-hover:text-primary"
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                           stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                       </svg>
                                                       <svg
-                                                        class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-primary group-hover:text-primary dark:text-primary"
+                                                        class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-primary group-hover:text-primary"
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                           stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -1527,13 +1527,13 @@
                                                         aria-controls="hs-basic-collapse2" type="button">
                                                         Accordion Item #2
                                                         <svg
-                                                        class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-primary group-hover:text-primary dark:text-primary"
+                                                        class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-primary group-hover:text-primary"
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                           stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                       </svg>
                                                       <svg
-                                                        class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-primary group-hover:text-primary dark:text-primary"
+                                                        class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-primary group-hover:text-primary"
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                           stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -1559,13 +1559,13 @@
                                                         aria-controls="hs-basic-collapse-tree" type="button">
                                                         Accordion Item #3
                                                         <svg
-                                                        class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-primary group-hover:text-primary dark:text-primary"
+                                                        class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-primary group-hover:text-primary"
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                           stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                       </svg>
                                                       <svg
-                                                        class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-primary group-hover:text-primary dark:text-primary"
+                                                        class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-primary group-hover:text-primary"
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                           stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -1600,13 +1600,13 @@
                                                         aria-controls="hs-basic-collapse1" type="button"&gt;
                                                         Accordion Item #1
                                                         &lt;svg
-                                                        class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-primary group-hover:text-primary dark:text-primary"
+                                                        class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-primary group-hover:text-primary"
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                         &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                           stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                       &lt;/svg&gt;
                                                       &lt;svg
-                                                        class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-primary group-hover:text-primary dark:text-primary"
+                                                        class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-primary group-hover:text-primary"
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                         &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                           stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -1632,13 +1632,13 @@
                                                         aria-controls="hs-basic-collapse2" type="button"&gt;
                                                         Accordion Item #2
                                                         &lt;svg
-                                                        class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-primary group-hover:text-primary dark:text-primary"
+                                                        class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-primary group-hover:text-primary"
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                         &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                           stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                       &lt;/svg&gt;
                                                       &lt;svg
-                                                        class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-primary group-hover:text-primary dark:text-primary"
+                                                        class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-primary group-hover:text-primary"
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                         &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                           stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -1664,13 +1664,13 @@
                                                         aria-controls="hs-basic-collapse-tree" type="button"&gt;
                                                         Accordion Item #3
                                                         &lt;svg
-                                                        class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-primary group-hover:text-primary dark:text-primary"
+                                                        class="hs-accordion-active:hidden hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary block w-3 h-3 text-primary group-hover:text-primary"
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                         &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                           stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                       &lt;/svg&gt;
                                                       &lt;svg
-                                                        class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-primary group-hover:text-primary dark:text-primary"
+                                                        class="hs-accordion-active:block hs-accordion-active:text-primary hs-accordion-active:group-hover:text-primary hidden w-3 h-3 text-primary group-hover:text-primary"
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                         &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                           stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -1717,13 +1717,13 @@
                                                         aria-controls="hs-basic-collapse11" type="button">
                                                         Accordion Item #1
                                                         <svg
-                                                        class="hs-accordion-active:hidden hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-success block w-3 h-3 text-success group-hover:text-success dark:text-success"
+                                                        class="hs-accordion-active:hidden hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-success block w-3 h-3 text-success group-hover:text-success"
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                           stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                       </svg>
                                                       <svg
-                                                        class="hs-accordion-active:block hs-accordion-active:text-success hs-accordion-active:group-hover:text-success hidden w-3 h-3 text-success group-hover:text-success dark:text-success"
+                                                        class="hs-accordion-active:block hs-accordion-active:text-success hs-accordion-active:group-hover:text-success hidden w-3 h-3 text-success group-hover:text-success"
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                           stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -1749,13 +1749,13 @@
                                                         aria-controls="hs-basic-collapse12" type="button">
                                                         Accordion Item #2
                                                         <svg
-                                                        class="hs-accordion-active:hidden hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-success block w-3 h-3 text-success group-hover:text-success dark:text-success"
+                                                        class="hs-accordion-active:hidden hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-success block w-3 h-3 text-success group-hover:text-success"
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                           stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                       </svg>
                                                       <svg
-                                                        class="hs-accordion-active:block hs-accordion-active:text-success hs-accordion-active:group-hover:text-success hidden w-3 h-3 text-success group-hover:text-success dark:text-success"
+                                                        class="hs-accordion-active:block hs-accordion-active:text-success hs-accordion-active:group-hover:text-success hidden w-3 h-3 text-success group-hover:text-success"
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                           stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -1781,13 +1781,13 @@
                                                         aria-controls="hs-basic-collapse13" type="button">
                                                         Accordion Item #3
                                                         <svg
-                                                        class="hs-accordion-active:hidden hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-success block w-3 h-3 text-success group-hover:text-success dark:text-success"
+                                                        class="hs-accordion-active:hidden hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-success block w-3 h-3 text-success group-hover:text-success"
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                           stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                       </svg>
                                                       <svg
-                                                        class="hs-accordion-active:block hs-accordion-active:text-success hs-accordion-active:group-hover:text-success hidden w-3 h-3 text-success group-hover:text-success dark:text-success"
+                                                        class="hs-accordion-active:block hs-accordion-active:text-success hs-accordion-active:group-hover:text-success hidden w-3 h-3 text-success group-hover:text-success"
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                           stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -1822,13 +1822,13 @@
                                                         aria-controls="hs-basic-collapse11" type="button"&gt;
                                                         Accordion Item #1
                                                         &lt;svg
-                                                        class="hs-accordion-active:hidden hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-success block w-3 h-3 text-success group-hover:text-success dark:text-success"
+                                                        class="hs-accordion-active:hidden hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-success block w-3 h-3 text-success group-hover:text-success"
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                         &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                           stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                       &lt;/svg&gt;
                                                       &lt;svg
-                                                        class="hs-accordion-active:block hs-accordion-active:text-success hs-accordion-active:group-hover:text-success hidden w-3 h-3 text-success group-hover:text-success dark:text-success"
+                                                        class="hs-accordion-active:block hs-accordion-active:text-success hs-accordion-active:group-hover:text-success hidden w-3 h-3 text-success group-hover:text-success"
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                         &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                           stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -1854,13 +1854,13 @@
                                                         aria-controls="hs-basic-collapse12" type="button"&gt;
                                                         Accordion Item #2
                                                         &lt;svg
-                                                        class="hs-accordion-active:hidden hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-success block w-3 h-3 text-success group-hover:text-success dark:text-success"
+                                                        class="hs-accordion-active:hidden hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-success block w-3 h-3 text-success group-hover:text-success"
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                         &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                           stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                       &lt;/svg&gt;
                                                       &lt;svg
-                                                        class="hs-accordion-active:block hs-accordion-active:text-success hs-accordion-active:group-hover:text-success hidden w-3 h-3 text-success group-hover:text-success dark:text-success"
+                                                        class="hs-accordion-active:block hs-accordion-active:text-success hs-accordion-active:group-hover:text-success hidden w-3 h-3 text-success group-hover:text-success"
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                         &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                           stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -1886,13 +1886,13 @@
                                                         aria-controls="hs-basic-collapse13" type="button"&gt;
                                                         Accordion Item #3
                                                         &lt;svg
-                                                        class="hs-accordion-active:hidden hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-success block w-3 h-3 text-success group-hover:text-success dark:text-success"
+                                                        class="hs-accordion-active:hidden hs-accordion-active:text-secondary hs-accordion-active:group-hover:text-success block w-3 h-3 text-success group-hover:text-success"
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                         &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                           stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                       &lt;/svg&gt;
                                                       &lt;svg
-                                                        class="hs-accordion-active:block hs-accordion-active:text-success hs-accordion-active:group-hover:text-success hidden w-3 h-3 text-success group-hover:text-success dark:text-success"
+                                                        class="hs-accordion-active:block hs-accordion-active:text-success hs-accordion-active:group-hover:text-success hidden w-3 h-3 text-success group-hover:text-success"
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                         &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                           stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -1943,13 +1943,13 @@
                                                         class="hs-accordion-toggle accordion-button  hs-accordion-active:pb-3 group py-0 inline-flex items-center gap-x-3 w-full font-semibold text-start  transition"
                                                         aria-controls="hs-basic-collapse21" type="button">
                                                 <svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                 </svg>
                                                 <svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -1975,13 +1975,13 @@
                                                         class="hs-accordion-toggle accordion-button  hs-accordion-active:pb-3 group py-0 inline-flex items-center gap-x-3 w-full font-semibold text-start  transition"
                                                         aria-controls="hs-basic-collapse22" type="button">
                                                         <svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                 </svg>
                                                 <svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -2007,13 +2007,13 @@
                                                         class="hs-accordion-toggle accordion-button  hs-accordion-active:pb-3 group py-0 inline-flex items-center gap-x-3 w-full font-semibold text-start  transition"
                                                         aria-controls="hs-basic-collapse23" type="button">
                                                         <svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                 </svg>
                                                 <svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -2048,13 +2048,13 @@
                                                         class="hs-accordion-toggle accordion-button  hs-accordion-active:pb-3 group py-0 inline-flex items-center gap-x-3 w-full font-semibold text-start  transition"
                                                         aria-controls="hs-basic-collapse21" type="button"&gt;
                                                 &lt;svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                   &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                 &lt;/svg&gt;
                                                 &lt;svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                   &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -2080,13 +2080,13 @@
                                                         class="hs-accordion-toggle accordion-button  hs-accordion-active:pb-3 group py-0 inline-flex items-center gap-x-3 w-full font-semibold text-start  transition"
                                                         aria-controls="hs-basic-collapse22" type="button"&gt;
                                                         &lt;svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                   &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                 &lt;/svg&gt;
                                                 &lt;svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                   &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -2112,13 +2112,13 @@
                                                         class="hs-accordion-toggle accordion-button  hs-accordion-active:pb-3 group py-0 inline-flex items-center gap-x-3 w-full font-semibold text-start  transition"
                                                         aria-controls="hs-basic-collapse23" type="button"&gt;
                                                         &lt;svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                   &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                 &lt;/svg&gt;
                                                 &lt;svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                   &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -2166,13 +2166,13 @@
                                                         aria-controls="hs-basic-collapse31" type="button">
                                                         Accordion Item #1
                                                         <svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                 </svg>
                                                 <svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -2198,13 +2198,13 @@
                                                         aria-controls="hs-basic-collapse32" type="button">
                                                         Accordion Item #2
                                                         <svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                 </svg>
                                                 <svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -2230,13 +2230,13 @@
                                                         aria-controls="hs-basic-collapse33" type="button">
                                                         Accordion Item #3
                                                         <svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                 </svg>
                                                 <svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                   <path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -2271,13 +2271,13 @@
                                                         aria-controls="hs-basic-collapse31" type="button"&gt;
                                                         Accordion Item #1
                                                         &lt;svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                   &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                 &lt;/svg&gt;
                                                 &lt;svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                   &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -2303,13 +2303,13 @@
                                                         aria-controls="hs-basic-collapse32" type="button"&gt;
                                                         Accordion Item #2
                                                         &lt;svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                   &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                 &lt;/svg&gt;
                                                 &lt;svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                   &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
@@ -2335,13 +2335,13 @@
                                                         aria-controls="hs-basic-collapse33" type="button"&gt;
                                                         Accordion Item #3
                                                         &lt;svg
-                                                  class="hs-accordion-active:hidden hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:hidden hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 block w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                   &lt;path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;
                                                 &lt;/svg&gt;
                                                 &lt;svg
-                                                  class="hs-accordion-active:block hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 hidden w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-[#8c9097] dark:text-white/50"
+                                                  class="hs-accordion-active:block hs-accordion-active:text-gray-600 hs-accordion-active:group-hover:text-gray-600 hidden w-3 h-3 text-gray-600 group-hover:text-gray-500"
                                                   width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
                                                   &lt;path d="M2 11L8.16086 5.31305C8.35239 5.13625 8.64761 5.13625 8.83914 5.31305L15 11"
                                                     stroke="currentColor" stroke-width="2" stroke-linecap="round" /&gt;

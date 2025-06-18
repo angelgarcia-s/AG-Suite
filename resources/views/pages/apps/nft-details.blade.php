@@ -12,16 +12,16 @@
                         <!-- Page Header -->
                         <div class="block justify-between page-header md:flex">
                             <div>
-                                <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> NFT Details</h3>
+                                <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> NFT Details</h3>
                             </div>
                             <ol class="flex items-center whitespace-nowrap min-w-0">
                                 <li class="text-[0.813rem] ps-[0.5rem]">
-                                  <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                  <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                     NFT
-                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                   </a>
                                 </li>
-                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                     NFT Details
                                 </li>
                             </ol>
@@ -90,14 +90,14 @@
                                                                               <p class="mb-1 text-[0.875rem] font-semibold similar-product-name text-truncate">Neo-Nebulae</p>
                                                                               <p class="mb-0">
                                                                                   <span class="badge bg-success !text-white">13.2k<i class="ri-heart-3-fill align-middle ms-1"></i></span>
-                                                                                  <span class="text-[#8c9097] dark:text-white/50 ms-1">(13,256)</span>
+                                                                                  <span class="text-[#8c9097] ms-1">(13,256)</span>
                                                                               </p>
                                                                           </div>
                                                                           <div class="text-center">
                                                                               <p class="mb-0 text-[1rem] font-semibold">
                                                                                   <span class="avatar avatar-xs avatar-rounded p-1"><img src="{{asset('build/assets/images/crypto-currencies/regular/Ethereum.svg')}}" alt=""></span>1.099
                                                                               </p>
-                                                                              <p class="mb-0 text-[#8c9097] dark:text-white/50">
+                                                                              <p class="mb-0 text-[#8c9097]">
                                                                                   <s><span class="avatar avatar-xs avatar-rounded p-1"><img src="{{asset('build/assets/images/crypto-currencies/regular/Ethereum.svg')}}" alt=""></span>1.759</s>
                                                                               </p>
                                                                           </div>
@@ -116,14 +116,14 @@
                                                                               <p class="mb-1 text-[0.875rem] font-semibold similar-product-name text-truncate">Chromatic Chaos</p>
                                                                               <p class="mb-0">
                                                                                   <span class="badge bg-success !text-white">5.2k<i class="ri-heart-3-fill align-middle ms-1"></i></span>
-                                                                                  <span class="text-[#8c9097] dark:text-white/50 ms-1">(5,289)</span>
+                                                                                  <span class="text-[#8c9097] ms-1">(5,289)</span>
                                                                               </p>
                                                                           </div>
                                                                           <div class="text-center">
                                                                               <p class="mb-0 text-[1rem] font-semibold">
                                                                                   <span class="avatar avatar-xs avatar-rounded p-1"><img src="{{asset('build/assets/images/crypto-currencies/regular/Ethereum.svg')}}" alt=""></span>7.99
                                                                               </p>
-                                                                              <p class="mb-0 text-[#8c9097] dark:text-white/50">
+                                                                              <p class="mb-0 text-[#8c9097]">
                                                                                   <s><span class="avatar avatar-xs avatar-rounded p-1"><img src="{{asset('build/assets/images/crypto-currencies/regular/Ethereum.svg')}}" alt=""></span>12.99</s>
                                                                               </p>
                                                                           </div>
@@ -142,14 +142,14 @@
                                                                               <p class="mb-1 font-semibold similar-product-name text-truncate">Surreal Synthesis</p>
                                                                               <p class="mb-0">
                                                                                   <span class="badge bg-success !text-white">2.4k<i class="ri-heart-3-fill align-middle ms-1"></i></span>
-                                                                                  <span class="text-[#8c9097] dark:text-white/50 ms-1">(2,476)</span>
+                                                                                  <span class="text-[#8c9097] ms-1">(2,476)</span>
                                                                               </p>
                                                                           </div>
                                                                           <div class="text-center">
                                                                               <p class="mb-0 text-[1rem] font-semibold">
                                                                                   <span class="avatar avatar-xs avatar-rounded p-1"><img src="{{asset('build/assets/images/crypto-currencies/regular/Ethereum.svg')}}" alt=""></span>1.499
                                                                               </p>
-                                                                              <p class="mb-0 text-[#8c9097] dark:text-white/50">
+                                                                              <p class="mb-0 text-[#8c9097]">
                                                                                   <s><span class="avatar avatar-xs avatar-rounded p-1"><img src="{{asset('build/assets/images/crypto-currencies/regular/Ethereum.svg')}}" alt=""></span>2.599</s>
                                                                               </p>
                                                                           </div>
@@ -168,14 +168,14 @@
                                                                               <p class="mb-1 font-semibold similar-product-name text-truncate">Virtual Visions</p>
                                                                               <p class="mb-0">
                                                                                   <span class="badge bg-success !text-white">1.8k<i class="ri-heart-3-fill align-middle ms-1"></i></span>
-                                                                                  <span class="text-[#8c9097] dark:text-white/50 ms-1">(1,893)</span>
+                                                                                  <span class="text-[#8c9097] ms-1">(1,893)</span>
                                                                               </p>
                                                                           </div>
                                                                           <div class="text-center">
                                                                               <p class="mb-0 text-[1rem] font-semibold">
                                                                                   <span class="avatar avatar-xs avatar-rounded p-1"><img src="{{asset('build/assets/images/crypto-currencies/regular/Ethereum.svg')}}" alt=""></span>2.299
                                                                               </p>
-                                                                              <p class="mb-0 text-[#8c9097] dark:text-white/50">
+                                                                              <p class="mb-0 text-[#8c9097]">
                                                                                   <s><span class="avatar avatar-xs avatar-rounded p-1"><img src="{{asset('build/assets/images/crypto-currencies/regular/Ethereum.svg')}}" alt=""></span>3.299</s>
                                                                               </p>
                                                                           </div>
@@ -194,14 +194,14 @@
                                                                               <p class="mb-1 font-semibold similar-product-name text-truncate">Pixel Prism</p>
                                                                               <p class="mb-0">
                                                                                   <span class="badge bg-success !text-white">12.9k<i class="ri-heart-3-fill align-middle ms-1"></i></span>
-                                                                                  <span class="text-[#8c9097] dark:text-white/50 ms-1">(12,923)</span>
+                                                                                  <span class="text-[#8c9097] ms-1">(12,923)</span>
                                                                               </p>
                                                                           </div>
                                                                           <div class="text-center">
                                                                               <p class="mb-0 text-[1rem] font-semibold">
                                                                                   <span class="avatar avatar-xs avatar-rounded p-1"><img src="{{asset('build/assets/images/crypto-currencies/regular/Ethereum.svg')}}" alt=""></span>8.99
                                                                               </p>
-                                                                              <p class="mb-0 text-[#8c9097] dark:text-white/50">
+                                                                              <p class="mb-0 text-[#8c9097]">
                                                                                   <s><span class="avatar avatar-xs avatar-rounded p-1"><img src="{{asset('build/assets/images/crypto-currencies/regular/Ethereum.svg')}}" alt=""></span>12.99</s>
                                                                               </p>
                                                                           </div>
@@ -220,14 +220,14 @@
                                                                               <p class="mb-1 font-semibold similar-product-name text-truncate">Electric Euphoria</p>
                                                                               <p class="mb-0">
                                                                                   <span class="badge bg-success !text-white">4.5k<i class="ri-heart-3-fill align-middle ms-1"></i></span>
-                                                                                  <span class="text-[#8c9097] dark:text-white/50 ms-1">(453)</span>
+                                                                                  <span class="text-[#8c9097] ms-1">(453)</span>
                                                                               </p>
                                                                           </div>
                                                                           <div class="text-center">
                                                                               <p class="mb-0 text-[1rem] font-semibold">
                                                                                   <span class="avatar avatar-xs avatar-rounded p-1"><img src="{{asset('build/assets/images/crypto-currencies/regular/Ethereum.svg')}}" alt=""></span>1.799
                                                                               </p>
-                                                                              <p class="mb-0 text-[#8c9097] dark:text-white/50">
+                                                                              <p class="mb-0 text-[#8c9097]">
                                                                                   <s><span class="avatar avatar-xs avatar-rounded p-1"><img src="{{asset('build/assets/images/crypto-currencies/regular/Ethereum.svg')}}" alt=""></span>2.499</s>
                                                                               </p>
                                                                           </div>
@@ -246,14 +246,14 @@
                                                                               <p class="mb-1 font-semibold similar-product-name text-truncate">Virtual Veracity</p>
                                                                               <p class="mb-0">
                                                                                   <span class="badge bg-success !text-white">1.8k<i class="ri-heart-3-fill align-middle ms-1"></i></span>
-                                                                                  <span class="text-[#8c9097] dark:text-white/50 ms-1">(1,874)</span>
+                                                                                  <span class="text-[#8c9097] ms-1">(1,874)</span>
                                                                               </p>
                                                                           </div>
                                                                           <div class="text-center">
                                                                               <p class="mb-0 text-[1rem] font-semibold">
                                                                                   <span class="avatar avatar-xs avatar-rounded p-1"><img src="{{asset('build/assets/images/crypto-currencies/regular/Ethereum.svg')}}" alt=""></span>2.299
                                                                               </p>
-                                                                              <p class="mb-0 text-[#8c9097] dark:text-white/50">
+                                                                              <p class="mb-0 text-[#8c9097]">
                                                                                   <s><span class="avatar avatar-xs avatar-rounded p-1"><img src="{{asset('build/assets/images/crypto-currencies/regular/Ethereum.svg')}}" alt=""></span>2.999</s>
                                                                               </p>
                                                                           </div>
@@ -276,13 +276,13 @@
                                               <p class="text-[1.125rem] font-semibold mb-0">Digital Dream Space - NFT Digital Art</p>
                                               <p class="text-[1.125rem] mb-4">
                                                   <i class="ri-heart-3-fill text-danger align-middle"></i>
-                                                  <span class="font-semibold text-[#8c9097] dark:text-white/50"><a class="text-info text-[0.875rem]" href="javascript:void(0);">(2.4k Likes)</a></span>
+                                                  <span class="font-semibold text-[#8c9097]"><a class="text-info text-[0.875rem]" href="javascript:void(0);">(2.4k Likes)</a></span>
                                               </p>
                                               <div class="grid grid-cols-12 mb-6">
                                                   <div class="xxl:col-span-3 xl:col-span-12 col-span-12">
                                                       <p class="mb-1 leading-none text-[.6875rem] text-success font-semibold">Special Offer</p>
                                                       <p class="mb-1"><span class="h3"><span class="avatar avatar-sm avatar-rounded p-1 bg-light me-2"><img src="{{asset('build/assets/images/crypto-currencies/regular/Ethereum.svg')}}" alt=""></span>1.299<sup class="text-[0.875rem]">.00</sup></span><span class="ms-3 badge bg-danger-transparent">50% Off</span></p>
-                                                      <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.75rem]">M.R.P-<s>ETH2,599.00</s></p>
+                                                      <p class="mb-0 text-[#8c9097] text-[0.75rem]">M.R.P-<s>ETH2,599.00</s></p>
                                                   </div>
                                                   <div class="xxl:col-span-4 xl:col-span-6 lg:col-span-6 md:col-span-6 sm:col-span-12  col-span-12 xxl:mt-0 mt-4">
                                                       <p class="mb-2 text-[.9375rem] font-semibold">Creator</p>
@@ -298,7 +298,7 @@
                                               </div>
                                               <div class="mb-4">
                                                   <p class="text-[.9375rem] font-semibold mb-1">Description :</p>
-                                                  <p class="text-[#8c9097] dark:text-white/50 mb-0">
+                                                  <p class="text-[#8c9097] mb-0">
                                                       "Digital Dreamscape" is a mesmerizing NFT artwork created by a renowned digital artist. This unique piece takes viewers on a journey through a vivid and ethereal world, where vibrant colors blend seamlessly with abstract forms. The artwork is a digital representation of the artist's imagination, combining elements of surrealism and futuristic aesthetics.
                                                   </p>
                                               </div>
@@ -386,35 +386,35 @@
                                                   <div class="grid grid-cols-12 sm:gap-6">
                                                       <div class="xl:col-span-6 col-span-12">
                                                           <ul class="mb-0 list-disc ps-4">
-                                                              <li class="text-[#8c9097] dark:text-white/50 mb-2">
+                                                              <li class="text-[#8c9097] mb-2">
                                                                   NFT Title: "DIgital Dream Space"
                                                               </li>
-                                                              <li class="text-[#8c9097] dark:text-white/50 mb-2">
+                                                              <li class="text-[#8c9097] mb-2">
                                                                   Edition: Limited edition of 25
                                                               </li>
-                                                              <li class="text-[#8c9097] dark:text-white/50 mb-2">
+                                                              <li class="text-[#8c9097] mb-2">
                                                                   Medium: Digital art
                                                               </li>
-                                                              <li class="text-[#8c9097] dark:text-white/50 mb-2">
+                                                              <li class="text-[#8c9097] mb-2">
                                                                   Creation Date: July 1, 2023
                                                               </li>
-                                                              <li class="text-[#8c9097] dark:text-white/50 mb-2">
+                                                              <li class="text-[#8c9097] mb-2">
                                                                   Average Rating: 4.8/5
                                                               </li>
-                                                              <li class="text-[#8c9097] dark:text-white/50">
+                                                              <li class="text-[#8c9097]">
                                                                   Dimensions: 3000x2000 pixels
                                                               </li>
                                                           </ul>
                                                       </div>
                                                       <div class="xl:col-span-6 col-span-12">
                                                           <ul class="mb-0 list-disc ps-4">
-                                                              <li class="text-[#8c9097] dark:text-white/50 mb-2">
+                                                              <li class="text-[#8c9097] mb-2">
                                                                   Tags: #digitalart, #sunset, #mystical, #dreamscape
                                                               </li>
-                                                              <li class="text-[#8c9097] dark:text-white/50 mb-2">
+                                                              <li class="text-[#8c9097] mb-2">
                                                                   Country of origin: USA
                                                               </li>
-                                                              <li class="text-[#8c9097] dark:text-white/50">
+                                                              <li class="text-[#8c9097]">
                                                                   Exhibition History: Digital Art Expo 2023 - Gallery XYZ, New York City
                                                               </li>
                                                           </ul>
@@ -431,7 +431,7 @@
                                                               </div>
                                                               <div class="leading-none">
                                                                   <p class="mb-1">4.2 out of 5</p>
-                                                                  <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[.6875rem]">Based on (23) ratings</p>
+                                                                  <p class="mb-0 text-[#8c9097] text-[.6875rem]">Based on (23) ratings</p>
                                                               </div>
                                                           </div>
                                                           <div class="flex items-center mb-4">
@@ -441,7 +441,7 @@
                                                                   <div class="progress-bar !bg-success !text-white w-[55%]" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">
                                                                   </div>
                                                               </div>
-                                                              <div class="text-[#8c9097] dark:text-white/50 ms-2 text-[0.75rem]">(10)</div>
+                                                              <div class="text-[#8c9097] ms-2 text-[0.75rem]">(10)</div>
                                                           </div>
                                                           <div class="flex items-center mb-4">
                                                               <div class="text-[0.75rem] me-2 font-semibold">4 </div>
@@ -450,7 +450,7 @@
                                                                   <div class="progress-bar !bg-success !text-white w-[22%]" aria-valuenow="22" aria-valuemin="0" aria-valuemax="100">
                                                                   </div>
                                                               </div>
-                                                              <div class="text-[#8c9097] dark:text-white/50 ms-2 text-[0.75rem]">(6)</div>
+                                                              <div class="text-[#8c9097] ms-2 text-[0.75rem]">(6)</div>
                                                           </div>
                                                           <div class="flex items-center mb-4">
                                                               <div class="text-[0.75rem] me-2 font-semibold">3 </div>
@@ -459,7 +459,7 @@
                                                                   <div class="progress-bar !bg-success !text-white w-[8%]" aria-valuenow="8" aria-valuemin="0" aria-valuemax="100">
                                                                   </div>
                                                               </div>
-                                                              <div class="text-[#8c9097] dark:text-white/50 ms-2 text-[0.75rem]">(4)</div>
+                                                              <div class="text-[#8c9097] ms-2 text-[0.75rem]">(4)</div>
                                                           </div>
                                                           <div class="flex items-center mb-4">
                                                               <div class="text-[0.75rem] me-2 font-semibold">2 </div>
@@ -468,7 +468,7 @@
                                                                   <div class="progress-bar !bg-warning w-[9%]" aria-valuenow="9" aria-valuemin="0" aria-valuemax="100">
                                                                   </div>
                                                               </div>
-                                                              <div class="text-[#8c9097] dark:text-white/50 ms-2 text-[0.75rem]">(1)</div>
+                                                              <div class="text-[#8c9097] ms-2 text-[0.75rem]">(1)</div>
                                                           </div>
                                                           <div class="flex items-center">
                                                               <div class="text-[0.75rem] me-2 font-semibold">1 </div>
@@ -477,11 +477,11 @@
                                                                   <div class="progress-bar !bg-danger w-[6%]" aria-valuenow="6" aria-valuemin="0" aria-valuemax="100">
                                                                   </div>
                                                               </div>
-                                                              <div class="text-[#8c9097] dark:text-white/50 ms-2 text-[0.75rem]">(1)</div>
+                                                              <div class="text-[#8c9097] ms-2 text-[0.75rem]">(1)</div>
                                                           </div>
                                                       </div>
                                                       <div class="xxl:col-span-8 xl:col-span-12 lg:col-span-12 md:col-span-12 sm:col-span-12 col-span-12 xxl:mt-0 mt-4">
-                                                          <div class="border dark:border-defaultborder/10 p-4">
+                                                          <div class="border p-4">
                                                               <div class="sm:flex block items-start mb-4">
                                                                   <div class="flex flex-grow">
                                                                       <div class="me-2">
@@ -498,7 +498,7 @@
                                                                               <i class="ri-star-fill  text-warning align-middle text-[0.75rem]"></i>
                                                                               <i class="ri-star-line text-warning align-middle text-[0.75rem]"></i>
                                                                           </div>
-                                                                          <div class="text-[.6875rem] text-[#8c9097] dark:text-white/50">
+                                                                          <div class="text-[.6875rem] text-[#8c9097]">
                                                                               Reviewed on 24 nov,2023
                                                                           </div>
                                                                       </div>
@@ -509,7 +509,7 @@
                                                               </div>
                                                               <div class="sm:ps-6 ps-0 mb-4">
                                                                   <p class="font-semibold mb-1 ps-2">Truely amazing NFT&#128512;</p>
-                                                                  <p class="mb-0 text-[0.75rem] text-[#8c9097] dark:text-white/50 ps-2">Digital Dreamspace is a truly captivating NFT that takes you on an unforgettable journey. The artwork's vivid colors and ethereal elements create a sense of tranquility and wonder </p>
+                                                                  <p class="mb-0 text-[0.75rem] text-[#8c9097] ps-2">Digital Dreamspace is a truly captivating NFT that takes you on an unforgettable journey. The artwork's vivid colors and ethereal elements create a sense of tranquility and wonder </p>
                                                               </div>
                                                               <div class="product-images sm:!ps-4 !ps-0">
                                                                   <div class="grid grid-cols-12 sm:gap-6">

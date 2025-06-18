@@ -10,16 +10,16 @@
                     <!-- Page Header -->
                     <div class="block justify-between page-header md:flex">
                         <div>
-                            <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Projects</h3>
+                            <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Projects</h3>
                         </div>
                         <ol class="flex items-center whitespace-nowrap min-w-0">
                             <li class="text-[0.813rem] ps-[0.5rem]">
-                              <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                              <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                 Dashboards
-                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                               </a>
                             </li>
-                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                 Projects
                             </li>
                         </ol>
@@ -37,7 +37,7 @@
                                                     <div>
                                                         <p class="mb-1">Completed Projects</p>
                                                         <h4 class="font-semibold mb-1 text-[1.5rem]">109</h4>
-                                                        <span class="badge bg-success/10 text-success inline-flex">1.5% <i class="ti ti-trending-up ms-1"></i></span><span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] ms-1">this month</span>
+                                                        <span class="badge bg-success/10 text-success inline-flex">1.5% <i class="ti ti-trending-up ms-1"></i></span><span class="text-[#8c9097] text-[0.6875rem] ms-1">this month</span>
                                                     </div>
                                                     <div>
                                                         <span class="avatar avatar-md bg-primary text-white p-2">
@@ -53,7 +53,7 @@
                                                     <div>
                                                         <p class="mb-1">Overdue Projects</p>
                                                         <h4 class="font-semibold mb-1 text-[1.5rem]">18</h4>
-                                                        <span class="badge bg-danger/10 text-danger inline-flex">0.23% <i class="ti ti-trending-down ms-1"></i></span><span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] ms-1">this month</span>
+                                                        <span class="badge bg-danger/10 text-danger inline-flex">0.23% <i class="ti ti-trending-down ms-1"></i></span><span class="text-[#8c9097] text-[0.6875rem] ms-1">this month</span>
                                                     </div>
                                                     <div>
                                                         <span class="avatar avatar-md bg-secondary text-white p-2">
@@ -69,7 +69,7 @@
                                                     <div>
                                                         <p class="mb-1">Total Projects</p>
                                                         <h4 class="font-semibold mb-1 text-[1.5rem]">389</h4>
-                                                        <span class="badge bg-success/10 text-success inline-flex">0.67% <i class="ti ti-trending-up ms-1"></i></span><span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] ms-1">this month</span>
+                                                        <span class="badge bg-success/10 text-success inline-flex">0.67% <i class="ti ti-trending-up ms-1"></i></span><span class="text-[#8c9097] text-[0.6875rem] ms-1">this month</span>
                                                     </div>
                                                     <div>
                                                         <span class="avatar avatar-md bg-success text-white p-2">
@@ -85,7 +85,7 @@
                                                     <div>
                                                         <p class="mb-1">Pending Projects</p>
                                                         <h4 class="font-semibold mb-1 text-[1.5rem]">227</h4>
-                                                        <span class="badge bg-success/10 text-success inline-flex">0.53% <i class="ti ti-trending-up ms-1"></i></span><span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] ms-1">this month</span>
+                                                        <span class="badge bg-success/10 text-success inline-flex">0.53% <i class="ti ti-trending-up ms-1"></i></span><span class="text-[#8c9097] text-[0.6875rem] ms-1">this month</span>
                                                     </div>
                                                     <div>
                                                         <span class="avatar avatar-md bg-warning text-white p-2">
@@ -102,7 +102,7 @@
                                                         Project Analysis
                                                     </div>
                                                     <div class="hs-dropdown ti-dropdown">
-                                                        <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097] dark:text-white/50"
+                                                        <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097]"
                                                           aria-expanded="false">
                                                           View All<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                                         </a>
@@ -132,7 +132,7 @@
                                                         Team Members
                                                     </div>
                                                     <div class="hs-dropdown ti-dropdown">
-                                                        <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097] dark:text-white/50"
+                                                        <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097]"
                                                           aria-expanded="false">
                                                           View All<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                                         </a>
@@ -157,7 +157,7 @@
                                                                         </span>
                                                                         <div class="ms-4 leading-none">
                                                                             <span class="font-semibold">Melissa Smith</span>
-                                                                            <span class="block text-[0.6875rem] text-[#8c9097] dark:text-white/50 mt-2">Ui Developer</span>
+                                                                            <span class="block text-[0.6875rem] text-[#8c9097] mt-2">Ui Developer</span>
                                                                         </div>
                                                                     </div>
                                                                     <div id="user1"></div>
@@ -173,7 +173,7 @@
                                                                         </span>
                                                                         <div class="ms-4 leading-none">
                                                                             <span class="font-semibold">Jason Momoa</span>
-                                                                            <span class="block text-[0.6875rem] text-[#8c9097] dark:text-white/50 mt-2">React Developer</span>
+                                                                            <span class="block text-[0.6875rem] text-[#8c9097] mt-2">React Developer</span>
                                                                         </div>
                                                                     </div>
                                                                     <div id="user2"></div>
@@ -189,7 +189,7 @@
                                                                         </span>
                                                                         <div class="ms-4 leading-none">
                                                                             <span class="font-semibold">Kamala Hars</span>
-                                                                            <span class="block text-[0.6875rem] text-[#8c9097] dark:text-white/50 mt-2">Testing</span>
+                                                                            <span class="block text-[0.6875rem] text-[#8c9097] mt-2">Testing</span>
                                                                         </div>
                                                                     </div>
                                                                     <div id="user3"></div>
@@ -205,7 +205,7 @@
                                                                         </span>
                                                                         <div class="ms-4 leading-none">
                                                                             <span class="font-semibold">Diego Sanch</span>
-                                                                            <span class="block text-[0.6875rem] text-[#8c9097] dark:text-white/50 mt-2">Angular Developer</span>
+                                                                            <span class="block text-[0.6875rem] text-[#8c9097] mt-2">Angular Developer</span>
                                                                         </div>
                                                                     </div>
                                                                     <div id="user4"></div>
@@ -221,7 +221,7 @@
                                                                         </span>
                                                                         <div class="ms-4 leading-none">
                                                                             <span class="font-semibold">Jake Sully</span>
-                                                                            <span class="block text-[0.6875rem] text-[#8c9097] dark:text-white/50 mt-2">Web Designer</span>
+                                                                            <span class="block text-[0.6875rem] text-[#8c9097] mt-2">Web Designer</span>
                                                                         </div>
                                                                     </div>
                                                                     <div id="user5"></div>
@@ -239,7 +239,7 @@
                                                         Main Tasks
                                                     </div>
                                                     <div class="hs-dropdown ti-dropdown">
-                                                        <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097] dark:text-white/50"
+                                                        <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097]"
                                                           aria-expanded="false">
                                                           Today<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                                         </a>
@@ -390,7 +390,7 @@
                                                 Daily Tasks
                                             </div>
                                             <div class="hs-dropdown ti-dropdown">
-                                                <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097] dark:text-white/50"
+                                                <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097]"
                                                   aria-expanded="false">
                                                   View All<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                                 </a>
@@ -541,7 +541,7 @@
                                                 Recent Transactions
                                             </div>
                                             <div class="hs-dropdown ti-dropdown">
-                                                <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097] dark:text-white/50"
+                                                <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097]"
                                                   aria-expanded="false">
                                                   View All<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                                 </a>
@@ -566,7 +566,7 @@
                                                         </div>
                                                         <div class="flex-grow">
                                                             <span class="block font-semibold">Simon Cowall</span>
-                                                            <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem]">Feb 28,2023 - 12:54PM</span>
+                                                            <span class="block text-[#8c9097] text-[0.6875rem]">Feb 28,2023 - 12:54PM</span>
                                                         </div>
                                                         <div>
                                                             <h6 class="font-semibold text-[1rem]">$21,442</h6>
@@ -582,7 +582,7 @@
                                                         </div>
                                                         <div class="flex-grow">
                                                             <span class="block font-semibold">Melissa Blue</span>
-                                                            <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem]">Mar 28,2023 - 10:14AM</span>
+                                                            <span class="block text-[#8c9097] text-[0.6875rem]">Mar 28,2023 - 10:14AM</span>
                                                         </div>
                                                         <div>
                                                             <h6 class="font-semibold text-[1rem]">$8,789</h6>
@@ -598,7 +598,7 @@
                                                         </div>
                                                         <div class="flex-grow">
                                                             <span class="block font-semibold">Gabriel Shin</span>
-                                                            <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem]">Mar 16,2023 - 05:27PM</span>
+                                                            <span class="block text-[#8c9097] text-[0.6875rem]">Mar 16,2023 - 05:27PM</span>
                                                         </div>
                                                         <div>
                                                             <h6 class="font-semibold text-[1rem]">$13,677</h6>
@@ -614,7 +614,7 @@
                                                         </div>
                                                         <div class="flex-grow">
                                                             <span class="block font-semibold">Yohasimi Nakiyaro</span>
-                                                            <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem]">Mar 19,2023 - 04:45PM</span>
+                                                            <span class="block text-[#8c9097] text-[0.6875rem]">Mar 19,2023 - 04:45PM</span>
                                                         </div>
                                                         <div>
                                                             <h6 class="font-semibold text-[1rem]">$3,543</h6>
@@ -630,7 +630,7 @@
                                                         </div>
                                                         <div class="flex-grow">
                                                             <span class="block font-semibold">Brenda Lynn</span>
-                                                            <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem]">Mar 10,2023 - 05:25PM</span>
+                                                            <span class="block text-[#8c9097] text-[0.6875rem]">Mar 10,2023 - 05:25PM</span>
                                                         </div>
                                                         <div>
                                                             <h6 class="font-semibold">$7,890</h6>
@@ -687,7 +687,7 @@
                                                 </tr>
                                             </thead>
                                             <tbody>
-                                                <tr class="border border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                <tr class="border border-inherit border-solid hover:bg-gray-100">
                                                     <th scope="row" class="!text-start">
                                                         1
                                                     </th>
@@ -726,7 +726,7 @@
                                                         14-04-2023
                                                     </td>
                                                 </tr>
-                                                <tr class="border border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                <tr class="border border-inherit border-solid hover:bg-gray-100">
                                                     <th scope="row" class="!text-start">
                                                         2
                                                     </th>
@@ -765,7 +765,7 @@
                                                         20-04-2023
                                                     </td>
                                                 </tr>
-                                                <tr class="border border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                <tr class="border border-inherit border-solid hover:bg-gray-100">
                                                     <th scope="row" class="!text-start">
                                                         3
                                                     </th>
@@ -801,7 +801,7 @@
                                                         29-05-2023
                                                     </td>
                                                 </tr>
-                                                <tr class="border border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                <tr class="border border-inherit border-solid hover:bg-gray-100">
                                                     <th scope="row" class="!text-start">
                                                         4
                                                     </th>
@@ -840,7 +840,7 @@
                                                         18-04-2023
                                                     </td>
                                                 </tr>
-                                                <tr class="border border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                <tr class="border border-inherit border-solid hover:bg-gray-100">
                                                     <th scope="row" class="!text-start">
                                                         5
                                                     </th>
@@ -879,7 +879,7 @@
                                                         11-04-2023
                                                     </td>
                                                 </tr>
-                                                <tr class="border border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                <tr class="border border-inherit border-solid hover:bg-gray-100">
                                                     <th scope="row" class="!text-start">
                                                         6
                                                     </th>

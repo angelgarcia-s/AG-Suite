@@ -12,16 +12,16 @@
                       <!-- Page Header -->
                       <div class="block justify-between page-header md:flex">
                           <div>
-                              <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Cart</h3>
+                              <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Cart</h3>
                           </div>
                           <ol class="flex items-center whitespace-nowrap min-w-0">
                               <li class="text-[0.813rem] ps-[0.5rem]">
-                                <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                   Ecommerce
-                                  <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                  <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                 </a>
                               </li>
-                              <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                              <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                   Cart
                               </li>
                           </ol>
@@ -60,7 +60,7 @@
                                                   </tr>
                                               </thead>
                                               <tbody>
-                                                  <tr class="border border-inherit border-solid dark:border-defaultborder/10">
+                                                  <tr class="border border-inherit border-solid">
                                                       <td>
                                                           <div class="flex items-center">
                                                               <div class="me-4">
@@ -73,10 +73,10 @@
                                                                       <a href="javascript:void(0);">Hiroma grey Hoodie (Unisex wear)</a>
                                                                   </div>
                                                                   <div class="mb-1 flex items-center align-middle">
-                                                                      <span class="me-1">Size:</span><span class="font-semibold text-[#8c9097] dark:text-white/50">Large</span>
+                                                                      <span class="me-1">Size:</span><span class="font-semibold text-[#8c9097]">Large</span>
                                                                   </div>
                                                                   <div class="mb-1 flex items-center align-middle">
-                                                                      <span class="me-1">Color:</span><span class="font-semibold text-[#8c9097] dark:text-white/50">Grey<span class="badge bg-success/10 text-success ms-4">In Offer</span></span>
+                                                                      <span class="me-1">Color:</span><span class="font-semibold text-[#8c9097]">Grey<span class="badge bg-success/10 text-success ms-4">In Offer</span></span>
                                                                   </div>
                                                               </div>
                                                           </div>
@@ -87,7 +87,7 @@
                                                           </div>
                                                       </td>
                                                       <td class="product-quantity-container">
-                                                          <div class="input-group border dark:border-defaultborder/10 rounded-md !flex-nowrap">
+                                                          <div class="input-group border rounded-md !flex-nowrap">
                                                               <button aria-label="button" type="button" class="!border-0 ti-btn ti-btn-icon ti-btn-light  input-group-text flex-grow product-quantity-minus !mb-0" ><i class="ri-subtract-line"></i></button>
                                                               <input type="text" class="form-control form-control-sm border-0 text-center !w-[50px] !px-0" aria-label="quantity" id="product-quantity" value="2">
                                                               <button aria-label="button" type="button" class="!border-0 ti-btn ti-btn-icon ti-btn-light input-group-text flex-grow product-quantity-plus !mb-0" ><i class="ri-add-line"></i></button>
@@ -123,7 +123,7 @@
                                                           </div>
                                                       </td>
                                                   </tr>
-                                                  <tr class="border border-inherit border-solid dark:border-defaultborder/10">
+                                                  <tr class="border border-inherit border-solid">
                                                       <td>
                                                           <div class="flex items-center">
                                                               <div class="me-3">
@@ -136,10 +136,10 @@
                                                                       <a href="javascript:void(0);">Blue Demin Jacket for Women</a>
                                                                   </div>
                                                                   <div class="mb-1 flex items-center align-middle">
-                                                                      <span class="me-1">Size:</span><span class="font-semibold text-[#8c9097] dark:text-white/50">Medium</span>
+                                                                      <span class="me-1">Size:</span><span class="font-semibold text-[#8c9097]">Medium</span>
                                                                   </div>
                                                                   <div class="mb-1 flex items-center align-middle">
-                                                                      <span class="me-1">Color:</span><span class="font-semibold text-[#8c9097] dark:text-white/50">Blue<span class="badge bg-secondary text-white ms-4">25% discount</span></span>
+                                                                      <span class="me-1">Color:</span><span class="font-semibold text-[#8c9097]">Blue<span class="badge bg-secondary text-white ms-4">25% discount</span></span>
                                                                   </div>
                                                               </div>
                                                           </div>
@@ -150,7 +150,7 @@
                                                           </div>
                                                       </td>
                                                       <td class="product-quantity-container">
-                                                          <div class="input-group border dark:border-defaultborder/10 rounded-md !flex-nowrap">
+                                                          <div class="input-group border rounded-md !flex-nowrap">
                                                               <button aria-label="button" type="button" class="btn btn-icon btn-light input-group-text flex-grow product-quantity-minus !border-0" ><i class="ri-subtract-line"></i></button>
                                                               <input type="text" class="form-control form-control-sm border-0 text-center !w-[50px] !px-0" aria-label="quantity" id="product-quantity1" value="1">
                                                               <button aria-label="button" type="button" class="btn btn-icon btn-light input-group-text flex-grow product-quantity-plus !border-0" ><i class="ri-add-line"></i></button>
@@ -186,7 +186,7 @@
                                                           </div>
                                                       </td>
                                                   </tr>
-                                                  <tr class="border border-inherit border-solid dark:border-defaultborder/10">
+                                                  <tr class="border border-inherit border-solid">
                                                       <td>
                                                           <div class="flex items-center">
                                                               <div class="me-3">
@@ -199,10 +199,10 @@
                                                                       <a href="javascript:void(0);">Orange smart watch(44mm dial)</a>
                                                                   </div>
                                                                   <div class="mb-1 flex items-center align-middle">
-                                                                      <span class="me-1">Size:</span><span class="font-semibold text-[#8c9097] dark:text-white/50">44mm dial</span>
+                                                                      <span class="me-1">Size:</span><span class="font-semibold text-[#8c9097]">44mm dial</span>
                                                                   </div>
                                                                   <div class="mb-1 flex items-center align-middle">
-                                                                      <span class="me-1">Color:</span><span class="font-semibold text-[#8c9097] dark:text-white/50">Bronze<span class="badge bg-success/10 text-success ms-4">On Offer</span></span>
+                                                                      <span class="me-1">Color:</span><span class="font-semibold text-[#8c9097]">Bronze<span class="badge bg-success/10 text-success ms-4">On Offer</span></span>
                                                                   </div>
                                                               </div>
                                                           </div>
@@ -213,7 +213,7 @@
                                                           </div>
                                                       </td>
                                                       <td class="product-quantity-container">
-                                                          <div class="input-group border dark:border-defaultborder/10 rounded-md !flex-nowrap">
+                                                          <div class="input-group border rounded-md !flex-nowrap">
                                                               <button aria-label="button" type="button" class="btn btn-icon btn-light input-group-text flex-grow product-quantity-minus !border-0"><i class="ri-subtract-line"></i></button>
                                                               <input type="text" class="form-control form-control-sm border-0 text-center !w-[50px] !px-0" aria-label="quantity" id="product-quantity2" value="2">
                                                               <button aria-label="button" type="button" class="btn btn-icon btn-light input-group-text flex-grow product-quantity-plus !border-0"><i class="ri-add-line"></i></button>
@@ -249,7 +249,7 @@
                                                           </div>
                                                       </td>
                                                   </tr>
-                                                  <tr class="border border-inherit border-solid dark:border-defaultborder/10">
+                                                  <tr class="border border-inherit border-solid">
                                                       <td>
                                                           <div class="flex items-center">
                                                               <div class="me-3">
@@ -262,10 +262,10 @@
                                                                       <a href="javascript:void(0);">Sweater for winter</a>
                                                                   </div>
                                                                   <div class="mb-1 flex items-center align-middle">
-                                                                      <span class="me-1">Size:</span><span class="font-semibold text-[#8c9097] dark:text-white/50">Medium</span>
+                                                                      <span class="me-1">Size:</span><span class="font-semibold text-[#8c9097]">Medium</span>
                                                                   </div>
                                                                   <div class="mb-1 flex items-center align-middle">
-                                                                      <span class="me-1">Color:</span><span class="font-semibold text-[#8c9097] dark:text-white/50">Light Pink<span class="badge text-success bg-success/10 ms-4">On Offer</span></span>
+                                                                      <span class="me-1">Color:</span><span class="font-semibold text-[#8c9097]">Light Pink<span class="badge text-success bg-success/10 ms-4">On Offer</span></span>
                                                                   </div>
                                                               </div>
                                                           </div>
@@ -276,7 +276,7 @@
                                                           </div>
                                                       </td>
                                                       <td class="product-quantity-container">
-                                                          <div class="input-group border dark:border-defaultborder/10 rounded-md !flex-nowrap">
+                                                          <div class="input-group border rounded-md !flex-nowrap">
                                                               <button aria-label="button" type="button" class="btn btn-icon btn-light input-group-text flex-grow product-quantity-minus !border-0"><i class="ri-subtract-line"></i></button>
                                                               <input type="text" class="form-control form-control-sm border-0 text-center !w-[50px] !px-0" aria-label="quantity" id="product-quantity3" value="2">
                                                               <button aria-label="button" type="button" class="btn btn-icon btn-light input-group-text flex-grow product-quantity-plus !border-0"><i class="ri-add-line"></i></button>
@@ -312,7 +312,7 @@
                                                           </div>
                                                       </td>
                                                   </tr>
-                                                  <tr class="border border-inherit border-solid dark:border-defaultborder/10">
+                                                  <tr class="border border-inherit border-solid">
                                                       <td>
                                                           <div class="flex items-center">
                                                               <div class="me-3">
@@ -325,10 +325,10 @@
                                                                       <a href="javascript:void(0);">Snow coat from demin Corporation</a>
                                                                   </div>
                                                                   <div class="mb-1 flex items-center align-middle">
-                                                                      <span class="me-1">Size:</span><span class="font-semibold text-[#8c9097] dark:text-white/50">Large</span>
+                                                                      <span class="me-1">Size:</span><span class="font-semibold text-[#8c9097]">Large</span>
                                                                   </div>
                                                                   <div class="mb-1 flex items-center align-middle">
-                                                                      <span class="me-1">Color:</span><span class="font-semibold text-[#8c9097] dark:text-white/50">Green</span>
+                                                                      <span class="me-1">Color:</span><span class="font-semibold text-[#8c9097]">Green</span>
                                                                   </div>
                                                               </div>
                                                           </div>
@@ -339,7 +339,7 @@
                                                           </div>
                                                       </td>
                                                       <td class="product-quantity-container">
-                                                          <div class="input-group border dark:border-defaultborder/10 rounded-md !flex-nowrap">
+                                                          <div class="input-group border rounded-md !flex-nowrap">
                                                               <button aria-label="button" type="button" class="btn btn-icon btn-light input-group-text flex-grow product-quantity-minus !border-0"><i class="ri-subtract-line"></i></button>
                                                               <input type="text" class="form-control form-control-sm border-0 text-center !w-[50px] !px-0" aria-label="quantity" id="product-quantity4" value="1">
                                                               <button aria-label="button" type="button" class="btn btn-icon btn-light input-group-text flex-grow product-quantity-plus !border-0"><i class="ri-add-line"></i></button>
@@ -398,48 +398,48 @@
                           </div>
                           <div class="xxl:col-span-3 col-span-12">
                               <div class="box">
-                                  <div class="p-4 border-b dark:border-defaultborder/10 block">
+                                  <div class="p-4 border-b block">
                                       <div class="alert alert-primary text-center" role="alert">
                                           <span class="text-defaulttextcolor">Sale Ends in</span> <span class="font-semibold text-[0.875rem] text-primary ms-1">18 Hours : 32 Minutes</span>
                                       </div>
                                   </div>
                                   <div class="box-body !p-0">
-                                      <div class="p-4 border-b border-dashed dark:border-defaultborder/10">
+                                      <div class="p-4 border-b border-dashed">
                                           <p class="mb-2 font-semibold">Delivery:</p>
                                           <div class="inline-flex" role="group" aria-label="Basic radio toggle button group">
-                                              <input type="radio" class="btn-check dark:border-defaultborder/10 " name="btnradio" id="btnradio1">
-                                              <label class="ti-btn ti-btn-outline-light !text-defaulttextcolor dark:hover:!bg-light dark:text-defaulttextcolor/70 !border-e-0 dark:!border-defaultborder/10 !rounded-e-none !font-medium" for="btnradio1">Free Delivery</label>
+                                              <input type="radio" class="btn-check " name="btnradio" id="btnradio1">
+                                              <label class="ti-btn ti-btn-outline-light !text-defaulttextcolor !border-e-0 !rounded-e-none !font-medium" for="btnradio1">Free Delivery</label>
                                               <input type="radio" class="btn-check active active:bg-light" name="btnradio" id="btnradio2" checked>
-                                              <label class="ti-btn ti-btn-light dark:!border-defaultborder/10  dark:text-defaulttextcolor/70 dark:hover:!bg-light !font-medium !rounded-s-none" for="btnradio2">Express Delivery</label>
+                                              <label class="ti-btn ti-btn-light  !font-medium !rounded-s-none" for="btnradio2">Express Delivery</label>
                                           </div>
-                                          <p class="mb-0 mt-2 text-[0.75rem] text-[#8c9097] dark:text-white/50">Delivered by 24,Nov 2022</p>
+                                          <p class="mb-0 mt-2 text-[0.75rem] text-[#8c9097]">Delivered by 24,Nov 2022</p>
                                       </div>
-                                      <div class="p-4 border-b border-dashed dark:border-defaultborder/10">
+                                      <div class="p-4 border-b border-dashed">
                                           <div class="input-group">
-                                              <input type="text" class="form-control form-control-sm !rounded-s-sm  !border-e-0 dark:border-defaultborder/10" placeholder="Coupon Code" aria-label="coupon-code" aria-describedby="coupons">
+                                              <input type="text" class="form-control form-control-sm !rounded-s-sm  !border-e-0" placeholder="Coupon Code" aria-label="coupon-code" aria-describedby="coupons">
                                               <button type="button" class="ti-btn !bg-primary !text-white !font-medium !rounded-s-none !mb-0" id="coupons">Apply</button>
                                           </div>
                                           <a href="javascript:void(0);" class="text-[0.75rem] text-success">10% off on first purchase</a>
                                       </div>
-                                      <div class="p-4 border-b border-dashed dark:border-defaultborder/10">
+                                      <div class="p-4 border-b border-dashed">
                                           <div class="flex items-center justify-between mb-4">
-                                              <div class="text-[#8c9097] dark:text-white/50 opacity-[0.7]">Sub Total</div>
+                                              <div class="text-[#8c9097] opacity-[0.7]">Sub Total</div>
                                               <div class="font-semibold text-[0.875rem]">$1,299</div>
                                           </div>
                                           <div class="flex items-center justify-between mb-4">
-                                              <div class="text-[#8c9097] dark:text-white/50 opacity-[0.7]">Discount</div>
+                                              <div class="text-[#8c9097] opacity-[0.7]">Discount</div>
                                               <div class="font-semibold text-[0.875rem] text-success">10% - $129</div>
                                           </div>
                                           <div class="flex items-center justify-between mb-4">
-                                              <div class="text-[#8c9097] dark:text-white/50 opacity-[0.7]">Delivery Charges</div>
+                                              <div class="text-[#8c9097] opacity-[0.7]">Delivery Charges</div>
                                               <div class="font-semibold text-[0.875rem] text-danger">- $49</div>
                                           </div>
                                           <div class="flex items-center justify-between mb-4">
-                                              <div class="text-[#8c9097] dark:text-white/50 opacity-[0.7]">Service Tax (18%)</div>
+                                              <div class="text-[#8c9097] opacity-[0.7]">Service Tax (18%)</div>
                                               <div class="font-semibold text-[0.875rem]">- $169</div>
                                           </div>
                                           <div class="flex items-center justify-between">
-                                              <div class="text-[#8c9097] dark:text-white/50 opacity-[0.7]">Total :</div>
+                                              <div class="text-[#8c9097] opacity-[0.7]">Total :</div>
                                               <div class="font-semibold text-[0.875rem] text-primary"> $1,387</div>
                                           </div>
                                       </div>

@@ -10,16 +10,16 @@
                       <!-- Page Header -->
                       <div class="block justify-between page-header md:flex">
                           <div>
-                              <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Personal</h3>
+                              <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Personal</h3>
                           </div>
                           <ol class="flex items-center whitespace-nowrap min-w-0">
                               <li class="text-[0.813rem] ps-[0.5rem]">
-                                <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                   Dashboards
-                                  <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                  <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                 </a>
                               </li>
-                              <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                              <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                   Personal
                               </li>
                           </ol>
@@ -38,7 +38,7 @@
                                                           <div class="flex items-center justify-between">
                                                               <div class="mb-4">
                                                                   <span class="block font-semibold text-[0.9375rem]">Water Tracking</span>
-                                                                  <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem] block">87 Points</span>
+                                                                  <span class="text-[#8c9097] text-[0.75rem] block">87 Points</span>
                                                               </div>
                                                               <div>
                                                                   <span class="avatar bg-primary text-white">
@@ -49,9 +49,9 @@
                                                           <div>
                                                               <p class="mb-0">
                                                                   <span class="text-[1.5rem] font-semibold">8.1</span>
-                                                                  <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem] ms-1">Lt</span>
+                                                                  <span class="text-[#8c9097] text-[0.75rem] ms-1">Lt</span>
                                                               </p>
-                                                              <span class="text-[#8c9097] dark:text-white/50">0.9 Lt more to reach goal</span>
+                                                              <span class="text-[#8c9097]">0.9 Lt more to reach goal</span>
                                                           </div>
                                                       </div>
                                                       <div id="waterTrack"></div>
@@ -65,7 +65,7 @@
                                                           <div class="flex items-center justify-between">
                                                               <div class="mb-4">
                                                                   <span class="block font-semibold text-[0.9375rem]">Sleep Tracking</span>
-                                                                  <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem] block">54 Points</span>
+                                                                  <span class="text-[#8c9097] text-[0.75rem] block">54 Points</span>
                                                               </div>
                                                               <div>
                                                                   <span class="avatar bg-success text-white">
@@ -76,9 +76,9 @@
                                                           <div>
                                                               <p class="mb-0">
                                                                   <span class="text-[1.5rem] font-semibold">5.2</span>
-                                                                  <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem] ms-1">Hrs</span>
+                                                                  <span class="text-[#8c9097] text-[0.75rem] ms-1">Hrs</span>
                                                               </p>
-                                                              <span class="text-[#8c9097] dark:text-white/50">2.8 Hrs more to reach goal</span>
+                                                              <span class="text-[#8c9097]">2.8 Hrs more to reach goal</span>
                                                           </div>
                                                       </div>
                                                       <div id="sleepTrack"></div>
@@ -90,8 +90,8 @@
                                   <div class="xl:col-span-5 col-span-12">
                                       <div class="box">
                                           <div class="box-body !p-0">
-                                              <div class="flex flex-wrap items-center border-b border-dashed dark:border-defaultborder/10">
-                                                  <div class="px-6 py-4 flex-grow border-e border-dashed dark:border-defaultborder/10">
+                                              <div class="flex flex-wrap items-center border-b border-dashed">
+                                                  <div class="px-6 py-4 flex-grow border-e border-dashed">
                                                       <div class="flex items-center justify-between">
                                                           <p class="mb-0 flex-grow text-[0.875rem] font-semibold">Instagram</p>
                                                           <div class="ms-0">
@@ -100,11 +100,11 @@
                                                       </div>
                                                       <p class="mb-2 text-[1.5rem] font-semibold">121K</p>
                                                       <div class="flex-between">
-                                                          <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">6 min ago</span>
+                                                          <span class="text-[#8c9097] text-[0.75rem]">6 min ago</span>
                                                           <span class="text-danger"><i class="bi bi-arrow-down-right me-1 text-[0.625rem]"></i>1.5%</span>
                                                       </div>
                                                   </div>
-                                                  <div class="px-6 py-4 flex-grow border-b border-dashed dark:border-defaultborder/10">
+                                                  <div class="px-6 py-4 flex-grow border-b border-dashed">
                                                       <div class="flex items-center justify-between">
                                                           <p class="mb-0 flex-grow text-[0.875rem] font-semibold">Facebook</p>
                                                           <div class="ms-2">
@@ -113,13 +113,13 @@
                                                       </div>
                                                       <p class="mb-2 text-[1.5rem] font-semibold">2.1K</p>
                                                       <div class="flex-between">
-                                                          <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">1 hr ago</span>
+                                                          <span class="text-[#8c9097] text-[0.75rem]">1 hr ago</span>
                                                           <span class="text-warning"><i class="bi bi-arrow-down-right me-1 text-[0.625rem]"></i>1.9%</span>
                                                       </div>
                                                   </div>
                                               </div>
                                               <div class="flex flex-wrap items-center">
-                                                  <div class="px-6 py-4 flex-grow border-e border-dashed dark:border-defaultborder/10">
+                                                  <div class="px-6 py-4 flex-grow border-e border-dashed">
                                                       <div class="flex items-center justify-between">
                                                           <p class="mb-0 flex-grow text-[0.875rem] font-semibold">Youtube</p>
                                                           <div class="ms-1">
@@ -128,11 +128,11 @@
                                                       </div>
                                                       <p class="mb-2 text-[1.5rem] font-semibold">1.1M</p>
                                                       <div class="flex-between">
-                                                          <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">1 day ago</span>
+                                                          <span class="text-[#8c9097] text-[0.75rem]">1 day ago</span>
                                                           <span class="text-info"><i class="bi bi-arrow-up-right me-1 text-[0.625rem]"></i>1.9%</span>
                                                       </div>
                                                   </div>
-                                                  <div class="px-6 py-4 flex-grow border-dashed dark:border-defaultborder/10">
+                                                  <div class="px-6 py-4 flex-grow border-dashed">
                                                       <div class="flex items-center justify-between">
                                                           <p class="mb-0 flex-grow text-[0.875rem] font-semibold">Twitter</p>
                                                           <div class="ms-2">
@@ -141,7 +141,7 @@
                                                       </div>
                                                       <p class="mb-2 text-[1.5rem] font-semibold">2.1K</p>
                                                       <div class="flex-between">
-                                                          <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">1 week ago</span>
+                                                          <span class="text-[#8c9097] text-[0.75rem]">1 week ago</span>
                                                           <span class="text-purple"><i class="bi bi-arrow-up-right me-1 text-[0.625rem]"></i>1.9%</span>
                                                       </div>
                                                   </div>
@@ -167,7 +167,7 @@
                                                       </div>
                                                       <p class="text-[1.5rem] font-semibold mb-4">$1,29,389.00</p>
                                                       <p class="mb-1 text-[0.875rem]">Sarah Jahn SP</p>
-                                                      <div class="flex justify-between text-[#8c9097] dark:text-white/50">
+                                                      <div class="flex justify-between text-[#8c9097]">
                                                           <span>XXXX XXXX XXXX 1116</span>
                                                           <span>12/24</span>
                                                       </div>
@@ -206,10 +206,10 @@
                                                       </div>
                                                       <div class="mt-2">
                                                           <div class="mt-2">
-                                                              <label class="text-[#8c9097] dark:text-white/50 mb-1">Send / Receive</label>
+                                                              <label class="text-[#8c9097] mb-1">Send / Receive</label>
                                                               <div class="input-group inline-flex">
                                                                   <span class="input-group-text  !border-e-0 ">Send To</span>
-                                                                  <input type="text" value="11167731611" aria-label="First name" class="form-control !border-x-0 border-defaultborder dark:bg-bodybg dark:border-defaultborder/10">
+                                                                  <input type="text" value="11167731611" aria-label="First name" class="form-control !border-x-0 border-defaultborder">
                                                                   <button class="ti-btn ti-btn-light !mb-0" type="button">Check</button>
                                                               </div>
                                                               <label class="text-success text-[0.75rem]">Say Hii</label>
@@ -243,37 +243,37 @@
                                                               <a aria-label="anchor" href="javascript:void(0);" class="ti-btn ti-btn-info !border-0 !px-6 !py-4 leading-none rounded">
                                                                   <i class="bi bi-cash-coin text-[1.375rem]"></i>
                                                               </a>
-                                                              <a href="javascript:void(0);" class="block pt-2 text-[#8c9097] dark:text-white/50 font-semibold">Bills</a>
+                                                              <a href="javascript:void(0);" class="block pt-2 text-[#8c9097] font-semibold">Bills</a>
                                                           </div>
                                                           <div class="xxl:col-span-2 xl:col-span-2 lg:col-span-2 md:col-span-2 col-span-4 text-center">
                                                               <a aria-label="anchor" href="javascript:void(0);" class="ti-btn ti-btn-primary !border-0 !px-6 !py-4 leading-none rounded">
                                                                   <i class="bi bi-shop-window text-[1.375rem]"></i>
                                                               </a>
-                                                              <a href="javascript:void(0);" class="block pt-2 text-[#8c9097] dark:text-white/50 font-semibold">Shopping</a>
+                                                              <a href="javascript:void(0);" class="block pt-2 text-[#8c9097] font-semibold">Shopping</a>
                                                           </div>
                                                           <div class="xxl:col-span-2 xl:col-span-2 lg:col-span-2 md:col-span-2 col-span-4 text-center">
                                                               <a aria-label="anchor" href="javascript:void(0);" class="ti-btn ti-btn-warning !border-0 !px-6 !py-4 leading-none rounded">
                                                                   <i class="bi bi-compass text-[1.375rem]"></i>
                                                               </a>
-                                                              <a href="javascript:void(0);" class="block pt-2 text-[#8c9097] dark:text-white/50 font-semibold">Travel</a>
+                                                              <a href="javascript:void(0);" class="block pt-2 text-[#8c9097] font-semibold">Travel</a>
                                                           </div>
                                                           <div class="xxl:col-span-2 xl:col-span-2 lg:col-span-2 md:col-span-2 col-span-4 text-center">
                                                               <a aria-label="anchor" href="javascript:void(0);" class="ti-btn ti-btn-secondary !border-0 !px-6 !py-4 leading-none rounded">
                                                                   <i class="bi bi-gift text-[1.375rem]"></i>
                                                               </a>
-                                                              <a href="javascript:void(0);" class="block pt-2 text-[#8c9097] dark:text-white/50 font-semibold">Food</a>
+                                                              <a href="javascript:void(0);" class="block pt-2 text-[#8c9097] font-semibold">Food</a>
                                                           </div>
                                                           <div class="xxl:col-span-2 xl:col-span-2 lg:col-span-2 md:col-span-2 col-span-4 text-center">
                                                               <a aria-label="anchor" href="javascript:void(0);" class="ti-btn ti-btn-danger !border-0 !px-6 !py-4 leading-none rounded">
                                                                   <i class="bi bi-currency-bitcoin text-[1.375rem]"></i>
                                                               </a>
-                                                              <a href="javascript:void(0);" class="block pt-2 text-[#8c9097] dark:text-white/50 font-semibold">Stocks</a>
+                                                              <a href="javascript:void(0);" class="block pt-2 text-[#8c9097] font-semibold">Stocks</a>
                                                           </div>
                                                           <div class="xxl:col-span-2 xl:col-span-2 lg:col-span-2 md:col-span-2 col-span-4 text-center">
                                                               <a aria-label="anchor" href="javascript:void(0);" class="ti-btn ti-btn-light !border-0 !px-6 !py-4 leading-none rounded">
                                                                   <i class="bi bi-three-dots text-[1.375rem]"></i>
                                                               </a>
-                                                              <a href="javascript:void(0);" class="block pt-2 text-[#8c9097] dark:text-white/50 font-semibold">Others</a>
+                                                              <a href="javascript:void(0);" class="block pt-2 text-[#8c9097] font-semibold">Others</a>
                                                           </div>
                                                       </div>
                                                   </div>
@@ -298,7 +298,7 @@
                                                                   </div>
                                                                   <div class="flex-grow">
                                                                       <span>Meeting with <span class="text-primary font-semibold">Umar Xai</span></span>
-                                                                      <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem]">2 Hours</span>
+                                                                      <span class="block text-[#8c9097] text-[0.75rem]">2 Hours</span>
                                                                   </div>
                                                                   <div>
                                                                       <span class="badge bg-primary/10 text-primary whitespace-nowrap">11-06-2023</span>
@@ -314,7 +314,7 @@
                                                                   </div>
                                                                   <div class="flex-grow">
                                                                       <span><span class="text-primary font-semibold">Shin Map</span> Birthday Party</span>
-                                                                      <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem]">5 Hours</span>
+                                                                      <span class="block text-[#8c9097] text-[0.75rem]">5 Hours</span>
                                                                   </div>
                                                                   <div>
                                                                       <span class="badge bg-success/10 text-success whitespace-nowrap">15-06-2023</span>
@@ -330,7 +330,7 @@
                                                                   </div>
                                                                   <div class="flex-grow">
                                                                       <span>Holiday Trip To Italy</span>
-                                                                      <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem]">1 Week</span>
+                                                                      <span class="block text-[#8c9097] text-[0.75rem]">1 Week</span>
                                                                   </div>
                                                                   <div>
                                                                       <span class="badge bg-danger/10 text-danger whitespace-nowrap">20-06-2023</span>
@@ -346,7 +346,7 @@
                                                                   </div>
                                                                   <div class="flex-grow">
                                                                       <span>Wedding Anniversary</span>
-                                                                      <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem]">1 Day</span>
+                                                                      <span class="block text-[#8c9097] text-[0.75rem]">1 Day</span>
                                                                   </div>
                                                                   <div>
                                                                       <span class="badge bg-secondary/10 text-secondary whitespace-nowrap">24-07-2023</span>
@@ -362,7 +362,7 @@
                                                                   </div>
                                                                   <div class="flex-grow">
                                                                       <span>Meeting with <span class="text-primary font-semibold">Irav Ert</span></span>
-                                                                      <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem]">45 Minutes</span>
+                                                                      <span class="block text-[#8c9097] text-[0.75rem]">45 Minutes</span>
                                                                   </div>
                                                                   <div>
                                                                       <span class="badge bg-warning/10 text-warning whitespace-nowrap">15-06-2023</span>
@@ -407,7 +407,7 @@
                                                       </div>
                                                       <div class="flex items-center justify-between">
                                                           <div class="font-semibold">Messages</div>
-                                                          <div><i class="ri-check-double-line me-1 align-middle text-[#8c9097] dark:text-white/50 inline-flex"></i>Mark as read</div>
+                                                          <div><i class="ri-check-double-line me-1 align-middle text-[#8c9097] inline-flex"></i>Mark as read</div>
                                                       </div>
                                                       <div class="mt-6">
                                                           <ul class="list-none mb-0 personal-messages-list">
@@ -420,10 +420,10 @@
                                                                       </div>
                                                                       <div class="flex-grow">
                                                                           <span class="font-semibold block">Elin Misk</span>
-                                                                          <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50 block text-truncate message">Hello there! How are you doing? Call me when...</span>
+                                                                          <span class="text-[0.75rem] text-[#8c9097] block text-truncate message">Hello there! How are you doing? Call me when...</span>
                                                                       </div>
                                                                       <div class="text-end">
-                                                                          <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem]">2 min</span>
+                                                                          <span class="block text-[#8c9097] text-[0.75rem]">2 min</span>
                                                                           <span class="badge bg-primary !rounded-full text-white">2</span>
                                                                       </div>
                                                                   </div>
@@ -437,10 +437,10 @@
                                                                       </div>
                                                                       <div class="flex-grow">
                                                                           <span class="font-semibold block">Shakira Shen</span>
-                                                                          <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50 block text-truncate message">I would like to discuss about that assets...</span>
+                                                                          <span class="text-[0.75rem] text-[#8c9097] block text-truncate message">I would like to discuss about that assets...</span>
                                                                       </div>
                                                                       <div class="text-end">
-                                                                          <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem]">9:43Pm</span>
+                                                                          <span class="block text-[#8c9097] text-[0.75rem]">9:43Pm</span>
                                                                       </div>
                                                                   </div>
                                                               </li>
@@ -453,10 +453,10 @@
                                                                       </div>
                                                                       <div class="flex-grow">
                                                                           <span class="font-semibold block">Sebastian</span>
-                                                                          <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50 block text-truncate message">Shall we go to the cafe at downtown...</span>
+                                                                          <span class="text-[0.75rem] text-[#8c9097] block text-truncate message">Shall we go to the cafe at downtown...</span>
                                                                       </div>
                                                                       <div class="text-end">
-                                                                          <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem]">Yesterday</span>
+                                                                          <span class="block text-[#8c9097] text-[0.75rem]">Yesterday</span>
                                                                           <span class="badge bg-primary !rounded-full text-white">2</span>
                                                                       </div>
                                                                   </div>
@@ -478,7 +478,7 @@
                                               <div class="flex items-start justify-between mb-6">
                                                   <div>
                                                       <span class="block text-[0.9375rem] font-semibold">My Profile</span>
-                                                      <span class="block text-[0.75rem] text-[#8c9097] dark:text-white/50">67% Completed - <a href="javascript:void(0);" class="text-center text-primary">Click Here<i class="bi bi-box-arrow-up-right text-[0.625rem] ms-2 align-middle"></i></a></span>
+                                                      <span class="block text-[0.75rem] text-[#8c9097]">67% Completed - <a href="javascript:void(0);" class="text-center text-primary">Click Here<i class="bi bi-box-arrow-up-right text-[0.625rem] ms-2 align-middle"></i></a></span>
                                                   </div>
                                                   <div>
                                                       <div class="hs-dropdown ti-dropdown">
@@ -506,7 +506,7 @@
                                                   </div>
                                                   <div>
                                                       <h5 class="font-semibold !mb-0 text-[1.25rem]">Json Taylor</h5>
-                                                      <p class="text-[.8125rem] text-[#8c9097] dark:text-white/50">jsontaylor345@gmail.com</p>
+                                                      <p class="text-[.8125rem] text-[#8c9097]">jsontaylor345@gmail.com</p>
                                                   </div>
                                               </div>
                                               <div class=" text-center">
@@ -605,13 +605,13 @@
                                                           </div>
                                                           <div class="flex-grow">
                                                               <span class="font-semibold block mb-1">Kiara Advain</span>
-                                                              <span class="text-[#8c9097] dark:text-white/50 block text-[0.75rem]">+(72)-8765700876</span>
+                                                              <span class="text-[#8c9097] block text-[0.75rem]">+(72)-8765700876</span>
                                                           </div>
                                                           <div>
                                   <a aria-label="anchor" href="javascript:void(0);" class="text-danger me-2"><i class="bi bi-heart-fill"></i></a>
                                   <div class="hs-dropdown ti-dropdown">
                                                                   <a aria-label="anchor" href="javascript:void(0);"
-                                                                    class="flex items-center justify-center w-[1.75rem] h-[1.75rem] !text-[#8c9097] dark:text-white/50 !text-[0.8rem] !py-1 !px-2  !font-medium"
+                                                                    class="flex items-center justify-center w-[1.75rem] h-[1.75rem] !text-[#8c9097] !text-[0.8rem] !py-1 !px-2  !font-medium"
                                                                     aria-expanded="false">
                                                                     <i class="bi bi-three-dots text-[0.8rem]"></i>
                                                                   </a>
@@ -636,13 +636,13 @@
                                                           </div>
                                                           <div class="flex-grow">
                                                               <span class="font-semibold block mb-1">Jason Mama</span>
-                                                              <span class="text-[#8c9097] dark:text-white/50 block text-[0.75rem]">+(72)-234226333</span>
+                                                              <span class="text-[#8c9097] block text-[0.75rem]">+(72)-234226333</span>
                                                           </div>
                                                           <div>
                                   <a aria-label="anchor" href="javascript:void(0);" class="text-danger me-2"><i class="bi bi-heart-fill"></i></a>
                                   <div class="hs-dropdown ti-dropdown">
                                                                   <a aria-label="anchor" href="javascript:void(0);"
-                                                                    class="flex items-center justify-center w-[1.75rem] h-[1.75rem] !text-[#8c9097] dark:text-white/50 !text-[0.8rem] !py-1 !px-2  !font-medium"
+                                                                    class="flex items-center justify-center w-[1.75rem] h-[1.75rem] !text-[#8c9097] !text-[0.8rem] !py-1 !px-2  !font-medium"
                                                                     aria-expanded="false">
                                                                     <i class="bi bi-three-dots text-[0.8rem]"></i>
                                                                   </a>
@@ -667,13 +667,13 @@
                                                           </div>
                                                           <div class="flex-grow">
                                                               <span class="font-semibold block mb-1">Stuart Edward</span>
-                                                              <span class="text-[#8c9097] dark:text-white/50 block text-[0.75rem]">+(11)-16743256</span>
+                                                              <span class="text-[#8c9097] block text-[0.75rem]">+(11)-16743256</span>
                                                           </div>
                                                           <div>
                                   <a aria-label="anchor" href="javascript:void(0);" class="text-danger me-2"><i class="bi bi-heart-fill"></i></a>
                                   <div class="hs-dropdown ti-dropdown">
                                                                   <a aria-label="anchor" href="javascript:void(0);"
-                                                                    class="flex items-center justify-center w-[1.75rem] h-[1.75rem] !text-[#8c9097] dark:text-white/50 !text-[0.8rem] !py-1 !px-2  !font-medium"
+                                                                    class="flex items-center justify-center w-[1.75rem] h-[1.75rem] !text-[#8c9097] !text-[0.8rem] !py-1 !px-2  !font-medium"
                                                                     aria-expanded="false">
                                                                     <i class="bi bi-three-dots text-[0.8rem]"></i>
                                                                   </a>

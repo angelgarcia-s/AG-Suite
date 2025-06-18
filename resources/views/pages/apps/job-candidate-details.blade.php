@@ -12,16 +12,16 @@
                         <!-- Page Header -->
                         <div class="block justify-between page-header md:flex">
                             <div>
-                                <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold">Job Candidate Details</h3>
+                                <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold">Job Candidate Details</h3>
                             </div>
                             <ol class="flex items-center whitespace-nowrap min-w-0">
                                 <li class="text-[0.813rem] ps-[0.5rem]">
-                                  <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                  <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                     Jobs
-                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                   </a>
                                 </li>
-                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                     Job Candidate Details
                                 </li>
                             </ol>
@@ -42,7 +42,7 @@
                                                     <div class="sm:ms-4">
                                                         <h4 class="font-bold mb-0 sm:flex items-center"><a href="javascript:void(0);"> Brenda Simpson <i class="bi bi-check-circle-fill text-success text-[1rem]"  title="Verified candidate"></i></a></h4>
                                                         <a href="javascript:void(0);" class="font-semibold"><i class="bi bi-briefcase me-1"></i> Software Developer</a>
-                                                        <div class="flex items-center text-[.6875rem] text-[#8c9097] dark:text-white/50">
+                                                        <div class="flex items-center text-[.6875rem] text-[#8c9097]">
                                                             <p class="text-[.6875rem] mb-0">Ratings : </p>
                                                             <div class="min-w-fit sm:ms-2">
                                                                 <span class="text-warning"><i class="bi bi-star-fill"></i></span>
@@ -51,7 +51,7 @@
                                                                 <span class="text-warning"><i class="bi bi-star-fill"></i></span>
                                                                 <span class="text-warning"><i class="bi bi-star-half"></i></span>
                                                             </div>
-                                                            <a href="javascript:void(0);" class="ms-1 min-w-fit text-[#8c9097] dark:text-white/50">
+                                                            <a href="javascript:void(0);" class="ms-1 min-w-fit text-[#8c9097]">
                                                                 <span>(142)</span>
                                                                 <span>Ratings</span>
                                                             </a>
@@ -76,7 +76,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="btn-list flex">
-                                                    <a href="javascript:void(0);" class="ti-btn  ti-btn-primary-full dark:border-defaulttextcolor/10 me-2 whitespace-nowrap"><i class="bi bi-download me-1"></i> Download CV</a>
+                                                    <a href="javascript:void(0);" class="ti-btn  ti-btn-primary-full me-2 whitespace-nowrap"><i class="bi bi-download me-1"></i> Download CV</a>
                                                     <a aria-label="anchor" href="javascript:void(0);" class="ti-btn ti-btn-icon ti-btn-primary me-2">
                                                         <i class="ri-heart-line text-[.8125rem] align-middle"></i>
                                                     </a>
@@ -103,31 +103,31 @@
                                             </div>
                                         </div>
                                         <div class="box-body !p-0 candidate-edu-timeline">
-                                            <div class="p-6 border-b dark:border-defaultborder/10">
+                                            <div class="p-6 border-b">
                                                 <h5 class="font-semibold text-[1.0625rem] sm:flex items-center gap-2 mb-4"><span class="avatar !rounded-full bg-primary avatar-sm"><i class="bi bi-briefcase text-[.8125rem]"></i></span> Career Objective :</h5>
                                                 <div class="ms-6 ps-4">
                                                     <p class="opacity-[0.9] mb-4">Est amet sit vero sanctus labore no sed ipsum ipsum nonumy. Sit ipsum sanctus ea magna est. Aliquyam sed amet. Kasd diam rebum sit ipsum ipsum erat et kasd.Est amet sit vero sanctus labore no sed ipsum ipsum nonumy vero sanctus labore.A officiis optio temporibus minima facilis...</p>
                                                     <p class="mb-0 opacity-[0.9]">Sit ipsum sanctus ea magna est. Aliquyam sed amet. Kasd diam rebum sit ipsum ipsum erat et kasd.Est amet sit vero sanctus labore no sed ipsum ipsum nonumy vero sanctus labore..</p>
                                                 </div>
                                             </div>
-                                            <div class="p-6 border-b dark:border-defaultborder/10">
+                                            <div class="p-6 border-b">
                                                 <h5 class="font-semibold text-[1.0625rem] sm:flex items-center gap-2"><span class="avatar !rounded-full bg-primary avatar-sm"><i class="bi bi-mortarboard text-[.8125rem]"></i></span> Education :</h5>
                                                 <div class="ms-6 ps-4">
                                                     <p class="font-semibold text-[.875rem] mb-0">Bachelors of science in computer science</p>
                                                     <div class="sm:flex gap-2">
                                                         <p class="mb-0">Dwayne University</p>
-                                                        <p class="mb-0 text-[#8c9097] dark:text-white/50"><i class="bi bi-geo-alt text-[0.75rem]"></i> Nellore</p>
+                                                        <p class="mb-0 text-[#8c9097]"><i class="bi bi-geo-alt text-[0.75rem]"></i> Nellore</p>
                                                     </div>
                                                     <p class="mb-4"> (2019 Mar - 2022 Apr)</p>
                                                     <p class="font-semibold text-[.875rem] mb-0">Intermediate (MPC)</p>
                                                     <div class="sm:flex gap-2">
                                                         <p class="mb-0">Sprect College</p>
-                                                        <p class="mb-0 text-[#8c9097] dark:text-white/50"><i class="bi bi-geo-alt text-[0.75rem]"></i> Warangal</p>
+                                                        <p class="mb-0 text-[#8c9097]"><i class="bi bi-geo-alt text-[0.75rem]"></i> Warangal</p>
                                                     </div>
                                                     <p class="mb-0"> (2017 Mar - 2019 Apr)</p>
                                                 </div>
                                             </div>
-                                            <div class="p-6 border-b dark:border-defaultborder/10">
+                                            <div class="p-6 border-b">
                                                 <h5 class="font-semibold text-[1.0625rem] sm:flex items-center gap-2"><span class="avatar !rounded-full bg-primary avatar-sm"><i class="bi bi-award text-[.8125rem]"></i></span> Certifications :</h5>
                                                 <div class="ms-6 ps-4">
                                                     <p class="font-semibold text-[.875rem] mb-0">Web Development (3 Months)</p>
@@ -136,7 +136,7 @@
                                                     <p class="mb-0">Dabre Services Pvt Ltd</p>
                                                 </div>
                                             </div>
-                                            <div class="p-6 border-b dark:border-defaultborder/10">
+                                            <div class="p-6 border-b">
                                                 <h5 class="font-semibold text-[1.0625rem] sm:flex items-center gap-2"><span class="avatar !rounded-full bg-primary avatar-sm"><i class="bi bi-journal-medical text-[.8125rem]"></i></span> Publications :</h5>
                                                 <div class="ms-4">
                                                     <ol class="list-group border-0 list-disc ps-[2rem]">
@@ -146,7 +146,7 @@
                                                     </ol>
                                                 </div>
                                             </div>
-                                            <div class="p-6 border-b dark:border-defaultborder/10">
+                                            <div class="p-6 border-b">
                                                 <h5 class="font-semibold text-[1.0625rem] sm:flex items-center gap-2"><span class="avatar !rounded-full bg-primary avatar-sm"><i class="bi bi-activity text-[.8125rem]"></i></span> Activities and Interests :</h5>
                                                 <div class="ms-4">
                                                     <ol class="list-group border-0 list-disc ps-[2rem]">
@@ -157,7 +157,7 @@
                                                     </ol>
                                                 </div>
                                             </div>
-                                            <div class="p-6 border-b dark:border-defaultborder/10">
+                                            <div class="p-6 border-b">
                                                 <h5 class="font-semibold text-[1.0625rem] sm:flex items-center gap-2"><span class="avatar !rounded-full bg-primary avatar-sm"><i class="bi bi-link-45deg text-[.8125rem]"></i></span> References :</h5>
                                                 <div class="ms-6 ps-4">
                                                     <p class="mb-4"><span class="font-semibold ">Name : </span> Nicole Chiu</p>
@@ -177,13 +177,13 @@
                                             </div>
                                         </div>
                                         <div class="box-body !p-0 candidate-edu-timeline">
-                                            <div class="p-6 border-b dark:border-defaultborder/10">
+                                            <div class="p-6 border-b">
                                                 <h5 class="font-semibold text-[1.0625rem] sm:flex items-center gap-2 mb-4"><span class="avatar !rounded-full bg-primary avatar-sm"><i class="bi bi-briefcase text-[.8125rem]"></i></span> Experience :</h5>
                                                 <div class="ms-6 ps-4">
                                                     <p class="font-semibold text-[.875rem] mb-0">Full Stack Developer (2019 Mar - 2022 Apr)</p>
                                                     <div class="sm:flex gap-2">
                                                         <p class="mb-4">Spotech Technical Solutions</p>
-                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097] dark:text-white/50"><i class="bi bi-geo-alt text-[.6875rem]"></i> Kondapur, Hyderabad</p>
+                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097]"><i class="bi bi-geo-alt text-[.6875rem]"></i> Kondapur, Hyderabad</p>
                                                     </div>
                                                     <p class="font-semibold mb-2">Responsibilities :</p>
                                                     <ol class="list-group border-0 list-disc ps-[2rem]">
@@ -196,7 +196,7 @@
                                                 <h5 class="font-semibold text-[1.0625rem] sm:flex items-center gap-2 mb-4"><span class="avatar !rounded-full bg-primary avatar-sm"><i class="bi bi-people text-[.8125rem]"></i></span> Volunteer Experience:</h5>
                                                 <div class="ms-6 sm:ps-4">
                                                     <p class="font-semibold text-[.875rem] mb-0">Volunteer in the Student Organization</p>
-                                                    <p class="mb-2 text-[#8c9097] dark:text-white/50"><i class="bi bi-geo-alt text-[0.75rem]"></i> Warangal, 2015</p>
+                                                    <p class="mb-2 text-[#8c9097]"><i class="bi bi-geo-alt text-[0.75rem]"></i> Warangal, 2015</p>
                                                     <ol class="list-group border-0 list-disc ps-[2rem]">
                                                         <li class="border-0 py-1">In charge of Organizing activities for approximately 100+ internation schools in 2015</li>
                                                         <li class="border-0 py-1">In charge of Organizing activities for approximately 100+ internation schools in 2015</li>
@@ -205,14 +205,14 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="box custom-box border dark:border-defaultborder/10 !bg-primary/10 text-primary shadow-none">
+                                    <div class="box custom-box border !bg-primary/10 text-primary shadow-none">
                                         <div class="box-body">
                                             <div class="sm:grid grid-cols-12 items-center">
                                                 <div class="lg:col-span-6 col-span-6">
                                                     <h5 class="font-semibold mb-0">🖐 Was this profile fit for someone?</h5>
                                                 </div>
                                                 <div class="lg:col-span-6 col-span-6 text-end">
-                                                    <a href="javascript:void(0);" class="ti-btn ti-btn-success-full dark:border-defaultborder/10 ti-btn-lg">
+                                                    <a href="javascript:void(0);" class="ti-btn ti-btn-success-full ti-btn-lg">
                                                         <i class="ri-share-line me-2"></i>Share Now
                                                     </a>
                                                 </div>
@@ -267,9 +267,9 @@
                                                                     <h5 class="font-semibold mb-0 sm:flex items-center"><a href="javascript:void(0);"> Brenda Simpson <i class="bi bi-check-circle-fill text-success text-[1rem]"  title="Verified candidate"></i></a></h5>
                                                                     <div class="sm:flex gap-2">
                                                                         <a href="javascript:void(0);">Software Developer</a>
-                                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097] dark:text-white/50"><i class="bi bi-geo-alt text-[.6875rem]"></i> Kondapur, Hyderabad</p>
+                                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097]"><i class="bi bi-geo-alt text-[.6875rem]"></i> Kondapur, Hyderabad</p>
                                                                     </div>
-                                                                    <div class="sm:flex items-center text-[0.75rem] text-[#8c9097] dark:text-white/50">
+                                                                    <div class="sm:flex items-center text-[0.75rem] text-[#8c9097]">
                                                                         <p class="text-[0.75rem] mb-0">Ratings : </p>
                                                                         <div class="min-w-fit ms-2">
                                                                             <span class="text-warning"><i class="bi bi-star-fill"></i></span>
@@ -278,7 +278,7 @@
                                                                             <span class="text-warning"><i class="bi bi-star-fill"></i></span>
                                                                             <span class="text-warning"><i class="bi bi-star-half"></i></span>
                                                                         </div>
-                                                                        <a href="javascript:void(0);" class="ms-1 min-w-fit text-[#8c9097] dark:text-white/50">
+                                                                        <a href="javascript:void(0);" class="ms-1 min-w-fit text-[#8c9097]">
                                                                             <span>(142)</span>
                                                                             <span>Ratings</span>
                                                                         </a>
@@ -286,10 +286,10 @@
                                                                 </div>
                                                             </div>
                                                             <div class="popular-tags">
-                                                                <a href="javascript:void(0);" class="badge !rounded-full bg-light !text-defaulttextcolor"><i class="bi bi-mortarboard text-[#8c9097] dark:text-white/50 me-1"></i> Graduate</a>
-                                                                <a href="javascript:void(0);" class="badge !rounded-full bg-light !text-defaulttextcolor"><i class="bi bi-moon-stars text-[#8c9097] dark:text-white/50 me-1"></i> sm:flexible-shift</a>
-                                                                <a href="javascript:void(0);" class="badge !rounded-full bg-light !text-defaulttextcolor"><i class="bi bi-clock text-[#8c9097] dark:text-white/50 me-1"></i> Immediate Joinee</a>
-                                                                <a href="javascript:void(0);" class="badge !rounded-full bg-light !text-defaulttextcolor"><i class="bi bi-broadcast text-[#8c9097] dark:text-white/50 me-1"></i> Good at English</a>
+                                                                <a href="javascript:void(0);" class="badge !rounded-full bg-light !text-defaulttextcolor"><i class="bi bi-mortarboard text-[#8c9097] me-1"></i> Graduate</a>
+                                                                <a href="javascript:void(0);" class="badge !rounded-full bg-light !text-defaulttextcolor"><i class="bi bi-moon-stars text-[#8c9097] me-1"></i> sm:flexible-shift</a>
+                                                                <a href="javascript:void(0);" class="badge !rounded-full bg-light !text-defaulttextcolor"><i class="bi bi-clock text-[#8c9097] me-1"></i> Immediate Joinee</a>
+                                                                <a href="javascript:void(0);" class="badge !rounded-full bg-light !text-defaulttextcolor"><i class="bi bi-broadcast text-[#8c9097] me-1"></i> Good at English</a>
                                                             </div>
                                                         </div>
                                                         <div class="box-footer">
@@ -353,9 +353,9 @@
                                                                     <h5 class="font-semibold mb-0 sm:flex items-center"><a href="javascript:void(0);"> Dwayne Stort <i class="bi bi-check-circle-fill text-success text-[1rem]"  title="Verified candidate"></i></a></h5>
                                                                     <div class="sm:flex gap-2">
                                                                         <a href="javascript:void(0);">Web Developer</a>
-                                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097] dark:text-white/50"><i class="bi bi-geo-alt text-[.6875rem]"></i> Gachibowli, Hyderabad</p>
+                                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097]"><i class="bi bi-geo-alt text-[.6875rem]"></i> Gachibowli, Hyderabad</p>
                                                                     </div>
-                                                                    <div class="sm:flex items-center text-[0.75rem] text-[#8c9097] dark:text-white/50">
+                                                                    <div class="sm:flex items-center text-[0.75rem] text-[#8c9097]">
                                                                         <p class="text-[0.75rem] mb-0">Ratings : </p>
                                                                         <div class="min-w-fit ms-2">
                                                                             <span class="text-warning"><i class="bi bi-star-fill"></i></span>
@@ -364,7 +364,7 @@
                                                                             <span class="text-warning"><i class="bi bi-star"></i></span>
                                                                             <span class="text-warning"><i class="bi bi-star"></i></span>
                                                                         </div>
-                                                                        <a href="javascript:void(0);" class="mb-0 ms-1 min-w-fit text-[#8c9097] dark:text-white/50">
+                                                                        <a href="javascript:void(0);" class="mb-0 ms-1 min-w-fit text-[#8c9097]">
                                                                             <span>(35)</span>
                                                                             <span>Ratings</span>
                                                                         </a>
@@ -372,10 +372,10 @@
                                                                 </div>
                                                             </div>
                                                             <div class="popular-tags">
-                                                                <a href="javascript:void(0);" class="badge !rounded-full bg-light !text-defaulttextcolor"><i class="bi bi-mortarboard text-[#8c9097] dark:text-white/50 me-1"></i> Post Graduate</a>
-                                                                <a href="javascript:void(0);" class="badge !rounded-full bg-light !text-defaulttextcolor"><i class="bi bi-moon-stars text-[#8c9097] dark:text-white/50 me-1"></i> sm:flexible-shift</a>
-                                                                <a href="javascript:void(0);" class="badge !rounded-full bg-light !text-defaulttextcolor"><i class="bi bi-clock text-[#8c9097] dark:text-white/50 me-1"></i> Within 10 Days</a>
-                                                                <a href="javascript:void(0);" class="badge !rounded-full bg-light !text-defaulttextcolor"><i class="bi bi-broadcast text-[#8c9097] dark:text-white/50 me-1"></i> Good at English</a>
+                                                                <a href="javascript:void(0);" class="badge !rounded-full bg-light !text-defaulttextcolor"><i class="bi bi-mortarboard text-[#8c9097] me-1"></i> Post Graduate</a>
+                                                                <a href="javascript:void(0);" class="badge !rounded-full bg-light !text-defaulttextcolor"><i class="bi bi-moon-stars text-[#8c9097] me-1"></i> sm:flexible-shift</a>
+                                                                <a href="javascript:void(0);" class="badge !rounded-full bg-light !text-defaulttextcolor"><i class="bi bi-clock text-[#8c9097] me-1"></i> Within 10 Days</a>
+                                                                <a href="javascript:void(0);" class="badge !rounded-full bg-light !text-defaulttextcolor"><i class="bi bi-broadcast text-[#8c9097] me-1"></i> Good at English</a>
                                                             </div>
                                                         </div>
                                                         <div class="box-footer">
@@ -438,9 +438,9 @@
                                                                     <h5 class="font-semibold mb-0 sm:flex items-center"><a href="javascript:void(0);"> Jasmine Kova <i class="bi bi-check-circle-fill text-success text-[1rem]"  title="Verified candidate"></i></a></h5>
                                                                     <div class="sm:flex gap-2">
                                                                         <a href="javascript:void(0);">Python Developer</a>
-                                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097] dark:text-white/50"><i class="bi bi-geo-alt text-[.6875rem]"></i> Gachibowli, Chennai</p>
+                                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097]"><i class="bi bi-geo-alt text-[.6875rem]"></i> Gachibowli, Chennai</p>
                                                                     </div>
-                                                                    <div class="sm:flex items-center text-[0.75rem] text-[#8c9097] dark:text-white/50">
+                                                                    <div class="sm:flex items-center text-[0.75rem] text-[#8c9097]">
                                                                         <p class="text-[0.75rem] mb-0">Ratings : </p>
                                                                         <div class="min-w-fit ms-2">
                                                                             <span class="text-warning"><i class="bi bi-star-fill"></i></span>
@@ -449,7 +449,7 @@
                                                                             <span class="text-warning"><i class="bi bi-star"></i></span>
                                                                             <span class="text-warning"><i class="bi bi-star"></i></span>
                                                                         </div>
-                                                                        <a href="javascript:void(0);" class="mb-0 ms-1 min-w-fit text-[#8c9097] dark:text-white/50">
+                                                                        <a href="javascript:void(0);" class="mb-0 ms-1 min-w-fit text-[#8c9097]">
                                                                             <span>(56)</span>
                                                                             <span>Ratings</span>
                                                                         </a>
@@ -457,10 +457,10 @@
                                                                 </div>
                                                             </div>
                                                             <div class="popular-tags">
-                                                                <a href="javascript:void(0);" class="badge !rounded-full bg-light !text-defaulttextcolor"><i class="bi bi-mortarboard text-[#8c9097] dark:text-white/50 me-1"></i> MBA</a>
-                                                                <a href="javascript:void(0);" class="badge !rounded-full bg-light !text-defaulttextcolor"><i class="bi bi-moon-stars text-[#8c9097] dark:text-white/50 me-1"></i> Day-shift</a>
-                                                                <a href="javascript:void(0);" class="badge !rounded-full bg-light !text-defaulttextcolor"><i class="bi bi-clock text-[#8c9097] dark:text-white/50 me-1"></i> Within 30 Days</a>
-                                                                <a href="javascript:void(0);" class="badge !rounded-full bg-light !text-defaulttextcolor"><i class="bi bi-broadcast text-[#8c9097] dark:text-white/50 me-1"></i> Avg at English</a>
+                                                                <a href="javascript:void(0);" class="badge !rounded-full bg-light !text-defaulttextcolor"><i class="bi bi-mortarboard text-[#8c9097] me-1"></i> MBA</a>
+                                                                <a href="javascript:void(0);" class="badge !rounded-full bg-light !text-defaulttextcolor"><i class="bi bi-moon-stars text-[#8c9097] me-1"></i> Day-shift</a>
+                                                                <a href="javascript:void(0);" class="badge !rounded-full bg-light !text-defaulttextcolor"><i class="bi bi-clock text-[#8c9097] me-1"></i> Within 30 Days</a>
+                                                                <a href="javascript:void(0);" class="badge !rounded-full bg-light !text-defaulttextcolor"><i class="bi bi-broadcast text-[#8c9097] me-1"></i> Avg at English</a>
                                                             </div>
                                                         </div>
                                                         <div class="box-footer">
@@ -509,22 +509,22 @@
                                             </div>
                                         </div>
                                         <div class="box-body">
-                                            <span class="avatar me-2 !rounded-full bg-white dark:bg-bodybg dark:border-defaultborder/10 shadow-sm border p-2">
+                                            <span class="avatar me-2 !rounded-full bg-white shadow-sm border p-2">
                                                 <img src="{{asset('build/assets/images/company-logos/1.png')}}" alt="logo">
                                             </span>
-                                            <span class="avatar me-2 !rounded-full bg-white dark:bg-bodybg dark:border-defaultborder/10 shadow-sm border p-2">
+                                            <span class="avatar me-2 !rounded-full bg-white shadow-sm border p-2">
                                                 <img src="{{asset('build/assets/images/company-logos/2.png')}}" alt="logo">
                                             </span>
-                                            <span class="avatar me-2 !rounded-full bg-white dark:bg-bodybg dark:border-defaultborder/10 shadow-sm border p-2">
+                                            <span class="avatar me-2 !rounded-full bg-white shadow-sm border p-2">
                                                 <img src="{{asset('build/assets/images/company-logos/3.png')}}" alt="logo">
                                             </span>
-                                            <span class="avatar me-2 !rounded-full bg-white dark:bg-bodybg dark:border-defaultborder/10 shadow-sm border p-2">
+                                            <span class="avatar me-2 !rounded-full bg-white shadow-sm border p-2">
                                                 <img src="{{asset('build/assets/images/company-logos/4.png')}}" alt="logo">
                                             </span>
-                                            <span class="avatar me-2 !rounded-full bg-white dark:bg-bodybg dark:border-defaultborder/10 shadow-sm border p-2">
+                                            <span class="avatar me-2 !rounded-full bg-white shadow-sm border p-2">
                                                 <img src="{{asset('build/assets/images/company-logos/5.png')}}" alt="logo">
                                             </span>
-                                            <span class="avatar !rounded-full bg-white dark:bg-bodybg dark:border-defaultborder/10 shadow-sm border p-2">
+                                            <span class="avatar !rounded-full bg-white shadow-sm border p-2">
                                                 <img src="{{asset('build/assets/images/company-logos/6.png')}}" alt="logo">
                                             </span>
                                         </div>

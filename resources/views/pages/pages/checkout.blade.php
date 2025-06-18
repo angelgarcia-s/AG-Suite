@@ -12,16 +12,16 @@
                     <!-- Page Header -->
                     <div class="block justify-between page-header md:flex">
                         <div>
-                            <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Checkout</h3>
+                            <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Checkout</h3>
                         </div>
                         <ol class="flex items-center whitespace-nowrap min-w-0">
                             <li class="text-[0.813rem] ps-[0.5rem]">
-                              <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                              <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                 Ecommerce
-                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                               </a>
                             </li>
-                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                 Checkout
                             </li>
                         </ol>
@@ -34,25 +34,25 @@
                             <div class="xl:col-span-9 col-span-12">
                                 <div class="box overflow-hidden">
                                     <div class="box-body !p-0  product-checkout">
-                                        <nav class="md:flex justify-evenly !border-b !border-dashed border-defaultborder dark:border-defaultborder/10" aria-label="Tabs">
-                                            <a class="w-full hs-tab-active:text-primary hs-tab-active:relative hs-tab-active:before:bg-primary hs-tab-active:before:absolute hs-tab-active:before:start-0 hs-tab-active:before:end-0 hs-tab-active:before:bottom-0 hs-tab-active:before:w-full hs-tab-active:before:h-[0.175rem] hs-tab-active:before:rounded-full text-defaulttextcolor cursor-pointer dark:text-defaulttextcolor/70 !py-4 !px-8 text-sm inline-flex items-center flex-grow font-medium text-center rounded-none hover:text-primary active" id="order-tab" data-hs-tab="#order-tab-pane" aria-controls="order-tab-pane">
+                                        <nav class="md:flex justify-evenly !border-b !border-dashed border-defaultborder" aria-label="Tabs">
+                                            <a class="w-full hs-tab-active:text-primary hs-tab-active:relative hs-tab-active:before:bg-primary hs-tab-active:before:absolute hs-tab-active:before:start-0 hs-tab-active:before:end-0 hs-tab-active:before:bottom-0 hs-tab-active:before:w-full hs-tab-active:before:h-[0.175rem] hs-tab-active:before:rounded-full text-defaulttextcolor cursor-pointer !py-4 !px-8 text-sm inline-flex items-center flex-grow font-medium text-center rounded-none hover:text-primary active" id="order-tab" data-hs-tab="#order-tab-pane" aria-controls="order-tab-pane">
                                                 <i class="ri-truck-line me-2 align-middle w-[1.875rem] h-[1.875rem] p-[0.4rem] rounded-full hs-tab-active:bg-primary/10 bg-light !block"></i>Shipping
                                             </a>
-                                            <a class="w-full hs-tab-active:text-primary hs-tab-active:relative hs-tab-active:before:bg-primary hs-tab-active:before:absolute hs-tab-active:before:start-0 hs-tab-active:before:end-0 hs-tab-active:before:bottom-0 hs-tab-active:before:w-full hs-tab-active:before:h-[0.175rem] hs-tab-active:before:rounded-full text-defaulttextcolor cursor-pointer dark:text-defaulttextcolor/70 !py-4 !px-8 text-sm inline-flex items-center flex-grow font-medium text-center rounded-none hover:text-primary" id="confirmed-tab" data-hs-tab="#confirm-tab-pane" aria-controls="confirm-tab-pane">
+                                            <a class="w-full hs-tab-active:text-primary hs-tab-active:relative hs-tab-active:before:bg-primary hs-tab-active:before:absolute hs-tab-active:before:start-0 hs-tab-active:before:end-0 hs-tab-active:before:bottom-0 hs-tab-active:before:w-full hs-tab-active:before:h-[0.175rem] hs-tab-active:before:rounded-full text-defaulttextcolor cursor-pointer !py-4 !px-8 text-sm inline-flex items-center flex-grow font-medium text-center rounded-none hover:text-primary" id="confirmed-tab" data-hs-tab="#confirm-tab-pane" aria-controls="confirm-tab-pane">
                                                 <i class="ri-user-3-line me-2 align-middle w-[1.875rem] h-[1.875rem] p-[0.4rem] rounded-full hs-tab-active:bg-primary/10 bg-light !block"></i>PersonalDetails
                                             </a>
-                                            <a class="w-full hs-tab-active:text-primary hs-tab-active:relative hs-tab-active:before:bg-primary hs-tab-active:before:absolute hs-tab-active:before:start-0 hs-tab-active:before:end-0 hs-tab-active:before:bottom-0 hs-tab-active:before:w-full hs-tab-active:before:h-[0.175rem] hs-tab-active:before:rounded-full text-defaulttextcolor cursor-pointer dark:text-defaulttextcolor/70 !py-4 !px-8 text-sm inline-flex items-center flex-grow font-medium text-center rounded-none hover:text-primary" id="shipped-tab" data-hs-tab="#shipped-tab-pane" aria-controls="shipped-tab-pane">
+                                            <a class="w-full hs-tab-active:text-primary hs-tab-active:relative hs-tab-active:before:bg-primary hs-tab-active:before:absolute hs-tab-active:before:start-0 hs-tab-active:before:end-0 hs-tab-active:before:bottom-0 hs-tab-active:before:w-full hs-tab-active:before:h-[0.175rem] hs-tab-active:before:rounded-full text-defaulttextcolor cursor-pointer !py-4 !px-8 text-sm inline-flex items-center flex-grow font-medium text-center rounded-none hover:text-primary" id="shipped-tab" data-hs-tab="#shipped-tab-pane" aria-controls="shipped-tab-pane">
                                                 <i class="ri-bank-card-line me-2 align-middle w-[1.875rem] h-[1.875rem] p-[0.4rem] rounded-full hs-tab-active:bg-primary/10 bg-light !block"></i>Payment
                                             </a>
-                                            <a class="w-full hs-tab-active:text-primary hs-tab-active:relative hs-tab-active:before:bg-primary hs-tab-active:before:absolute hs-tab-active:before:start-0 hs-tab-active:before:end-0 hs-tab-active:before:bottom-0 hs-tab-active:before:w-full hs-tab-active:before:h-[0.175rem] hs-tab-active:before:rounded-full text-defaulttextcolor cursor-pointer dark:text-defaulttextcolor/70 !py-4 !px-8 text-sm inline-flex items-center flex-grow font-medium text-center rounded-none hover:text-primary" id="delivered-tab" data-hs-tab="#delivery-tab-pane" aria-controls="delivery-tab-pane">
+                                            <a class="w-full hs-tab-active:text-primary hs-tab-active:relative hs-tab-active:before:bg-primary hs-tab-active:before:absolute hs-tab-active:before:start-0 hs-tab-active:before:end-0 hs-tab-active:before:bottom-0 hs-tab-active:before:w-full hs-tab-active:before:h-[0.175rem] hs-tab-active:before:rounded-full text-defaulttextcolor cursor-pointer !py-4 !px-8 text-sm inline-flex items-center flex-grow font-medium text-center rounded-none hover:text-primary" id="delivered-tab" data-hs-tab="#delivery-tab-pane" aria-controls="delivery-tab-pane">
                                                 <i class="ri-checkbox-circle-line me-2 align-middle w-[1.875rem] h-[1.875rem] p-[0.4rem] rounded-full hs-tab-active:bg-primary/10 bg-light !block"></i>Confirmation
                                             </a>
                                         </nav>
                                         <div class="tab-content" id="myTabContent">
-                                            <div class="tab-pane fade show active text-defaulttextcolor dark:!text-defaulttextcolor/70 !border-0 !p-0" id="order-tab-pane" aria-labelledby="order-tab" role="tabpanel"
+                                            <div class="tab-pane fade show active text-defaulttextcolor !border-0 !p-0" id="order-tab-pane" aria-labelledby="order-tab" role="tabpanel"
                                                 tabindex="0">
                                                 <div class="p-6">
-                                                    <p class="mb-1 font-semibold text-[#8c9097] dark:text-white/50 opacity-[0.5] text-[1.25rem]">01</p>
+                                                    <p class="mb-1 font-semibold text-[#8c9097] opacity-[0.5] text-[1.25rem]">01</p>
                                                     <div class="text-[0.9375rem] font-semibold sm:flex block items-center justify-between mb-4">
                                                         <div>Shipping Address :</div>
                                                         <div class="sm:mt-0 mt-2">
@@ -204,7 +204,7 @@
                                                                       </div>
                                                                       <div class="shipping-partner-details sm:me-5 me-0">
                                                                           <p class="mb-0 font-semibold">UPS</p>
-                                                                          <p class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] mb-0">Delivered By 24,Nov 2022</p>
+                                                                          <p class="text-[#8c9097] text-[0.6875rem] mb-0">Delivered By 24,Nov 2022</p>
                                                                       </div>
                                                                       <div class="font-semibold sm:me-5 me-0">
                                                                           $9.99
@@ -227,7 +227,7 @@
                                                                       </div>
                                                                       <div class="shipping-partner-details sm:me-5 me-0">
                                                                           <p class="mb-0 font-semibold">USPS</p>
-                                                                          <p class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] mb-0">Delivered By 22,Nov 2022</p>
+                                                                          <p class="text-[#8c9097] text-[0.6875rem] mb-0">Delivered By 22,Nov 2022</p>
                                                                       </div>
                                                                       <div class="font-semibold sm:me-5 me-0">
                                                                           $10.49
@@ -250,7 +250,7 @@
                                                                       </div>
                                                                       <div class="shipping-partner-details sm:me-5 me-0">
                                                                           <p class="mb-0 font-semibold">FedEx</p>
-                                                                          <p class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] mb-0">Delivered Tomorrow</p>
+                                                                          <p class="text-[#8c9097] text-[0.6875rem] mb-0">Delivered Tomorrow</p>
                                                                       </div>
                                                                       <div class="font-semibold sm:me-5 me-0">
                                                                           $12.29
@@ -273,7 +273,7 @@
                                                                       </div>
                                                                       <div class="shipping-partner-details sm:me-5 me-0">
                                                                           <p class="mb-0 font-semibold">DHL</p>
-                                                                          <p class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] mb-0">Delivered Today</p>
+                                                                          <p class="text-[#8c9097] text-[0.6875rem] mb-0">Delivered Today</p>
                                                                       </div>
                                                                       <div class="font-semibold sm:me-5 me-0">
                                                                           $18.99
@@ -287,14 +287,14 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="px-6 py-4 border-t border-dashed dark:border-defaultborder/10 sm:flex justify-end">
+                                                <div class="px-6 py-4 border-t border-dashed sm:flex justify-end">
                                                     <button type="button" class="ti-btn ti-btn-success" id="personal-details-trigger">Personal Details<i class="ri-user-3-line ms-2 align-middle inline-block"></i></button>
                                                 </div>
                                             </div>
-                                            <div class="tab-pane fade !border-0 !p-0 text-defaulttextcolor dark:!text-defaulttextcolor/70 hidden" id="confirm-tab-pane" aria-labelledby="confirmed-tab"
+                                            <div class="tab-pane fade !border-0 !p-0 text-defaulttextcolor hidden" id="confirm-tab-pane" aria-labelledby="confirmed-tab"
                                                 role="tabpanel"  tabindex="0">
                                                 <div class="p-4">
-                                                    <p class="mb-1 font-semibold text-[#8c9097] dark:text-white/50 opacity-[0.5] text-[1.25rem]">02</p>
+                                                    <p class="mb-1 font-semibold text-[#8c9097] opacity-[0.5] text-[1.25rem]">02</p>
                                                     <div class="text-[0.9375rem] font-semibold sm:flex block items-center justify-between mb-4">
                                                         <div>Personal Details :</div>
                                                     </div>
@@ -360,8 +360,8 @@
                                             </div>
                                             <div class="tab-pane fade !border-0 !p-0 hidden" id="shipped-tab-pane" aria-labelledby="shipped-tab" role="tabpanel"
                                                 tabindex="0">
-                                                <div class="p-4 text-defaulttextcolor dark:!text-defaulttextcolor/70">
-                                                    <p class="mb-1 font-semibold text-[#8c9097] dark:text-white/50 opacity-[0.5] text-[1.25rem]">03</p>
+                                                <div class="p-4 text-defaulttextcolor">
+                                                    <p class="mb-1 font-semibold text-[#8c9097] opacity-[0.5] text-[1.25rem]">03</p>
                                                     <div class="text-[0.9375rem] font-semibold sm:flex block items-center justify-between mb-4">
                                                         <div>Payment Details :</div>
                                                     </div>
@@ -374,7 +374,7 @@
                                                                     <button type="button"  class="ti-btn ti-btn-info border-defaultborder !rounded-s-none !mb-0" id="payment-address">Change</button>
                                                                 </div>
                                                             </div>
-                                                            <div class="box border dark:border-defaultborder/10 !shadow-none mb-4">
+                                                            <div class="box border !shadow-none mb-4">
                                                                 <div class="box-header">
                                                                     <div class="box-title">
                                                                         Payment Methods
@@ -383,11 +383,11 @@
                                                                 <div class="box-body">
                                                                     <div class="mb-4 sm:flex block " role="group" aria-label="Basic radio toggle button group">
                                                                         <input type="radio" class="btn-check " name="btnradio" id="btnradio1">
-                                                                        <label class="w-full ti-btn ti-btn-outline-light !text-defaulttextcolor sm:!border-e-0 dark:!text-defaulttextcolor/70 dark:!border-defaultborder/10 hover:!bg-light !rounded-e-none" >C.O.D(Cash on delivery)</label>
+                                                                        <label class="w-full ti-btn ti-btn-outline-light !text-defaulttextcolor sm:!border-e-0 hover:!bg-light !rounded-e-none" >C.O.D(Cash on delivery)</label>
                                                                         <input type="radio" class="btn-check" name="btnradio" id="btnradio2">
-                                                                        <label class="w-full ti-btn ti-btn-outline-light !text-defaulttextcolor dark:!text-defaulttextcolor/70 sm:!border-e-0 dark:!border-defaultborder/10 hover:!bg-light sm:mt-0 mt-1 !rounded-none" >UPI</label>
+                                                                        <label class="w-full ti-btn ti-btn-outline-light !text-defaulttextcolor sm:!border-e-0 hover:!bg-light sm:mt-0 mt-1 !rounded-none" >UPI</label>
                                                                         <input type="radio" class="btn-check" name="btnradio" id="btnradio3" checked>
-                                                                        <label class="w-full ti-btn ti-btn-light !text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:!border-defaultborder/10 hover:!bg-light !rounded-s-none sm:mt-0 mt-1" >Credit/Debit Card</label>
+                                                                        <label class="w-full ti-btn ti-btn-light !text-defaulttextcolor hover:!bg-light !rounded-s-none sm:mt-0 mt-1" >Credit/Debit Card</label>
                                                                     </div>
                                                                     <div class="grid grid-cols-12 gap-4">
                                                                         <div class="xl:col-span-12 col-span-12">
@@ -468,7 +468,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="px-6 py-4 border-t border-dashed dark:border-defaultborder/10 sm:flex justify-between">
+                                                <div class="px-6 py-4 border-t border-dashed sm:flex justify-between">
                                                     <button type="button" class="ti-btn ti-btn-danger m-1" id="back-personal-trigger"><i class="ri-user-3-line me-2 align-middle inline-block"></i>Back To Personal Info</button>
                                                     <button type="button" class="ti-btn ti-btn-success m-1" id="continue-payment-trigger">Continue Payment<i class="bi bi-credit-card-2-front align-middle ms-2 inline-block"></i></button>
                                                 </div>
@@ -484,7 +484,7 @@
                                                     </div>
                                                     <div class="mb-6">
                                                         <p class="mb-1 text-[0.875rem]">You can track your order with Order Id <b>SPK#1FR</b> from <a class="link-success" href="javascript:void(0);"><u class="text-success">Track Order</u></a></p>
-                                                        <p class="text-[#8c9097] dark:text-white/50">Thankyou for shopping with us.</p>
+                                                        <p class="text-[#8c9097]">Thankyou for shopping with us.</p>
                                                     </div>
                                                     <a href="{{url('products')}}" class="ti-btn bg-success text-white !font-medium">Continue Shopping<i class="bi bi-cart ms-2"></i></a>
                                                 </div>
@@ -509,19 +509,19 @@
                                                     </div>
                                                     <div class="flex-grow">
                                                         <p class="mb-0 font-semibold">Blue sweatshirt</p>
-                                                        <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.75rem]">Quantity : 2  <span class="badge bg-success/10 text-success ms-4">30% Off</span></p>
+                                                        <p class="mb-0 text-[#8c9097] text-[0.75rem]">Quantity : 2  <span class="badge bg-success/10 text-success ms-4">30% Off</span></p>
                                                     </div>
                                                     <div>
                                                         <p class="mb-0 text-end">
                                                             <a aria-label="anchor" href="javascript:void(0)">
-                                                                <i class="ri-close-line text-[1rem] text-[#8c9097] dark:text-white/50"></i>
+                                                                <i class="ri-close-line text-[1rem] text-[#8c9097]"></i>
                                                             </a>
                                                         </p>
-                                                        <p class="mb-0 text-[0.875rem] font-semibold">$189<span class="ms-1 text-[#8c9097] dark:text-white/50 text-[0.6875rem]"><s>$329</s></span></p>
+                                                        <p class="mb-0 text-[0.875rem] font-semibold">$189<span class="ms-1 text-[#8c9097] text-[0.6875rem]"><s>$329</s></span></p>
                                                     </div>
                                                 </div>
                                             </li>
-                                            <li class="list-group-item  !border-s-0 !border-e-0 dark:border-defaultborder/10 border-start-0 border-end-0">
+                                            <li class="list-group-item  !border-s-0 !border-e-0 border-start-0 border-end-0">
                                                 <div class="flex items-center flex-wrap">
                                                     <div class="me-2">
                                                         <span class="avatar avatar-lg bg-light">
@@ -530,40 +530,40 @@
                                                     </div>
                                                     <div class="flex-grow">
                                                         <p class="mb-0 font-semibold">Denim Jacket</p>
-                                                        <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.75rem]">Quantity : 1  <span class="badge bg-success/10 text-success ms-4">10% Off</span></p>
+                                                        <p class="mb-0 text-[#8c9097] text-[0.75rem]">Quantity : 1  <span class="badge bg-success/10 text-success ms-4">10% Off</span></p>
                                                     </div>
                                                     <div>
                                                         <p class="mb-0 text-end">
                                                             <a aria-label="anchor" href="javascript:void(0)">
-                                                                <i class="ri-close-line text-[1rem] text-[#8c9097] dark:text-white/50"></i>
+                                                                <i class="ri-close-line text-[1rem] text-[#8c9097]"></i>
                                                             </a>
                                                         </p>
-                                                        <p class="mb-0 text-[0.875rem] font-semibold">$129<span class="ms-1 text-[#8c9097] dark:text-white/50 text-[0.6875rem]"><s>$139</s></span></p>
+                                                        <p class="mb-0 text-[0.875rem] font-semibold">$129<span class="ms-1 text-[#8c9097] text-[0.6875rem]"><s>$139</s></span></p>
                                                     </div>
                                                 </div>
                                             </li>
                                         </ul>
-                                        <div class="p-4 border-b border-dashed dark:border-defaultborder/10">
+                                        <div class="p-4 border-b border-dashed">
                                             <div class="flex items-center justify-between flex-wrap">
                                                 <div class="text-[0.75rem] font-semibold bg-primary/10 text-primary p-1 rounded-full">SPRUKO25</div>
                                                 <div class="text-success">COUPON APPLIED</div>
                                             </div>
                                         </div>
-                                        <div class="p-4 border-b border-dashed dark:border-defaultborder/10">
+                                        <div class="p-4 border-b border-dashed">
                                             <div class="flex items-center justify-between mb-4">
-                                                <div class="text-[#8c9097] dark:text-white/50 opacity-[0.7]">Sub Total</div>
+                                                <div class="text-[#8c9097] opacity-[0.7]">Sub Total</div>
                                                 <div class="font-semibold text-[0.875rem]">$318</div>
                                             </div>
                                             <div class="flex items-center justify-between mb-4">
-                                                <div class="text-[#8c9097] dark:text-white/50 opacity-[0.7]">Discount</div>
+                                                <div class="text-[#8c9097] opacity-[0.7]">Discount</div>
                                                 <div class="font-semibold text-[0.875rem] text-success">10% - $31.8</div>
                                             </div>
                                             <div class="flex items-center justify-between mb-4">
-                                                <div class="text-[#8c9097] dark:text-white/50 opacity-[0.7]">Delivery Charges</div>
+                                                <div class="text-[#8c9097] opacity-[0.7]">Delivery Charges</div>
                                                 <div class="font-semibold text-[0.875rem] text-danger">- $29</div>
                                             </div>
                                             <div class="flex items-center justify-between">
-                                                <div class="text-[#8c9097] dark:text-white/50 opacity-[0.7]">Service Tax (18%)</div>
+                                                <div class="text-[#8c9097] opacity-[0.7]">Service Tax (18%)</div>
                                                 <div class="font-semibold text-[0.875rem]">- $45.29</div>
                                             </div>
                                         </div>

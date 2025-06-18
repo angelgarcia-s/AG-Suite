@@ -12,16 +12,16 @@
                     <!-- Page Header -->
                     <div class="block justify-between page-header md:flex">
                         <div>
-                            <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Images &amp; Figures</h3>
+                            <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Images &amp; Figures</h3>
                         </div>
                         <ol class="flex items-center whitespace-nowrap min-w-0">
                             <li class="text-[0.813rem] ps-[0.5rem]">
-                              <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                              <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                Ui Elements
-                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                               </a>
                             </li>
-                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                 Images &amp; Figures
                             </li>
                         </ol>
@@ -181,12 +181,12 @@
                                     <div class="flex justify-between gap-2">
                                         <figure class="figure inline-block mb-4">
                                             <img class="m-[0.125rem] leading-none img-fluid rounded-md w-full" src="{{asset('build/assets/images/media/media-56.jpg')}}" alt="...">
-                                            <figcaption class="text-[0.875em] text-textmuted dark:text-white/70 mt-2">A caption for the above image.
+                                            <figcaption class="text-[0.875em] text-textmuted mt-2">A caption for the above image.
                                             </figcaption>
                                         </figure>
                                         <figure class="figure ltr:float-right rtl:float-left">
                                             <img class="m-[0.125rem] leading-none img-fluid rounded-md w-full" src="{{asset('build/assets/images/media/media-57.jpg')}}" alt="...">
-                                            <figcaption class="text-[0.875em] text-textmuted dark:text-white/70 text-end mt-2">A caption for the above image.
+                                            <figcaption class="text-[0.875em] text-textmuted text-end mt-2">A caption for the above image.
                                             </figcaption>
                                         </figure>
                                     </div>
@@ -197,12 +197,12 @@
     &lt;div class="flex justify-between gap-2"&gt;
         &lt;figure class="figure inline-block mb-4"&gt;
             &lt;img class="m-[0.125rem] leading-none img-fluid rounded-md w-full" src="{{asset('build/assets/images/media/media-56.jpg')}}" alt="..."&gt;
-            &lt;figcaption class="text-[0.875em] text-textmuted dark:text-white/70 mt-2"&gt;A caption for the above image.
+            &lt;figcaption class="text-[0.875em] text-textmuted mt-2"&gt;A caption for the above image.
             &lt;/figcaption&gt;
         &lt;/figure&gt;
         &lt;figure class="figure ltr:float-right rtl:float-left"&gt;
             &lt;img class="m-[0.125rem] leading-none img-fluid rounded-md w-full" src="{{asset('build/assets/images/media/media-57.jpg')}}" alt="..."&gt;
-            &lt;figcaption class="text-[0.875em] text-textmuted dark:text-white/70 text-end mt-2"&gt;A caption for the above image.
+            &lt;figcaption class="text-[0.875em] text-textmuted text-end mt-2"&gt;A caption for the above image.
             &lt;/figcaption&gt;
         &lt;/figure&gt;
     &lt;/div&gt;</code></pre>

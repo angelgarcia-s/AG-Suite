@@ -10,16 +10,16 @@
                         <!-- Page Header -->
                         <div class="block justify-between page-header md:flex">
                             <div>
-                                <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Task Details</h3>
+                                <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Task Details</h3>
                             </div>
                             <ol class="flex items-center whitespace-nowrap min-w-0">
                                 <li class="text-[0.813rem] ps-[0.5rem]">
-                                  <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                  <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                     Task
-                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                   </a>
                                 </li>
-                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                     Task Details
                                 </li>
                             </ol>
@@ -41,7 +41,7 @@
                                             Update ynex new project design.
                                         </h5>
                                         <div class="text-[.9375rem] font-semibold mb-2">Task Description :</div>
-                                        <p class="text-[#8c9097] dark:text-white/50 task-description">The current website design needs a refresh to improve user experience and enhance visual appeal. The goal is to create a modern and responsive design that aligns with the latest web design trends. The updated design should ensure seamless navigation, easy readability, and a cohesive visual identity.</p>
+                                        <p class="text-[#8c9097] task-description">The current website design needs a refresh to improve user experience and enhance visual appeal. The goal is to create a modern and responsive design that aligns with the latest web design trends. The updated design should ensure seamless navigation, easy readability, and a cohesive visual identity.</p>
                                         <div class="text-[.9375rem] font-semibold mb-2">Key tasks :</div>
                                         <div>
                                             <ul class="task-details-key-tasks mb-0 !ps-8">
@@ -57,36 +57,36 @@
                                     <div class="box-footer">
                                         <div class="flex items-center justify-between gap-2 flex-wrap">
                                             <div>
-                                                <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem]">Assigned By</span>
+                                                <span class="block text-[#8c9097] text-[0.75rem]">Assigned By</span>
                                                 <div class="flex items-center flex-wrap">
                                                     <div class="me-2 leading-none">
                                                         <span class="avatar avatar-xs avatar-rounded">
                                                             <img src="{{asset('build/assets/images/faces/15.jpg')}}" alt="">
                                                         </span>
                                                     </div>
-                                                    <span class="block text-[.875rem] dark:text-defaulttextcolor/70 font-semibold">H.J.Taylor</span>
+                                                    <span class="block text-[.875rem] font-semibold">H.J.Taylor</span>
                                                 </div>
                                             </div>
                                             <div>
-                                                <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem]">Assigned Date</span>
-                                                <span class="block text-[.875rem] font-semibold dark:text-defaulttextcolor/70">24,June 2023</span>
+                                                <span class="block text-[#8c9097] text-[0.75rem]">Assigned Date</span>
+                                                <span class="block text-[.875rem] font-semibold">24,June 2023</span>
                                             </div>
                                             <div>
-                                                <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem]">Due Date</span>
-                                                <span class="block text-[.875rem] font-semibold dark:text-defaulttextcolor/70">05,July 2023</span>
+                                                <span class="block text-[#8c9097] text-[0.75rem]">Due Date</span>
+                                                <span class="block text-[.875rem] font-semibold">05,July 2023</span>
                                             </div>
                                             <div class="task-details-progress">
-                                                <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] mb-1">Progress</span>
+                                                <span class="block text-[#8c9097] text-[0.75rem] mb-1">Progress</span>
                                                 <div class="flex items-center flex-wrap">
                                                     <div class="progress progress-xs progress-animate flex-grow me-2" >
                                                         <div class="progress-bar bg-primary w-[70%]"></div>
                                                     </div>
-                                                    <div class="text-[#8c9097] dark:text-white/50 text-[.6875rem]">70%</div>
+                                                    <div class="text-[#8c9097] text-[.6875rem]">70%</div>
                                                 </div>
                                             </div>
                                             <div>
-                                                <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem]">Efforts</span>
-                                                <span class="block text-[.875rem]  dark:text-defaulttextcolor/70 font-semibold">45H : 35M : 45S</span>
+                                                <span class="block text-[#8c9097] text-[0.75rem]">Efforts</span>
+                                                <span class="block text-[.875rem]  font-semibold">45H : 35M : 45S</span>
                                             </div>
                                         </div>
                                     </div>
@@ -103,9 +103,9 @@
                                                         E
                                                     </span>
                                                     <p class="mb-2">
-                                                        <b>You</b> Commented on <b>Work Process</b> in this task <a class="text-secondary" href="javascript:void(0);"><u>#New Task</u></a>.<span class="ltr:float-right rtl:float-left text-[.6875rem] text-[#8c9097] dark:text-white/50">24,Dec 2023 - 14:34</span>
+                                                        <b>You</b> Commented on <b>Work Process</b> in this task <a class="text-secondary" href="javascript:void(0);"><u>#New Task</u></a>.<span class="ltr:float-right rtl:float-left text-[.6875rem] text-[#8c9097]">24,Dec 2023 - 14:34</span>
                                                     </p>
-                                                    <p class="text-[#8c9097] dark:text-white/50 mb-0">
+                                                    <p class="text-[#8c9097] mb-0">
                                                         Task is important and need to be completed on time to meet company work flow.
                                                     </p>
                                                 </div>
@@ -115,10 +115,10 @@
                                                     <span class="avatar avatar-sm avatar-rounded profile-timeline-avatar">
                                                         <img src="{{asset('build/assets/images/faces/11.jpg')}}" alt="">
                                                     </span>
-                                                    <p class="text-[#8c9097] dark:text-white/50 mb-2">
-                                                        <span class="text-default"><b>Json Smith</b> reacted to the task 👍</span>.<span class="ltr:float-right rtl:float-left text-[.6875rem] text-[#8c9097] dark:text-white/50">18,Dec 2023 - 12:16</span>
+                                                    <p class="text-[#8c9097] mb-2">
+                                                        <span class="text-default"><b>Json Smith</b> reacted to the task 👍</span>.<span class="ltr:float-right rtl:float-left text-[.6875rem] text-[#8c9097]">18,Dec 2023 - 12:16</span>
                                                     </p>
-                                                    <p class="text-[#8c9097] dark:text-white/50 mb-0">
+                                                    <p class="text-[#8c9097] mb-0">
                                                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, repellendus rem rerum excepturi aperiam ipsam temporibus inventore ullam tempora eligendi libero sequi dignissimos cumque, et a sint tenetur consequatur omnis!
                                                     </p>
                                                 </div>
@@ -128,14 +128,14 @@
                                                     <span class="avatar avatar-sm avatar-rounded profile-timeline-avatar">
                                                         <img src="{{asset('build/assets/images/faces/4.jpg')}}" alt="">
                                                     </span>
-                                                    <p class="text-[#8c9097] dark:text-white/50 mb-2">
-                                                        <span class="text-default"><b>Alicia Keys</b> shared a document with <b>you</b></span>.<span class="ltr:float-right rtl:float-left text-[.6875rem] text-[#8c9097] dark:text-white/50">21,Dec 2023 - 15:32</span>
+                                                    <p class="text-[#8c9097] mb-2">
+                                                        <span class="text-default"><b>Alicia Keys</b> shared a document with <b>you</b></span>.<span class="ltr:float-right rtl:float-left text-[.6875rem] text-[#8c9097]">21,Dec 2023 - 15:32</span>
                                                     </p>
                                                     <p class="profile-activity-media mb-0 flex items-center">
                                                         <a aria-label="anchor" href="javascript:void(0);">
                                                             <img src="{{asset('build/assets/images/media/file-manager/3.png')}}" alt="">
                                                         </a>
-                                                        <span class="text-[.6875rem] text-[#8c9097] dark:text-white/50">432.87KB</span>
+                                                        <span class="text-[.6875rem] text-[#8c9097]">432.87KB</span>
                                                     </p>
                                                 </div>
                                             </li>
@@ -144,8 +144,8 @@
                                                     <span class="avatar avatar-sm bg-success/10 !text-success avatar-rounded profile-timeline-avatar">
                                                         P
                                                     </span>
-                                                    <p class="text-[#8c9097] dark:text-white/50 mb-2">
-                                                        <span class="text-default"><b>You</b> shared a post with 4 people <b class="sm:text-sm text-[0.7rem]">Simon,Sasha,Anagha,Hishen</b></span>.<span class="ltr:float-right rtl:float-left text-[.6875rem] text-[#8c9097] dark:text-white/50">28,Dec 2023 - 18:46</span>
+                                                    <p class="text-[#8c9097] mb-2">
+                                                        <span class="text-default"><b>You</b> shared a post with 4 people <b class="sm:text-sm text-[0.7rem]">Simon,Sasha,Anagha,Hishen</b></span>.<span class="ltr:float-right rtl:float-left text-[.6875rem] text-[#8c9097]">28,Dec 2023 - 18:46</span>
                                                     </p>
                                                     <p class="profile-activity-media mb-2">
                                                         <a aria-label="anchor" href="javascript:void(0);">
@@ -176,9 +176,9 @@
                                                         <img src="{{asset('build/assets/images/media/media-39.jpg')}}" alt="">
                                                     </span>
                                                     <p class="mb-1">
-                                                        <b>Json</b> Commented on Task post <a class="text-secondary" href="javascript:void(0);"><u>#UI Technologies</u></a>.<span class="ltr:float-right rtl:float-left text-[.6875rem] text-[#8c9097] dark:text-white/50">24,Dec 2023 - 14:34</span>
+                                                        <b>Json</b> Commented on Task post <a class="text-secondary" href="javascript:void(0);"><u>#UI Technologies</u></a>.<span class="ltr:float-right rtl:float-left text-[.6875rem] text-[#8c9097]">24,Dec 2023 - 14:34</span>
                                                     </p>
-                                                    <p class="text-[#8c9097] dark:text-white/50">Technology id developing rapidly keep up your work 👌</p>
+                                                    <p class="text-[#8c9097]">Technology id developing rapidly keep up your work 👌</p>
                                                     <p class="profile-activity-media mb-0 flex">
                                                         <a aria-label="anchor" href="javascript:void(0);">
                                                             <img src="{{asset('build/assets/images/media/media-26.jpg')}}" alt="">
@@ -355,7 +355,7 @@
                                                     </div>
                                                     <div class="flex-grow">
                                                         <a href="javascript:void(0);"><span class="block font-semibold">Full Project</span></a>
-                                                        <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] font-normal">0.45MB</span>
+                                                        <span class="block text-[#8c9097] text-[0.75rem] font-normal">0.45MB</span>
                                                     </div>
                                                     <div class="btn-list">
                                                         <button aria-label="button" type="button" class="ti-btn ti-btn-sm ti-btn-info me-[0.365rem]"><i class="ri-edit-line"></i></button>
@@ -372,7 +372,7 @@
                                                     </div>
                                                     <div class="flex-grow">
                                                         <a href="javascript:void(0);"><span class="block font-semibold">assets.zip</span></a>
-                                                        <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] font-normal">0.99MB</span>
+                                                        <span class="block text-[#8c9097] text-[0.75rem] font-normal">0.99MB</span>
                                                     </div>
                                                     <div class="btn-list">
                                                         <button aria-label="button" type="button" class="ti-btn ti-btn-sm ti-btn-info me-[0.365rem]"><i class="ri-edit-line"></i></button>
@@ -389,7 +389,7 @@
                                                     </div>
                                                     <div class="flex-grow">
                                                         <a href="javascript:void(0);"><span class="block font-semibold">image-1.png</span></a>
-                                                        <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] font-normal">245KB</span>
+                                                        <span class="block text-[#8c9097] text-[0.75rem] font-normal">245KB</span>
                                                     </div>
                                                     <div class="btn-list">
                                                         <button aria-label="button" type="button" class="ti-btn ti-btn-sm ti-btn-info me-[0.365rem]"><i class="ri-edit-line"></i></button>
@@ -406,7 +406,7 @@
                                                     </div>
                                                     <div class="flex-grow">
                                                         <a href="javascript:void(0);"><span class="block font-semibold">Docs.zip</span></a>
-                                                        <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] font-normal">2MB</span>
+                                                        <span class="block text-[#8c9097] text-[0.75rem] font-normal">2MB</span>
                                                     </div>
                                                     <div class="btn-list">
                                                         <button aria-label="button" type="button" class="ti-btn ti-btn-sm ti-btn-info me-[0.365rem]"><i class="ri-edit-line"></i></button>
@@ -423,7 +423,7 @@
                                                     </div>
                                                     <div class="flex-grow">
                                                         <a href="javascript:void(0);"><span class="block font-semibold">landing.zip</span></a>
-                                                        <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] font-normal">3.46MB</span>
+                                                        <span class="block text-[#8c9097] text-[0.75rem] font-normal">3.46MB</span>
                                                     </div>
                                                     <div class="btn-list">
                                                         <button aria-label="button" type="button" class="ti-btn ti-btn-sm ti-btn-info me-[0.365rem]"><i class="ri-edit-line"></i></button>

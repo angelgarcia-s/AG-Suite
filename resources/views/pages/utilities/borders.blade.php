@@ -12,16 +12,16 @@
                 <!-- Page Header -->
                 <div class="block justify-between page-header md:flex">
                     <div>
-                        <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Borders</h3>
+                        <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Borders</h3>
                     </div>
                     <ol class="flex items-center whitespace-nowrap min-w-0">
                         <li class="text-[0.813rem] ps-[0.5rem]">
-                          <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                          <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                             Utilities
-                            <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                            <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                           </a>
                         </li>
-                        <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                        <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                             Borders
                         </li>
                     </ol>
@@ -41,19 +41,19 @@
                                 </div>
                             </div>
                             <div class="box-body">
-                                <span class="border dark:border-defaultborder/10 border-container"></span>
-                                <span class="border-t dark:border-defaultborder/10 border-container"></span>
-                                <span class="border-e dark:border-defaultborder/10 border-container"></span>
-                                <span class="border-b dark:border-defaultborder/10 border-container"></span>
-                                <span class="border-s dark:border-defaultborder/10 border-container"></span>
+                                <span class="border border-container"></span>
+                                <span class="border-t border-container"></span>
+                                <span class="border-e border-container"></span>
+                                <span class="border-b border-container"></span>
+                                <span class="border-s border-container"></span>
                             </div>
                             <div class="box-footer hidden border-t-0">
 <!-- Prism Code -->
-<pre class="language-html"><code class="language-html">&lt;span class="border dark:border-defaultborder/10 border-container"&gt;&lt;/span&gt;
-    &lt;span class="border-t dark:border-defaultborder/10 border-container"&gt;&lt;/span&gt;
-    &lt;span class="border-e dark:border-defaultborder/10 border-container"&gt;&lt;/span&gt;
-    &lt;span class="border-b dark:border-defaultborder/10 border-container"&gt;&lt;/span&gt;
-    &lt;span class="border-s dark:border-defaultborder/10 border-container"&gt;&lt;/span&gt;</code></pre>
+<pre class="language-html"><code class="language-html">&lt;span class="border border-container"&gt;&lt;/span&gt;
+    &lt;span class="border-t border-container"&gt;&lt;/span&gt;
+    &lt;span class="border-e border-container"&gt;&lt;/span&gt;
+    &lt;span class="border-b border-container"&gt;&lt;/span&gt;
+    &lt;span class="border-s border-container"&gt;&lt;/span&gt;</code></pre>
 <!-- Prism Code -->
                             </div>
                         </div>
@@ -70,18 +70,18 @@
                             </div>
                             <div class="box-body">
                                 <span class="border-0 border-container"></span>
-                                <span class="border dark:border-defaultborder/10 border-t-0 border-container"></span>
-                                <span class="border dark:border-defaultborder/10 border-e-0 border-container"></span>
-                                <span class="border dark:border-defaultborder/10 border-b-0 border-container"></span>
-                                <span class="border dark:border-defaultborder/10 border-s-0 border-container"></span>
+                                <span class="border border-t-0 border-container"></span>
+                                <span class="border border-e-0 border-container"></span>
+                                <span class="border border-b-0 border-container"></span>
+                                <span class="border border-s-0 border-container"></span>
                             </div>
                             <div class="box-footer hidden border-t-0">
 <!-- Prism Code -->
 <pre class="language-html"><code class="language-html">&lt;span class="border-0 border-container"&gt;&lt;/span&gt;
-    &lt;span class="border dark:border-defaultborder/10 border-t-0 border-container"&gt;&lt;/span&gt;
-    &lt;span class="border dark:border-defaultborder/10 border-e-0 border-container"&gt;&lt;/span&gt;
-    &lt;span class="border dark:border-defaultborder/10 border-b-0 border-container"&gt;&lt;/span&gt;
-    &lt;span class="border dark:border-defaultborder/10 border-s-0 border-container"&gt;&lt;/span&gt;</code></pre>
+    &lt;span class="border border-t-0 border-container"&gt;&lt;/span&gt;
+    &lt;span class="border border-e-0 border-container"&gt;&lt;/span&gt;
+    &lt;span class="border border-b-0 border-container"&gt;&lt;/span&gt;
+    &lt;span class="border border-s-0 border-container"&gt;&lt;/span&gt;</code></pre>
 <!-- Prism Code -->
                             </div>
                         </div>
@@ -102,17 +102,17 @@
                                 </div>
                             </div>
                             <div class="box-body">
-                                <span class="border-1 dark:border-defaultborder/10 border-container"></span>
-                                <span class="border-container dark:border-defaultborder/10 border-2"></span>
-                                <span class="border-container dark:border-defaultborder/10 border-4"></span>
-                                <span class="border-container dark:border-defaultborder/10 border-8"></span>
+                                <span class="border-1 border-container"></span>
+                                <span class="border-container border-2"></span>
+                                <span class="border-container border-4"></span>
+                                <span class="border-container border-8"></span>
                             </div>
                             <div class="box-footer hidden border-t-0">
 <!-- Prism Code -->
-<pre class="language-html"><code class="language-html">&lt;span class="border-1 dark:border-defaultborder/10 border-container"&gt;&lt;/span&gt;
-    &lt;span class="border-container dark:border-defaultborder/10 border-2"&gt;&lt;/span&gt;
-    &lt;span class="border-container dark:border-defaultborder/10 border-4"&gt;&lt;/span&gt;
-    &lt;span class="border-container dark:border-defaultborder/10 border-8"&gt;&lt;/span&gt;</code></pre>
+<pre class="language-html"><code class="language-html">&lt;span class="border-1 border-container"&gt;&lt;/span&gt;
+    &lt;span class="border-container border-2"&gt;&lt;/span&gt;
+    &lt;span class="border-container border-4"&gt;&lt;/span&gt;
+    &lt;span class="border-container border-8"&gt;&lt;/span&gt;</code></pre>
 <!-- Prism Code -->
                             </div>
                         </div>
@@ -213,40 +213,40 @@
                                 </div>
                             </div>
                             <div class="box-body">
-                                <div class="border border-black dark:border-white p-2 mb-2">This is default success border</div>
-                                <div class="border border-black/75 dark:border-white/75 p-2 mb-2">This is 75%
+                                <div class="border border-black p-2 mb-2">This is default success border</div>
+                                <div class="border border-black/75 p-2 mb-2">This is 75%
                                     opacity
                                     success border
                                 </div>
-                                <div class="border border-black/50 dark:border-white/50 p-2 mb-2">This is 50%
+                                <div class="border border-black/50 p-2 mb-2">This is 50%
                                     opacity
                                     success border
                                 </div>
-                                <div class="border border-black/25 dark:border-white/25 p-2 mb-2 ">This is 25%
+                                <div class="border border-black/25 p-2 mb-2 ">This is 25%
                                     opacity
                                     success border
                                 </div>
-                                <div class="border border-black/10 dark:border-white/10 p-2">This is 10% opacity
+                                <div class="border border-black/10 p-2">This is 10% opacity
                                     success
                                     border
                                 </div>
                             </div>
                             <div class="box-footer hidden border-t-0">
 <!-- Prism Code -->
-<pre class="language-html"><code class="language-html">&lt;div class="border border-black dark:border-white p-2 mb-2"&gt;This is default success border&lt;/div&gt;
-    &lt;div class="border border-black/75 dark:border-white/75 p-2 mb-2"&gt;This is 75%
+<pre class="language-html"><code class="language-html">&lt;div class="border border-black p-2 mb-2"&gt;This is default success border&lt;/div&gt;
+    &lt;div class="border border-black/75 p-2 mb-2"&gt;This is 75%
         opacity
         success border
     &lt;/div&gt;
-    &lt;div class="border border-black/50 dark:border-white/50 p-2 mb-2"&gt;This is 50%
+    &lt;div class="border border-black/50 p-2 mb-2"&gt;This is 50%
         opacity
         success border
     &lt;/div&gt;
-    &lt;div class="border border-black/25 dark:border-white/25 p-2 mb-2 "&gt;This is 25%
+    &lt;div class="border border-black/25 p-2 mb-2 "&gt;This is 25%
         opacity
         success border
     &lt;/div&gt;
-    &lt;div class="border border-black/10 dark:border-white/10 p-2"&gt;This is 10% opacity
+    &lt;div class="border border-black/10 p-2"&gt;This is 10% opacity
         success
         border
     &lt;/div&gt;</code></pre>

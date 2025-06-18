@@ -12,16 +12,16 @@
                   <!-- Page Header -->
                   <div class="block justify-between page-header md:flex">
                       <div>
-                          <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Full Calendar</h3>
+                          <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Full Calendar</h3>
                       </div>
                       <ol class="flex items-center whitespace-nowrap min-w-0">
                           <li class="text-[0.813rem] ps-[0.5rem]">
-                            <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                            <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                               Apps
-                              <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                              <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                             </a>
                           </li>
-                          <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                          <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                               Full Calendar
                           </li>
                       </ol>
@@ -32,11 +32,11 @@
                   <div class="grid grid-cols-12 gap-6">
                       <div class="xl:col-span-3 col-span-12">
                           <div class="box custom-box">
-                              <div class="py-4 px-[1.25rem] border-b dark:border-defaultborder/10  !grid">
+                              <div class="py-4 px-[1.25rem] border-b  !grid">
                                   <button type="button" class="ti-btn ti-btn-primary"><i class="ri-add-line align-middle me-1 font-semibold inline-block"></i>Create New Event</button>
                               </div>
                               <div class="box-body !p-0">
-                                  <div id="external-events" class="border-b dark:border-defaultborder/10 p-4">
+                                  <div id="external-events" class="border-b p-4">
                                       <div
                                         class="fc-event fc-h-event fc-daygrid-event fc-daygrid-block-event !bg-primary border !border-primary">
                                         <div class="fc-event-main">Calendar Events</div>
@@ -68,7 +68,7 @@
                                         <div class="fc-event-main">Timeline Events</div>
                                       </div>
                                   </div>
-                                  <div class="p-4 border-b dark:border-defaultborder/10 ">
+                                  <div class="p-4 border-b ">
                                     <div class="flex items-center mb-4 justify-between">
                                       <h6 class="font-semibold">
                                         Activity :

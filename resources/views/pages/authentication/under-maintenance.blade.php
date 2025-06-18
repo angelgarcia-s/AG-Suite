@@ -8,7 +8,7 @@
 @section('content')
 
 @section('error-body')
-<body class="bg-white dark:!bg-bodybg">
+<body class="bg-white">
 @endsection
 
           <div class="grid grid-cols-12 gap-0 w-full authentication under-maintenance mx-0 text-defaulttextcolor text-defaultsize">
@@ -26,7 +26,7 @@
                                           </a>
                                       </div>
                                       <p class="font-semibold text-[0.75rem] mb-1 opacity-[0.4]">STAY TUNED</p>
-                                      <h1 class="font-bold mb-4 text-[2.5rem] dark:text-defaulttextcolor/70">Under Maintenance</h1>
+                                      <h1 class="font-bold mb-4 text-[2.5rem]">Under Maintenance</h1>
                                       <p class="mb-4">Our website is under maintenance, wait for some time.</p>
                                       <div class="grid grid-cols-12 mt-6 xxl:gap-y-0 gap-4 mb-[3rem]" id="timer">
                                       </div>

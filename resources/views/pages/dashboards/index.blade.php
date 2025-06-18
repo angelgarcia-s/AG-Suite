@@ -10,8 +10,8 @@
                   <!-- Start::page-header -->
                   <div class="md:flex block items-center justify-between my-[1.5rem] page-header-breadcrumb">
                     <div>
-                      <p class="font-semibold text-[1.125rem] text-defaulttextcolor dark:text-defaulttextcolor/70 !mb-0 ">Welcome back, Json Taylor !</p>
-                      <p class="font-normal text-[#8c9097] dark:text-white/50 text-[0.813rem]">Track your sales activity, leads and deals here.</p>
+                      <p class="font-semibold text-[1.125rem] text-defaulttextcolor !mb-0 ">Welcome back, Json Taylor !</p>
+                      <p class="font-normal text-[#8c9097] text-[0.813rem]">Track your sales activity, leads and deals here.</p>
                     </div>
                     <div class="btn-list md:mt-0 mt-2">
                       <button type="button"
@@ -86,7 +86,7 @@
                                       <div class="flex-grow">
                                         <p class="font-semibold mb-[1.4px]  text-[0.813rem]">Michael Jordan
                                         </p>
-                                        <p class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">michael.jordan@example.com</p>
+                                        <p class="text-[#8c9097] text-[0.75rem]">michael.jordan@example.com</p>
                                       </div>
                                       <div class="font-semibold text-[0.9375rem] ">$2,893</div>
                                     </div>
@@ -101,7 +101,7 @@
                                       </div>
                                       <div class="flex-grow">
                                         <p class="font-semibold mb-[1.4px]  text-[0.813rem]">Emigo Kiaren</p>
-                                        <p class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">emigo.kiaren@gmail.com</p>
+                                        <p class="text-[#8c9097] text-[0.75rem]">emigo.kiaren@gmail.com</p>
                                       </div>
                                       <div class="font-semibold text-[0.9375rem] ">$4,289</div>
                                     </div>
@@ -117,7 +117,7 @@
                                       <div class="flex-grow">
                                         <p class="font-semibold mb-[1.4px]  text-[0.813rem]">Randy Origoan
                                         </p>
-                                        <p class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">randy.origoan@gmail.com</p>
+                                        <p class="text-[#8c9097] text-[0.75rem]">randy.origoan@gmail.com</p>
                                       </div>
                                       <div class="font-semibold text-[0.9375rem] ">$6,347</div>
                                     </div>
@@ -133,7 +133,7 @@
                                       <div class="flex-grow">
                                         <p class="font-semibold mb-[1.4px]  text-[0.813rem]">George Pieterson
                                         </p>
-                                        <p class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">george.pieterson@gmail.com</p>
+                                        <p class="text-[#8c9097] text-[0.75rem]">george.pieterson@gmail.com</p>
                                       </div>
                                       <div class="font-semibold text-[0.9375rem] ">$3,894</div>
                                     </div>
@@ -148,7 +148,7 @@
                                       </div>
                                       <div class="flex-grow">
                                         <p class="font-semibold mb-[1.4px]  text-[0.813rem]">Kiara Advain</p>
-                                        <p class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">kiaraadvain214@gmail.com</p>
+                                        <p class="text-[#8c9097] text-[0.75rem]">kiaraadvain214@gmail.com</p>
                                       </div>
                                       <div class="font-semibold text-[0.9375rem] ">$2,679</div>
                                     </div>
@@ -162,7 +162,7 @@
                               <div class="box-header justify-between">
                                 <div class="box-title">Profit Earned</div>
                                 <div class="hs-dropdown ti-dropdown">
-                                  <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097] dark:text-white/50"
+                                  <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097]"
                                     aria-expanded="false">
                                     View All<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                   </a>
@@ -197,7 +197,7 @@
                                     <div class="flex-grow ms-4">
                                       <div class="flex items-center justify-between flex-wrap">
                                         <div>
-                                          <p class="text-[#8c9097] dark:text-white/50 text-[0.813rem] mb-0">Total Customers</p>
+                                          <p class="text-[#8c9097] text-[0.813rem] mb-0">Total Customers</p>
                                           <h4 class="font-semibold  text-[1.5rem] !mb-2 ">1,02,890</h4>
                                         </div>
                                         <div id="crm-total-customers"></div>
@@ -209,7 +209,7 @@
                                         </div>
                                         <div class="text-end">
                                           <p class="mb-0 text-success text-[0.813rem] font-semibold">+40%</p>
-                                          <p class="text-[#8c9097] dark:text-white/50 opacity-[0.7] text-[0.6875rem]">this month</p>
+                                          <p class="text-[#8c9097] opacity-[0.7] text-[0.6875rem]">this month</p>
                                         </div>
                                       </div>
                                     </div>
@@ -230,7 +230,7 @@
                                     <div class="flex-grow ms-4">
                                       <div class="flex items-center justify-between flex-wrap">
                                         <div>
-                                          <p class="text-[#8c9097] dark:text-white/50 text-[0.813rem] mb-0">Total Revenue</p>
+                                          <p class="text-[#8c9097] text-[0.813rem] mb-0">Total Revenue</p>
                                           <h4 class="font-semibold text-[1.5rem] !mb-2 ">$56,562</h4>
                                         </div>
                                         <div id="crm-total-revenue"></div>
@@ -242,7 +242,7 @@
                                         </div>
                                         <div class="text-end">
                                           <p class="mb-0 text-success text-[0.813rem] font-semibold">+25%</p>
-                                          <p class="text-[#8c9097] dark:text-white/50 opacity-[0.7] text-[0.6875rem]">this month</p>
+                                          <p class="text-[#8c9097] opacity-[0.7] text-[0.6875rem]">this month</p>
                                         </div>
                                       </div>
                                     </div>
@@ -263,7 +263,7 @@
                                     <div class="flex-grow ms-4">
                                       <div class="flex items-center justify-between flex-wrap">
                                         <div>
-                                          <p class="text-[#8c9097] dark:text-white/50 text-[0.813rem] mb-0">Conversion Ratio</p>
+                                          <p class="text-[#8c9097] text-[0.813rem] mb-0">Conversion Ratio</p>
                                           <h4 class="font-semibold text-[1.5rem] !mb-2 ">12.08%</h4>
                                         </div>
                                         <div id="crm-conversion-ratio"></div>
@@ -275,7 +275,7 @@
                                         </div>
                                         <div class="text-end">
                                           <p class="mb-0 text-danger text-[0.813rem] font-semibold">-12%</p>
-                                          <p class="text-[#8c9097] dark:text-white/50 opacity-[0.7] text-[0.6875rem]">this month</p>
+                                          <p class="text-[#8c9097] opacity-[0.7] text-[0.6875rem]">this month</p>
                                         </div>
                                       </div>
                                     </div>
@@ -296,7 +296,7 @@
                                     <div class="flex-grow ms-4">
                                       <div class="flex items-center justify-between flex-wrap">
                                         <div>
-                                          <p class="text-[#8c9097] dark:text-white/50 text-[0.813rem] mb-0">Total Deals</p>
+                                          <p class="text-[#8c9097] text-[0.813rem] mb-0">Total Deals</p>
                                           <h4 class="font-semibold text-[1.5rem] !mb-2 ">2,543</h4>
                                         </div>
                                         <div id="crm-total-deals"></div>
@@ -308,7 +308,7 @@
                                         </div>
                                         <div class="text-end">
                                           <p class="mb-0 text-success text-[0.813rem] font-semibold">+19%</p>
-                                          <p class="text-[#8c9097] dark:text-white/50  opacity-[0.7] text-[0.6875rem]">this month</p>
+                                          <p class="text-[#8c9097]  opacity-[0.7] text-[0.6875rem]">this month</p>
                                         </div>
                                       </div>
                                     </div>
@@ -323,7 +323,7 @@
                                     Revenue Analytics
                                   </div>
                                   <div class="hs-dropdown ti-dropdown">
-                                    <a href="javascript:void(0);" class="text-[0.75rem] px-2 font-normal text-[#8c9097] dark:text-white/50"
+                                    <a href="javascript:void(0);" class="text-[0.75rem] px-2 font-normal text-[#8c9097]"
                                       aria-expanded="false">
                                       View All<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                     </a>
@@ -376,7 +376,7 @@
                               <div class="overflow-x-auto">
                                 <table class="table min-w-full whitespace-nowrap table-hover border table-bordered">
                                   <thead>
-                                    <tr class="border border-inherit border-solid dark:border-defaultborder/10">
+                                    <tr class="border border-inherit border-solid">
                                       <th scope="row" class="!ps-4 !pe-5"><input class="form-check-input" type="checkbox"
                                           id="checkboxNoLabel1" value="" aria-label="..."></th>
                                       <th scope="col" class="!text-start !text-[0.85rem] min-w-[200px]">Sales Rep</th>
@@ -388,7 +388,7 @@
                                     </tr>
                                   </thead>
                                   <tbody>
-                                    <tr class="border border-inherit border-solid hover:bg-gray-100 dark:border-defaultborder/10 dark:hover:bg-light">
+                                    <tr class="border border-inherit border-solid hover:bg-gray-100">
                                       <th scope="row" class="!ps-4 !pe-5"><input class="form-check-input" type="checkbox"
                                           id="checkboxNoLabel2" value="" aria-label="..."></th>
                                       <td>
@@ -417,7 +417,7 @@
                                         </div>
                                       </td>
                                     </tr>
-                                    <tr class="border border-inherit border-solid hover:bg-gray-100 dark:border-defaultborder/10 dark:hover:bg-light">
+                                    <tr class="border border-inherit border-solid hover:bg-gray-100">
                                       <th scope="row" class="!ps-4 !pe-5"><input class="form-check-input" type="checkbox"
                                           id="checkboxNoLabel13" value="" aria-label="..." checked></th>
                                       <td>
@@ -446,7 +446,7 @@
                                         </div>
                                       </td>
                                     </tr>
-                                    <tr class="border border-inherit border-solid hover:bg-gray-100 dark:border-defaultborder/10 dark:hover:bg-light">
+                                    <tr class="border border-inherit border-solid hover:bg-gray-100">
                                       <th scope="row" class="!ps-4 !pe-5"><input class="form-check-input" type="checkbox"
                                           id="checkboxNoLabel4" value="" aria-label="..."></th>
                                       <td>
@@ -475,7 +475,7 @@
                                         </div>
                                       </td>
                                     </tr>
-                                    <tr class="border border-inherit border-solid hover:bg-gray-100 dark:border-defaultborder/10 dark:hover:bg-light">
+                                    <tr class="border border-inherit border-solid hover:bg-gray-100">
                                       <th scope="row" class="!ps-4 !pe-5"><input class="form-check-input" type="checkbox"
                                           id="checkboxNoLabel5" value="" aria-label="..." checked></th>
                                       <td>
@@ -504,7 +504,7 @@
                                         </div>
                                       </td>
                                     </tr>
-                                    <tr class="border border-inherit border-solid hover:bg-gray-100 dark:border-defaultborder/10 dark:hover:bg-light">
+                                    <tr class="border border-inherit border-solid hover:bg-gray-100">
                                       <th scope="row" class="!ps-4 !pe-5"><input class="form-check-input" type="checkbox"
                                           id="checkboxNoLabel3" value="" aria-label="..." checked></th>
                                       <td>
@@ -539,7 +539,7 @@
                             </div>
                             <div class="box-footer">
                               <div class="sm:flex items-center">
-                                <div class="text-defaulttextcolor dark:text-defaulttextcolor/70">
+                                <div class="text-defaulttextcolor">
                                   Showing 5 Entries <i class="bi bi-arrow-right ms-2 font-semibold"></i>
                                 </div>
                                 <div class="ms-auto">
@@ -599,25 +599,25 @@
                                 </div>
                               </div>
                             </div>
-                            <div class="grid grid-cols-4 border-t border-dashed dark:border-defaultborder/10">
+                            <div class="grid grid-cols-4 border-t border-dashed">
                               <div class="col !p-0">
-                                <div class="!ps-4 p-[0.95rem] text-center border-e border-dashed dark:border-defaultborder/10">
-                                  <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem] mb-1 crm-lead-legend mobile inline-block">Mobile
+                                <div class="!ps-4 p-[0.95rem] text-center border-e border-dashed">
+                                  <span class="text-[#8c9097] text-[0.75rem] mb-1 crm-lead-legend mobile inline-block">Mobile
                                   </span>
                                   <div><span class="text-[1rem]  font-semibold">1,624</span>
                                   </div>
                                 </div>
                               </div>
                               <div class="col !p-0">
-                                <div class="p-[0.95rem] text-center border-e border-dashed dark:border-defaultborder/10">
-                                  <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem] mb-1 crm-lead-legend desktop inline-block">Desktop
+                                <div class="p-[0.95rem] text-center border-e border-dashed">
+                                  <span class="text-[#8c9097] text-[0.75rem] mb-1 crm-lead-legend desktop inline-block">Desktop
                                   </span>
                                   <div><span class="text-[1rem]  font-semibold">1,267</span></div>
                                 </div>
                               </div>
                               <div class="col !p-0">
-                                <div class="p-[0.95rem] text-center border-e border-dashed dark:border-defaultborder/10">
-                                  <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem] mb-1 crm-lead-legend laptop inline-block">Laptop
+                                <div class="p-[0.95rem] text-center border-e border-dashed">
+                                  <span class="text-[#8c9097] text-[0.75rem] mb-1 crm-lead-legend laptop inline-block">Laptop
                                   </span>
                                   <div><span class="text-[1rem]  font-semibold">1,153</span>
                                   </div>
@@ -625,7 +625,7 @@
                               </div>
                               <div class="col !p-0">
                                 <div class="!pe-4 p-[0.95rem] text-center">
-                                  <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem] mb-1 crm-lead-legend tablet inline-block">Tablet
+                                  <span class="text-[#8c9097] text-[0.75rem] mb-1 crm-lead-legend tablet inline-block">Tablet
                                   </span>
                                   <div><span class="text-[1rem]  font-semibold">679</span></div>
                                 </div>
@@ -640,7 +640,7 @@
                                 Deals Status
                               </div>
                               <div class="hs-dropdown ti-dropdown">
-                                <a href="javascript:void(0);" class="text-[0.75rem] px-2 font-normal text-[#8c9097] dark:text-white/50"
+                                <a href="javascript:void(0);" class="text-[0.75rem] px-2 font-normal text-[#8c9097]"
                                   aria-expanded="false">
                                   View All<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                 </a>
@@ -661,7 +661,7 @@
                                   <span
                                     class="py-[0.18rem] px-[0.45rem] rounded-sm text-success !font-medium !text-[0.75em] bg-success/10">1.02<i
                                       class="ri-arrow-up-s-fill align-mmiddle ms-1"></i></span>
-                                  <span class="text-[#8c9097] dark:text-white/50 text-[0.813rem] ms-1">compared to last week</span>
+                                  <span class="text-[#8c9097] text-[0.813rem] ms-1">compared to last week</span>
                                 </div>
                               </div>
 
@@ -679,25 +679,25 @@
                                 <li class="primary">
                                   <div class="flex items-center text-[0.813rem]  justify-between">
                                     <div>Successful Deals</div>
-                                    <div class="text-[0.75rem] text-[#8c9097] dark:text-white/50">987 deals</div>
+                                    <div class="text-[0.75rem] text-[#8c9097]">987 deals</div>
                                   </div>
                                 </li>
                                 <li class="info">
                                   <div class="flex items-center text-[0.813rem]  justify-between">
                                     <div>Pending Deals</div>
-                                    <div class="text-[0.75rem] text-[#8c9097] dark:text-white/50">1,073 deals</div>
+                                    <div class="text-[0.75rem] text-[#8c9097]">1,073 deals</div>
                                   </div>
                                 </li>
                                 <li class="warning">
                                   <div class="flex items-center text-[0.813rem]  justify-between">
                                     <div>Rejected Deals</div>
-                                    <div class="text-[0.75rem] text-[#8c9097] dark:text-white/50">1,674 deals</div>
+                                    <div class="text-[0.75rem] text-[#8c9097]">1,674 deals</div>
                                   </div>
                                 </li>
                                 <li class="success">
                                   <div class="flex items-center text-[0.813rem]  justify-between">
                                     <div>Upcoming Deals</div>
-                                    <div class="text-[0.75rem] text-[#8c9097] dark:text-white/50">921 deals</div>
+                                    <div class="text-[0.75rem] text-[#8c9097]">921 deals</div>
                                   </div>
                                 </li>
                               </ul>
@@ -711,7 +711,7 @@
                                 Recent Activity
                               </div>
                               <div class="hs-dropdown ti-dropdown">
-                                <a href="javascript:void(0);" class="text-[0.75rem] px-2 font-normal text-[#8c9097] dark:text-white/50"
+                                <a href="javascript:void(0);" class="text-[0.75rem] px-2 font-normal text-[#8c9097]"
                                   aria-expanded="false">
                                   View All<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                 </a>
@@ -742,7 +742,7 @@
                                             Added new events in next week.</a></span>
                                       </div>
                                       <div class="flex-grow text-end">
-                                        <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem] opacity-[0.7]">4:45PM</span>
+                                        <span class="block text-[#8c9097] text-[0.6875rem] opacity-[0.7]">4:45PM</span>
                                       </div>
                                     </div>
                                   </li>
@@ -756,10 +756,10 @@
                                       </div>
                                       <div class="crm-timeline-content">
                                         <span>New theme for <span class="font-semibold">Spruko Website</span> completed</span>
-                                        <span class="block text-[0.75rem] text-[#8c9097] dark:text-white/50">Lorem ipsum, dolor sit amet.</span>
+                                        <span class="block text-[0.75rem] text-[#8c9097]">Lorem ipsum, dolor sit amet.</span>
                                       </div>
                                       <div class="flex-grow text-end">
-                                        <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem] opacity-[0.7]">3 hrs</span>
+                                        <span class="block text-[#8c9097] text-[0.6875rem] opacity-[0.7]">3 hrs</span>
                                       </div>
                                     </div>
                                   </li>
@@ -777,7 +777,7 @@
                                               class="ri-add-fill text-purple text-[0.75rem]"></i></span></span>
                                       </div>
                                       <div class="flex-grow text-end">
-                                        <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem] opacity-[0.7]">22 hrs</span>
+                                        <span class="block text-[#8c9097] text-[0.6875rem] opacity-[0.7]">22 hrs</span>
                                       </div>
                                     </div>
                                   </li>
@@ -795,7 +795,7 @@
                                             gurrero</span> added today to AI Summit.</span>
                                       </div>
                                       <div class="flex-grow text-end">
-                                        <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem] opacity-[0.7]">Today</span>
+                                        <span class="block text-[#8c9097] text-[0.6875rem] opacity-[0.7]">Today</span>
                                       </div>
                                     </div>
                                   </li>
@@ -811,7 +811,7 @@
                                         <span>32 New people joined summit.</span>
                                       </div>
                                       <div class="flex-grow text-end">
-                                        <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem] opacity-[0.7]">22 hrs</span>
+                                        <span class="block text-[#8c9097] text-[0.6875rem] opacity-[0.7]">22 hrs</span>
                                       </div>
                                     </div>
                                   </li>
@@ -828,7 +828,7 @@
                                           summit project.</span>
                                       </div>
                                       <div class="flex-grow text-end">
-                                        <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem] opacity-[0.7]">12 hrs</span>
+                                        <span class="block text-[#8c9097] text-[0.6875rem] opacity-[0.7]">12 hrs</span>
                                       </div>
                                     </div>
                                   </li>
@@ -836,7 +836,7 @@
                                     <div class="flex items-start">
                                       <div class="me-4">
                                         <span
-                                          class="w-[1.25rem] h-[1.25rem] leading-[1.25rem] inline-flex items-center justify-center font-medium text-[0.65rem] text-[#232323] dark:text-white bg-[#232323]/10 dark:bg-white/20 rounded-full">
+                                          class="w-[1.25rem] h-[1.25rem] leading-[1.25rem] inline-flex items-center justify-center font-medium text-[0.65rem] text-[#232323] bg-[#232323]/10 rounded-full">
                                           <i class="bi bi-circle-fill text-[0.5rem]"></i>
                                         </span>
                                       </div>
@@ -845,7 +845,7 @@
                                             class="ri-checkbox-circle-line text-success text-[1rem] align-middle"></i></span>
                                       </div>
                                       <div class="flex-grow text-end">
-                                        <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem] opacity-[0.7]">4 hrs</span>
+                                        <span class="block text-[#8c9097] text-[0.6875rem] opacity-[0.7]">4 hrs</span>
                                       </div>
                                     </div>
                                   </li>
@@ -862,7 +862,7 @@
                                             class="text-purple underline font-semibold">AI Summit.</a></span>
                                       </div>
                                       <div class="flex-grow text-end">
-                                        <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem] opacity-[0.7]">4 hrs</span>
+                                        <span class="block text-[#8c9097] text-[0.6875rem] opacity-[0.7]">4 hrs</span>
                                       </div>
                                     </div>
                                   </li>

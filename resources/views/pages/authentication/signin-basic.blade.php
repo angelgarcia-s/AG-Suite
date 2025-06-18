@@ -25,7 +25,7 @@
                     <div class="box">
                         <div class="box-body !p-[3rem]">
                             <p class="h5 font-semibold mb-2 text-center">Sign In</p>
-                            <p class="mb-4 text-[#8c9097] dark:text-white/50 opacity-[0.7] font-normal text-center">Welcome back Jhon !</p>
+                            <p class="mb-4 text-[#8c9097] opacity-[0.7] font-normal text-center">Welcome back Jhon !</p>
                             <div class="grid grid-cols-12 gap-y-4">
                                 <div class="xl:col-span-12 col-span-12">
                                     <label for="signin-username" class="form-label text-default">User Name</label>
@@ -40,7 +40,7 @@
                                     <div class="mt-2">
                                         <div class="form-check !ps-0">
                                             <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
-                                            <label class="form-check-label text-[#8c9097] dark:text-white/50 font-normal" for="defaultCheck1">
+                                            <label class="form-check-label text-[#8c9097] font-normal" for="defaultCheck1">
                                                 Remember password ?
                                             </label>
                                         </div>
@@ -51,7 +51,7 @@
                                 </div>
                             </div>
                             <div class="text-center">
-                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mt-4">Dont have an account? <a href="{{url('signup-basic')}}" class="text-primary">Sign Up</a></p>
+                                <p class="text-[0.75rem] text-[#8c9097] mt-4">Dont have an account? <a href="{{url('signup-basic')}}" class="text-primary">Sign Up</a></p>
                             </div>
                             <div class="text-center my-4 authentication-barrier">
                                 <span>OR</span>

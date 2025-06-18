@@ -9,7 +9,7 @@
  
                     <div class="file-manager-container p-2 gap-2 sm:!flex !block text-defaulttextcolor text-defaultsize">
                         <div class="file-manager-navigation">
-                            <div class="flex items-center justify-between w-full p-4 border-b dark:border-defaultborder/10">
+                            <div class="flex items-center justify-between w-full p-4 border-b">
                                 <div>
                                     <h6 class="font-semibold mb-0 text-[1rem] text-defaulttextcolor">File Manager</h6>
                                 </div>
@@ -24,10 +24,10 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="p-4 border-b dark:border-defaultborder/10">
+                            <div class="p-4 border-b">
                                 <div class="input-group">
                                     <input type="text" class="form-control !bg-light border-0 !rounded-s-sm" placeholder="Search Files" aria-describedby="button-addon2">
-                                    <button aria-label="button" type="button" class="ti-btn ti-btn-light !rounded-s-none !mb-0" id="button-addon2"><i class="ri-search-line text-[#8c9097] dark:text-white/50"></i></button>
+                                    <button aria-label="button" type="button" class="ti-btn ti-btn-light !rounded-s-none !mb-0" id="button-addon2"><i class="ri-search-line text-[#8c9097]"></i></button>
                                 </div>
                             </div>
                             <div>
@@ -142,7 +142,7 @@
                                         </a>
                                     </li>
                                     <li class="mb-8">
-                                        <div class="text-[#8c9097] dark:text-white/50 mb-2">
+                                        <div class="text-[#8c9097] mb-2">
                                             <p class="mb-1"><span class="font-bold text-[.875rem]">69.42GB</span> Used</p>
                                             <p class="text-[.75rem] mb-0">58% Used - 51.04Gb free</p>
                                         </div>
@@ -168,7 +168,7 @@
                             </div>
                         </div>
                         <div class="file-manager-folders">
-                            <div class="flex p-4 flex-wrap gap-2 items-center justify-between border-b dark:border-defaultborder/10">
+                            <div class="flex p-4 flex-wrap gap-2 items-center justify-between border-b">
                                 <div>
                                     <h6 class="font-semibold mb-0 text-[1rem]">Folders</h6>
                                 </div>
@@ -256,7 +256,7 @@
                                                             <span class="font-semibold mb-1">
                                                                 Images
                                                             </span>
-                                                            <span class="text-[.625rem] block text-[#8c9097] dark:text-white/50 text-end">
+                                                            <span class="text-[.625rem] block text-[#8c9097] text-end">
                                                                 214.32MB
                                                             </span>
                                                         </div>
@@ -277,7 +277,7 @@
                                                             <span class="font-semibold mb-1">
                                                                 Videos
                                                             </span>
-                                                            <span class="text-[.625rem] block text-[#8c9097] dark:text-white/50 text-end">
+                                                            <span class="text-[.625rem] block text-[#8c9097] text-end">
                                                                 1.45GB
                                                             </span>
                                                         </div>
@@ -298,7 +298,7 @@
                                                             <span class="font-semibold mb-1">
                                                                 Docs
                                                             </span>
-                                                            <span class="text-[.625rem] block text-[#8c9097] dark:text-white/50 text-end">
+                                                            <span class="text-[.625rem] block text-[#8c9097] text-end">
                                                                 432.29KB
                                                             </span>
                                                         </div>
@@ -319,7 +319,7 @@
                                                             <span class="font-semibold mb-1">
                                                                 Music
                                                             </span>
-                                                            <span class="text-[.625rem] block text-[#8c9097] dark:text-white/50 text-end">
+                                                            <span class="text-[.625rem] block text-[#8c9097] text-end">
                                                                 289MB
                                                             </span>
                                                         </div>
@@ -340,7 +340,7 @@
                                                             <span class="font-semibold mb-1">
                                                                 Apps
                                                             </span>
-                                                            <span class="text-[.625rem] block text-[#8c9097] dark:text-white/50 text-end">
+                                                            <span class="text-[.625rem] block text-[#8c9097] text-end">
                                                                 12.56GB
                                                             </span>
                                                         </div>
@@ -361,7 +361,7 @@
                                                             <span class="font-semibold mb-1">
                                                                 Downloads
                                                             </span>
-                                                            <span class="text-[.625rem] block text-[#8c9097] dark:text-white/50 text-end">
+                                                            <span class="text-[.625rem] block text-[#8c9097] text-end">
                                                                 3.12GB
                                                             </span>
                                                         </div>
@@ -382,7 +382,7 @@
                                                             <span class="font-semibold mb-1">
                                                                 Archives
                                                             </span>
-                                                            <span class="text-[.625rem] block text-[#8c9097] dark:text-white/50 text-end">
+                                                            <span class="text-[.625rem] block text-[#8c9097] text-end">
                                                                 28.5MB
                                                             </span>
                                                         </div>
@@ -403,7 +403,7 @@
                                                             <span class="font-semibold mb-1">
                                                                 More
                                                             </span>
-                                                            <span class="text-[.625rem] block text-[#8c9097] dark:text-white/50 text-end">
+                                                            <span class="text-[.625rem] block text-[#8c9097] text-end">
                                                                 32GB
                                                             </span>
                                                         </div>
@@ -419,7 +419,7 @@
                                 </div>
                                 <div class="grid grid-cols-12 gap-x-6 mb-4">
                                     <div class="xxl:col-span-3 xl:col-span-6 lg:col-span-6 md:col-span-6 col-span-12">
-                                        <div class="box border dark:border-defaultborder/10  !shadow-none">
+                                        <div class="box border  !shadow-none">
                                             <div class="box-body bg-primary/10">
                                                 <div class="mb-4 folder-svg-container flex flex-wrap justify-between items-start">
                                                     <div>
@@ -443,7 +443,7 @@
                                                 </p>
                                                 <div class="flex items-center justify-between flex-wrap">
                                                     <div>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[.75rem]">
+                                                        <span class="text-[#8c9097] text-[.75rem]">
                                                             246 Files
                                                         </span>
                                                     </div>
@@ -457,7 +457,7 @@
                                         </div>
                                     </div>
                                     <div class="xxl:col-span-3 xl:col-span-6 lg:col-span-6 md:col-span-6 col-span-12">
-                                        <div class="box border dark:border-defaultborder/10  !shadow-none">
+                                        <div class="box border  !shadow-none">
                                             <div class="box-body">
                                                 <div class="mb-4 folder-svg-container flex flex-wrap justify-between items-start">
                                                     <div>
@@ -481,7 +481,7 @@
                                                 </p>
                                                 <div class="flex items-center justify-between flex-wrap">
                                                     <div>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[.75rem]">
+                                                        <span class="text-[#8c9097] text-[.75rem]">
                                                             17 Files
                                                         </span>
                                                     </div>
@@ -495,7 +495,7 @@
                                         </div>
                                     </div>
                                     <div class="xxl:col-span-3 xl:col-span-6 lg:col-span-6 md:col-span-6 col-span-12">
-                                        <div class="box border dark:border-defaultborder/10 !shadow-none">
+                                        <div class="box border !shadow-none">
                                             <div class="box-body">
                                                 <div class="mb-4 folder-svg-container flex flex-wrap justify-between items-start">
                                                     <div>
@@ -519,7 +519,7 @@
                                                 </p>
                                                 <div class="flex items-center justify-between flex-wrap">
                                                     <div>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[.75rem]">
+                                                        <span class="text-[#8c9097] text-[.75rem]">
                                                             437 Files
                                                         </span>
                                                     </div>
@@ -533,7 +533,7 @@
                                         </div>
                                     </div>
                                     <div class="xxl:col-span-3 xl:col-span-6 lg:col-span-6 md:col-span-6 col-span-12">
-                                        <div class="box border dark:border-defaultborder/10 !shadow-none">
+                                        <div class="box border !shadow-none">
                                             <div class="box-body">
                                                 <div class="mb-4 folder-svg-container flex flex-wrap justify-between items-start">
                                                     <div>
@@ -557,7 +557,7 @@
                                                 </p>
                                                 <div class="flex items-center justify-between flex-wrap">
                                                     <div>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[.75rem]">
+                                                        <span class="text-[#8c9097] text-[.75rem]">
                                                             165 Files
                                                         </span>
                                                     </div>
@@ -577,7 +577,7 @@
                                 </div>
                                 <div class="grid grid-cols-12 gap-6">
                                     <div class="xl:col-span-12 col-span-12">
-                                        <div class="table-responsive border border-bottom-0 dark:border-defaultborder/10">
+                                        <div class="table-responsive border border-bottom-0">
                                             <table class="table whitespace-nowrap table-hover min-w-full">
                                                 <thead>
                                                     <tr>
@@ -589,7 +589,7 @@
                                                     </tr>
                                                 </thead>
                                                 <tbody class="files-list">
-                                                    <tr class="border border-inherit border-solid border-x-0 hover:bg-gray-100 dark:border-defaultborder/10 dark:hover:bg-light">
+                                                    <tr class="border border-inherit border-solid border-x-0 hover:bg-gray-100">
                                                         <th scope="row">
                                                             <div class="flex items-center">
                                                                 <div class="me-2">
@@ -616,7 +616,7 @@
                                                             </div>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border border-inherit border-solid border-x-0 hover:bg-gray-100 dark:border-defaultborder/10 dark:hover:bg-light">
+                                                    <tr class="border border-inherit border-solid border-x-0 hover:bg-gray-100">
                                                         <th scope="row">
                                                             <div class="flex items-center">
                                                                 <div class="me-2">
@@ -643,7 +643,7 @@
                                                             </div>
                                                         </td>
                                                     </tr>
-                                                    <tr class="bg-gray-100 dark:bg-light dark:border-defaultborder/10 dark:hover:bg-light">
+                                                    <tr class="bg-gray-100">
                                                         <th scope="row">
                                                             <div class="flex items-center">
                                                                 <div class="me-2">
@@ -670,7 +670,7 @@
                                                             </div>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border border-inherit border-solid border-x-0 hover:bg-gray-100 dark:border-defaultborder/10 dark:hover:bg-light">
+                                                    <tr class="border border-inherit border-solid border-x-0 hover:bg-gray-100">
                                                         <th scope="row">
                                                             <div class="flex items-center">
                                                                 <div class="me-2">
@@ -697,7 +697,7 @@
                                                             </div>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border border-inherit border-solid border-x-0 hover:bg-gray-100 dark:border-defaultborder/10 dark:hover:bg-light">
+                                                    <tr class="border border-inherit border-solid border-x-0 hover:bg-gray-100">
                                                         <th scope="row">
                                                             <div class="flex items-center">
                                                                 <div class="me-2">
@@ -746,7 +746,7 @@
                             </div>
                         </div>
                         <div class="selected-file-details">
-                            <div class="flex p-4 items-center justify-between border-b dark:border-defaultborder/10">
+                            <div class="flex p-4 items-center justify-between border-b">
                                 <div>
                                     <h6 class="font-semibold mb-0 text-[1rem]">File Details</h6>
                                 </div>
@@ -769,35 +769,35 @@
                                 </div>
                             </div>
                             <div class="filemanager-file-details" id="filemanager-file-details">
-                                <div class="p-4 text-center border-b border-dashed dark:border-defaultborder/10 ">
+                                <div class="p-4 text-center border-b border-dashed ">
                                     <div class="file-details mb-4 !inline-flex">
                                         <img src="{{asset('build/assets/images/media/file-manager/3.png')}}" alt="">
                                     </div>
                                     <div>
                                         <p class="mb-0 font-semibold text-[1rem]">AMB-2012.zip</p>
-                                        <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[.625rem]">422KB | 23,Nov 2022</p>
+                                        <p class="mb-0 text-[#8c9097] text-[.625rem]">422KB | 23,Nov 2022</p>
                                     </div>
                                 </div>
-                                <div class="p-4 border-b border-dashed dark:border-defaultborder/10">
+                                <div class="p-4 border-b border-dashed">
                                     <ul class="list-group">
                                         <li class="list-group-item">
                                             <div>
-                                                <span class="font-semibold">File Format : </span><span class="text-[.75rem] text-[#8c9097] dark:text-white/50">zip</span>
+                                                <span class="font-semibold">File Format : </span><span class="text-[.75rem] text-[#8c9097]">zip</span>
                                             </div>
                                         </li>
                                         <li class="list-group-item">
                                             <div>
                                                 <p class="font-semibold mb-0">File Description : </p>
-                                                <span class="text-[.75rem] text-[#8c9097] dark:text-white/50">This file contains 3 folder ynex.main &amp; ynex.premium &amp; ynex.featured and 42 images and layout styles are added in this update.</span>
+                                                <span class="text-[.75rem] text-[#8c9097]">This file contains 3 folder ynex.main &amp; ynex.premium &amp; ynex.featured and 42 images and layout styles are added in this update.</span>
                                             </div>
                                         </li>
                                         <li class="list-group-item">
                                             <p class="font-semibold mb-0">File Location : </p>
-                                            <span class="text-[.75rem] text-[#8c9097] dark:text-white/50">Device/Storage/Archives/AMB-2012.zip</span>
+                                            <span class="text-[.75rem] text-[#8c9097]">Device/Storage/Archives/AMB-2012.zip</span>
                                         </li>
                                     </ul>
                                 </div>
-                                <div class="p-4 border-b border-dashed dark:border-defaultborder/10">
+                                <div class="p-4 border-b border-dashed">
                                     <p class="mb-1 font-semibold text-[.875rem]">Downloaded from :</p>
                                     <a class="text-primary font-semibold break-words" href="https://themeforest.net/user/spruko/portfolio" target="_blank">
                                         <u>https://themeforest.net/user/spruko/portfolio</u>
@@ -809,28 +809,28 @@
                                         <span class="avatar avatar-sm me-2">
                                             <img src="{{asset('build/assets/images/faces/1.jpg')}}" alt="" class="!rounded-md">
                                         </span>
-                                        <span class="font-semibold flex-grow dark:text-defaulttextcolor/70">Akira Susan</span>
+                                        <span class="font-semibold flex-grow">Akira Susan</span>
                                         <span class="badge bg-success/10 text-success font-normal">28,Nov 2022</span>
                                     </div>
                                     <div class="flex items-center p-2 mb-1">
                                         <span class="avatar avatar-sm me-2">
                                             <img src="{{asset('build/assets/images/faces/15.jpg')}}" alt="" class="!rounded-md">
                                         </span>
-                                        <span class="font-semibold flex-grow dark:text-defaulttextcolor/70">Khalid Ahmad</span>
+                                        <span class="font-semibold flex-grow">Khalid Ahmad</span>
                                         <span class="badge bg-success/10 text-success font-normal">16,Oct 2022</span>
                                     </div>
                                     <div class="flex items-center p-2 mb-1">
                                         <span class="avatar avatar-sm me-2">
                                             <img src="{{asset('build/assets/images/faces/8.jpg')}}" alt="" class="!rounded-md">
                                         </span>
-                                        <span class="font-semibold flex-grow dark:text-defaulttextcolor/70">Jeremiah Jackson</span>
+                                        <span class="font-semibold flex-grow">Jeremiah Jackson</span>
                                         <span class="badge bg-success/10 text-success font-normal">05,Dec 2022</span>
                                     </div>
                                     <div class="flex items-center p-2">
                                         <span class="avatar avatar-sm me-2">
                                             <img src="{{asset('build/assets/images/faces/13.jpg')}}" alt="" class="!rounded-md">
                                         </span>
-                                        <span class="font-semibold flex-grow dark:text-defaulttextcolor/70">Brigo Jhonson</span>
+                                        <span class="font-semibold flex-grow">Brigo Jhonson</span>
                                         <span class="badge bg-success/10 text-success font-normal">13,Nov 2022</span>
                                     </div>
                                 </div>

@@ -12,16 +12,16 @@
                     <!-- Page Header -->
                     <div class="block justify-between page-header md:flex">
                         <div>
-                            <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Widgets</h3>
+                            <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Widgets</h3>
                         </div>
                         <ol class="flex items-center whitespace-nowrap min-w-0">
                             <li class="text-[0.813rem] ps-[0.5rem]">
-                            <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                            <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                 Widgets
-                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                             </a>
                             </li>
-                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                 Widgets
                             </li>
                         </ol>
@@ -42,7 +42,7 @@
                                         <div class="flex-grow">
                                             <div class="flex flex-wrap items-center justify-between text-[.875rem] mb-1">
                                                 <span class="flex-grow">Bitcoin</span>
-                                                <span class="ms-1 text-[#8c9097] dark:text-white/50">BTC</span>
+                                                <span class="ms-1 text-[#8c9097]">BTC</span>
                                             </div>
                                             <div class="flex flex-wrap items-center justify-between">
                                                 <h5 class="font-semibold mb-0">$12,800</h5>
@@ -68,7 +68,7 @@
                                         <div class="flex-grow">
                                             <div class="flex flex-wrap items-center justify-between text-[.875rem] mb-1">
                                                 <span class="flex-grow">Ethereum</span>
-                                                <span class="ms-1 text-[#8c9097] dark:text-white/50">ETH</span>
+                                                <span class="ms-1 text-[#8c9097]">ETH</span>
                                             </div>
                                             <div class="flex flex-wrap items-center justify-between">
                                                 <h5 class="font-semibold mb-0">$18,600</h5>
@@ -94,7 +94,7 @@
                                         <div class="flex-grow">
                                             <div class="flex flex-wrap items-center justify-between text-[.875rem] mb-1">
                                                 <span class="flex-grow">Dash</span>
-                                                <span class="ms-1 text-[#8c9097] dark:text-white/50">DSH</span>
+                                                <span class="ms-1 text-[#8c9097]">DSH</span>
                                             </div>
                                             <div class="flex flex-wrap items-center justify-between">
                                                 <h5 class="font-semibold mb-0">$16,580</h5>
@@ -121,7 +121,7 @@
                                         <div class="flex-grow">
                                             <div class="flex flex-wrap items-center justify-between text-[.875rem] mb-1">
                                                 <span class="flex-grow">Golem</span>
-                                                <span class="ms-1 text-[#8c9097] dark:text-white/50">GLM</span>
+                                                <span class="ms-1 text-[#8c9097]">GLM</span>
                                             </div>
                                             <div class="flex flex-wrap items-center justify-between">
                                                 <h5 class="font-semibold mb-0">$12,545</h5>
@@ -148,7 +148,7 @@
                                         <div class="box-body">
                                             <div class="flex flex-wrap items-start justify-between ">
                                                 <div class="flex-grow">
-                                                    <p class="mb-0 text-[#8c9097] dark:text-white/50">Total Candidates</p>
+                                                    <p class="mb-0 text-[#8c9097]">Total Candidates</p>
                                                     <div class="flex items-center">
                                                         <span class="text-[1.25rem] font-semibold">9,231</span>
                                                         <span class="text-[0.75rem] text-success ms-2"><i class="ti ti-trending-up me-1 inline-block"></i>0.5%</span>
@@ -168,7 +168,7 @@
                                         <div class="box-body">
                                             <div class="flex flex-wrap items-start justify-between">
                                                 <div class="flex-grow">
-                                                    <p class="mb-0 text-[#8c9097] dark:text-white/50">Total Subscriptions</p>
+                                                    <p class="mb-0 text-[#8c9097]">Total Subscriptions</p>
                                                     <div class="flex items-center">
                                                         <span class="text-[1.25rem] font-semibold">3,571</span>
                                                         <span class="text-[0.75rem] text-success ms-2"><i class="ti ti-trending-up me-1 inline-block"></i>0.42%</span>
@@ -188,7 +188,7 @@
                                         <div class="box-body">
                                             <div class="flex flex-wrap items-start justify-between">
                                                 <div class="flex-grow">
-                                                    <p class="mb-0 text-[#8c9097] dark:text-white/50">Page Views</p>
+                                                    <p class="mb-0 text-[#8c9097]">Page Views</p>
                                                     <div class="flex items-center">
                                                         <span class="text-[1.25rem] font-semibold">1,986</span>
                                                         <span class="text-[0.75rem] text-success ms-2"><i class="ti ti-trending-up me-1 inline-block"></i>5.1%</span>
@@ -208,7 +208,7 @@
                                         <div class="box-body">
                                             <div class="flex flex-wrap items-start justify-between">
                                                 <div class="flex-grow">
-                                                    <p class="mb-0 text-[#8c9097] dark:text-white/50">New Registrations</p>
+                                                    <p class="mb-0 text-[#8c9097]">New Registrations</p>
                                                     <div class="flex items-center">
                                                         <span class="text-[1.25rem] font-semibold">773</span>
                                                         <span class="text-[0.75rem] text-success ms-2"><i class="ti ti-trending-up me-1 inline-block"></i>3.5%</span>
@@ -232,7 +232,7 @@
                                         <div class="box-body">
                                             <div class="flex flex-wrap items-start mb-2">
                                                 <div class="flex-grow">
-                                                    <p class="mb-0 text-[#8c9097] dark:text-white/50">Total Recruiters</p>
+                                                    <p class="mb-0 text-[#8c9097]">Total Recruiters</p>
                                                 </div>
                                                 <div class="ms-2">
                                                     <span class="avatar avatar-md !bg-info text-[1.125rem]">
@@ -271,7 +271,7 @@
                                                     <span class="avatar avatar-md !rounded-full bg-secondary me-2">
                                                         <i class="bi bi-receipt text-[1rem]"></i>
                                                     </span>
-                                                    <p class="mb-0 flex-grow text-[#8c9097] dark:text-white/50">Total Revenue</p>
+                                                    <p class="mb-0 flex-grow text-[#8c9097]">Total Revenue</p>
                                                 </div>
                                                 <span class="text-[1.25rem] font-semibold">$12,897</span>
                                                 <span class="text-[0.75rem] text-success ms-1"><i class="ti ti-trending-up me-1 inline-block"></i>3.5%</span>
@@ -287,7 +287,7 @@
                                                 <span class="avatar avatar-md !rounded-full bg-success me-2">
                                                     <i class="bi bi-people text-[1rem]"></i>
                                                 </span>
-                                                <p class="mb-0 flex-grow text-[#8c9097] dark:text-white/50">Active Members</p>
+                                                <p class="mb-0 flex-grow text-[#8c9097]">Active Members</p>
                                             </div>
                                             <span class="text-[1.25rem] font-semibold">$12,897</span>
                                             <span class="text-[0.75rem] text-success ms-1"><i class="ti ti-trending-up me-1 inline-block"></i>3.5%</span>
@@ -335,7 +335,7 @@
                                                 </div>
                                             </div>
                                             <p class="mb-3 text-[1.25rem] font-semibold">386</p>
-                                            <p class="mb-2 text-[#8c9097] dark:text-white/50 font-normal">Recents</p>
+                                            <p class="mb-2 text-[#8c9097] font-normal">Recents</p>
                                             <div class="flex items-center justify-between">
                                                 <div class="avatar-list-stacked">
                                                     <a href="javascript:void(0);" class="avatar avatar-sm rounded-circle overflow-hidden"  aria-label="Mis x matched"><img src="{{asset('build/assets/images/faces/2.jpg')}}" alt="img" class="w-full"></a>
@@ -353,7 +353,7 @@
                                             <div class="flex items-center">
                                                 <div class="flex-grow">
                                                     <p class="mb-1 text-[1.25rem] font-semibold text-default">1,773</p>
-                                                    <p class="mb-0 text-[#8c9097] dark:text-white/50">Active Members</p>
+                                                    <p class="mb-0 text-[#8c9097]">Active Members</p>
                                                     <p class="mb-0 text-[.6875rem]"><a href="javascript:void(0);" class="text-success underline">View All</a></p>
                                                 </div>
                                                 <div class="ms-2">
@@ -369,7 +369,7 @@
                                             <div class="flex items-center">
                                                 <div class="flex-grow">
                                                     <p class="mb-1 text-[1.25rem] font-semibold text-default">116</p>
-                                                    <p class="mb-0 text-[#8c9097] dark:text-white/50">Registrations</p>
+                                                    <p class="mb-0 text-[#8c9097]">Registrations</p>
                                                     <p class="mb-0 text-[.6875rem]"><a href="javascript:void(0);" class="text-success underline">View All</a></p>
                                                 </div>
                                                 <div class="ms-2">
@@ -415,7 +415,7 @@
                                             <div class="p-4">
                                                 <div class="flex flex-wrap mb-1">
                                                     <a aria-label="anchor" href="javascript:void(0);" class="pe-2">
-                                                        <span class="avatar border text-[#8c9097] dark:text-white/50 !text-primary dark:border-defaultborder/10"><i class="ri-apple-fill text-[1.125rem]"></i></span>
+                                                        <span class="avatar border text-[#8c9097] !text-primary"><i class="ri-apple-fill text-[1.125rem]"></i></span>
                                                     </a>
                                                     <div class="flex-grow">
                                                         <div class="flex flex-wrap items-center justify-between mb-1">
@@ -423,7 +423,7 @@
                                                             <span class="!text-success text-end"><i class="ti ti-trending-up text-[.6875rem] me-1 inline-block"></i>0.14%</span>
                                                         </div>
                                                         <div class="flex flex-wrap items-center justify-between text-[0.75rem] mb-4">
-                                                            <span class="text-[#8c9097] dark:text-white/50">$12,289.44</span>
+                                                            <span class="text-[#8c9097]">$12,289.44</span>
                                                             <span class="text-success text-end">+$1,780.80</span>
                                                         </div>
                                                     </div>
@@ -442,7 +442,7 @@
                                             <div class="p-4">
                                                 <div class="flex flex-wrap mb-1">
                                                     <a aria-label="anchor" href="javascript:void(0);" class="pe-2">
-                                                        <span class="avatar border text-[#8c9097] dark:text-white/50 !text-primary dark:border-defaultborder/10"><i class="ri-bit-coin-fill text-[1.125rem]"></i></span>
+                                                        <span class="avatar border text-[#8c9097] !text-primary"><i class="ri-bit-coin-fill text-[1.125rem]"></i></span>
                                                     </a>
                                                     <div class="flex-grow">
                                                         <div class="flex flex-wrap items-center justify-between mb-1">
@@ -450,7 +450,7 @@
                                                             <span class="text-success text-end"><i class="ti ti-trending-up text-[.6875rem] me-1 inline-block"></i>2.14%</span>
                                                         </div>
                                                         <div class="flex flex-wrap items-center justify-between text-[0.75rem] mb-3">
-                                                            <span class="text-[#8c9097] dark:text-white/50">$58,151.02</span>
+                                                            <span class="text-[#8c9097]">$58,151.02</span>
                                                             <span class="text-success text-end">+$5,745.62</span>
                                                         </div>
                                                     </div>
@@ -476,11 +476,11 @@
                                     <div class="flex items-start justify-between mb-6">
                                         <div class="flex-grow flex items-start">
                                             <div class="me-2">
-                                                <span class="avatar avatar-md !text-primary border bg-light dark:border-defaultborder/10"><i class="ti ti-users text-[1.125rem]"></i></span>
+                                                <span class="avatar avatar-md !text-primary border bg-light"><i class="ti ti-users text-[1.125rem]"></i></span>
                                             </div>
                                             <div class="flex-grow">
                                                 <p class="font-semibold text-[.875rem] mb-0">Total Candidates</p>
-                                                <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.75rem] opacity-[0.7]">Magna sit elitr kasd consetetur.</p>
+                                                <p class="mb-0 text-[#8c9097] text-[0.75rem] opacity-[0.7]">Magna sit elitr kasd consetetur.</p>
                                             </div>
                                         </div>
                                         <div class="hs-dropdown ti-dropdown">
@@ -494,7 +494,7 @@
                                     </div>
                                     <div class="flex items-center mb-0">
                                         <p class="mb-0 text-[1.25rem] font-semibold">2,460</p>
-                                        <span class="text-[#8c9097] dark:text-white/50 ms-2"><i class="ti ti-trending-up align-middle text-success me-1 inline-block"></i>2.5%</span>
+                                        <span class="text-[#8c9097] ms-2"><i class="ti ti-trending-up align-middle text-success me-1 inline-block"></i>2.5%</span>
                                     </div>
                                     <div class="flex items-center">
                                         <div class="flex-grow">
@@ -503,7 +503,7 @@
                                             </div>
                                         </div>
                                         <div class="ms-3">
-                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">14% Target</span>
+                                            <span class="text-[0.75rem] text-[#8c9097]">14% Target</span>
                                         </div>
                                     </div>
                                 </div>
@@ -515,11 +515,11 @@
                                     <div class="flex items-start justify-between mb-6">
                                         <div class="flex-grow flex items-start">
                                             <div class="me-2">
-                                                <span class="avatar avatar-md !text-secondary border bg-light dark:border-defaultborder/10"><i class="ti ti-user-circle text-[1.125rem]"></i></span>
+                                                <span class="avatar avatar-md !text-secondary border bg-light"><i class="ti ti-user-circle text-[1.125rem]"></i></span>
                                             </div>
                                             <div class="flex-grow">
                                                 <p class="font-semibold text-[.875rem] mb-0">Recruiters</p>
-                                                <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.75rem] opacity-[0.7]">Elitr at gubergren sit sed.</p>
+                                                <p class="mb-0 text-[#8c9097] text-[0.75rem] opacity-[0.7]">Elitr at gubergren sit sed.</p>
                                             </div>
                                         </div>
                                         <div class="hs-dropdown ti-dropdown">
@@ -533,7 +533,7 @@
                                     </div>
                                     <div class="flex items-center mb-0">
                                         <p class="mb-0 text-[1.25rem] font-semibold">7,539</p>
-                                        <span class="text-[#8c9097] dark:text-white/50 ms-2"><i class="ti ti-trending-up align-middle text-success me-1 inline-block"></i>3.1%</span>
+                                        <span class="text-[#8c9097] ms-2"><i class="ti ti-trending-up align-middle text-success me-1 inline-block"></i>3.1%</span>
                                     </div>
                                     <div class="flex items-center">
                                         <div class="flex-grow">
@@ -542,7 +542,7 @@
                                             </div>
                                         </div>
                                         <div class="ms-3">
-                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">55% Target</span>
+                                            <span class="text-[0.75rem] text-[#8c9097]">55% Target</span>
                                         </div>
                                     </div>
                                 </div>
@@ -554,11 +554,11 @@
                                     <div class="flex items-start justify-between mb-6">
                                         <div class="flex-grow flex items-start">
                                             <div class="me-2">
-                                                <span class="avatar avatar-md !text-success border bg-light dark:border-defaultborder/10"><i class="ti ti-view-360 text-[1.125rem]"></i></span>
+                                                <span class="avatar avatar-md !text-success border bg-light"><i class="ti ti-view-360 text-[1.125rem]"></i></span>
                                             </div>
                                             <div class="flex-grow">
                                                 <p class="font-semibold text-[.875rem] mb-0">Page Views</p>
-                                                <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.75rem] opacity-[0.7]">Sed duo ut sanctus gubergren.</p>
+                                                <p class="mb-0 text-[#8c9097] text-[0.75rem] opacity-[0.7]">Sed duo ut sanctus gubergren.</p>
                                             </div>
                                         </div>
                                         <div class="hs-dropdown ti-dropdown">
@@ -572,7 +572,7 @@
                                     </div>
                                     <div class="flex items-center mb-0">
                                         <p class="mb-0 text-[1.25rem] font-semibold">13,693</p>
-                                        <span class="text-[#8c9097] dark:text-white/50 ms-2"><i class="ti ti-trending-up align-middle text-success me-1 inline-block"></i>5.4%</span>
+                                        <span class="text-[#8c9097] ms-2"><i class="ti ti-trending-up align-middle text-success me-1 inline-block"></i>5.4%</span>
                                     </div>
                                     <div class="flex items-center">
                                         <div class="flex-grow">
@@ -581,7 +581,7 @@
                                             </div>
                                         </div>
                                         <div class="ms-3">
-                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">24% Target</span>
+                                            <span class="text-[0.75rem] text-[#8c9097]">24% Target</span>
                                         </div>
                                     </div>
                                 </div>
@@ -593,11 +593,11 @@
                                     <div class="flex items-start justify-between mb-6">
                                         <div class="flex-grow flex items-start">
                                             <div class="me-2">
-                                                <span class="avatar avatar-md !text-indigo border bg-light dark:border-defaultborder/10"><i class="ti ti-view-360 text-[1.125rem]"></i></span>
+                                                <span class="avatar avatar-md !text-indigo border bg-light"><i class="ti ti-view-360 text-[1.125rem]"></i></span>
                                             </div>
                                             <div class="flex-grow">
                                                 <p class="font-semibold text-[.875rem] mb-0">Total Subscriptions</p>
-                                                <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.75rem] opacity-[0.7]">Invidunt magna voluptua.</p>
+                                                <p class="mb-0 text-[#8c9097] text-[0.75rem] opacity-[0.7]">Invidunt magna voluptua.</p>
                                             </div>
                                         </div>
                                         <div class="hs-dropdown ti-dropdown">
@@ -611,7 +611,7 @@
                                     </div>
                                     <div class="flex items-center mb-0">
                                         <p class="mb-0 text-[1.25rem] font-semibold">1,116</p>
-                                        <span class="text-[#8c9097] dark:text-white/50 ms-2"><i class="ti ti-trending-down align-middle text-danger me-1 inline-block"></i>3.2%</span>
+                                        <span class="text-[#8c9097] ms-2"><i class="ti ti-trending-down align-middle text-danger me-1 inline-block"></i>3.2%</span>
                                     </div>
                                     <div class="flex items-center">
                                         <div class="flex-grow">
@@ -620,7 +620,7 @@
                                             </div>
                                         </div>
                                         <div class="ms-3">
-                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">67% Target</span>
+                                            <span class="text-[0.75rem] text-[#8c9097]">67% Target</span>
                                         </div>
                                     </div>
                                 </div>
@@ -635,7 +635,7 @@
                             <div class="box custom-box">
                                 <div class="box-body !p-0">
                                     <div class="grid grid-cols-12 gap-x-6">
-                                        <div class="xl:col-span-3 col-span-12 border-e border-dashed dark:border-defaultborder/10">
+                                        <div class="xl:col-span-3 col-span-12 border-e border-dashed">
                                             <div class="flex flex-wrap items-start p-6">
                                                 <div class="me-4 leading-none">
                                                     <span class="avatar avatar-md !rounded-full !bg-primary shadow-sm">
@@ -644,14 +644,14 @@
                                                 </div>
                                                 <div class="flex-grow">
                                                     <h5 class="font-semibold ">45,280</h5>
-                                                    <p class="text-[#8c9097] dark:text-white/50 mb-0 text-[0.75rem]">Total Products</p>
+                                                    <p class="text-[#8c9097] mb-0 text-[0.75rem]">Total Products</p>
                                                 </div>
                                                 <div>
                                                     <span class="badge bg-success/10 text-success"><i class="ri-arrow-up-s-line align-middle me-1 inline-block"></i>1.31%</span>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="xl:col-span-3 col-span-12 border-e border-dashed dark:border-defaultborder/10">
+                                        <div class="xl:col-span-3 col-span-12 border-e border-dashed">
                                             <div class="flex flex-wrap items-start p-6">
                                                 <div class="me-3 leading-none">
                                                     <span class="avatar avatar-md !rounded-full bg-secondary shadow-sm">
@@ -660,14 +660,14 @@
                                                 </div>
                                                 <div class="flex-grow">
                                                     <h5 class="font-semibold ">10,500</h5>
-                                                    <p class="text-[#8c9097] dark:text-white/50 mb-0 text-[0.75rem]">Total Sales</p>
+                                                    <p class="text-[#8c9097] mb-0 text-[0.75rem]">Total Sales</p>
                                                 </div>
                                                 <div>
                                                     <span class="badge bg-danger/10 text-danger"><i class="ri-arrow-down-s-line align-middle me-1"></i>1.14%</span>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="xl:col-span-3 col-span-12 border-e border-dashed dark:border-defaultborder/10">
+                                        <div class="xl:col-span-3 col-span-12 border-e border-dashed">
                                             <div class="flex flex-wrap items-start p-6">
                                                 <div class="me-3 leading-none">
                                                     <span class="avatar avatar-md !rounded-full bg-success shadow-sm">
@@ -676,7 +676,7 @@
                                                 </div>
                                                 <div class="flex-grow">
                                                     <h5 class="font-semibold ">$69,270</h5>
-                                                    <p class="text-[#8c9097] dark:text-white/50 mb-0 text-[0.75rem]">Income</p>
+                                                    <p class="text-[#8c9097] mb-0 text-[0.75rem]">Income</p>
                                                 </div>
                                                 <div>
                                                     <span class="badge bg-success/10 text-success"><i class="ri-arrow-up-s-line align-middle me-1 inline-block"></i>2.58%</span>
@@ -692,7 +692,7 @@
                                                 </div>
                                                 <div class="flex-grow">
                                                     <h5 class="font-semibold ">12,088</h5>
-                                                    <p class="text-[#8c9097] dark:text-white/50 mb-0 text-[0.75rem]">Total Orders</p>
+                                                    <p class="text-[#8c9097] mb-0 text-[0.75rem]">Total Orders</p>
                                                 </div>
                                                 <div>
                                                     <span class="badge bg-success/10 text-success"><i class="ri-arrow-up-s-line align-middle me-1 inline-block"></i>12.05%</span>
@@ -708,7 +708,7 @@
                                 <div class="box-body !p-0">
                                     <div class="flex items-start p-6 flex-wrap">
                                         <div class="me-4 leading-none">
-                                            <span class="avatar avatar-md !rounded-full bg-white dark:bg-bodybg !text-primary shadow-sm">
+                                            <span class="avatar avatar-md !rounded-full bg-white !text-primary shadow-sm">
                                                 <i class="ti ti-coin text-[1.125rem]"></i>
                                             </span>
                                         </div>
@@ -841,31 +841,31 @@
                                 </div>
                                 <div class="box-body">
                                     <nav class="flex flex-wrap xxxl:flex-nowrap justify-start sm:justify-between" aria-label="Tabs">
-                                        <button type="button" class="xxxl:w-full hs-tab-active:bg-primary hs-tab-active:text-white py-3 px-4 block items-center gap-2 bg-transparent text-sm font-medium text-center text-defaulttextcolor rounded-sm hover:text-primary  dark:text-[#8c9097] dark:text-white/50 dark:hover:text-white active" id="mon" data-hs-tab="#mon-1" aria-controls="mon-1">
+                                        <button type="button" class="xxxl:w-full hs-tab-active:bg-primary hs-tab-active:text-white py-3 px-4 block items-center gap-2 bg-transparent text-sm font-medium text-center text-defaulttextcolor rounded-sm hover:text-primary  active" id="mon" data-hs-tab="#mon-1" aria-controls="mon-1">
                                             <span class="block mb-1">09</span>
                                             <span class="block mb-0 opacity-[0.7] text-[0.75rem]">Mon</span>
                                         </button>
-                                        <button type="button" class="xxxl:w-full hs-tab-active:bg-primary hs-tab-active:text-white py-3 px-4 block items-center gap-2 bg-transparent text-sm font-medium text-center text-defaulttextcolor rounded-sm hover:text-primary  dark:text-[#8c9097] dark:text-white/50 dark:hover:text-white" id="tue" data-hs-tab="#tue-1" aria-controls="tue-1">
+                                        <button type="button" class="xxxl:w-full hs-tab-active:bg-primary hs-tab-active:text-white py-3 px-4 block items-center gap-2 bg-transparent text-sm font-medium text-center text-defaulttextcolor rounded-sm hover:text-primary " id="tue" data-hs-tab="#tue-1" aria-controls="tue-1">
                                             <span class="block mb-1">10</span>
                                             <span class="block mb-0 opacity-[0.7] text-[0.75rem]">Tue</span>
                                         </button>
-                                        <button type="button" class="xxxl:w-full hs-tab-active:bg-primary hs-tab-active:text-white py-3 px-4 block items-center gap-2 bg-transparent text-sm font-medium text-center text-defaulttextcolor rounded-sm hover:text-primary  dark:text-[#8c9097] dark:text-white/50 dark:hover:text-white" id="wed" data-hs-tab="#wed-1" aria-controls="wed-1">
+                                        <button type="button" class="xxxl:w-full hs-tab-active:bg-primary hs-tab-active:text-white py-3 px-4 block items-center gap-2 bg-transparent text-sm font-medium text-center text-defaulttextcolor rounded-sm hover:text-primary " id="wed" data-hs-tab="#wed-1" aria-controls="wed-1">
                                             <span class="block mb-1">11</span>
                                             <span class="block mb-0 opacity-[0.7] text-[0.75rem]">Wed</span>
                                         </button>
-                                        <button type="button" class="xxxl:w-full hs-tab-active:bg-primary hs-tab-active:text-white py-3 px-4 block items-center gap-2 bg-transparent text-sm font-medium text-center text-defaulttextcolor rounded-sm hover:text-primary  dark:text-[#8c9097] dark:text-white/50 dark:hover:text-white" id="thu" data-hs-tab="#thu-1" aria-controls="thu-1">
+                                        <button type="button" class="xxxl:w-full hs-tab-active:bg-primary hs-tab-active:text-white py-3 px-4 block items-center gap-2 bg-transparent text-sm font-medium text-center text-defaulttextcolor rounded-sm hover:text-primary " id="thu" data-hs-tab="#thu-1" aria-controls="thu-1">
                                             <span class="block mb-1">12</span>
                                             <span class="block mb-0 opacity-[0.7] text-[0.75rem]">Thu</span>
                                         </button>
-                                        <button type="button" class="xxxl:w-full hs-tab-active:bg-primary hs-tab-active:text-white py-3 px-4 block items-center gap-2 bg-transparent text-sm font-medium text-center text-defaulttextcolor rounded-sm hover:text-primary  dark:text-[#8c9097] dark:text-white/50 dark:hover:text-white" id="fri" data-hs-tab="#fri-1" aria-controls="fri-1">
+                                        <button type="button" class="xxxl:w-full hs-tab-active:bg-primary hs-tab-active:text-white py-3 px-4 block items-center gap-2 bg-transparent text-sm font-medium text-center text-defaulttextcolor rounded-sm hover:text-primary " id="fri" data-hs-tab="#fri-1" aria-controls="fri-1">
                                             <span class="block mb-1">13</span>
                                             <span class="block mb-0 opacity-[0.7] text-[0.75rem]">Fri</span>
                                         </button>
-                                        <button type="button" class="xxxl:w-full hs-tab-active:bg-primary hs-tab-active:text-white py-3 px-4 block items-center gap-2 bg-transparent text-sm font-medium text-center text-defaulttextcolor rounded-sm hover:text-primary  dark:text-[#8c9097] dark:text-white/50 dark:hover:text-white" id="sat" data-hs-tab="#sat-1" aria-controls="sat-1">
+                                        <button type="button" class="xxxl:w-full hs-tab-active:bg-primary hs-tab-active:text-white py-3 px-4 block items-center gap-2 bg-transparent text-sm font-medium text-center text-defaulttextcolor rounded-sm hover:text-primary " id="sat" data-hs-tab="#sat-1" aria-controls="sat-1">
                                             <span class="block mb-1">14</span>
                                             <span class="block mb-0 opacity-[0.7] text-[0.75rem]">Sat</span>
                                         </button>
-                                        <button type="button" class="xxxl:w-full hs-tab-active:bg-primary hs-tab-active:text-white py-3 px-4 block items-center gap-2 bg-transparent text-sm font-medium text-center text-defaulttextcolor rounded-sm hover:text-primary  dark:text-[#8c9097] dark:text-white/50 dark:hover:text-white" id="sun" data-hs-tab="#sun-1" aria-controls="sun-1">
+                                        <button type="button" class="xxxl:w-full hs-tab-active:bg-primary hs-tab-active:text-white py-3 px-4 block items-center gap-2 bg-transparent text-sm font-medium text-center text-defaulttextcolor rounded-sm hover:text-primary " id="sun" data-hs-tab="#sun-1" aria-controls="sun-1">
                                             <span class="block mb-1">15</span>
                                             <span class="block mb-0 opacity-[0.7] text-[0.75rem]">Sun</span>
                                         </button>
@@ -877,10 +877,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">Meeting with client</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">Video Conference</p>
+                                                            <p class="mb-0 text-[#8c9097]">Video Conference</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block "></i>9:00am - 10:00am</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block "></i>9:00am - 10:00am</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -888,10 +888,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">Lunch with team members</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">Dolores Ait Labore Sit</p>
+                                                            <p class="mb-0 text-[#8c9097]">Dolores Ait Labore Sit</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>12:00pm - 12:45am</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>12:00pm - 12:45am</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -899,10 +899,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">General board meeting</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">Golden PArk</p>
+                                                            <p class="mb-0 text-[#8c9097]">Golden PArk</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>4:00pm - 5:30pm</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>4:00pm - 5:30pm</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -910,10 +910,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">Create New Registration Page</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">2UA Project</p>
+                                                            <p class="mb-0 text-[#8c9097]">2UA Project</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>5:00pm - 5:45pm</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>5:00pm - 5:45pm</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -925,10 +925,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">Meeting with client</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">Video Conference</p>
+                                                            <p class="mb-0 text-[#8c9097]">Video Conference</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>9:00am - 10:00am</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>9:00am - 10:00am</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -936,10 +936,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">Lunch with team members</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">Dolores Ait Labore Sit</p>
+                                                            <p class="mb-0 text-[#8c9097]">Dolores Ait Labore Sit</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>12:00pm - 12:45am</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>12:00pm - 12:45am</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -947,10 +947,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">General board meeting</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">Golden PArk</p>
+                                                            <p class="mb-0 text-[#8c9097]">Golden PArk</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>4:00pm - 5:30pm</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>4:00pm - 5:30pm</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -958,10 +958,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">Create New Registration Page</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">2UA Project</p>
+                                                            <p class="mb-0 text-[#8c9097]">2UA Project</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>5:00pm - 5:45pm</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>5:00pm - 5:45pm</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -973,10 +973,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">Meeting with client</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">Video Conference</p>
+                                                            <p class="mb-0 text-[#8c9097]">Video Conference</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>9:00am - 10:00am</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>9:00am - 10:00am</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -984,10 +984,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">Lunch with team members</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">Dolores Ait Labore Sit</p>
+                                                            <p class="mb-0 text-[#8c9097]">Dolores Ait Labore Sit</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>12:00pm - 12:45am</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>12:00pm - 12:45am</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -995,10 +995,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">General board meeting</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">Golden PArk</p>
+                                                            <p class="mb-0 text-[#8c9097]">Golden PArk</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>4:00pm - 5:30pm</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>4:00pm - 5:30pm</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -1006,10 +1006,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">Create New Registration Page</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">2UA Project</p>
+                                                            <p class="mb-0 text-[#8c9097]">2UA Project</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>5:00pm - 5:45pm</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>5:00pm - 5:45pm</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -1021,10 +1021,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">Meeting with client</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">Video Conference</p>
+                                                            <p class="mb-0 text-[#8c9097]">Video Conference</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>9:00am - 10:00am</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>9:00am - 10:00am</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -1032,10 +1032,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">Lunch with team members</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">Dolores Ait Labore Sit</p>
+                                                            <p class="mb-0 text-[#8c9097]">Dolores Ait Labore Sit</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>12:00pm - 12:45am</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>12:00pm - 12:45am</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -1043,10 +1043,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">General board meeting</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">Golden PArk</p>
+                                                            <p class="mb-0 text-[#8c9097]">Golden PArk</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>4:00pm - 5:30pm</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>4:00pm - 5:30pm</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -1054,10 +1054,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">Create New Registration Page</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">2UA Project</p>
+                                                            <p class="mb-0 text-[#8c9097]">2UA Project</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>5:00pm - 5:45pm</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>5:00pm - 5:45pm</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -1069,10 +1069,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">Meeting with client</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">Video Conference</p>
+                                                            <p class="mb-0 text-[#8c9097]">Video Conference</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>9:00am - 10:00am</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>9:00am - 10:00am</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -1080,10 +1080,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">Lunch with team members</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">Dolores Ait Labore Sit</p>
+                                                            <p class="mb-0 text-[#8c9097]">Dolores Ait Labore Sit</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>12:00pm - 12:45am</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>12:00pm - 12:45am</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -1091,10 +1091,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">General board meeting</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">Golden PArk</p>
+                                                            <p class="mb-0 text-[#8c9097]">Golden PArk</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>4:00pm - 5:30pm</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>4:00pm - 5:30pm</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -1102,10 +1102,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">Create New Registration Page</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">2UA Project</p>
+                                                            <p class="mb-0 text-[#8c9097]">2UA Project</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>5:00pm - 5:45pm</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>5:00pm - 5:45pm</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -1117,10 +1117,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">Meeting with client</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">Video Conference</p>
+                                                            <p class="mb-0 text-[#8c9097]">Video Conference</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>9:00am - 10:00am</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>9:00am - 10:00am</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -1128,10 +1128,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">Lunch with team members</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">Dolores Ait Labore Sit</p>
+                                                            <p class="mb-0 text-[#8c9097]">Dolores Ait Labore Sit</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>12:00pm - 12:45am</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>12:00pm - 12:45am</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -1139,10 +1139,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">General board meeting</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">Golden PArk</p>
+                                                            <p class="mb-0 text-[#8c9097]">Golden PArk</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>4:00pm - 5:30pm</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>4:00pm - 5:30pm</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -1150,10 +1150,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">Create New Registration Page</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">2UA Project</p>
+                                                            <p class="mb-0 text-[#8c9097]">2UA Project</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>5:00pm - 5:45pm</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>5:00pm - 5:45pm</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -1165,10 +1165,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">Meeting with client</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">Video Conference</p>
+                                                            <p class="mb-0 text-[#8c9097]">Video Conference</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>9:00am - 10:00am</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>9:00am - 10:00am</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -1176,10 +1176,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">Lunch with team members</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">Dolores Ait Labore Sit</p>
+                                                            <p class="mb-0 text-[#8c9097]">Dolores Ait Labore Sit</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>12:00pm - 12:45am</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>12:00pm - 12:45am</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -1187,10 +1187,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">General board meeting</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">Golden PArk</p>
+                                                            <p class="mb-0 text-[#8c9097]">Golden PArk</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>4:00pm - 5:30pm</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>4:00pm - 5:30pm</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -1198,10 +1198,10 @@
                                                     <div class="flex items-start justify-conent-between">
                                                         <div class="flex-grow">
                                                             <p class="mb-0 text-[.875rem]">Create New Registration Page</p>
-                                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">2UA Project</p>
+                                                            <p class="mb-0 text-[#8c9097]">2UA Project</p>
                                                         </div>
                                                         <div>
-                                                            <span class="text-[#8c9097] dark:text-white/50"><i class="ri-time-line align-middle me-1 inline-block"></i>5:00pm - 5:45pm</span>
+                                                            <span class="text-[#8c9097]"><i class="ri-time-line align-middle me-1 inline-block"></i>5:00pm - 5:45pm</span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -1227,15 +1227,15 @@
                                             <div class="flex items-start">
                                                 <div class="me-[3rem] text-center">
                                                     <span class="block text-[1.25rem] font-semibold">02</span>
-                                                    <span class="block text-[0.75rem] text-[#8c9097] dark:text-white/50">Mon</span>
+                                                    <span class="block text-[0.75rem] text-[#8c9097]">Mon</span>
                                                 </div>
                                                 <div class="flex flex-wrap flex-grow items-center justify-between">
                                                     <div>
                                                         <p class="mb-1  timeline-widget-content text-wrap">You have an announcement - Ipsum Est Diam Eirmod</p>
-                                                        <p class="mb-0 text-[0.75rem] leading-none text-[#8c9097] dark:text-white/50">10:00AM<span class="badge bg-primary/10 text-primary ms-2">Announcement</span></p>
+                                                        <p class="mb-0 text-[0.75rem] leading-none text-[#8c9097]">10:00AM<span class="badge bg-primary/10 text-primary ms-2">Announcement</span></p>
                                                     </div>
                                                     <div class="hs-dropdown ti-dropdown">
-                                                        <a aria-label="anchor" href="javascript:void(0);" class="p-2 text-[1rem] text-[#8c9097] dark:text-white/50">
+                                                        <a aria-label="anchor" href="javascript:void(0);" class="p-2 text-[1rem] text-[#8c9097]">
                                                             <i class="fe fe-more-vertical"></i>
                                                         </a>
                                                         <ul class="hs-dropdown-menu ti-dropdown-menu hidden">
@@ -1251,15 +1251,15 @@
                                             <div class="flex items-start">
                                                 <div class="me-[3rem] text-center">
                                                     <span class="block text-[1.25rem] font-semibold">15</span>
-                                                    <span class="block text-[0.75rem] text-[#8c9097] dark:text-white/50">Sun</span>
+                                                    <span class="block text-[0.75rem] text-[#8c9097]">Sun</span>
                                                 </div>
                                                 <div class="flex flex-wrap flex-grow items-center justify-between">
                                                     <div>
                                                         <p class="mb-1 sm:text-truncate timeline-widget-content text-wrap">National holiday - Vero Jayanti</p>
-                                                        <p class="mb-0 text-[0.75rem] leading-none text-[#8c9097] dark:text-white/50"><span class="badge bg-warning/10 text-warning">Holiday</span></p>
+                                                        <p class="mb-0 text-[0.75rem] leading-none text-[#8c9097]"><span class="badge bg-warning/10 text-warning">Holiday</span></p>
                                                     </div>
                                                     <div class="hs-dropdown ti-dropdown">
-                                                        <a aria-label="anchor" href="javascript:void(0);" class="p-2 text-[1rem] text-[#8c9097] dark:text-white/50">
+                                                        <a aria-label="anchor" href="javascript:void(0);" class="p-2 text-[1rem] text-[#8c9097]">
                                                             <i class="fe fe-more-vertical"></i>
                                                         </a>
                                                         <ul class="hs-dropdown-menu ti-dropdown-menu hidden">
@@ -1275,17 +1275,17 @@
                                             <div class="flex items-start">
                                                 <div class="me-[3rem] text-center">
                                                     <span class="block text-[1.25rem] font-semibold">23</span>
-                                                    <span class="block text-[0.75rem] text-[#8c9097] dark:text-white/50">Mon</span>
+                                                    <span class="block text-[0.75rem] text-[#8c9097]">Mon</span>
                                                 </div>
                                                 <div class="flex flex-wrap flex-grow items-center justify-between">
                                                     <div>
                                                         <p class="mb-1 sm:text-truncate timeline-widget-content text-wrap">John pup birthday - Team Member</p>
-                                                        <p class="mb-4 text-[0.75rem] leading-none text-[#8c9097] dark:text-white/50">09:00AM<span class="badge bg-success/10 text-success ms-2">Birthday</span></p>
+                                                        <p class="mb-4 text-[0.75rem] leading-none text-[#8c9097]">09:00AM<span class="badge bg-success/10 text-success ms-2">Birthday</span></p>
                                                         <p class="mb-1 sm:text-truncate timeline-widget-content text-wrap">Amet sed no dolor kasd - Et Dolores Tempor Erat</p>
-                                                        <p class="mb-0 text-[0.75rem] leading-none text-[#8c9097] dark:text-white/50">04:00PM<span class="badge bg-primary/10 text-primary ms-2">Announcement</span></p>
+                                                        <p class="mb-0 text-[0.75rem] leading-none text-[#8c9097]">04:00PM<span class="badge bg-primary/10 text-primary ms-2">Announcement</span></p>
                                                     </div>
                                                     <div class="hs-dropdown ti-dropdown">
-                                                        <a aria-label="anchor" href="javascript:void(0);" class="p-2 text-[1rem] text-[#8c9097] dark:text-white/50">
+                                                        <a aria-label="anchor" href="javascript:void(0);" class="p-2 text-[1rem] text-[#8c9097]">
                                                             <i class="fe fe-more-vertical"></i>
                                                         </a>
                                                         <ul class="hs-dropdown-menu ti-dropdown-menu hidden">
@@ -1301,15 +1301,15 @@
                                             <div class="flex items-start">
                                                 <div class="me-[3rem] text-center">
                                                     <span class="block text-[1.25rem] font-semibold">31</span>
-                                                    <span class="block text-[0.75rem] text-[#8c9097] dark:text-white/50">Tue</span>
+                                                    <span class="block text-[0.75rem] text-[#8c9097]">Tue</span>
                                                 </div>
                                                 <div class="flex flex-wrap flex-grow items-center justify-between">
                                                     <div>
                                                         <p class="mb-1 sm:text-truncate timeline-widget-content text-wrap">National Holiday - Dolore Ipsum</p>
-                                                        <p class="mb-0 text-[0.75rem] leading-none text-[#8c9097] dark:text-white/50"><span class="badge bg-warning/10 text-warning">Holiday</span></p>
+                                                        <p class="mb-0 text-[0.75rem] leading-none text-[#8c9097]"><span class="badge bg-warning/10 text-warning">Holiday</span></p>
                                                     </div>
                                                     <div class="hs-dropdown ti-dropdown">
-                                                        <a aria-label="anchor" href="javascript:void(0);" class="p-2 text-[1rem] text-[#8c9097] dark:text-white/50">
+                                                        <a aria-label="anchor" href="javascript:void(0);" class="p-2 text-[1rem] text-[#8c9097]">
                                                             <i class="fe fe-more-vertical"></i>
                                                         </a>
                                                         <ul class="hs-dropdown-menu ti-dropdown-menu hidden">
@@ -1507,7 +1507,7 @@
                                             </div>
                                             <div class="flex-grow">
                                                 <p class="text-[1.125rem] mb-0 text-primary font-semibold">25,350</p>
-                                                <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">This month</span>
+                                                <span class="text-[#8c9097] text-[0.75rem]">This month</span>
                                             </div>
                                         </div>
                                         <div class="me-4 flex items-center">
@@ -1516,7 +1516,7 @@
                                             </div>
                                             <div class="flex-grow">
                                                 <p class="text-[1.125rem] mb-0 font-semibold">19,200</p>
-                                                <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">Last month</span>
+                                                <span class="text-[#8c9097] text-[0.75rem]">Last month</span>
                                             </div>
                                         </div>
                                         <div class="me-4 flex items-center">
@@ -1525,7 +1525,7 @@
                                             </div>
                                             <div class="flex-grow">
                                                 <p class="text-[1.125rem] mb-0 text-success font-semibold">1,24,890</p>
-                                                <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">This Year</span>
+                                                <span class="text-[#8c9097] text-[0.75rem]">This Year</span>
                                             </div>
                                         </div>
                                         <div class="me-4 flex items-center">
@@ -1534,7 +1534,7 @@
                                             </div>
                                             <div class="flex-grow">
                                                 <p class="text-[1.125rem] mb-0 text-secondary font-semibold">97,799</p>
-                                                <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">Last Year</span>
+                                                <span class="text-[#8c9097] text-[0.75rem]">Last Year</span>
                                             </div>
                                         </div>
                                     </div>
@@ -1594,7 +1594,7 @@
                                         Recent Tasks
                                     </div>
                                     <div class="hs-dropdown ti-dropdown">
-                                        <a href="javascript:void(0);" class="p-2 text-[0.75rem] text-[#8c9097] dark:text-white/50">
+                                        <a href="javascript:void(0);" class="p-2 text-[0.75rem] text-[#8c9097]">
                                             View All<i class="ri-arrow-down-s-line align-middle ms-1"></i>
                                         </a>
                                         <ul class="hs-dropdown-menu ti-dropdown-menu hidden" role="menu">
@@ -1850,7 +1850,7 @@
                                         <p class="text-primary font-500 mb-2">Revenue by week</p>
                                         <h4 class="mb-2 font-semibold">$54,125.03</h4>
                                         <span class="text-danger me-1 text-[.875rem]"> - 1.3%<i class="ri-arrow-down-s-fill align-middle ms-1"></i>  </span>
-                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">33% of target reached</span>
+                                        <span class="text-[#8c9097] text-[0.75rem]">33% of target reached</span>
                                     </div>
                                     <div id="report"></div>
                                 </div>

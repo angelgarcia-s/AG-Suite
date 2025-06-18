@@ -12,16 +12,16 @@
                             <!-- Page Header -->
                             <div class="block justify-between page-header md:flex">
                                 <div>
-                                    <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold">Modal &amp; Closes</h3>
+                                    <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold">Modal &amp; Closes</h3>
                                 </div>
                                 <ol class="flex items-center whitespace-nowrap min-w-0">
                                     <li class="text-[0.813rem] ps-[0.5rem]">
-                                      <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                      <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                       Advanced Ui
-                                        <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                        <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                       </a>
                                     </li>
-                                    <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                                    <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                       Modal &amp; Closes
                                     </li>
                                 </ol>
@@ -636,8 +636,8 @@
                                                     <div class="mb-4">This
                                                       <div class="hs-tooltip ti-main-tooltip [--trigger:click] [--placement:right]">
                                                           <a class="hs-tooltip-toggle ti-main-tooltip-toggle ti-btn ti-btn-secondary me-2" href="javascript:void(0);">button
-                                                              <div class="hs-tooltip-content ti-main-tooltip-content dark:bg-bodybg !p-0 !max-w-[276px]" role="tooltip">
-                                                                  <div  class="!border-b !border-solid dark:border-defaultborder/10 !rounded-t-md !py-2  !px-4 text-defaulttextcolor border-defaultborder text-start w-full text-[1rem]">
+                                                              <div class="hs-tooltip-content ti-main-tooltip-content !p-0 !max-w-[276px]" role="tooltip">
+                                                                  <div  class="!border-b !border-solid !rounded-t-md !py-2  !px-4 text-defaulttextcolor border-defaultborder text-start w-full text-[1rem]">
                                                                   <h6>Popover Title</h6>
                                                                   </div>
                                                                   <p class="!text-defaulttextcolor !text-[0.8rem] !py-4 !px-4 text-start">Popover body content is set in this attribute.</p>
@@ -714,8 +714,8 @@
                   &lt;div class="mb-4"&gt;This
                     &lt;div class="hs-tooltip ti-main-tooltip [--trigger:click] [--placement:right]"&gt;
                         &lt;a class="hs-tooltip-toggle ti-main-tooltip-toggle ti-btn ti-btn-secondary me-2" href="javascript:void(0);"&gt;button
-                            &lt;div class="hs-tooltip-content ti-main-tooltip-content dark:bg-bodybg !p-0 !max-w-[276px]" role="tooltip"&gt;
-                                &lt;div  class="!border-b !border-solid dark:border-defaultborder/10 !rounded-t-md !py-2  !px-4 text-defaulttextcolor border-defaultborder text-start w-full text-[1rem]"&gt;
+                            &lt;div class="hs-tooltip-content ti-main-tooltip-content !p-0 !max-w-[276px]" role="tooltip"&gt;
+                                &lt;div  class="!border-b !border-solid !rounded-t-md !py-2  !px-4 text-defaulttextcolor border-defaultborder text-start w-full text-[1rem]"&gt;
                                 &lt;h6&gt;Popover Title&lt;/h6&gt;
                                 &lt;/div&gt;
                                 &lt;p class="!text-defaulttextcolor !text-[0.8rem] !py-4 !px-4 text-start"&gt;Popover body content is set in this attribute.&lt;/p&gt;
@@ -806,13 +806,13 @@
                                                 <div class="ti-modal-body">
                                                     <div class="container-fluid">
                                                         <div class="grid grid-cols-3 gap-4">
-                                                          <div class="rounded-sm bg-light border border-defaultborder dark:border-defaultborder/20 p-4">01</div>
-                                                          <div class="rounded-sm bg-light border border-defaultborder dark:border-defaultborder/20 p-4">02</div>
-                                                          <div class="rounded-sm bg-light border border-defaultborder dark:border-defaultborder/20 p-4">03</div>
-                                                          <div class="col-span-2 rounded-sm bg-light border border-defaultborder dark:border-defaultborder/20 p-4">04</div>
-                                                          <div class="rounded-sm bg-light border border-defaultborder dark:border-defaultborder/20 p-4">05</div>
-                                                          <div class="rounded-sm bg-light border border-defaultborder dark:border-defaultborder/20 p-4">06</div>
-                                                          <div class="col-span-2 rounded-sm bg-light border border-defaultborder dark:border-defaultborder/20 p-4">07</div>
+                                                          <div class="rounded-sm bg-light border border-defaultborder p-4">01</div>
+                                                          <div class="rounded-sm bg-light border border-defaultborder p-4">02</div>
+                                                          <div class="rounded-sm bg-light border border-defaultborder p-4">03</div>
+                                                          <div class="col-span-2 rounded-sm bg-light border border-defaultborder p-4">04</div>
+                                                          <div class="rounded-sm bg-light border border-defaultborder p-4">05</div>
+                                                          <div class="rounded-sm bg-light border border-defaultborder p-4">06</div>
+                                                          <div class="col-span-2 rounded-sm bg-light border border-defaultborder p-4">07</div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -850,13 +850,13 @@
               &lt;div class="ti-modal-body"&gt;
                   &lt;div class="container-fluid"&gt;
                       &lt;div class="grid grid-cols-3 gap-4"&gt;
-                        &lt;div class="rounded-sm bg-light border border-defaultborder dark:border-defaultborder/20 p-4"&gt;01&lt;/div&gt;
-                        &lt;div class="rounded-sm bg-light border border-defaultborder dark:border-defaultborder/20 p-4"&gt;02&lt;/div&gt;
-                        &lt;div class="rounded-sm bg-light border border-defaultborder dark:border-defaultborder/20 p-4"&gt;03&lt;/div&gt;
-                        &lt;div class="col-span-2 rounded-sm bg-light border border-defaultborder dark:border-defaultborder/20 p-4"&gt;04&lt;/div&gt;
-                        &lt;div class="rounded-sm bg-light border border-defaultborder dark:border-defaultborder/20 p-4"&gt;05&lt;/div&gt;
-                        &lt;div class="rounded-sm bg-light border border-defaultborder dark:border-defaultborder/20 p-4"&gt;06&lt;/div&gt;
-                        &lt;div class="col-span-2 rounded-sm bg-light border border-defaultborder dark:border-defaultborder/20 p-4"&gt;07&lt;/div&gt;
+                        &lt;div class="rounded-sm bg-light border border-defaultborder p-4"&gt;01&lt;/div&gt;
+                        &lt;div class="rounded-sm bg-light border border-defaultborder p-4"&gt;02&lt;/div&gt;
+                        &lt;div class="rounded-sm bg-light border border-defaultborder p-4"&gt;03&lt;/div&gt;
+                        &lt;div class="col-span-2 rounded-sm bg-light border border-defaultborder p-4"&gt;04&lt;/div&gt;
+                        &lt;div class="rounded-sm bg-light border border-defaultborder p-4"&gt;05&lt;/div&gt;
+                        &lt;div class="rounded-sm bg-light border border-defaultborder p-4"&gt;06&lt;/div&gt;
+                        &lt;div class="col-span-2 rounded-sm bg-light border border-defaultborder p-4"&gt;07&lt;/div&gt;
                       &lt;/div&gt;
                   &lt;/div&gt;
               &lt;/div&gt;
@@ -904,7 +904,7 @@
                                                   </button>
                                                 </div>
                                                 <div class="ti-modal-body">
-                                                  <p class="mt-1 text-gray-800 dark:text-[#8c9097] dark:text-white/50">
+                                                  <p class="mt-1 text-gray-800">
                                                     Show a second modal and hide this one with the button below.
                                                   </p>
                                                 </div>
@@ -931,7 +931,7 @@
                                                   </button>
                                                 </div>
                                                 <div class="ti-modal-body">
-                                                  <p class="mt-1 text-gray-800 dark:text-[#8c9097] dark:text-white/50">
+                                                  <p class="mt-1 text-gray-800">
                                                     Hide this modal and show the first with the button below.
                                                   </p>
                                                 </div>
@@ -965,7 +965,7 @@
                 &lt;/button&gt;
               &lt;/div&gt;
               &lt;div class="ti-modal-body"&gt;
-                &lt;p class="mt-1 text-gray-800 dark:text-[#8c9097] dark:text-white/50"&gt;
+                &lt;p class="mt-1 text-gray-800"&gt;
                   Show a second modal and hide this one with the button below.
                 &lt;/p&gt;
               &lt;/div&gt;
@@ -992,7 +992,7 @@
                 &lt;/button&gt;
               &lt;/div&gt;
               &lt;div class="ti-modal-body"&gt;
-                &lt;p class="mt-1 text-gray-800 dark:text-[#8c9097] dark:text-white/50"&gt;
+                &lt;p class="mt-1 text-gray-800"&gt;
                   Hide this modal and show the first with the button below.
                 &lt;/p&gt;
               &lt;/div&gt;
@@ -1041,7 +1041,7 @@
                                                   </button>
                                                 </div>
                                                 <div class="ti-modal-body">
-                                                  <p class="mt-1 text-gray-800 dark:text-[#8c9097] dark:text-white/50">
+                                                  <p class="mt-1 text-gray-800">
                                                   ...
                                                   </p>
                                                 </div>
@@ -1070,7 +1070,7 @@
                                                   </button>
                                                 </div>
                                                 <div class="ti-modal-body">
-                                                  <p class="mt-1 text-gray-800 dark:text-[#8c9097] dark:text-white/50">
+                                                  <p class="mt-1 text-gray-800">
                                                   ...
                                                   </p>
                                                 </div>
@@ -1099,7 +1099,7 @@
                                                   </button>
                                                 </div>
                                                 <div class="ti-modal-body">
-                                                  <p class="mt-1 text-gray-800 dark:text-[#8c9097] dark:text-white/50">
+                                                  <p class="mt-1 text-gray-800">
                                                     ...
                                                   </p>
                                                 </div>
@@ -1132,7 +1132,7 @@
               &lt;/button&gt;
               &lt;/div&gt;
               &lt;div class="ti-modal-body"&gt;
-              &lt;p class="mt-1 text-gray-800 dark:text-[#8c9097] dark:text-white/50"&gt;
+              &lt;p class="mt-1 text-gray-800"&gt;
                   ...
               &lt;/p&gt;
               &lt;/div&gt;
@@ -1161,7 +1161,7 @@
               &lt;/button&gt;
               &lt;/div&gt;
               &lt;div class="ti-modal-body"&gt;
-              &lt;p class="mt-1 text-gray-800 dark:text-[#8c9097] dark:text-white/50"&gt;
+              &lt;p class="mt-1 text-gray-800"&gt;
                   ...
               &lt;/p&gt;
               &lt;/div&gt;
@@ -1190,7 +1190,7 @@
               &lt;/button&gt;
               &lt;/div&gt;
               &lt;div class="ti-modal-body"&gt;
-              &lt;p class="mt-1 text-gray-800 dark:text-[#8c9097] dark:text-white/50"&gt;
+              &lt;p class="mt-1 text-gray-800"&gt;
                   ...
               &lt;/p&gt;
               &lt;/div&gt;
@@ -1235,7 +1235,7 @@
                                                 </button>
                                               </div>
                                               <div class="ti-modal-body">
-                                                <p class="mt-1 text-gray-800 dark:text-[#8c9097] dark:text-white/50">
+                                                <p class="mt-1 text-gray-800">
                                                   ...
                                                 </p>
                                               </div>
@@ -1252,7 +1252,7 @@
                                         </button>
                                         <div id="hs-full-screen-modal-below-sm" class="hs-overlay hidden ti-modal">
                                           <div class="hs-overlay-open:mt-0 ti-modal-box mt-10 max-w-full w-full !m-0 sm:hs-overlay-open:!mt-10 sm:!mt-0 sm:max-w-lg sm:!mx-auto">
-                                            <div class="ti-modal-content sm:border sm:rounded-sm sm:shadow-sm dark:bg-bgdark sm:dark:border-white/10">
+                                            <div class="ti-modal-content sm:border sm:rounded-sm sm:shadow-sm sm:dark:border-white/10">
                                               <div class="ti-modal-header">
                                                 <h6 class="ti-modal-title">
                                                   Modal title
@@ -1265,7 +1265,7 @@
                                                 </button>
                                               </div>
                                               <div class="ti-modal-body">
-                                                <p class="mt-1 text-gray-800 dark:text-[#8c9097] dark:text-white/50">
+                                                <p class="mt-1 text-gray-800">
                                                   ...
                                                 </p>
                                               </div>
@@ -1295,7 +1295,7 @@
                                                 </button>
                                               </div>
                                               <div class="ti-modal-body">
-                                                <p class="mt-1 text-gray-800 dark:text-[#8c9097] dark:text-white/50">
+                                                <p class="mt-1 text-gray-800">
                                                   ...
                                                 </p>
                                               </div>
@@ -1325,7 +1325,7 @@
                                                 </button>
                                               </div>
                                               <div class="ti-modal-body">
-                                                <p class="mt-1 text-gray-800 dark:text-[#8c9097] dark:text-white/50">
+                                                <p class="mt-1 text-gray-800">
                                                   ...
                                                 </p>
                                               </div>
@@ -1355,7 +1355,7 @@
                                                 </button>
                                               </div>
                                               <div class="ti-modal-body">
-                                                <p class="mt-1 text-gray-800 dark:text-[#8c9097] dark:text-white/50">
+                                                <p class="mt-1 text-gray-800">
                                                   ...
                                                 </p>
                                               </div>
@@ -1385,7 +1385,7 @@
                                                 </button>
                                               </div>
                                               <div class="ti-modal-body">
-                                                <p class="mt-1 text-gray-800 dark:text-[#8c9097] dark:text-white/50">
+                                                <p class="mt-1 text-gray-800">
                                                   ...
                                                 </p>
                                               </div>
@@ -1419,7 +1419,7 @@
               &lt;/button&gt;
               &lt;/div&gt;
               &lt;div class="ti-modal-body"&gt;
-              &lt;p class="mt-1 text-gray-800 dark:text-[#8c9097] dark:text-white/50"&gt;
+              &lt;p class="mt-1 text-gray-800"&gt;
                   ...
               &lt;/p&gt;
               &lt;/div&gt;
@@ -1436,7 +1436,7 @@
       &lt;/button&gt;
       &lt;div id="hs-full-screen-modal-below-sm" class="hs-overlay hidden ti-modal"&gt;
           &lt;div class="hs-overlay-open:mt-0 ti-modal-box mt-10 max-w-full w-full !m-0 sm:hs-overlay-open:!mt-10 sm:!mt-0 sm:max-w-lg sm:!mx-auto"&gt;
-          &lt;div class="ti-modal-content sm:border sm:rounded-sm sm:shadow-sm dark:bg-bgdark sm:dark:border-white/10"&gt;
+          &lt;div class="ti-modal-content sm:border sm:rounded-sm sm:shadow-sm sm:dark:border-white/10"&gt;
               &lt;div class="ti-modal-header"&gt;
               &lt;h6 class="ti-modal-title"&gt;
                   Modal title
@@ -1449,7 +1449,7 @@
               &lt;/button&gt;
               &lt;/div&gt;
               &lt;div class="ti-modal-body"&gt;
-              &lt;p class="mt-1 text-gray-800 dark:text-[#8c9097] dark:text-white/50"&gt;
+              &lt;p class="mt-1 text-gray-800"&gt;
                   ...
               &lt;/p&gt;
               &lt;/div&gt;
@@ -1479,7 +1479,7 @@
               &lt;/button&gt;
               &lt;/div&gt;
               &lt;div class="ti-modal-body"&gt;
-              &lt;p class="mt-1 text-gray-800 dark:text-[#8c9097] dark:text-white/50"&gt;
+              &lt;p class="mt-1 text-gray-800"&gt;
                   ...
               &lt;/p&gt;
               &lt;/div&gt;
@@ -1509,7 +1509,7 @@
               &lt;/button&gt;
               &lt;/div&gt;
               &lt;div class="ti-modal-body"&gt;
-              &lt;p class="mt-1 text-gray-800 dark:text-[#8c9097] dark:text-white/50"&gt;
+              &lt;p class="mt-1 text-gray-800"&gt;
                   ...
               &lt;/p&gt;
               &lt;/div&gt;
@@ -1539,7 +1539,7 @@
               &lt;/button&gt;
               &lt;/div&gt;
               &lt;div class="ti-modal-body"&gt;
-              &lt;p class="mt-1 text-gray-800 dark:text-[#8c9097] dark:text-white/50"&gt;
+              &lt;p class="mt-1 text-gray-800"&gt;
                   ...
               &lt;/p&gt;
               &lt;/div&gt;
@@ -1569,7 +1569,7 @@
               &lt;/button&gt;
               &lt;/div&gt;
               &lt;div class="ti-modal-body"&gt;
-              &lt;p class="mt-1 text-gray-800 dark:text-[#8c9097] dark:text-white/50"&gt;
+              &lt;p class="mt-1 text-gray-800"&gt;
                   ...
               &lt;/p&gt;
               &lt;/div&gt;
@@ -1601,7 +1601,7 @@
                                         </div>
                                     </div>
                                     <div class="box-body">
-                                        <button type="button" class="hs-dropdown-toggle !text-[1.5rem] !font-medium text-[#8c9097] dark:text-white/50 hover:text-defaulttextcolor" data-hs-overlay="#formmodalmdo">
+                                        <button type="button" class="hs-dropdown-toggle !text-[1.5rem] !font-medium text-[#8c9097] hover:text-defaulttextcolor" data-hs-overlay="#formmodalmdo">
                                             <span class="sr-only">Close</span>
                                             <i class="ri-close-line"></i>
                                           </button>
@@ -1609,7 +1609,7 @@
                                     <div class="box-footer hidden border-t-0">
     <!-- Prism Code -->
     <pre class="language-html"><code class="language-html">
-      &lt;button type="button" class="hs-dropdown-toggle !text-[1.5rem] !font-medium text-[#8c9097] dark:text-white/50 hover:text-defaulttextcolor" data-hs-overlay="#formmodalmdo"&gt;
+      &lt;button type="button" class="hs-dropdown-toggle !text-[1.5rem] !font-medium text-[#8c9097] hover:text-defaulttextcolor" data-hs-overlay="#formmodalmdo"&gt;
           &lt;span class="sr-only"&gt;Close&lt;/span&gt;
           &lt;i class="ri-close-line"&gt;&lt;/i&gt;
         &lt;/button&gt;</code></pre>
@@ -1628,14 +1628,14 @@
                                         </div>
                                     </div>
                                     <div class="box-body">
-                                        <button type="button" class="hs-dropdown-toggle !text-[1.5rem] !font-medium text-[#8c9097] dark:text-white/50/25 pointer-events-none" data-hs-overlay="#formmodalmdo">
+                                        <button type="button" class="hs-dropdown-toggle !text-[1.5rem] !font-medium text-[#8c9097] pointer-events-none" data-hs-overlay="#formmodalmdo">
                                             <span class="sr-only">Close</span>
                                             <i class="ri-close-line"></i>
                                           </button>
                                     </div>
                                     <div class="box-footer hidden border-t-0">
     <!-- Prism Code -->
-    <pre class="language-html"><code class="language-html">&lt;button type="button" class="hs-dropdown-toggle !text-[1.5rem] !font-medium text-[#8c9097] dark:text-white/50/25 pointer-events-none" data-hs-overlay="#formmodalmdo"&gt;
+    <pre class="language-html"><code class="language-html">&lt;button type="button" class="hs-dropdown-toggle !text-[1.5rem] !font-medium text-[#8c9097] pointer-events-none" data-hs-overlay="#formmodalmdo"&gt;
       &lt;span class="sr-only"&gt;Close&lt;/span&gt;
       &lt;i class="ri-close-line"&gt;&lt;/i&gt;
     &lt;/button&gt;</code></pre>
@@ -1654,22 +1654,22 @@
                                         </div>
                                     </div>
                                     <div class="box-body bg-black">
-                                        <button type="button" class="hs-dropdown-toggle !text-[1.5rem] !font-medium text-[#8c9097] dark:text-white/50 hover:text-[#8c9097]" data-hs-overlay="#formmodalmdo">
+                                        <button type="button" class="hs-dropdown-toggle !text-[1.5rem] !font-medium text-[#8c9097] hover:text-[#8c9097]" data-hs-overlay="#formmodalmdo">
                                             <span class="sr-only">Close</span>
                                             <i class="ri-close-line"></i>
                                           </button>
-                                          <button type="button" class="hs-dropdown-toggle !text-[1.5rem] !font-medium text-[#8c9097] dark:text-white/50/25 pointer-events-none" data-hs-overlay="#formmodalmdo">
+                                          <button type="button" class="hs-dropdown-toggle !text-[1.5rem] !font-medium text-[#8c9097] pointer-events-none" data-hs-overlay="#formmodalmdo">
                                             <span class="sr-only">Close</span>
                                             <i class="ri-close-line"></i>
                                           </button>
                                     </div>
                                     <div class="box-footer hidden border-t-0">
     <!-- Prism Code -->
-    <pre class="language-html"><code class="language-html">&lt;button type="button" class="hs-dropdown-toggle !text-[1.5rem] !font-medium text-[#8c9097] dark:text-white/50 hover:text-[#8c9097]" data-hs-overlay="#formmodalmdo"&gt;
+    <pre class="language-html"><code class="language-html">&lt;button type="button" class="hs-dropdown-toggle !text-[1.5rem] !font-medium text-[#8c9097] hover:text-[#8c9097]" data-hs-overlay="#formmodalmdo"&gt;
       &lt;span class="sr-only"&gt;Close&lt;/span&gt;
       &lt;i class="ri-close-line"&gt;&lt;/i&gt;
     &lt;/button&gt;
-    &lt;button type="button" class="hs-dropdown-toggle !text-[1.5rem] !font-medium text-[#8c9097] dark:text-white/50/25 pointer-events-none" data-hs-overlay="#formmodalmdo"&gt;
+    &lt;button type="button" class="hs-dropdown-toggle !text-[1.5rem] !font-medium text-[#8c9097] pointer-events-none" data-hs-overlay="#formmodalmdo"&gt;
       &lt;span class="sr-only"&gt;Close&lt;/span&gt;
       &lt;i class="ri-close-line"&gt;&lt;/i&gt;
     &lt;/button&gt;</code></pre>

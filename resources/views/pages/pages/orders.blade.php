@@ -10,16 +10,16 @@
                       <!-- Page Header -->
                       <div class="block justify-between page-header md:flex">
                           <div>
-                              <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Orders</h3>
+                              <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Orders</h3>
                           </div>
                           <ol class="flex items-center whitespace-nowrap min-w-0">
                               <li class="text-[0.813rem] ps-[0.5rem]">
-                                <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                   Ecommerce
-                                  <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                  <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                 </a>
                               </li>
-                              <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                              <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                   Orders
                               </li>
                           </ol>
@@ -32,11 +32,11 @@
                               <div class="box">
                                   <div class="box-body flex items-center flex-wrap">
                                       <div class="flex-grow">
-                                          <span class="mb-0 text-[0.875rem] text-[#8c9097] dark:text-white/50">Total number of orders placed upto now : <span class="font-semibold text-success">28</span></span>
+                                          <span class="mb-0 text-[0.875rem] text-[#8c9097]">Total number of orders placed upto now : <span class="font-semibold text-success">28</span></span>
                                       </div>
                                       <div class="hs-dropdown ti-dropdown">
                                           <a href="javascript:void(0);"
-                                            class="ti-btn ti-btn-light sm:!m-0 !mb-3 !gap-0 !font-medium dark:text-defaulttextcolor/70"
+                                            class="ti-btn ti-btn-light sm:!m-0 !mb-3 !gap-0 !font-medium"
                                             aria-expanded="false">
                                             Sort By<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                           </a>
@@ -50,8 +50,8 @@
                                           </ul>
                                         </div>
                                       <div class="flex items-center ms-2" role="search">
-                                          <input class="form-control !rounded-sm me-2 dark:text-defaulttextcolor/70" type="search" placeholder="Search" aria-label="Search">
-                                          <button class="ti-btn ti-btn-light dark:text-defaulttextcolor/70 !mb-0" type="submit">Search</button>
+                                          <input class="form-control !rounded-sm me-2" type="search" placeholder="Search" aria-label="Search">
+                                          <button class="ti-btn ti-btn-light !mb-0" type="submit">Search</button>
                                       </div>
                                   </div>
                               </div>
@@ -81,7 +81,7 @@
                                       <div class="flex items-center">
                                           <div class="orders-delivery-address">
                                               <p class="mb-1 font-semibold">Delivery Address</p>
-                                              <p class="text-[#8c9097] dark:text-white/50 mb-0">
+                                              <p class="text-[#8c9097] mb-0">
                                                   mig-1-11,monroe street, georgetown, Washington D.C
                                               </p>
                                           </div>
@@ -92,7 +92,7 @@
                                       </div>
                                   </div>
                                   <div class="box-footer sm:flex block items-center w-full justify-between">
-                                      <div><span class="text-[#8c9097] dark:text-white/50 me-2">Status:</span><span class="badge bg-success/10 text-success">Shipped</span></div>
+                                      <div><span class="text-[#8c9097] me-2">Status:</span><span class="badge bg-success/10 text-success">Shipped</span></div>
                                       <div class="sm:mt-0 mt-2">
                                           <button type="button" class="ti-btn !py-1 !px-2 !text-[0.75rem] !font-medium ti-btn-danger">Cancel Order</button>
                                       </div>
@@ -124,7 +124,7 @@
                                       <div class="flex items-center">
                                           <div class="orders-delivery-address">
                                               <p class="mb-1 font-semibold">Delivery Address</p>
-                                              <p class="text-[#8c9097] dark:text-white/50 mb-0">
+                                              <p class="text-[#8c9097] mb-0">
                                                   mig-1-11,monroe street, georgetown, Washington D.C
                                               </p>
                                           </div>
@@ -136,7 +136,7 @@
                                   </div>
                                   <div class="box-footer sm:flex block items-center w-full justify-between">
                                       <div>
-                                          <span class="text-[#8c9097] dark:text-white/50 me-2">Status:</span>
+                                          <span class="text-[#8c9097] me-2">Status:</span>
                                           <span class="badge bg-primary/10 text-primary">Confirmed</span>
                                       </div>
                                       <div class="sm:mt-0 mt-2">
@@ -170,7 +170,7 @@
                                       <div class="flex items-center">
                                           <div class="orders-delivery-address">
                                               <p class="mb-1 font-semibold">Delivery Address</p>
-                                              <p class="text-[#8c9097] dark:text-white/50 mb-0">
+                                              <p class="text-[#8c9097] mb-0">
                                                   mig-1-11,monroe street, georgetown, Washington D.C
                                               </p>
                                           </div>
@@ -215,7 +215,7 @@
                                       <div class="flex items-center">
                                           <div class="orders-delivery-address">
                                               <p class="mb-1 font-semibold">Delivery Address</p>
-                                              <p class="text-[#8c9097] dark:text-white/50 mb-0">
+                                              <p class="text-[#8c9097] mb-0">
                                                   mig-1-11,monroe street, georgetown, Washington D.C
                                               </p>
                                           </div>
@@ -256,7 +256,7 @@
                                       <div class="flex items-center">
                                           <div class="orders-delivery-address">
                                               <p class="mb-1 font-semibold">Delivery Address</p>
-                                              <p class="text-[#8c9097] dark:text-white/50 mb-0">
+                                              <p class="text-[#8c9097] mb-0">
                                                   mig-1-11,monroe street, georgetown, Washington D.C
                                               </p>
                                           </div>
@@ -301,7 +301,7 @@
                                       <div class="flex items-center">
                                           <div class="orders-delivery-address">
                                               <p class="mb-1 font-semibold">Delivery Address</p>
-                                              <p class="text-[#8c9097] dark:text-white/50 mb-0">
+                                              <p class="text-[#8c9097] mb-0">
                                                   mig-1-11,monroe street, georgetown, Washington D.C
                                               </p>
                                           </div>
@@ -312,7 +312,7 @@
                                       </div>
                                   </div>
                                   <div class="box-footer sm:flex block items-center w-full justify-between">
-                                      <div><span class="text-[#8c9097] dark:text-white/50 me-2">Status:</span><span class="badge bg-success/10 text-success">Shipped</span></div>
+                                      <div><span class="text-[#8c9097] me-2">Status:</span><span class="badge bg-success/10 text-success">Shipped</span></div>
                                       <div class="sm:mt-0 mt-2">
                                           <button type="button" class="ti-btn !py-1 !px-2 !text-[0.75rem] !font-medium ti-btn-danger">Cancel Order</button>
                                       </div>
@@ -344,7 +344,7 @@
                                       <div class="flex items-center">
                                           <div class="orders-delivery-address">
                                               <p class="mb-1 font-semibold">Delivery Address</p>
-                                              <p class="text-[#8c9097] dark:text-white/50 mb-0">
+                                              <p class="text-[#8c9097] mb-0">
                                                   mig-1-11,monroe street, georgetown, Washington D.C
                                               </p>
                                           </div>
@@ -355,7 +355,7 @@
                                       </div>
                                   </div>
                                   <div class="box-footer sm:flex block items-center w-full justify-between">
-                                      <div><span class="text-[#8c9097] dark:text-white/50 me-2">Status:</span><span class="badge bg-warning/10 text-warning">Out For Delivery</span></div>
+                                      <div><span class="text-[#8c9097] me-2">Status:</span><span class="badge bg-warning/10 text-warning">Out For Delivery</span></div>
                                       <div class="sm:mt-0 mt-2">
                                           <button type="button" class="ti-btn !py-1 !px-2 !text-[0.75rem] !font-medium ti-btn-danger">Cancel Order</button>
                                       </div>
@@ -387,7 +387,7 @@
                                       <div class="flex items-center">
                                           <div class="orders-delivery-address">
                                               <p class="mb-1 font-semibold">Delivery Address</p>
-                                              <p class="text-[#8c9097] dark:text-white/50 mb-0">
+                                              <p class="text-[#8c9097] mb-0">
                                                   mig-1-11,monroe street, georgetown, Washington D.C
                                               </p>
                                           </div>
@@ -398,7 +398,7 @@
                                       </div>
                                   </div>
                                   <div class="box-footer sm:flex block items-center w-full justify-between">
-                                      <div><span class="text-[#8c9097] dark:text-white/50 me-2">Status:</span><span class="badge bg-success/10 text-success">Shipped</span></div>
+                                      <div><span class="text-[#8c9097] me-2">Status:</span><span class="badge bg-success/10 text-success">Shipped</span></div>
                                       <div class="sm:mt-0 mt-2">
                                           <button type="button" class="ti-btn !py-1 !px-2 !text-[0.75rem] !font-medium ti-btn-danger">Cancel Order</button>
                                       </div>
@@ -430,7 +430,7 @@
                                       <div class="flex items-center">
                                           <div class="orders-delivery-address">
                                               <p class="mb-1 font-semibold">Delivery Address</p>
-                                              <p class="text-[#8c9097] dark:text-white/50 mb-0">
+                                              <p class="text-[#8c9097] mb-0">
                                                   mig-1-11,monroe street, georgetown, Washington D.C
                                               </p>
                                           </div>
@@ -442,7 +442,7 @@
                                   </div>
                                   <div class="box-footer sm:flex block items-center w-full justify-between">
                                       <div>
-                                          <span class="text-[#8c9097] dark:text-white/50 me-2">Status:</span>
+                                          <span class="text-[#8c9097] me-2">Status:</span>
                                           <span class="badge bg-primary/10 text-primary">Confirmed</span>
                                       </div>
                                       <div class="sm:mt-0 mt-2">
@@ -476,7 +476,7 @@
                                       <div class="flex items-center">
                                           <div class="orders-delivery-address">
                                               <p class="mb-1 font-semibold">Delivery Address</p>
-                                              <p class="text-[#8c9097] dark:text-white/50 mb-0">
+                                              <p class="text-[#8c9097] mb-0">
                                                   mig-1-11,monroe street, georgetown, Washington D.C
                                               </p>
                                           </div>
@@ -521,7 +521,7 @@
                                       <div class="flex items-center">
                                           <div class="orders-delivery-address">
                                               <p class="mb-1 font-semibold">Delivery Address</p>
-                                              <p class="text-[#8c9097] dark:text-white/50 mb-0">
+                                              <p class="text-[#8c9097] mb-0">
                                                   mig-1-11,monroe street, georgetown, Washington D.C
                                               </p>
                                           </div>
@@ -562,7 +562,7 @@
                                       <div class="flex items-center">
                                           <div class="orders-delivery-address">
                                               <p class="mb-1 font-semibold">Delivery Address</p>
-                                              <p class="text-[#8c9097] dark:text-white/50 mb-0">
+                                              <p class="text-[#8c9097] mb-0">
                                                   mig-1-11,monroe street, georgetown, Washington D.C
                                               </p>
                                           </div>

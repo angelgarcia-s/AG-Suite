@@ -10,16 +10,16 @@
                 <!-- Page Header -->
                 <div class="block justify-between page-header md:flex">
                     <div>
-                        <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> About Us</h3>
+                        <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> About Us</h3>
                     </div>
                     <ol class="flex items-center whitespace-nowrap min-w-0">
                         <li class="text-[0.813rem] ps-[0.5rem]">
-                        <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                        <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                             Pages
-                            <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                            <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                         </a>
                         </li>
-                        <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:!text-primary dark:text-white/50" aria-current="page">
+                        <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:!text-primary" aria-current="page">
                             About Us
                         </li>
                     </ol>
@@ -53,7 +53,7 @@
                                     <img src="{{asset('build/assets/images/media/media-80.svg')}}" class="img-fluid !w-full !h-[17.5rem] !z-[1]" alt="">
                                 </div>
                                 <div class="xl:col-span-12 col-span-12 about-company-stats container !mx-auto !justify-center !items-center !max-w-[41rem]">
-                                    <div class="box text-default shadow border dark:border-defaulttextcolor/10">
+                                    <div class="box text-default shadow border">
                                         <div class="box-body !p-0">
                                             <div class="sm:grid grid-cols-12">
                                                 <div class="xl:col-span-4 xxl:col-span-4 lg:col-span-4 sm:col-span-4 col-span-12 about-company-stats-border">
@@ -90,7 +90,7 @@
                     <div class="!max-w-[40rem] !justify-center !mx-auto !items-center mb-[3rem]">
                         <div class="text-start">
                             <div class="text-defaulttextcolor !text-[1.625rem] font-semibold mb-6"><span class="about-heading">Our Mission</span></div>
-                            <p class="text-[.875rem] mb-6 text-[#8c9097] dark:text-white/50">Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                            <p class="text-[.875rem] mb-6 text-[#8c9097]">Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                                 Quibusdam similique provident Lorem ipsum dolor sit amet consectetur adipisicing
                                 elit. Natus, aliquam voluptas repellat eum beatae veniam, cumque eligendi earum
                                 praesentium, in corrupti reprehenderit cum architecto quisquam? Quibusdam
@@ -119,8 +119,8 @@
                                             </path>
                                         </svg> </div>
                                     <div class="ms-6">
-                                        <h5 class="text-[1.25rem] text-defaulttextcolor dark:text-defaulttextcolor/70 font-medium">High Standards in design !</h5>
-                                        <p class="text-[#8c9097] dark:text-white/50 text-[.875rem]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci
+                                        <h5 class="text-[1.25rem] text-defaulttextcolor font-medium">High Standards in design !</h5>
+                                        <p class="text-[#8c9097] text-[.875rem]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci
                                             quos sint, officia vel ab perferendis, dolores placeat dolor aliquam
                                             debitis eius, illum ullam ratione blanditiis fugiat omnis beatae
                                             odio vitae!</p>
@@ -137,8 +137,8 @@
                                             </path>
                                         </svg> </div>
                                     <div class="ms-6">
-                                        <h5 class="text-[1.25rem] text-defaulttextcolor dark:text-defaulttextcolor/70 font-medium">Most anticipated techniques .</h5>
-                                        <p class="text-[#8c9097] dark:text-white/50 text-[.875rem]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci
+                                        <h5 class="text-[1.25rem] text-defaulttextcolor font-medium">Most anticipated techniques .</h5>
+                                        <p class="text-[#8c9097] text-[.875rem]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci
                                             quos sint, officia vel ab perferendis illum ullam ratione blanditiis
                                             fugiat omnis beatae odio vitae!</p>
                                     </div>
@@ -160,8 +160,8 @@
                                             </path>
                                         </svg> </div>
                                     <div class="ms-6">
-                                        <h5 class="text-[1.25rem] text-defaulttextcolor dark:text-defaulttextcolor/70 font-medium">Even rated customers ?</h5>
-                                        <p class="text-[#8c9097] dark:text-white/50 text-[.875rem]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci
+                                        <h5 class="text-[1.25rem] text-defaulttextcolor font-medium">Even rated customers ?</h5>
+                                        <p class="text-[#8c9097] text-[.875rem]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci
                                             quos sint, officia vel ab perferendis, dolores placeat dolor aliquam
                                             debitis eius, illum ullam ratione blanditiis fugiat omnis beatae
                                             odio vitae!</p>
@@ -185,7 +185,7 @@
                                                     <img src="{{asset('build/assets/images/faces/4.jpg')}}" alt="">
                                                 </span>
                                                 <p class="font-semibold text-[0.9375rem] mb-0">Samantha Taylor</p>
-                                                <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">samanthataylor2145@gmail. com</span>
+                                                <span class="text-[#8c9097] text-[0.75rem]">samanthataylor2145@gmail. com</span>
                                             </div>
                                             <div class="box-footer">
                                                 <div>
@@ -209,7 +209,7 @@
                                                     <img src="{{asset('build/assets/images/faces/15.jpg')}}" alt="">
                                                 </span>
                                                 <p class="font-semibold text-[0.9375rem] mb-0">Peter Parker</p>
-                                                <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">peterparker29@gmail.com</span>
+                                                <span class="text-[#8c9097] text-[0.75rem]">peterparker29@gmail.com</span>
                                             </div>
                                             <div class="box-footer">
                                                 <div>
@@ -233,7 +233,7 @@
                                                     <img src="{{asset('build/assets/images/faces/12.jpg')}}" alt="">
                                                 </span>
                                                 <p class="font-semibold text-[0.9375rem] mb-0">Andrew garfield</p>
-                                                <span class="text-[#8c9097] dark:text-white/50 text-xs">andrewgarfield98@gmail.com</span>
+                                                <span class="text-[#8c9097] text-xs">andrewgarfield98@gmail.com</span>
                                             </div>
                                             <div class="box-footer">
                                                 <div >
@@ -257,7 +257,7 @@
                                                     <img src="{{asset('build/assets/images/faces/5.jpg')}}" alt="">
                                                 </span>
                                                 <p class="font-semibold text-[0.9375rem] mb-0">Elizabeth Rose</p>
-                                                <span class="text-[#8c9097] dark:text-white/50 text-xs">elizabethrose@gmail.com</span>
+                                                <span class="text-[#8c9097] text-xs">elizabethrose@gmail.com</span>
                                             </div>
                                             <div class="box-footer">
                                                 <div >
@@ -281,7 +281,7 @@
                                                     <img src="{{asset('build/assets/images/faces/11.jpg')}}" alt="">
                                                 </span>
                                                 <p class="font-semibold text-[0.9375rem] mb-0">Stuart Benny</p>
-                                                <span class="text-[#8c9097] dark:text-white/50 text-xs">stuartbenny@gmail.com</span>
+                                                <span class="text-[#8c9097] text-xs">stuartbenny@gmail.com</span>
                                             </div>
                                             <div class="box-footer">
                                                 <div >
@@ -305,7 +305,7 @@
                                                     <img src="{{asset('build/assets/images/faces/2.jpg')}}" alt="">
                                                 </span>
                                                 <p class="font-semibold text-[0.9375rem] mb-0">Sasha Banks</p>
-                                                <span class="text-[#8c9097] dark:text-white/50 text-xs">sashabanks89@gmail.com</span>
+                                                <span class="text-[#8c9097] text-xs">sashabanks89@gmail.com</span>
                                             </div>
                                             <div class="box-footer">
                                                 <div >
@@ -329,7 +329,7 @@
                                                     <img src="{{asset('build/assets/images/faces/8.jpg')}}" alt="">
                                                 </span>
                                                 <p class="font-semibold text-[0.9375rem] mb-0">Alicia Keys</p>
-                                                <span class="text-[#8c9097] dark:text-white/50 text-xs">aliciakeys99@gmail.com</span>
+                                                <span class="text-[#8c9097] text-xs">aliciakeys99@gmail.com</span>
                                             </div>
                                             <div class="box-footer">
                                                 <div >
@@ -353,7 +353,7 @@
                                                     <img src="{{asset('build/assets/images/faces/9.jpg')}}" alt="">
                                                 </span>
                                                 <p class="font-semibold text-[0.9375rem] mb-0">Jason Mama</p>
-                                                <span class="text-[#8c9097] dark:text-white/50 text-xs">jasonmama143@gmail.com</span>
+                                                <span class="text-[#8c9097] text-xs">jasonmama143@gmail.com</span>
                                             </div>
                                             <div class="box-footer">
                                                 <button aria-label="button" type="button" class="ti-btn ti-btn-sm ti-btn-primary !me-[0.375rem]">
@@ -385,7 +385,7 @@
                                         Feel free to contact us any time
                                     </p>
                                     <div class="input-group">
-                                        <input type="text" class="form-control !rounded-s-sm dark:bg-bodybg" placeholder="Ask Here" aria-label="Ask Here" aria-describedby="button-addon2">
+                                        <input type="text" class="form-control !rounded-s-sm" placeholder="Ask Here" aria-label="Ask Here" aria-describedby="button-addon2">
                                         <button class="ti-btn bg-success text-white !py-2 !px-[0.85rem] !rounded-s-none !mb-0" type="button" id="button-addon2">Send</button>
                                     </div>
                                 </div>

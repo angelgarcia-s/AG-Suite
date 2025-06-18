@@ -10,16 +10,16 @@
                         <!-- Page Header -->
                         <div class="block justify-between page-header md:flex">
                             <div>
-                                <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Invoice Details</h3>
+                                <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Invoice Details</h3>
                             </div>
                             <ol class="flex items-center whitespace-nowrap min-w-0">
                                 <li class="text-[0.813rem] ps-[0.5rem]">
-                                  <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                  <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                   Invoice
-                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                   </a>
                                 </li>
-                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                     Invoice Details
                                 </li>
                             </ol>
@@ -49,68 +49,68 @@
                                             <div class="xl:col-span-12 col-span-12">
                                                 <div class="grid grid-cols-12 sm:gap-x-6 gap-y-6">
                                                     <div class="xl:col-span-4 lg:col-span-6 md:col-span-6 sm:col-span-6 col-span-12">
-                                                        <p class="text-[#8c9097] dark:text-white/50 mb-2">
+                                                        <p class="text-[#8c9097] mb-2">
                                                             Billing From :
                                                         </p>
                                                         <p class="font-bold mb-1">
                                                             SPRUKO TECHNOLOGIES
                                                         </p>
-                                                        <p class="mb-1 text-[#8c9097] dark:text-white/50">
+                                                        <p class="mb-1 text-[#8c9097]">
                                                             Mig-1-11,Manroe street
                                                         </p>
-                                                        <p class="mb-1 text-[#8c9097] dark:text-white/50">
+                                                        <p class="mb-1 text-[#8c9097]">
                                                             Georgetown,Washington D.C,USA,200071
                                                         </p>
-                                                        <p class="mb-1 text-[#8c9097] dark:text-white/50">
+                                                        <p class="mb-1 text-[#8c9097]">
                                                             sprukotrust.ynex@gmail.com
                                                         </p>
-                                                        <p class="mb-1 text-[#8c9097] dark:text-white/50">
+                                                        <p class="mb-1 text-[#8c9097]">
                                                             (555) 555-1234
                                                         </p>
-                                                        <p class="text-[#8c9097] dark:text-white/50">For more information check for <a href="javascript:void(0);" class="text-primary font-semibold"><u>GSTIN</u></a> Details.</p>
+                                                        <p class="text-[#8c9097]">For more information check for <a href="javascript:void(0);" class="text-primary font-semibold"><u>GSTIN</u></a> Details.</p>
                                                     </div>
                                                     <div class="xl:col-span-4 xl:flex hidden"></div>
                                                     <div class="xl:col-span-4 lg:col-span-6 md:col-span-6 sm:col-span-6 col-span-12 sm:ms-auto sm:mt-0 mt-4">
-                                                        <p class="text-[#8c9097] dark:text-white/50 mb-2">
+                                                        <p class="text-[#8c9097] mb-2">
                                                             Billing To :
                                                         </p>
                                                         <p class="font-bold mb-1">
                                                             Json Taylor
                                                         </p>
-                                                        <p class="text-[#8c9097] dark:text-white/50 mb-1">
+                                                        <p class="text-[#8c9097] mb-1">
                                                             Lig-22-1,20 Covington Place
                                                         </p>
-                                                        <p class="text-[#8c9097] dark:text-white/50 mb-1">
+                                                        <p class="text-[#8c9097] mb-1">
                                                             New Castle,de, United States,19320
                                                         </p>
-                                                        <p class="text-[#8c9097] dark:text-white/50 mb-1">
+                                                        <p class="text-[#8c9097] mb-1">
                                                             jsontaylor2134@gmail.com
                                                         </p>
-                                                        <p class="text-[#8c9097] dark:text-white/50">
+                                                        <p class="text-[#8c9097]">
                                                             +1 202-918-2132
                                                         </p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="xl:col-span-3 col-span-12">
-                                                <p class="font-semibold text-[#8c9097] dark:text-white/50 mb-1">Invoice ID :</p>
+                                                <p class="font-semibold text-[#8c9097] mb-1">Invoice ID :</p>
                                                 <p class="text-[.9375rem] mb-1">#SPK120219890</p>
                                             </div>
                                             <div class="xl:col-span-3 col-span-12">
-                                                <p class="font-semibold text-[#8c9097] dark:text-white/50 mb-1">Date Issued :</p>
-                                                <p class="text-[.9375rem] mb-1">29,Nov 2022 - <span class="text-[#8c9097] dark:text-white/50 text-xs">12:42PM</span></p>
+                                                <p class="font-semibold text-[#8c9097] mb-1">Date Issued :</p>
+                                                <p class="text-[.9375rem] mb-1">29,Nov 2022 - <span class="text-[#8c9097] text-xs">12:42PM</span></p>
                                               </div>
                                             <div class="xl:col-span-3 col-span-12">
-                                                <p class="font-semibold text-[#8c9097] dark:text-white/50 mb-1">Due Date :</p>
+                                                <p class="font-semibold text-[#8c9097] mb-1">Due Date :</p>
                                                 <p class="text-[.9375rem] mb-1">29,Dec 2022</p>
                                             </div>
                                             <div class="xl:col-span-3 col-span-12">
-                                                <p class="font-semibold text-[#8c9097] dark:text-white/50 mb-1">Due Amount :</p>
+                                                <p class="font-semibold text-[#8c9097] mb-1">Due Amount :</p>
                                                 <p class="text-[1rem] mb-1 font-semibold">$2,570.42</p>
                                             </div>
                                             <div class="xl:col-span-12 col-span-12">
                                                 <div class="table-responsive">
-                                                    <table class="table nowrap whitespace-nowrap border dark:border-defaultborder/10 mt-4 min-w-full">
+                                                    <table class="table nowrap whitespace-nowrap border mt-4 min-w-full">
                                                         <thead>
                                                             <tr>
                                                                 <th scope="row" class="text-start">BRAND NAME</th>
@@ -121,14 +121,14 @@
                                                             </tr>
                                                         </thead>
                                                         <tbody>
-                                                            <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                            <tr class="border border-defaultborder">
                                                                 <td>
                                                                     <div class="font-semibold">
                                                                         Dapzem &amp; Co (Sweatshirt)
                                                                     </div>
                                                                 </td>
                                                                 <td>
-                                                                    <div class="text-[#8c9097] dark:text-white/50">
+                                                                    <div class="text-[#8c9097]">
                                                                         Branded hoodie ethnic style
                                                                     </div>
                                                                 </td>
@@ -142,14 +142,14 @@
                                                                     $120
                                                                 </td>
                                                             </tr>
-                                                            <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                            <tr class="border border-defaultborder">
                                                                 <td>
                                                                     <div class="font-semibold">
                                                                         Denim Winjo (Jacket)
                                                                     </div>
                                                                 </td>
                                                                 <td>
-                                                                    <div class="text-[#8c9097] dark:text-white/50">
+                                                                    <div class="text-[#8c9097]">
                                                                         Vintage pure leather Jacket
                                                                     </div>
                                                                 </td>
@@ -163,14 +163,14 @@
                                                                     $249
                                                                 </td>
                                                             </tr>
-                                                            <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                            <tr class="border border-defaultborder">
                                                                 <td>
                                                                     <div class="font-semibold">
                                                                         Jimmy Lolfiger (Winter Coat)
                                                                     </div>
                                                                 </td>
                                                                 <td>
-                                                                    <div class="text-[#8c9097] dark:text-white/50">
+                                                                    <div class="text-[#8c9097]">
                                                                         Unisex jacket for men &amp; women
                                                                     </div>
                                                                 </td>
@@ -184,14 +184,14 @@
                                                                     $499
                                                                 </td>
                                                             </tr>
-                                                            <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                            <tr class="border border-defaultborder">
                                                                 <td>
                                                                     <div class="font-semibold">
                                                                         Blueberry &amp; Co
                                                                     </div>
                                                                 </td>
                                                                 <td>
-                                                                    <div class="text-[#8c9097] dark:text-white/50">
+                                                                    <div class="text-[#8c9097]">
                                                                         Light colored sweater form blueberry
                                                                     </div>
                                                                 </td>
@@ -205,14 +205,14 @@
                                                                     $897
                                                                 </td>
                                                             </tr>
-                                                            <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                            <tr class="border border-defaultborder">
                                                                 <td>
                                                                     <div class="font-semibold">
                                                                         Denim Corporation
                                                                     </div>
                                                                 </td>
                                                                 <td>
-                                                                    <div class="text-[#8c9097] dark:text-white/50">
+                                                                    <div class="text-[#8c9097]">
                                                                         Flap pockets denim jackets for men
                                                                     </div>
                                                                 </td>
@@ -226,7 +226,7 @@
                                                                     $599
                                                                 </td>
                                                             </tr>
-                                                            <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                            <tr class="border border-defaultborder">
                                                                 <td colspan="3"></td>
                                                                 <td colspan="2">
                                                                     <table class="table table-sm whitespace-nowrap mb-0 table-borderless w-full">
@@ -314,19 +314,19 @@
                                                     Credit/Debit Card
                                                 </p>
                                                 <p class="mb-4">
-                                                    <span class="font-semibold text-[#8c9097] dark:text-white/50 text-[0.75rem]">Name On Card :</span> Json Taylor
+                                                    <span class="font-semibold text-[#8c9097] text-[0.75rem]">Name On Card :</span> Json Taylor
                                                 </p>
                                                 <p class="mb-4">
-                                                    <span class="font-semibold text-[#8c9097] dark:text-white/50 text-[0.75rem]">Card Number :</span> 1234 5678 9087 XXXX
+                                                    <span class="font-semibold text-[#8c9097] text-[0.75rem]">Card Number :</span> 1234 5678 9087 XXXX
                                                 </p>
                                                 <p class="mb-4">
-                                                    <span class="font-semibold text-[#8c9097] dark:text-white/50 text-[0.75rem]">Total Amount :</span> <span class="text-success font-semibold text-[.875rem]">$2570.42</span>
+                                                    <span class="font-semibold text-[#8c9097] text-[0.75rem]">Total Amount :</span> <span class="text-success font-semibold text-[.875rem]">$2570.42</span>
                                                 </p>
                                                 <p class="mb-4">
-                                                    <span class="font-semibold text-[#8c9097] dark:text-white/50 text-[0.75rem]">Due Date :</span> 29,Dec 2022 - <span class="text-danger text-[0.75rem] font-semibold">30 days due</span>
+                                                    <span class="font-semibold text-[#8c9097] text-[0.75rem]">Due Date :</span> 29,Dec 2022 - <span class="text-danger text-[0.75rem] font-semibold">30 days due</span>
                                                 </p>
                                                 <p class="mb-4">
-                                                    <span class="font-semibold text-[#8c9097] dark:text-white/50 text-[0.75rem]">Invoice Status : <span class="badge bg-warning/10 text-warning">Pending</span></span>
+                                                    <span class="font-semibold text-[#8c9097] text-[0.75rem]">Invoice Status : <span class="badge bg-warning/10 text-warning">Pending</span></span>
                                                 </p>
                                                 <div class="alert alert-success" role="alert">
                                                     Please Make sure to pay the invoice bill within 30 days.

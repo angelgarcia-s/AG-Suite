@@ -10,16 +10,16 @@
                     <!-- Page Header -->
                     <div class="block justify-between page-header md:flex">
                         <div>
-                            <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Cards</h3>
+                            <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Cards</h3>
                         </div>
                         <ol class="flex items-center whitespace-nowrap min-w-0">
                             <li class="text-[0.813rem] ps-[0.5rem]">
-                            <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                            <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                             Ui Elements
-                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                             </a>
                             </li>
-                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                 Cards
                             </li>
                         </ol>
@@ -33,7 +33,7 @@
                                 <img src="{{asset('build/assets/images/media/media-22.jpg')}}" class="card-img-top" alt="...">
                                 <div class="box-body">
                                     <h6 class="box-title font-semibold !text-[1rem]">Card title</h6>
-                                    <p class="card-text text-[#8c9097] dark:text-white/50 mb-4">when an unknown printer took a galley of type
+                                    <p class="card-text text-[#8c9097] mb-4">when an unknown printer took a galley of type
                                         and scrambled it to make a type specimen book. It has survived not only five
                                         centuries, but also the leap into electronic typesetting, remaining essentially
                                         unchanged.</p>
@@ -60,7 +60,7 @@
                             <div class="box">
                                 <div class="box-body">
                                     <h6 class="box-title font-semibold !mb-1 !text-[1rem]">Card title</h6>
-                                    <p class="card-subtitle mb-4 text-[#8c9097] dark:text-white/50">Card subtitle</p>
+                                    <p class="card-subtitle mb-4 text-[#8c9097]">Card subtitle</p>
                                     <p class="card-text">There are many variations of passages of Lorem Ipsum available, but
                                         the majority have suffered alteration many variations of passages of Lorem Ipsum
                                         available there are so many ways to solve but the majority have suffered.</p>
@@ -295,7 +295,7 @@
                                         <img src="{{asset('build/assets/images/faces/11.jpg')}}" alt="img" class="avatar avatar-rounded me-2 !mb-0">
                                         <div class="my-auto">
                                             <div class="text-[.9375rem] font-semibold">Adam Smith</div>
-                                            <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[.6875rem]">28 Years, Male</p>
+                                            <p class="mb-0 text-[#8c9097] text-[.6875rem]">28 Years, Male</p>
                                         </div>
                                         <div class="hs-dropdown ti-dropdown ms-auto my-auto">
                                             <a aria-label="anchor" href="javascript:void(0);" class="ti-btn ti-btn-icon ti-btn-sm ti-btn-light !mb-0">
@@ -330,7 +330,7 @@
                                         <span class="text-warning me-1"><i class="bi bi-star-fill"></i></span>
                                         <span class="text-warning me-1"><i class="bi bi-star-fill"></i></span>
                                         <span class="text-black/10"><i class="bi bi-star-fill"></i></span>
-                                        <p class="block text-[#8c9097] dark:text-white/50 mb-0 text-[.75rem] font-semibold">1 year ago</p>
+                                        <p class="block text-[#8c9097] mb-0 text-[.75rem] font-semibold">1 year ago</p>
                                     </div>
                                 </div>
                                 <div class="box-body pt-4">
@@ -359,7 +359,7 @@
                                         <img src="{{asset('build/assets/images/faces/5.jpg')}}" alt="img">
                                     </span>
                                     <div class="font-semibold text-[1rem]">Sasha Max</div>
-                                    <p class="mb-4 text-[#8c9097] dark:text-white/50 text-[.6875rem]">Web Developer</p>
+                                    <p class="mb-4 text-[#8c9097] text-[.6875rem]">Web Developer</p>
                                     <div class="ti-btn-list">
                                         <button type="button" aria-label="button" class="!ms-2 ti-btn ti-btn-icon ti-btn-facebook btn-wave">
                                             <i class="ri-facebook-line"></i>
@@ -475,7 +475,7 @@
                                     <a href="javascript:void(0);" class="ti-btn ti-btn-primary-full mt-2">Read More</a>
                                     <a href="javascript:void(0);" class="ti-btn ti-btn-outline-secondary mt-2">Close</a>
                                 </div>
-                                <div class="box-footer !text-[#8c9097] dark:text-white/50">
+                                <div class="box-footer !text-[#8c9097]">
                                     11.32pm
                                 </div>
                             </div>
@@ -491,15 +491,15 @@
                                         </div>
                                         <div class="flex align-center justify-between w-full flex-wrap">
                                             <div class="me-4">
-                                                <p class="text-[#8c9097] dark:text-white/50 mb-0">Posts</p>
+                                                <p class="text-[#8c9097] mb-0">Posts</p>
                                                 <p class="font-semibold text-[1rem] mb-0">25</p>
                                             </div>
                                             <div class="me-4">
-                                                <p class="text-[#8c9097] dark:text-white/50 mb-0">Followers</p>
+                                                <p class="text-[#8c9097] mb-0">Followers</p>
                                                 <p class="font-semibold text-[1rem] mb-0">1253</p>
                                             </div>
                                             <div class="me-4">
-                                                <p class="text-[#8c9097] dark:text-white/50 mb-0">Following</p>
+                                                <p class="text-[#8c9097] mb-0">Following</p>
                                                 <p class="font-semibold text-[1rem] mb-0">367</p>
                                             </div>
                                         </div>
@@ -507,7 +507,7 @@
                                 </div>
                                 <div class="box-body">
                                     <div class="font-semibold text-[1rem]">Angelina Caprio</div>
-                                    <div class="text-[#8c9097] dark:text-white/50 text-[.6875rem] mb-6">Angular Developer</div>
+                                    <div class="text-[#8c9097] text-[.6875rem] mb-6">Angular Developer</div>
                                     <p class="text-[.875rem] font-semibold mb-1">About:</p>
                                     <p class="mb-0 card-text">Finibus Bonorum et Malorum" by Cicero are also reproduced in
                                         their exact original form, accompanied by English versions </p>
@@ -707,7 +707,7 @@
                                 <div class="box-body">
                                     <h6 class="box-title font-semibold !text-[1rem]">Image caps are widely used in Blog's
                                     </h6>
-                                    <p class="card-text mb-4 text-[#8c9097] dark:text-white/50">But I must explain to you how all this mistaken
+                                    <p class="card-text mb-4 text-[#8c9097]">But I must explain to you how all this mistaken
                                         idea of denouncing pleasure and praising pain was born and I will give you a
                                         complete account of the system, and expound the actual teachings.</p>
                                     <p class="card-text mb-0"><small>Last updated 3 mins
@@ -720,7 +720,7 @@
                                 <div class="box-body">
                                     <h6 class="box-title font-semibold !text-[1rem]">Image caps are widely used in Blog's
                                     </h6>
-                                    <p class="card-text mb-4 text-[#8c9097] dark:text-white/50">But I must explain to you how all this mistaken
+                                    <p class="card-text mb-4 text-[#8c9097]">But I must explain to you how all this mistaken
                                         idea of denouncing pleasure and praising pain was born and I will give you a
                                         complete account of the system, and expound.</p>
                                     <p class="card-text mb-0"><small>Last updated 3 mins
@@ -735,7 +735,7 @@
                                 <div class="box-body">
                                     <h6 class="box-title font-semibold mb-1 !text-[1rem]">Image caps are widely used in
                                         Blog's</h6>
-                                    <p class="card-text mb-1 text-[#8c9097] dark:text-white/50">This is a wider card with supporting text below
+                                    <p class="card-text mb-1 text-[#8c9097]">This is a wider card with supporting text below
                                         as
                                         a natural lead-in to additional content. This content is a
                                         little
@@ -754,7 +754,7 @@
                                     <div class="box-title">Image caps are widely used in Blog's</div>
                                 </div>
                                 <div class="box-body">
-                                    <p class="card-text mb-1 text-[#8c9097] dark:text-white/50">This is a wider card with supporting text below
+                                    <p class="card-text mb-1 text-[#8c9097]">This is a wider card with supporting text below
                                         as
                                         a natural lead-in to additional content. This content is a
                                         little
@@ -774,7 +774,7 @@
                                     <div class="box-title">Image caps are widely used in Blog's</div>
                                 </div>
                                 <div class="box-body">
-                                    <p class="card-text mb-1 text-[#8c9097] dark:text-white/50">This is a wider card with supporting text below
+                                    <p class="card-text mb-1 text-[#8c9097]">This is a wider card with supporting text below
                                         as
                                         a natural lead-in to additional content. This content is a
                                         little
@@ -792,7 +792,7 @@
                                     <div class="box-title">Image caps are widely used in Blog's</div>
                                 </div>
                                 <div class="box-body">
-                                    <p class="card-text mb-1 text-[#8c9097] dark:text-white/50">This is a wider card with supporting text below
+                                    <p class="card-text mb-1 text-[#8c9097]">This is a wider card with supporting text below
                                         as
                                         a natural lead-in to additional content. This content is a
                                         little
@@ -890,7 +890,7 @@
                                                 natural .</p>
                                         </div>
                                         <div class="box-footer">
-                                            <p class="card-text"><small class="text-[#8c9097] dark:text-white/50">Last updated 3 mins
+                                            <p class="card-text"><small class="text-[#8c9097]">Last updated 3 mins
                                                     ago</small></p>
                                         </div>
                                     </div>
@@ -909,7 +909,7 @@
                                             <p class="card-text mb-4">This is a wider card with suppo rting text below as a
                                                 natural lead-in to additional content. This content is a little bit longer.
                                             </p>
-                                            <p class="card-text"><small class="text-[#8c9097] dark:text-white/50">Last updated 3 mins
+                                            <p class="card-text"><small class="text-[#8c9097]">Last updated 3 mins
                                                     ago</small></p>
                                         </div>
                                     </div>
@@ -932,7 +932,7 @@
                                             </p>
                                         </div>
                                         <div class="box-footer">
-                                            <p class="card-text"><small class="text-[#8c9097] dark:text-white/50">Last updated 3 mins
+                                            <p class="card-text"><small class="text-[#8c9097]">Last updated 3 mins
                                                     ago</small></p>
                                         </div>
                                     </div>
@@ -1086,7 +1086,7 @@
                                         </div>
                                         <div class="">
                                             <div class="text-[.9375rem] font-semibold">Jacob Smith</div>
-                                            <p class="mb-0 text-[#8c9097] dark:text-white/50 opacity-[0.7] text-[.75rem]">Finished by 24,Nov
+                                            <p class="mb-0 text-[#8c9097] opacity-[0.7] text-[.75rem]">Finished by 24,Nov
                                             </p>
                                         </div>
                                         <div class="ms-auto">
@@ -1369,7 +1369,7 @@
                                                 <div>
                                                     <p class="card-text mb-0 text-[.875rem] font-semibold">Atharva Simon.
                                                     </p>
-                                                    <div class="box-title !text-[#8c9097] dark:text-white/50 !text-[.75rem] mb-0">Correspondent
+                                                    <div class="box-title !text-[#8c9097] !text-[.75rem] mb-0">Correspondent
                                                         Professor</div>
                                                 </div>
                                             </div>
@@ -1388,7 +1388,7 @@
                                                     <p class="card-text text-info mb-1 text-[.875rem] font-semibold">Alicia
                                                         Keys.</p>
                                                     <div class=" text-[.75rem] mb-1">Department Of Commerce</div>
-                                                    <div class=" text-[#8c9097] dark:text-white/50 text-[.6875rem] mb-0">24 Years, Female</div>
+                                                    <div class=" text-[#8c9097] text-[.6875rem] mb-0">24 Years, Female</div>
                                                 </div>
                                             </div>
                                         </div>
@@ -1410,7 +1410,7 @@
                                                     </p>
                                                 </div>
                                                 <div class="box-footer">
-                                                    <p class="card-text"><small class="text-[#8c9097] dark:text-white/50">Last updated 3 mins
+                                                    <p class="card-text"><small class="text-[#8c9097]">Last updated 3 mins
                                                             ago</small></p>
                                                 </div>
                                             </div>

@@ -12,16 +12,16 @@
                             <!-- Page Header -->
                             <div class="block justify-between page-header md:flex">
                                 <div>
-                                    <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Companies</h3>
+                                    <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Companies</h3>
                                 </div>
                                 <ol class="flex items-center whitespace-nowrap min-w-0">
                                     <li class="text-[0.813rem] ps-[0.5rem]">
-                                        <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                        <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                         CRM
-                                        <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                        <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                         </a>
                                     </li>
-                                    <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                                    <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                         Companies
                                     </li>
                                 </ol>
@@ -89,12 +89,12 @@
                                                             </td>
                                                             <td>
                                                                 <div>
-                                                                    <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>sprukotechnologies2981@gmail.com</span>
+                                                                    <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>sprukotechnologies2981@gmail.com</span>
                                                                 </div>
                                                             </td>
                                                             <td>
                                                                 <div>
-                                                                    <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>1678-28993-223</span>
+                                                                    <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>1678-28993-223</span>
                                                                 </div>
                                                             </td>
                                                             <td>
@@ -146,12 +146,12 @@
                                                             </td>
                                                             <td>
                                                                 <div>
-                                                                    <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>spiceinfotech289@gmail.com</span>
+                                                                    <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>spiceinfotech289@gmail.com</span>
                                                                 </div>
                                                             </td>
                                                             <td>
                                                                 <div>
-                                                                    <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>8122-2342-4453</span>
+                                                                    <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>8122-2342-4453</span>
                                                                 </div>
                                                             </td>
                                                             <td>
@@ -203,12 +203,12 @@
                                                             </td>
                                                             <td>
                                                                 <div>
-                                                                    <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>logitecheco789@gmail.com</span>
+                                                                    <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>logitecheco789@gmail.com</span>
                                                                 </div>
                                                             </td>
                                                             <td>
                                                                 <div>
-                                                                    <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>1902-2001-3023</span>
+                                                                    <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>1902-2001-3023</span>
                                                                 </div>
                                                             </td>
                                                             <td>
@@ -260,12 +260,12 @@
                                                             </td>
                                                             <td>
                                                                 <div>
-                                                                    <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>initechinfo290@gmail.com</span>
+                                                                    <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>initechinfo290@gmail.com</span>
                                                                 </div>
                                                             </td>
                                                             <td>
                                                                 <div>
-                                                                    <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>1603-2032-1123</span>
+                                                                    <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>1603-2032-1123</span>
                                                                 </div>
                                                             </td>
                                                             <td>
@@ -317,12 +317,12 @@
                                                             </td>
                                                             <td>
                                                                 <div>
-                                                                    <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>massivedynamic1993@gmail.com</span>
+                                                                    <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>massivedynamic1993@gmail.com</span>
                                                                 </div>
                                                             </td>
                                                             <td>
                                                                 <div>
-                                                                    <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>1129-2302-1092</span>
+                                                                    <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>1129-2302-1092</span>
                                                                 </div>
                                                             </td>
                                                             <td>
@@ -374,12 +374,12 @@
                                                             </td>
                                                             <td>
                                                                 <div>
-                                                                    <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>globexcorp345@gmail.com</span>
+                                                                    <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>globexcorp345@gmail.com</span>
                                                                 </div>
                                                             </td>
                                                             <td>
                                                                 <div>
-                                                                    <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>9923-2344-2003</span>
+                                                                    <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>9923-2344-2003</span>
                                                                 </div>
                                                             </td>
                                                             <td>
@@ -431,12 +431,12 @@
                                                             </td>
                                                             <td>
                                                                 <div>
-                                                                    <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>acmecorporation78@gmail.com</span>
+                                                                    <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>acmecorporation78@gmail.com</span>
                                                                 </div>
                                                             </td>
                                                             <td>
                                                                 <div>
-                                                                    <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>7891-2093-1994</span>
+                                                                    <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>7891-2093-1994</span>
                                                                 </div>
                                                             </td>
                                                             <td>
@@ -488,12 +488,12 @@
                                                             </td>
                                                             <td>
                                                                 <div>
-                                                                    <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>soylentcorp678@gmail.com</span>
+                                                                    <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>soylentcorp678@gmail.com</span>
                                                                 </div>
                                                             </td>
                                                             <td>
                                                                 <div>
-                                                                    <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>1899-2993-0923</span>
+                                                                    <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>1899-2993-0923</span>
                                                                 </div>
                                                             </td>
                                                             <td>
@@ -545,12 +545,12 @@
                                                             </td>
                                                             <td>
                                                                 <div>
-                                                                    <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>umbrellacorp289@gmail.com</span>
+                                                                    <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>umbrellacorp289@gmail.com</span>
                                                                 </div>
                                                             </td>
                                                             <td>
                                                                 <div>
-                                                                    <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>1768-2332-4934</span>
+                                                                    <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>1768-2332-4934</span>
                                                                 </div>
                                                             </td>
                                                             <td>
@@ -602,12 +602,12 @@
                                                             </td>
                                                             <td>
                                                                 <div>
-                                                                    <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>hoolitech186@gmail.com</span>
+                                                                    <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>hoolitech186@gmail.com</span>
                                                                 </div>
                                                             </td>
                                                             <td>
                                                                 <div>
-                                                                    <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>4788-7822-4786</span>
+                                                                    <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>4788-7822-4786</span>
                                                                 </div>
                                                             </td>
                                                             <td>
@@ -716,7 +716,7 @@
                                     <div class="p-6 border-b border-dashed border-defaultborder">
                                         <div class="mb-0">
                                             <p class="text-[0.9375rem] mb-2 font-semibold">Professional Bio :</p>
-                                            <p class="text-[#8c9097] dark:text-white/50 op-8 mb-0">
+                                            <p class="text-[#8c9097] op-8 mb-0">
                                                 <b class="text-default">Spruko</b> Technologies is a leading technology company specializing in innovative software solutions for businesses worldwide. With a strong focus on cutting-edge technologies and a team of skilled professionals.
                                             </p>
                                         </div>
@@ -726,7 +726,7 @@
                                         <div class="">
                                             <div class="flex items-center mb-2">
                                                 <div class="me-2">
-                                                    <span class="avatar avatar-sm avatar-rounded bg-light !text-[#8c9097] dark:text-white/50">
+                                                    <span class="avatar avatar-sm avatar-rounded bg-light !text-[#8c9097]">
                                                         <i class="ri-mail-line align-middle text-[.875rem]"></i>
                                                     </span>
                                                 </div>
@@ -736,7 +736,7 @@
                                             </div>
                                             <div class="flex items-center mb-2">
                                                 <div class="me-2">
-                                                    <span class="avatar avatar-sm avatar-rounded bg-light !text-[#8c9097] dark:text-white/50">
+                                                    <span class="avatar avatar-sm avatar-rounded bg-light !text-[#8c9097]">
                                                         <i class="ri-phone-line align-middle text-[.875rem]"></i>
                                                     </span>
                                                 </div>
@@ -746,7 +746,7 @@
                                             </div>
                                             <div class="flex items-center mb-0">
                                                 <div class="me-2">
-                                                    <span class="avatar avatar-sm avatar-rounded bg-light !text-[#8c9097] dark:text-white/50">
+                                                    <span class="avatar avatar-sm avatar-rounded bg-light !text-[#8c9097]">
                                                         <i class="ri-map-pin-line align-middle text-[.875rem]"></i>
                                                     </span>
                                                 </div>

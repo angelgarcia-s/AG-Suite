@@ -10,16 +10,16 @@
                         <!-- Page Header -->
                         <div class="block justify-between page-header md:flex">
                             <div>
-                                <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Reviews</h3>
+                                <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Reviews</h3>
                             </div>
                             <ol class="flex items-center whitespace-nowrap min-w-0">
                                 <li class="text-[0.813rem] ps-[0.5rem]">
-                                  <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                  <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                     Pages
-                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                   </a>
                                 </li>
-                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                     Reviews
                                 </li>
                             </ol>
@@ -39,15 +39,15 @@
                                                     </span>
                                                     <div>
                                                         <p class="mb-0 font-semibold text-[.875rem] text-primary">Json Taylor</p>
-                                                        <p class="mb-0 text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50">CEO OF NORJA</p>
+                                                        <p class="mb-0 text-[.625rem] font-semibold text-[#8c9097]">CEO OF NORJA</p>
                                                     </div>
                                                 </div>
                                                 <div class="mb-4">
-                                                    <span class="text-[#8c9097] dark:text-white/50">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  -- <a href="javascript:void(0);" class="font-semibold text-[.6875rem] text-primary" >Read More</a></span>
+                                                    <span class="text-[#8c9097]">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  -- <a href="javascript:void(0);" class="font-semibold text-[.6875rem] text-primary" >Read More</a></span>
                                                 </div>
                                                 <div class="flex items-center justify-between">
                                                     <div class="flex items-center">
-                                                        <span class="text-[#8c9097] dark:text-white/50">Rating : </span>
+                                                        <span class="text-[#8c9097]">Rating : </span>
                                                         <span class="text-warning block ms-1">
                                                             <i class="ri-star-fill"></i>
                                                             <i class="ri-star-fill"></i>
@@ -56,7 +56,7 @@
                                                             <i class="ri-star-half-fill"></i>
                                                         </span>
                                                     </div>
-                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] dark:text-white/50 text-end">
+                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] text-end">
                                                         <span>12 days ago</span>
                                                         <span class="block font-normal text-[0.75rem] text-success"><i>Json Taylor</i></span>
                                                     </div>
@@ -73,15 +73,15 @@
                                                     </span>
                                                     <div>
                                                         <p class="mb-0 font-semibold text-[.875rem] text-primary">Melissa Blue</p>
-                                                        <p class="mb-0 text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50">MANAGER CHO</p>
+                                                        <p class="mb-0 text-[.625rem] font-semibold text-[#8c9097]">MANAGER CHO</p>
                                                     </div>
                                                 </div>
                                                 <div class="mb-4">
-                                                    <span class="text-[#8c9097] dark:text-white/50">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  -- <a href="javascript:void(0);" class="font-semibold text-[.6875rem] text-primary" >Read More</a></span>
+                                                    <span class="text-[#8c9097]">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  -- <a href="javascript:void(0);" class="font-semibold text-[.6875rem] text-primary" >Read More</a></span>
                                                 </div>
                                                 <div class="flex items-center justify-between">
                                                     <div class="flex items-center">
-                                                        <span class="text-[#8c9097] dark:text-white/50">Rating : </span>
+                                                        <span class="text-[#8c9097]">Rating : </span>
                                                         <span class="text-warning block ms-1">
                                                             <i class="ri-star-fill"></i>
                                                             <i class="ri-star-fill"></i>
@@ -90,7 +90,7 @@
                                                             <i class="ri-star-half-fill"></i>
                                                         </span>
                                                     </div>
-                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] dark:text-white/50 text-end">
+                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] text-end">
                                                         <span>7 days ago</span>
                                                         <span class="block font-normal text-[0.75rem] text-success"><i>Melissa Blue</i></span>
                                                     </div>
@@ -107,15 +107,15 @@
                                                     </span>
                                                     <div>
                                                         <p class="mb-0 font-semibold text-[.875rem] text-primary">Kiara Advain</p>
-                                                        <p class="mb-0 text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50">CEO OF EMPIRO</p>
+                                                        <p class="mb-0 text-[.625rem] font-semibold text-[#8c9097]">CEO OF EMPIRO</p>
                                                     </div>
                                                 </div>
                                                 <div class="mb-4">
-                                                    <span class="text-[#8c9097] dark:text-white/50">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  -- <a href="javascript:void(0);" class="font-semibold text-[.6875rem] text-primary" >Read More</a></span>
+                                                    <span class="text-[#8c9097]">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  -- <a href="javascript:void(0);" class="font-semibold text-[.6875rem] text-primary" >Read More</a></span>
                                                 </div>
                                                 <div class="flex items-center justify-between">
                                                     <div class="flex items-center">
-                                                        <span class="text-[#8c9097] dark:text-white/50">Rating : </span>
+                                                        <span class="text-[#8c9097]">Rating : </span>
                                                         <span class="text-warning block ms-1">
                                                             <i class="ri-star-fill"></i>
                                                             <i class="ri-star-fill"></i>
@@ -124,7 +124,7 @@
                                                             <i class="ri-star-line"></i>
                                                         </span>
                                                     </div>
-                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] dark:text-white/50 text-end">
+                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] text-end">
                                                         <span>2 days ago</span>
                                                         <span class="block font-normal text-[0.75rem] text-success"><i>Kiara Advain</i></span>
                                                     </div>
@@ -141,15 +141,15 @@
                                                     </span>
                                                     <div>
                                                         <p class="mb-0 font-semibold text-[.875rem] text-primary">Jhonson Smith</p>
-                                                        <p class="mb-0 text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50">CHIEF SECRETARY MBIO</p>
+                                                        <p class="mb-0 text-[.625rem] font-semibold text-[#8c9097]">CHIEF SECRETARY MBIO</p>
                                                     </div>
                                                 </div>
                                                 <div class="mb-4">
-                                                    <span class="text-[#8c9097] dark:text-white/50">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  -- <a href="javascript:void(0);" class="font-semibold text-[.6875rem] text-primary" >Read More</a></span>
+                                                    <span class="text-[#8c9097]">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  -- <a href="javascript:void(0);" class="font-semibold text-[.6875rem] text-primary" >Read More</a></span>
                                                 </div>
                                                 <div class="flex items-center justify-between">
                                                     <div class="flex items-center">
-                                                        <span class="text-[#8c9097] dark:text-white/50">Rating : </span>
+                                                        <span class="text-[#8c9097]">Rating : </span>
                                                         <span class="text-warning block ms-1">
                                                             <i class="ri-star-fill"></i>
                                                             <i class="ri-star-fill"></i>
@@ -158,7 +158,7 @@
                                                             <i class="ri-star-half-fill"></i>
                                                         </span>
                                                     </div>
-                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] dark:text-white/50 text-end">
+                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] text-end">
                                                         <span>16 hrs ago</span>
                                                         <span class="block font-normal text-[0.75rem] text-success"><i>Jhonson Smith</i></span>
                                                     </div>
@@ -175,15 +175,15 @@
                                                     </span>
                                                     <div>
                                                         <p class="mb-0 font-semibold text-[.875rem] text-primary">Dwayne Stort</p>
-                                                        <p class="mb-0 text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50">CEO ARMEDILLO</p>
+                                                        <p class="mb-0 text-[.625rem] font-semibold text-[#8c9097]">CEO ARMEDILLO</p>
                                                     </div>
                                                 </div>
                                                 <div class="mb-4">
-                                                    <span class="text-[#8c9097] dark:text-white/50">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  -- <a href="javascript:void(0);" class="font-semibold text-[.6875rem] text-primary" >Read More</a></span>
+                                                    <span class="text-[#8c9097]">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  -- <a href="javascript:void(0);" class="font-semibold text-[.6875rem] text-primary" >Read More</a></span>
                                                 </div>
                                                 <div class="flex items-center justify-between">
                                                     <div class="flex items-center">
-                                                        <span class="text-[#8c9097] dark:text-white/50">Rating : </span>
+                                                        <span class="text-[#8c9097]">Rating : </span>
                                                         <span class="text-warning block ms-1">
                                                             <i class="ri-star-fill"></i>
                                                             <i class="ri-star-fill"></i>
@@ -192,7 +192,7 @@
                                                             <i class="ri-star-line"></i>
                                                         </span>
                                                     </div>
-                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] dark:text-white/50 text-end">
+                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] text-end">
                                                         <span>22 days ago</span>
                                                         <span class="block font-normal text-[0.75rem] text-success"><i>Dwayne Stort</i></span>
                                                     </div>
@@ -209,15 +209,15 @@
                                                     </span>
                                                     <div>
                                                         <p class="mb-0 font-semibold text-[.875rem] text-primary">Jasmine Kova</p>
-                                                        <p class="mb-0 text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50">AGGENT AMIO</p>
+                                                        <p class="mb-0 text-[.625rem] font-semibold text-[#8c9097]">AGGENT AMIO</p>
                                                     </div>
                                                 </div>
                                                 <div class="mb-4">
-                                                    <span class="text-[#8c9097] dark:text-white/50">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  -- <a href="javascript:void(0);" class="font-semibold text-[.6875rem] text-primary" >Read More</a></span>
+                                                    <span class="text-[#8c9097]">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  -- <a href="javascript:void(0);" class="font-semibold text-[.6875rem] text-primary" >Read More</a></span>
                                                 </div>
                                                 <div class="flex items-center justify-between">
                                                     <div class="flex items-center">
-                                                        <span class="text-[#8c9097] dark:text-white/50">Rating : </span>
+                                                        <span class="text-[#8c9097]">Rating : </span>
                                                         <span class="text-warning block ms-1">
                                                             <i class="ri-star-fill"></i>
                                                             <i class="ri-star-fill"></i>
@@ -226,7 +226,7 @@
                                                             <i class="ri-star-half-fill"></i>
                                                         </span>
                                                     </div>
-                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] dark:text-white/50 text-end">
+                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] text-end">
                                                         <span>26 days ago</span>
                                                         <span class="block font-normal text-[0.75rem] text-success"><i>Jasmine Kova</i></span>
                                                     </div>
@@ -243,15 +243,15 @@
                                                     </span>
                                                     <div>
                                                         <p class="mb-0 font-semibold text-[.875rem] text-primary">Dolph MR</p>
-                                                        <p class="mb-0 text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50">CEO MR BRAND</p>
+                                                        <p class="mb-0 text-[.625rem] font-semibold text-[#8c9097]">CEO MR BRAND</p>
                                                     </div>
                                                 </div>
                                                 <div class="mb-4">
-                                                    <span class="text-[#8c9097] dark:text-white/50">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  -- <a href="javascript:void(0);" class="font-semibold text-[.6875rem] text-primary" >Read More</a></span>
+                                                    <span class="text-[#8c9097]">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  -- <a href="javascript:void(0);" class="font-semibold text-[.6875rem] text-primary" >Read More</a></span>
                                                 </div>
                                                 <div class="flex items-center justify-between">
                                                     <div class="flex items-center">
-                                                        <span class="text-[#8c9097] dark:text-white/50">Rating : </span>
+                                                        <span class="text-[#8c9097]">Rating : </span>
                                                         <span class="text-warning block ms-1">
                                                             <i class="ri-star-fill"></i>
                                                             <i class="ri-star-fill"></i>
@@ -260,7 +260,7 @@
                                                             <i class="ri-star-fill"></i>
                                                         </span>
                                                     </div>
-                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] dark:text-white/50 text-end">
+                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] text-end">
                                                         <span>1 month ago</span>
                                                         <span class="block font-normal text-[0.75rem] text-success"><i>Dolph MR</i></span>
                                                     </div>
@@ -277,15 +277,15 @@
                                                     </span>
                                                     <div>
                                                         <p class="mb-0 font-semibold text-[.875rem] text-primary">Brenda Simpson</p>
-                                                        <p class="mb-0 text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50">CEO AIBMO</p>
+                                                        <p class="mb-0 text-[.625rem] font-semibold text-[#8c9097]">CEO AIBMO</p>
                                                     </div>
                                                 </div>
                                                 <div class="mb-4">
-                                                    <span class="text-[#8c9097] dark:text-white/50">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  -- <a href="javascript:void(0);" class="font-semibold text-[.6875rem] text-primary" >Read More</a></span>
+                                                    <span class="text-[#8c9097]">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  -- <a href="javascript:void(0);" class="font-semibold text-[.6875rem] text-primary" >Read More</a></span>
                                                 </div>
                                                 <div class="flex items-center justify-between">
                                                     <div class="flex items-center">
-                                                        <span class="text-[#8c9097] dark:text-white/50">Rating : </span>
+                                                        <span class="text-[#8c9097]">Rating : </span>
                                                         <span class="text-warning block ms-1">
                                                             <i class="ri-star-fill"></i>
                                                             <i class="ri-star-fill"></i>
@@ -294,7 +294,7 @@
                                                             <i class="ri-star-half-fill"></i>
                                                         </span>
                                                     </div>
-                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] dark:text-white/50 text-end">
+                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] text-end">
                                                         <span>1 month ago</span>
                                                         <span class="block font-normal text-[0.75rem] text-success"><i>Brenda Simpson</i></span>
                                                     </div>
@@ -311,15 +311,15 @@
                                                     </span>
                                                     <div>
                                                         <p class="mb-0 font-semibold text-[.875rem] text-primary">Julia Sams</p>
-                                                        <p class="mb-0 text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50">CHIEF SECRETARY BHOL</p>
+                                                        <p class="mb-0 text-[.625rem] font-semibold text-[#8c9097]">CHIEF SECRETARY BHOL</p>
                                                     </div>
                                                 </div>
                                                 <div class="mb-4">
-                                                    <span class="text-[#8c9097] dark:text-white/50">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  -- <a href="javascript:void(0);" class="font-semibold text-[.6875rem] text-primary" >Read More</a></span>
+                                                    <span class="text-[#8c9097]">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  -- <a href="javascript:void(0);" class="font-semibold text-[.6875rem] text-primary" >Read More</a></span>
                                                 </div>
                                                 <div class="flex items-center justify-between">
                                                     <div class="flex items-center">
-                                                        <span class="text-[#8c9097] dark:text-white/50">Rating : </span>
+                                                        <span class="text-[#8c9097]">Rating : </span>
                                                         <span class="text-warning block ms-1">
                                                             <i class="ri-star-fill"></i>
                                                             <i class="ri-star-fill"></i>
@@ -328,7 +328,7 @@
                                                             <i class="ri-star-fill"></i>
                                                         </span>
                                                     </div>
-                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] dark:text-white/50 text-end">
+                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] text-end">
                                                         <span>2 month ago</span>
                                                         <span class="block font-normal text-[0.75rem] text-success"><i>Julia Sams</i></span>
                                                     </div>

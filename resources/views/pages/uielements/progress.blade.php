@@ -12,16 +12,16 @@
                     <!-- Page Header -->
                     <div class="block justify-between page-header md:flex">
                         <div>
-                            <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Progress</h3>
+                            <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Progress</h3>
                         </div>
                         <ol class="flex items-center whitespace-nowrap min-w-0">
                             <li class="text-[0.813rem] ps-[0.5rem]">
-                              <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                              <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                Ui Elements
-                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                               </a>
                             </li>
-                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                 Progress
                             </li>
                         </ol>
@@ -779,18 +779,18 @@
                                     </div>
                                     <div class="grid grid-cols-12 justify-center">
                                         <div class="xl:col-span-5 col-span-12">
-                                            <div class="border border-defaultborder dark:border-defaultborder/10 p-4 rounded-md">
-                                                <p class="text-[0.75rem] font-semibold mb-0 text-[#8c9097] dark:text-white/50">Html<span class="ltr:float-right rtl:float-left text-[0.625rem] font-normal">25%</span></p>
+                                            <div class="border border-defaultborder p-4 rounded-md">
+                                                <p class="text-[0.75rem] font-semibold mb-0 text-[#8c9097]">Html<span class="ltr:float-right rtl:float-left text-[0.625rem] font-normal">25%</span></p>
                                                 <div class="progress progress-xs mb-4 progress-animate" >
                                                     <div class="progress-bar bg-primary w-1/2">
                                                     </div>
                                                 </div>
-                                                <p class="text-[0.75rem] font-semibold mb-0 text-[#8c9097] dark:text-white/50">Css<span class="ltr:float-right rtl:float-left text-[0.625rem] font-normal">35%</span></p>
+                                                <p class="text-[0.75rem] font-semibold mb-0 text-[#8c9097]">Css<span class="ltr:float-right rtl:float-left text-[0.625rem] font-normal">35%</span></p>
                                                 <div class="progress progress-xs mb-4 progress-animate" >
                                                     <div class="progress-bar !rounded-none !bg-secondary w-[35%]">
                                                     </div>
                                                 </div>
-                                                <p class="text-[0.75rem] font-semibold mb-0 text-[#8c9097] dark:text-white/50">Js<span class="ltr:float-right rtl:float-left text-[0.625rem] font-normal">40%</span></p>
+                                                <p class="text-[0.75rem] font-semibold mb-0 text-[#8c9097]">Js<span class="ltr:float-right rtl:float-left text-[0.625rem] font-normal">40%</span></p>
                                                 <div class="progress progress-xs mb-0 progress-animate" >
                                                     <div class="progress-bar !rounded-e-full !bg-danger w-2/5">
                                                     </div>
@@ -814,17 +814,17 @@
     &lt;div class="grid grid-cols-12 justify-center"&gt;
         &lt;div class="xl:col-span-5 col-span-12"&gt;
             &lt;div class="border p-4"&gt;
-                &lt;p class="text-[0.75rem] font-semibold mb-0 text-[#8c9097] dark:text-white/50"&gt;Html&lt;span class="ltr:float-right rtl:float-left text-[0.625rem] font-normal"&gt;25%&lt;/span&gt;&lt;/p&gt;
+                &lt;p class="text-[0.75rem] font-semibold mb-0 text-[#8c9097]"&gt;Html&lt;span class="ltr:float-right rtl:float-left text-[0.625rem] font-normal"&gt;25%&lt;/span&gt;&lt;/p&gt;
                 &lt;div class="progress progress-xs mb-4 progress-animate" &gt;
                     &lt;div class="progress-bar bg-primary w-1/2"&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
-                &lt;p class="text-[0.75rem] font-semibold mb-0 text-[#8c9097] dark:text-white/50"&gt;Css&lt;span class="ltr:float-right rtl:float-left text-[0.625rem] font-normal"&gt;35%&lt;/span&gt;&lt;/p&gt;
+                &lt;p class="text-[0.75rem] font-semibold mb-0 text-[#8c9097]"&gt;Css&lt;span class="ltr:float-right rtl:float-left text-[0.625rem] font-normal"&gt;35%&lt;/span&gt;&lt;/p&gt;
                 &lt;div class="progress progress-xs mb-4 progress-animate " &gt;
                     &lt;div class="progress-bar !rounded-none !bg-secondary w-[35%]"&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
-                &lt;p class="text-[0.75rem] font-semibold mb-0 text-[#8c9097] dark:text-white/50"&gt;Js&lt;span class="ltr:float-right rtl:float-left text-[0.625rem] font-normal"&gt;40%&lt;/span&gt;&lt;/p&gt;
+                &lt;p class="text-[0.75rem] font-semibold mb-0 text-[#8c9097]"&gt;Js&lt;span class="ltr:float-right rtl:float-left text-[0.625rem] font-normal"&gt;40%&lt;/span&gt;&lt;/p&gt;
                 &lt;div class="progress progress-xs mb-0 progress-animate " &gt;
                     &lt;div class="progress-bar !rounded-e-full !bg-danger w-2/5"&gt;
                     &lt;/div&gt;

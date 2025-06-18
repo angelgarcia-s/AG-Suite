@@ -10,16 +10,16 @@
                     <!-- Page Header -->
                     <div class="block justify-between page-header md:flex">
                         <div>
-                            <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> HRM</h3>
+                            <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> HRM</h3>
                         </div>
                         <ol class="flex items-center whitespace-nowrap min-w-0">
                             <li class="text-[0.813rem] ps-[0.5rem]">
-                              <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                              <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                 Dashboards
-                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                               </a>
                             </li>
-                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                 HRM
                             </li>
                         </ol>
@@ -39,7 +39,7 @@
                                                     </span>
                                                 </div>
                                                 <div class="flex-grow">
-                                                    <span class="font-semibold text-[#8c9097] dark:text-white/50 block mb-1">Total
+                                                    <span class="font-semibold text-[#8c9097] block mb-1">Total
                                                         Employees</span>
                                                     <h5 class="font-semibold mb-1 text-[1.25rem]">22,124</h5>
                                                     <p class="mb-0">
@@ -63,7 +63,7 @@
                                                     </span>
                                                 </div>
                                                 <div class="flex-grow">
-                                                    <span class="font-semibold text-[#8c9097] dark:text-white/50 block mb-1">Employees In
+                                                    <span class="font-semibold text-[#8c9097] block mb-1">Employees In
                                                         Leave</span>
                                                     <h5 class="font-semibold mb-1 text-[1.25rem]">528</h5>
                                                     <p class="mb-0">
@@ -87,7 +87,7 @@
                                                     </span>
                                                 </div>
                                                 <div class="flex-grow">
-                                                    <span class="font-semibold text-[#8c9097] dark:text-white/50 block mb-1">Total
+                                                    <span class="font-semibold text-[#8c9097] block mb-1">Total
                                                         Clients</span>
                                                     <h5 class="font-semibold mb-1 text-[1.25rem]">8,289</h5>
                                                     <p class="mb-0">
@@ -111,7 +111,7 @@
                                                     </span>
                                                 </div>
                                                 <div class="flex-grow">
-                                                    <span class="font-semibold text-[#8c9097] dark:text-white/50 block mb-1">New Leads</span>
+                                                    <span class="font-semibold text-[#8c9097] block mb-1">New Leads</span>
                                                     <h5 class="font-semibold mb-1 text-[1.25rem]">1,453</h5>
                                                     <p class="mb-0">
                                                         <span class="badge bg-danger/10 text-danger">This Month</span>
@@ -140,7 +140,7 @@
                                                             </span>
                                                         </div>
                                                         <div>
-                                                            <span class="block mb-1 text-[#8c9097] dark:text-white/50">New Applicants</span>
+                                                            <span class="block mb-1 text-[#8c9097]">New Applicants</span>
                                                             <h6 class="font-semibold mb-0 text-[1rem]">2,981</h6>
                                                         </div>
                                                     </div>
@@ -154,7 +154,7 @@
                                                             </span>
                                                         </div>
                                                         <div>
-                                                            <span class="block mb-1 text-[#8c9097] dark:text-white/50">Selected
+                                                            <span class="block mb-1 text-[#8c9097]">Selected
                                                                 Candidates</span>
                                                             <h6 class="font-semibold mb-0 text-[1rem]">2,981</h6>
                                                         </div>
@@ -169,7 +169,7 @@
                                                             </span>
                                                         </div>
                                                         <div>
-                                                            <span class="block mb-1 text-[#8c9097] dark:text-white/50">Rejected
+                                                            <span class="block mb-1 text-[#8c9097]">Rejected
                                                                 Candidates</span>
                                                             <h6 class="font-semibold mb-0 text-[1rem]">2,981</h6>
                                                         </div>
@@ -219,7 +219,7 @@
                                     <div class="grid xxxl:grid-cols-4 grid-cols-4">
                                         <div class="col p-0">
                                             <div class="text-center">
-                                                <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem] mb-1 hrm-jobs-legend published inline-block ms-2">Published
+                                                <span class="text-[#8c9097] text-[0.75rem] mb-1 hrm-jobs-legend published inline-block ms-2">Published
                                                 </span>
                                                 <div><span class="text-[1rem] font-semibold">1,624</span>
                                                 </div>
@@ -227,14 +227,14 @@
                                         </div>
                                         <div class="col p-0">
                                             <div class="text-center">
-                                                <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem] mb-1 hrm-jobs-legend private inline-block ms-2">Private
+                                                <span class="text-[#8c9097] text-[0.75rem] mb-1 hrm-jobs-legend private inline-block ms-2">Private
                                                 </span>
                                                 <div><span class="text-[1rem] font-semibold">1,267</span></div>
                                             </div>
                                         </div>
                                         <div class="col p-0">
                                             <div class="text-center">
-                                                <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem] mb-1 hrm-jobs-legend closed inline-block ms-2">Closed
+                                                <span class="text-[#8c9097] text-[0.75rem] mb-1 hrm-jobs-legend closed inline-block ms-2">Closed
                                                 </span>
                                                 <div><span class="text-[1rem] font-semibold">1,153</span>
                                                 </div>
@@ -242,7 +242,7 @@
                                         </div>
                                         <div class="col p-0">
                                             <div class="text-center">
-                                                <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem] mb-1 hrm-jobs-legend onhold inline-block ms-2">On Hold
+                                                <span class="text-[#8c9097] text-[0.75rem] mb-1 hrm-jobs-legend onhold inline-block ms-2">On Hold
                                                 </span>
                                                 <div><span class="text-[1rem] font-semibold">1,153</span>
                                                 </div>
@@ -263,16 +263,16 @@
                                             <div class="flex items-start">
                                                 <div class="me-[3rem] text-center">
                                                     <span class="block text-[1.25rem] font-semibold text-primary">02</span>
-                                                    <span class="block text-[0.75rem] text-[#8c9097] dark:text-white/50">Mon</span>
+                                                    <span class="block text-[0.75rem] text-[#8c9097]">Mon</span>
                                                 </div>
                                                 <div class="flex flex-wrap flex-grow items-start justify-between">
                                                     <div>
                                                         <p class="mb-1 sm:text-truncate timeline-widget-content text-wrap">You have an announcement - Ipsum Est Diam Eirmod</p>
-                                                        <p class="mb-0 text-[0.75rem] leading-none text-[#8c9097] dark:text-white/50">10:00AM<span class="badge bg-primary/10 text-primary ms-2">Announcement</span></p>
+                                                        <p class="mb-0 text-[0.75rem] leading-none text-[#8c9097]">10:00AM<span class="badge bg-primary/10 text-primary ms-2">Announcement</span></p>
                                                     </div>
                                                     <div>
                                                         <div class="hs-dropdown ti-dropdown">
-                                                            <a aria-label="anchor" href="javascript:void(0);" class="text-[1rem] text-[#8c9097] dark:text-white/50">
+                                                            <a aria-label="anchor" href="javascript:void(0);" class="text-[1rem] text-[#8c9097]">
                                                                 <i class="fe fe-more-vertical"></i>
                                                             </a>
                                                             <ul class="hs-dropdown-menu ti-dropdown-menu hidden">
@@ -292,16 +292,16 @@
                                             <div class="flex items-start">
                                                 <div class="me-[3rem] text-center">
                                                     <span class="block text-[1.25rem] font-semibold text-primary">15</span>
-                                                    <span class="block text-[0.75rem] text-[#8c9097] dark:text-white/50">Sun</span>
+                                                    <span class="block text-[0.75rem] text-[#8c9097]">Sun</span>
                                                 </div>
                                                 <div class="flex flex-wrap flex-grow items-start justify-between">
                                                     <div>
                                                         <p class="mb-1 sm:text-truncate timeline-widget-content text-wrap">National holiday - Vero Jayanti</p>
-                                                        <p class="mb-0 text-[0.75rem] leading-none text-[#8c9097] dark:text-white/50"><span class="badge text-warning bg-warning/10">Holiday</span></p>
+                                                        <p class="mb-0 text-[0.75rem] leading-none text-[#8c9097]"><span class="badge text-warning bg-warning/10">Holiday</span></p>
                                                     </div>
                                                     <div>
                                                         <div class="hs-dropdown ti-dropdown">
-                                                            <a aria-label="anchor" href="javascript:void(0);" class="text-[1rem] text-[#8c9097] dark:text-white/50">
+                                                            <a aria-label="anchor" href="javascript:void(0);" class="text-[1rem] text-[#8c9097]">
                                                                 <i class="fe fe-more-vertical"></i>
                                                             </a>
                                                             <ul class="hs-dropdown-menu ti-dropdown-menu hidden">
@@ -321,18 +321,18 @@
                                             <div class="flex items-start">
                                                 <div class="me-[3rem] text-center">
                                                     <span class="block text-[1.25rem] font-semibold text-primary">23</span>
-                                                    <span class="block text-[0.75rem] text-[#8c9097] dark:text-white/50">Mon</span>
+                                                    <span class="block text-[0.75rem] text-[#8c9097]">Mon</span>
                                                 </div>
                                                 <div class="flex flex-wrap flex-grow items-start justify-between">
                                                     <div>
                                                         <p class="mb-1 sm:text-truncate timeline-widget-content text-wrap">John pup birthday - Team Member</p>
-                                                        <p class="mb-4 text-[0.75rem] leading-none text-[#8c9097] dark:text-white/50">09:00AM<span class="badge text-success bg-success/10 ms-2">Birthday</span></p>
+                                                        <p class="mb-4 text-[0.75rem] leading-none text-[#8c9097]">09:00AM<span class="badge text-success bg-success/10 ms-2">Birthday</span></p>
                                                         <p class="mb-1 sm:text-truncate timeline-widget-content text-wrap">Amet sed no dolor kasd - Et Dolores Tempor Erat</p>
-                                                        <p class="mb-0 text-[0.75rem] leading-none text-[#8c9097] dark:text-white/50">04:00PM<span class="badge text-primary bg-primary/10 ms-2">Announcement</span></p>
+                                                        <p class="mb-0 text-[0.75rem] leading-none text-[#8c9097]">04:00PM<span class="badge text-primary bg-primary/10 ms-2">Announcement</span></p>
                                                     </div>
                                                     <div>
                                                         <div class="hs-dropdown ti-dropdown">
-                                                            <a aria-label="anchor" href="javascript:void(0);" class="text-[1rem] text-[#8c9097] dark:text-white/50">
+                                                            <a aria-label="anchor" href="javascript:void(0);" class="text-[1rem] text-[#8c9097]">
                                                                 <i class="fe fe-more-vertical"></i>
                                                             </a>
                                                             <ul class="hs-dropdown-menu ti-dropdown-menu hidden">
@@ -352,16 +352,16 @@
                                             <div class="flex items-start">
                                                 <div class="me-[3rem] text-center">
                                                     <span class="block text-[1.25rem] font-semibold text-primary">31</span>
-                                                    <span class="block text-[0.75rem] text-[#8c9097] dark:text-white/50">Tue</span>
+                                                    <span class="block text-[0.75rem] text-[#8c9097]">Tue</span>
                                                 </div>
                                                 <div class="flex flex-wrap flex-grow items-start justify-between">
                                                     <div>
                                                         <p class="mb-1 sm:text-truncate timeline-widget-content text-wrap">National Holiday - Dolore Ipsum</p>
-                                                        <p class="mb-0 text-[0.75rem] leading-none text-[#8c9097] dark:text-white/50"><span class="badge text-warning bg-warning/10">Holiday</span></p>
+                                                        <p class="mb-0 text-[0.75rem] leading-none text-[#8c9097]"><span class="badge text-warning bg-warning/10">Holiday</span></p>
                                                     </div>
                                                     <div>
                                                         <div class="hs-dropdown ti-dropdown">
-                                                            <a aria-label="anchor" href="javascript:void(0);" class="text-[1rem] text-[#8c9097] dark:text-white/50">
+                                                            <a aria-label="anchor" href="javascript:void(0);" class="text-[1rem] text-[#8c9097]">
                                                                 <i class="fe fe-more-vertical"></i>
                                                             </a>
                                                             <ul class="hs-dropdown-menu ti-dropdown-menu hidden">
@@ -398,13 +398,13 @@
                                                 </tr>
                                             </thead>
                                             <tbody>
-                                                <tr class="border-t border-defaultborder dark:border-defaultborder/10">
+                                                <tr class="border-t border-defaultborder">
                                                     <th scope="col">
                                                         <div class="flex items-center leading-none">
                                                             <img src="{{asset('build/assets/images/faces/2.jpg')}}" alt="" class="avatar avatar-rounded me-4 !mb-0">
                                                             <div>
                                                                 <span class="block font-semibold mb-1">Diana Aise</span>
-                                                                <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] text-start">C.E.O</span>
+                                                                <span class="block text-[#8c9097] text-[0.75rem] text-start">C.E.O</span>
                                                             </div>
                                                         </div>
                                                     </th>
@@ -433,13 +433,13 @@
                                                         </div>
                                                     </td>
                                                 </tr>
-                                                <tr class="border-t border-defaultborder dark:border-defaultborder/10">
+                                                <tr class="border-t border-defaultborder">
                                                     <th scope="row">
                                                         <div class="flex items-center leading-none">
                                                             <img src="{{asset('build/assets/images/faces/8.jpg')}}" alt="" class="avatar avatar-rounded me-4 !mb-0">
                                                             <div>
                                                                 <span class="block font-semibold mb-1">Rose Mary</span>
-                                                                <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] text-start">C.E.O</span>
+                                                                <span class="block text-[#8c9097] text-[0.75rem] text-start">C.E.O</span>
                                                             </div>
                                                         </div>
                                                     </th>
@@ -468,13 +468,13 @@
                                                         </div>
                                                     </td>
                                                 </tr>
-                                                <tr class="border-t border-defaultborder dark:border-defaultborder/10">
+                                                <tr class="border-t border-defaultborder">
                                                     <th scope="row">
                                                         <div class="flex items-center leading-none">
                                                             <img src="{{asset('build/assets/images/faces/13.jpg')}}" alt="" class="avatar avatar-rounded me-4 !mb-0">
                                                             <div>
                                                                 <span class="block font-semibold mb-1">Gretchen Iox</span>
-                                                                <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] text-start">Manager</span>
+                                                                <span class="block text-[#8c9097] text-[0.75rem] text-start">Manager</span>
                                                             </div>
                                                         </div>
                                                     </th>
@@ -503,13 +503,13 @@
                                                         </div>
                                                     </td>
                                                 </tr>
-                                                <tr class="border-t border-defaultborder dark:border-defaultborder/10">
+                                                <tr class="border-t border-defaultborder">
                                                     <th scope="row">
                                                         <div class="flex items-center leading-none">
                                                             <img src="{{asset('build/assets/images/faces/11.jpg')}}" alt="" class="avatar avatar-rounded me-4 !mb-0">
                                                             <div>
                                                                 <span class="block font-semibold mb-1">Gray Noal</span>
-                                                                <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] text-start">Manager</span>
+                                                                <span class="block text-[#8c9097] text-[0.75rem] text-start">Manager</span>
                                                             </div>
                                                         </div>
                                                     </th>
@@ -538,13 +538,13 @@
                                                         </div>
                                                     </td>
                                                 </tr>
-                                                <tr class="border-t border-defaultborder dark:border-defaultborder/10">
+                                                <tr class="border-t border-defaultborder">
                                                     <th scope="row" class="border-bottom-0">
                                                         <div class="flex items-center leading-none">
                                                             <img src="{{asset('build/assets/images/faces/5.jpg')}}" alt="" class="avatar avatar-rounded me-4 !mb-0">
                                                             <div>
                                                                 <span class="block font-semibold mb-1">Isa Bella</span>
-                                                                <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] text-start">C.E.O</span>
+                                                                <span class="block text-[#8c9097] text-[0.75rem] text-start">C.E.O</span>
                                                             </div>
                                                         </div>
                                                     </th>
@@ -623,7 +623,7 @@
                                                 </tr>
                                             </thead>
                                             <tbody>
-                                                <tr class="border border-inherit border-solid hover:bg-gray-100 dark:border-defaultborder/10 dark:hover:bg-light">
+                                                <tr class="border border-inherit border-solid hover:bg-gray-100">
                                                     <td>1</td>
                                                     <td>#INV111611</td>
                                                     <td>
@@ -635,7 +635,7 @@
                                                             </div>
                                                             <div>
                                                                 <span class="block font-semibold mb-1">Rena Mark</span>
-                                                                <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">renamark123@demo</span>
+                                                                <span class="text-[#8c9097] text-[0.75rem]">renamark123@demo</span>
                                                             </div>
                                                         </div>
                                                     </td>
@@ -659,7 +659,7 @@
                                                         </div>
                                                     </td>
                                                 </tr>
-                                                <tr class="border border-inherit border-solid hover:bg-gray-100 dark:border-defaultborder/10 dark:hover:bg-light">
+                                                <tr class="border border-inherit border-solid hover:bg-gray-100">
                                                     <td>2</td>
                                                     <td>#INV111611</td>
                                                     <td>
@@ -671,7 +671,7 @@
                                                             </div>
                                                             <div>
                                                                 <span class="block font-semibold mb-1">Xong Yun</span>
-                                                                <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">xongyun2134@gmail.com</span>
+                                                                <span class="text-[#8c9097] text-[0.75rem]">xongyun2134@gmail.com</span>
                                                             </div>
                                                         </div>
                                                     </td>
@@ -695,7 +695,7 @@
                                                         </div>
                                                     </td>
                                                 </tr>
-                                                <tr class="border border-inherit border-solid hover:bg-gray-100 dark:border-defaultborder/10 dark:hover:bg-light">
+                                                <tr class="border border-inherit border-solid hover:bg-gray-100">
                                                     <td>3</td>
                                                     <td>#INV147852</td>
                                                     <td>
@@ -707,7 +707,7 @@
                                                             </div>
                                                             <div>
                                                                 <span class="block font-semibold mb-1">Kane William</span>
-                                                                <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">william154@demo</span>
+                                                                <span class="text-[#8c9097] text-[0.75rem]">william154@demo</span>
                                                             </div>
                                                         </div>
                                                     </td>
@@ -731,7 +731,7 @@
                                                         </div>
                                                     </td>
                                                 </tr>
-                                                <tr class="border border-inherit border-solid hover:bg-gray-100 dark:border-defaultborder/10 dark:hover:bg-light">
+                                                <tr class="border border-inherit border-solid hover:bg-gray-100">
                                                     <td>4</td>
                                                     <td>#INV753159</td>
                                                     <td>
@@ -743,7 +743,7 @@
                                                             </div>
                                                             <div>
                                                                 <span class="block font-semibold mb-1">Stewart Rem</span>
-                                                                <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">remstew092@demo</span>
+                                                                <span class="text-[#8c9097] text-[0.75rem]">remstew092@demo</span>
                                                             </div>
                                                         </div>
                                                     </td>
@@ -767,7 +767,7 @@
                                                         </div>
                                                     </td>
                                                 </tr>
-                                                <tr class="border border-inherit border-solid hover:bg-gray-100 dark:border-defaultborder/10 dark:hover:bg-light">
+                                                <tr class="border border-inherit border-solid hover:bg-gray-100">
                                                     <td>5</td>
                                                     <td>#INV369874</td>
                                                     <td>
@@ -779,7 +779,7 @@
                                                             </div>
                                                             <div>
                                                                 <span class="block font-semibold mb-1">Elliot Yun</span>
-                                                                <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">eiiliot000@demo</span>
+                                                                <span class="text-[#8c9097] text-[0.75rem]">eiiliot000@demo</span>
                                                             </div>
                                                         </div>
                                                     </td>
@@ -803,7 +803,7 @@
                                                         </div>
                                                     </td>
                                                 </tr>
-                                                <tr class="border border-inherit border-solid hover:bg-gray-100 dark:border-defaultborder/10 dark:hover:bg-light">
+                                                <tr class="border border-inherit border-solid hover:bg-gray-100">
                                                     <td>6</td>
                                                     <td>#INV123456</td>
                                                     <td>
@@ -815,7 +815,7 @@
                                                             </div>
                                                             <div>
                                                                 <span class="block font-semibold mb-1">Gretchen Xio</span>
-                                                                <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">gretchenxio999@demo</span>
+                                                                <span class="text-[#8c9097] text-[0.75rem]">gretchenxio999@demo</span>
                                                             </div>
                                                         </div>
                                                     </td>

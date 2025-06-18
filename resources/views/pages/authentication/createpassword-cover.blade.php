@@ -10,7 +10,7 @@
 @section('content')
 
 @section('error-body')
-<body class="bg-white dark:!bg-bodybg">
+<body class="bg-white">
 @endsection
 
         <div class="grid grid-cols-12 authentication mx-0">
@@ -29,9 +29,9 @@
                     </a>
                   </div>
                   <p class="h5 font-semibold mb-2">Create Password</p>
-                  <p class="mb-4 text-[#8c9097] dark:text-white/50 opacity-[0.7] font-normal">Hello Jhon !</p>
+                  <p class="mb-4 text-[#8c9097] opacity-[0.7] font-normal">Hello Jhon !</p>
                   <div class="btn-list">
-                    <button type="button" class="ti-btn ti-btn-lg ti-btn-light !font-medium me-[0.365rem] dark:border-defaultborder/10"><svg
+                    <button type="button" class="ti-btn ti-btn-lg ti-btn-light !font-medium me-[0.365rem]"><svg
                         class="google-svg" xmlns="http://www.w3.org/2000/svg" width="2443" height="2500"
                         preserveAspectRatio="xMidYMid" viewBox="0 0 256 262">
                         <path fill="#4285F4"
@@ -74,19 +74,19 @@
                       <div class="mt-2">
                         <div class="form-check !ps-0">
                           <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
-                          <label class="form-check-label text-[#8c9097] dark:text-white/50 font-normal" for="defaultCheck1">
+                          <label class="form-check-label text-[#8c9097] font-normal" for="defaultCheck1">
                             Remember password ?
                           </label>
                         </div>
                       </div>
                     </div>
                     <div class="xl:col-span-12 col-span-12 grid mt-2">
-                      <button type="button" class="ti-btn ti-btn-lg bg-primary text-white !font-medium dark:border-defaultborder/10">Save
+                      <button type="button" class="ti-btn ti-btn-lg bg-primary text-white !font-medium">Save
                         Password</button>
                     </div>
                   </div>
                   <div class="text-center">
-                    <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mt-4">Back to home ? <a href="{{url('index')}}"
+                    <p class="text-[0.75rem] text-[#8c9097] mt-4">Back to home ? <a href="{{url('index')}}"
                         class="text-primary">Click Here</a></p>
                   </div>
                 </div>

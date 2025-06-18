@@ -10,16 +10,16 @@
                     <!-- Page Header -->
                     <div class="block justify-between page-header md:flex">
                         <div>
-                            <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Stocks</h3>
+                            <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Stocks</h3>
                         </div>
                         <ol class="flex items-center whitespace-nowrap min-w-0">
                             <li class="text-[0.813rem] ps-[0.5rem]">
-                            <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                            <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                 Dashboards
-                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                             </a>
                             </li>
-                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                 Stocks
                             </li>
                         </ol>
@@ -84,7 +84,7 @@
                                                                 </span>
                                                             </div>
                                                             <div>
-                                                                <span class="block text-[#8c9097] dark:text-white/50">Total amount Invested</span>
+                                                                <span class="block text-[#8c9097]">Total amount Invested</span>
                                                                 <span class="text-[1rem] font-semibold">$23,8998.99</span>
                                                             </div>
                                                         </div>
@@ -106,7 +106,7 @@
                                                                 </span>
                                                             </div>
                                                             <div>
-                                                                <span class="block text-[#8c9097] dark:text-white/50">No Of Investments</span>
+                                                                <span class="block text-[#8c9097]">No Of Investments</span>
                                                                 <span class="text-[1rem] font-semibold">116</span>
                                                             </div>
                                                         </div>
@@ -128,7 +128,7 @@
                                                                 </span>
                                                             </div>
                                                             <div>
-                                                                <span class="block text-[#8c9097] dark:text-white/50">Portfolio Value</span>
+                                                                <span class="block text-[#8c9097]">Portfolio Value</span>
                                                                 <span class="text-[1rem] font-semibold">$12,920.20<i class="ti ti-arrow-narrow-up ms-1 text-success"></i></span>
                                                             </div>
                                                         </div>
@@ -150,7 +150,7 @@
                                                                 </span>
                                                             </div>
                                                             <div>
-                                                                <span class="block text-[#8c9097] dark:text-white/50">Returns Rate</span>
+                                                                <span class="block text-[#8c9097]">Returns Rate</span>
                                                                 <span class="text-[1rem] font-semibold">+12.08%<i class="ti ti-arrow-narrow-up ms-1 text-success"></i></span>
                                                             </div>
                                                         </div>
@@ -188,21 +188,21 @@
                                                     <div class="flex items-center justify-between gap-4 flex-wrap">
                                                         <div class="flex flex-wrap flex-grow gap-3 sm:ms-[3rem] ms-0">
                                                             <div>
-                                                                <span class="block text-[#8c9097] dark:text-white/50 mb-1">Invested Value</span>
+                                                                <span class="block text-[#8c9097] mb-1">Invested Value</span>
                                                                 <span class="block font-semibold">$1,290.94<span class="text-success ms-1 text-[0.75rem]"><i class="ti ti-chevron-up"></i>1.22%</span></span>
                                                             </div>
                                                             <div>
-                                                                <span class="block text-[#8c9097] dark:text-white/50 mb-1">Total Returns</span>
+                                                                <span class="block text-[#8c9097] mb-1">Total Returns</span>
                                                                 <span class="block font-semibold">$25,458.20<span class="text-success ms-1 text-[0.75rem]"><i class="ti ti-chevron-up"></i>10.14%</span></span>
                                                             </div>
                                                         </div>
                                                         <div class="flex flex-wrap gap-3 text-end">
                                                             <div>
-                                                                <span class="block text-[#8c9097] dark:text-white/50 mb-1">Today Change</span>
+                                                                <span class="block text-[#8c9097] mb-1">Today Change</span>
                                                                 <span class="block font-semibold">$112.09</span>
                                                             </div>
                                                             <div>
-                                                                <span class="block text-[#8c9097] dark:text-white/50 mb-1">Change In %</span>
+                                                                <span class="block text-[#8c9097] mb-1">Change In %</span>
                                                                 <span class="block font-semibold">+0.01%<span class="text-success ms-1 text-[0.75rem]"><i class="ti ti-chevron-up"></i>0.21%</span></span>
                                                             </div>
                                                         </div>
@@ -242,12 +242,12 @@
                                                             <div class="flex items-center flex-grow leading-none">
                                                                 <div class="me-2">
                                                                     <span class="avatar avatar-rounded bg-light p-2 !mb-0">
-                                                                        <i class="bi bi-github text-black dark:text-white text-[1.125rem]"></i>
+                                                                        <i class="bi bi-github text-black text-[1.125rem]"></i>
                                                                     </span>
                                                                 </div>
                                                                 <div class="leading-none flex-grow">
                                                                     <span class="font-semibold block mb-2">GTHB (Gituhb, Demo Inc.)</span>
-                                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem]">16 Shares</span>
+                                                                    <span class="block text-[#8c9097] text-[0.75rem]">16 Shares</span>
                                                                 </div>
                                                                 <div class="text-end me-3">
                                                                     <span class="block font-semibold mb-1">
@@ -257,7 +257,7 @@
                                                                 </div>
                                                                 <div>
                                                                     <span class="text-[0.875rem]">
-                                                                        <i class="bi bi-star-fill text-[#8c9097] dark:text-white/50 opacity-50"></i>
+                                                                        <i class="bi bi-star-fill text-[#8c9097] opacity-50"></i>
                                                                     </span>
                                                                 </div>
                                                             </div>
@@ -271,7 +271,7 @@
                                                                 </div>
                                                                 <div class="leading-none flex-grow">
                                                                     <span class="font-semibold block mb-2">TTR (Twiter.com, Inc.)</span>
-                                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem]">289 Shares</span>
+                                                                    <span class="block text-[#8c9097] text-[0.75rem]">289 Shares</span>
                                                                 </div>
                                                                 <div class="text-end me-3">
                                                                     <span class="block font-semibold mb-1">
@@ -281,7 +281,7 @@
                                                                 </div>
                                                                 <div>
                                                                     <span class="text-[0.875rem]">
-                                                                        <i class="bi bi-star text-[#8c9097] dark:text-white/50 opacity-50"></i>
+                                                                        <i class="bi bi-star text-[#8c9097] opacity-50"></i>
                                                                     </span>
                                                                 </div>
                                                             </div>
@@ -295,7 +295,7 @@
                                                                 </div>
                                                                 <div class="leading-none flex-grow">
                                                                     <span class="font-semibold block mb-2">BS (Boostrap, Inc.)</span>
-                                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem]">325 shares</span>
+                                                                    <span class="block text-[#8c9097] text-[0.75rem]">325 shares</span>
                                                                 </div>
                                                                 <div class="text-end me-3">
                                                                     <span class="block font-semibold mb-1">
@@ -305,7 +305,7 @@
                                                                 </div>
                                                                 <div>
                                                                     <span class="text-[0.875rem]">
-                                                                        <i class="bi bi-star-fill text-[#8c9097] dark:text-white/50 opacity-50"></i>
+                                                                        <i class="bi bi-star-fill text-[#8c9097] opacity-50"></i>
                                                                     </span>
                                                                 </div>
                                                             </div>
@@ -319,7 +319,7 @@
                                                                 </div>
                                                                 <div class="leading-none flex-grow">
                                                                     <span class="font-semibold block mb-2">MS (Micorsoft, Inc.)</span>
-                                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem]">1,523 shares</span>
+                                                                    <span class="block text-[#8c9097] text-[0.75rem]">1,523 shares</span>
                                                                 </div>
                                                                 <div class="text-end me-3">
                                                                     <span class="block font-semibold mb-1">
@@ -329,7 +329,7 @@
                                                                 </div>
                                                                 <div>
                                                                     <span class="text-[0.875rem]">
-                                                                        <i class="bi bi-star text-[#8c9097] dark:text-white/50 opacity-50"></i>
+                                                                        <i class="bi bi-star text-[#8c9097] opacity-50"></i>
                                                                     </span>
                                                                 </div>
                                                             </div>
@@ -343,7 +343,7 @@
                                                                 </div>
                                                                 <div class="leading-none flex-grow">
                                                                     <span class="font-semibold block mb-2">AAPL (Appil, Inc.)</span>
-                                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem]">30 shares</span>
+                                                                    <span class="block text-[#8c9097] text-[0.75rem]">30 shares</span>
                                                                 </div>
                                                                 <div class="text-end me-3">
                                                                     <span class="block font-semibold mb-1">
@@ -353,7 +353,7 @@
                                                                 </div>
                                                                 <div>
                                                                     <span class="text-[0.875rem]">
-                                                                        <i class="bi bi-star-fill text-[#8c9097] dark:text-white/50 opacity-50"></i>
+                                                                        <i class="bi bi-star-fill text-[#8c9097] opacity-50"></i>
                                                                     </span>
                                                                 </div>
                                                             </div>
@@ -367,7 +367,7 @@
                                                                 </div>
                                                                 <div class="leading-none flex-grow">
                                                                     <span class="font-semibold block mb-2">Bitcoin (Bioset Coin, Inc.)</span>
-                                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem]">118 shares</span>
+                                                                    <span class="block text-[#8c9097] text-[0.75rem]">118 shares</span>
                                                                 </div>
                                                                 <div class="text-end me-3">
                                                                     <span class="block font-semibold mb-1">
@@ -377,7 +377,7 @@
                                                                 </div>
                                                                 <div>
                                                                     <span class="text-[0.875rem]">
-                                                                        <i class="bi bi-star-fill text-[#8c9097] dark:text-white/50 opacity-50"></i>
+                                                                        <i class="bi bi-star-fill text-[#8c9097] opacity-50"></i>
                                                                     </span>
                                                                 </div>
                                                             </div>
@@ -389,22 +389,22 @@
                                     </div>
                                     <div class="grid grid-cols-12 gap-x-6">
                                         <div class="xl:col-span-12 col-span-12">
-                                            <h6 class="font-semibold dark:text-defaulttextcolor/70 mb-4 text-[1rem]">
+                                            <h6 class="font-semibold mb-4 text-[1rem]">
                                                 Trending Stocks :
                                             </h6>
                                             <div class="grid grid-cols-12 gap-x-6">
                                                 <div class="xxl:col-span-2 xl:col-span-4 lg:col-span-6 md:col-span-6 sm:col-span-12 col-span-12">
-                                                    <div class="p-4 box border dark:border-defaultborder/10 bg-white rounded">
+                                                    <div class="p-4 box border bg-white rounded">
                                                         <div class="flex gap-2 flex-wrap items-center justify-between mb-4">
                                                             <div class="flex flex-grow items-center">
                                                                 <div class="me-2">
                                                                     <span class="avatar avatar-rounded bg-light p-2 !mb-0">
-                                                                        <i class="bi bi-apple text-[#8c9097] dark:text-white/50 text-[1.125rem]"></i>
+                                                                        <i class="bi bi-apple text-[#8c9097] text-[1.125rem]"></i>
                                                                     </span>
                                                                 </div>
                                                                 <div class="leading-none">
                                                                     <span class="font-semibold block mb-2 text-default">Apple</span>
-                                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem]">$12,289.44</span>
+                                                                    <span class="block text-[#8c9097] text-[0.75rem]">$12,289.44</span>
                                                                 </div>
                                                             </div>
                                                             <div class="text-success text-[0.75rem] text-end">
@@ -419,7 +419,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="xxl:col-span-2 xl:col-span-4 lg:col-span-6 md:col-span-6 sm:col-span-12 col-span-12">
-                                                    <div class="p-4 box border dark:border-defaultborder/10 bg-white rounded">
+                                                    <div class="p-4 box border bg-white rounded">
                                                         <div class="flex gap-2 flex-wrap items-center justify-between mb-4">
                                                             <div class="flex flex-grow items-center">
                                                                 <div class="me-2">
@@ -429,7 +429,7 @@
                                                                 </div>
                                                                 <div class="leading-none">
                                                                     <span class="font-semibold block mb-2 text-default">Bitcoin</span>
-                                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem]">$58,151.02</span>
+                                                                    <span class="block text-[#8c9097] text-[0.75rem]">$58,151.02</span>
                                                                 </div>
                                                             </div>
                                                             <div class="text-success text-[0.75rem] text-end">
@@ -444,7 +444,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="xxl:col-span-2 xl:col-span-4 lg:col-span-6 md:col-span-6 sm:col-span-12 col-span-12">
-                                                    <div class="p-4 box border dark:border-defaultborder/10 bg-white rounded">
+                                                    <div class="p-4 box border bg-white rounded">
                                                         <div class="flex gap-2 flex-wrap items-center justify-between mb-4">
                                                             <div class="flex flex-grow items-center">
                                                                 <div class="me-2">
@@ -454,7 +454,7 @@
                                                                 </div>
                                                                 <div class="leading-none">
                                                                     <span class="font-semibold block mb-2 text-default">Tesla</span>
-                                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem]">$14,452.36</span>
+                                                                    <span class="block text-[#8c9097] text-[0.75rem]">$14,452.36</span>
                                                                 </div>
                                                             </div>
                                                             <div class="text-success text-[0.75rem] text-end">
@@ -469,7 +469,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="xxl:col-span-2 xl:col-span-4 lg:col-span-6 md:col-span-6 sm:col-span-12 col-span-12">
-                                                    <div class="p-4 box border dark:border-defaultborder/10 bg-white rounded">
+                                                    <div class="p-4 box border bg-white rounded">
                                                         <div class="flex gap-2 flex-wrap items-center justify-between mb-4">
                                                             <div class="flex flex-grow items-center">
                                                                 <div class="me-2">
@@ -479,7 +479,7 @@
                                                                 </div>
                                                                 <div class="leading-none">
                                                                     <span class="font-semibold block mb-2 text-default">Amazon</span>
-                                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem]">$63,251.11</span>
+                                                                    <span class="block text-[#8c9097] text-[0.75rem]">$63,251.11</span>
                                                                 </div>
                                                             </div>
                                                             <div class="text-success text-[0.75rem] text-end">
@@ -494,7 +494,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="xxl:col-span-2 xl:col-span-4 lg:col-span-6 md:col-span-6 sm:col-span-12 col-span-12">
-                                                    <div class="p-4 box border dark:border-defaultborder/10 bg-white rounded">
+                                                    <div class="p-4 box border bg-white rounded">
                                                         <div class="flex flex-wrap items-center justify-between mb-4">
                                                             <div class="flex flex-grow items-center">
                                                                 <div class="me-2">
@@ -504,7 +504,7 @@
                                                                 </div>
                                                                 <div class="leading-none">
                                                                     <span class="font-semibold block mb-2 text-default">Aliexpress</span>
-                                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem]">$5,401.50</span>
+                                                                    <span class="block text-[#8c9097] text-[0.75rem]">$5,401.50</span>
                                                                 </div>
                                                             </div>
                                                             <div class="text-success text-[0.75rem] text-end">
@@ -519,7 +519,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="xxl:col-span-2 xl:col-span-4 lg:col-span-6 md:col-span-6 sm:col-span-12 col-span-12">
-                                                    <div class="p-4 box border dark:border-defaultborder/10 bg-white rounded">
+                                                    <div class="p-4 box border bg-white rounded">
                                                         <div class="flex flex-wrap items-center justify-between mb-4">
                                                             <div class="flex flex-grow items-center">
                                                                 <div class="me-2">
@@ -529,7 +529,7 @@
                                                                 </div>
                                                                 <div class="leading-none">
                                                                     <span class="font-semibold block mb-2 text-default">Samsung</span>
-                                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem]">$10,732.12</span>
+                                                                    <span class="block text-[#8c9097] text-[0.75rem]">$10,732.12</span>
                                                                 </div>
                                                             </div>
                                                             <div class="text-success text-[0.75rem] text-end">
@@ -580,7 +580,7 @@
                                                                 </tr>
                                                             </thead>
                                                             <tbody>
-                                                                <tr class="border border-inherit border-solid dark:border-defaultborder/10">
+                                                                <tr class="border border-inherit border-solid">
                                                                     <th scope="row" class="text-start">
                                                                         EPA:THI
                                                                     </th>
@@ -597,7 +597,7 @@
                                                                         <span class="text-success">+20</span>
                                                                     </td>
                                                                 </tr>
-                                                                <tr class="border border-inherit border-solid dark:border-defaultborder/10">
+                                                                <tr class="border border-inherit border-solid">
                                                                     <th scope="row" class="text-start">
                                                                         EPA:SCB
                                                                     </th>
@@ -614,7 +614,7 @@
                                                                         <span class="text-success">+15</span>
                                                                     </td>
                                                                 </tr>
-                                                                <tr class="border border-inherit border-solid dark:border-defaultborder/10">
+                                                                <tr class="border border-inherit border-solid">
                                                                     <th scope="row" class="text-start">
                                                                         EPA:CGIO
                                                                     </th>
@@ -631,7 +631,7 @@
                                                                         <span class="text-danger">-12</span>
                                                                     </td>
                                                                 </tr>
-                                                                <tr class="border border-inherit border-solid dark:border-defaultborder/10">
+                                                                <tr class="border border-inherit border-solid">
                                                                     <th scope="row" class="text-start">
                                                                         EPA:NTIX
                                                                     </th>
@@ -648,7 +648,7 @@
                                                                         <span class="text-success">+36</span>
                                                                     </td>
                                                                 </tr>
-                                                                <tr class="border border-inherit border-solid dark:border-defaultborder/10">
+                                                                <tr class="border border-inherit border-solid">
                                                                     <th scope="row" class="text-start">
                                                                         EPA:MOD
                                                                     </th>
@@ -712,7 +712,7 @@
                                                                 </tr>
                                                             </thead>
                                                             <tbody>
-                                                                <tr class="border border-inherit border-solid dark:border-defaultborder/10">
+                                                                <tr class="border border-inherit border-solid">
                                                                     <th scope="row" class="text-start">
                                                                         APPL
                                                                     </th>
@@ -732,7 +732,7 @@
                                                                         12,389.30
                                                                     </td>
                                                                 </tr>
-                                                                <tr class="border border-inherit border-solid dark:border-defaultborder/10">
+                                                                <tr class="border border-inherit border-solid">
                                                                     <th scope="row" class="text-start">
                                                                         TTR
                                                                     </th>
@@ -752,7 +752,7 @@
                                                                         32,125.03
                                                                     </td>
                                                                 </tr>
-                                                                <tr class="border border-inherit border-solid dark:border-defaultborder/10">
+                                                                <tr class="border border-inherit border-solid">
                                                                     <th scope="row" class="text-start">
                                                                         BS
                                                                     </th>
@@ -772,7 +772,7 @@
                                                                         27,911.16
                                                                     </td>
                                                                 </tr>
-                                                                <tr class="border border-inherit border-solid dark:border-defaultborder/10">
+                                                                <tr class="border border-inherit border-solid">
                                                                     <th scope="row" class="text-start">
                                                                         NFLX
                                                                     </th>
@@ -792,7 +792,7 @@
                                                                         27,161.89
                                                                     </td>
                                                                 </tr>
-                                                                <tr class="border border-inherit border-solid dark:border-defaultborder/10">
+                                                                <tr class="border border-inherit border-solid">
                                                                     <th scope="row" class="text-start">
                                                                         ION
                                                                     </th>
@@ -974,20 +974,20 @@
                                                 </div>
                                                 <div class="box-body !p-0">
                                                     <div class="grid grid-cols-12 gap-x-6">
-                                                        <div class="xl:col-span-7 col-span-12 border-e dark:border-defaultborder/10">
+                                                        <div class="xl:col-span-7 col-span-12 border-e">
                                                             <div class="p-4">
                                                                 <div class="flex flex-wrap items-center justify-between">
                                                                     <div class="flex flex-grow gap-3 ms-[3rem]">
                                                                         <div>
                                                                             <h5 class="font-semibold text-primary text-[1.25rem] mb-1">$12,390.02<span class="text-[0.75rem] ms-1 text-danger">0.14%<i class="ti ti-trending-down ms-1"></i></span></h5>
-                                                                            <span class="block text-[#8c9097] dark:text-white/50 mb-1 text-[0.75rem]"><span class="text-danger me-1">-89.75</span>. Today</span>
-                                                                            <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem]">Jun 17, 2023  11:25 AM  UTC +5:30</span>
+                                                                            <span class="block text-[#8c9097] mb-1 text-[0.75rem]"><span class="text-danger me-1">-89.75</span>. Today</span>
+                                                                            <span class="block text-[#8c9097] text-[0.6875rem]">Jun 17, 2023  11:25 AM  UTC +5:30</span>
                                                                         </div>
                                                                     </div>
                                                                     <div class="flex text-end">
                                                                         <div>
                                                                             <h6 class="font-semibold text-[1rem] mb-2">GITUHB</h6>
-                                                                            <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem] mb-1">GTHB  INDEXNSE</span>
+                                                                            <span class="block text-[#8c9097] text-[0.6875rem] mb-1">GTHB  INDEXNSE</span>
                                                                             <span class="block"><a href="javascript:void(0);" class="text-primary font-semibold">+ Compare</a></span>
                                                                         </div>
                                                                     </div>
@@ -998,7 +998,7 @@
                                                         <div class="xl:col-span-5 col-span-12">
                                                             <div class="p-4 xl:!ps-0">
                                                                 <div class="table-responsive mb-[3rem]">
-                                                                    <table class="table whitespace-nowrap table-borderless !text-[#8c9097] dark:text-white/50 min-w-full">
+                                                                    <table class="table whitespace-nowrap table-borderless !text-[#8c9097] min-w-full">
                                                                         <tbody>
                                                                             <tr class="text-start">
                                                                                 <th scope="row">Open</th>
@@ -1040,7 +1040,7 @@
                                                                     <div class="grid grid-cols-12 gap-x-6">
                                                                         <div class="xl:col-span-6  col-span-12">
                                                                             <div class="table-responsive">
-                                                                                <table class="table whitespace-nowrap table-sm text-center table-borderless !text-[#8c9097] dark:text-white/50 min-w-full">
+                                                                                <table class="table whitespace-nowrap table-sm text-center table-borderless !text-[#8c9097] min-w-full">
                                                                                     <thead class="text-default bg-light">
                                                                                         <tr class="!text-defaulttextcolor">
                                                                                             <th scope="col">Qty</th>
@@ -1090,7 +1090,7 @@
                                                                         </div>
                                                                         <div class="xl:col-span-6  col-span-12">
                                                                             <div class="table-responsive mb-3">
-                                                                                <table class="table whitespace-nowrap table-sm text-center table-borderless !text-[#8c9097] dark:text-white/50 min-w-full">
+                                                                                <table class="table whitespace-nowrap table-sm text-center table-borderless !text-[#8c9097] min-w-full">
                                                                                     <thead class="text-default bg-light">
                                                                                         <tr class="!text-defaulttextcolor">
                                                                                             <th scope="col">Qty</th>

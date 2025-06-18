@@ -11,10 +11,10 @@
 <body>
 @endsection
 
-        <div class="page error-bg dark:!bg-bodybg" id="particles-js">
+        <div class="page error-bg" id="particles-js">
             <!-- Start::error-page -->
             <div class="error-page">
-                <div class="container text-defaulttextcolor dark:text-defaulttextcolor/70 text-defaultsize">
+                <div class="container text-defaulttextcolor text-defaultsize">
                     <div class="text-center p-5 my-auto">
                         <div class="flex items-center justify-center h-full">
                           <div class="xl:col-span-3"></div>

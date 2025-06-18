@@ -8,7 +8,7 @@
 @section('content')
 
 @section('error-body')
-<body class="bg-white dark:!bg-bodybg">
+<body class="bg-white">
 @endsection
 
         <div class="grid grid-cols-12 gap-0 w-full authentication under-maintenance mx-0 text-defaulttextcolor text-defaultsize">

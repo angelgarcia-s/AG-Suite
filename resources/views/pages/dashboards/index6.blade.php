@@ -10,16 +10,16 @@
                     <!-- Page Header -->
                     <div class="block justify-between page-header md:flex">
                         <div>
-                            <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Sales</h3>
+                            <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Sales</h3>
                         </div>
                         <ol class="flex items-center whitespace-nowrap min-w-0">
                             <li class="text-[0.813rem] ps-[0.5rem]">
-                            <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                            <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                 Dashboards
-                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                             </a>
                             </li>
-                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                 Sales
                             </li>
                         </ol>
@@ -37,7 +37,7 @@
                                             </p>
                                             <p class="mb-2 text-[0.75rem]">
                                                 <span class="text-[1.5625rem] font-semibold leading-none vertical-bottom mb-0">153</span>
-                                                <span class="block text-[0.625rem] font-semibold text-[#8c9097] dark:text-white/50">THIS MONTH</span>
+                                                <span class="block text-[0.625rem] font-semibold text-[#8c9097]">THIS MONTH</span>
                                             </p>
                                             <a href="javascript:void(0);" class="text-[0.75rem] mb-0 text-primary">Show full stats<i class="ti ti-chevron-right ms-1"></i></a>
                                         </div>
@@ -59,7 +59,7 @@
                                             </p>
                                             <p class="mb-2 text-[0.75rem]">
                                                 <span class="text-[1.5625rem] font-semibold leading-none vertical-bottom mb-0">$4,32,474</span>
-                                                <span class="block text-[0.625rem] font-semibold text-[#8c9097] dark:text-white/50">THIS MONTH</span>
+                                                <span class="block text-[0.625rem] font-semibold text-[#8c9097]">THIS MONTH</span>
                                             </p>
                                             <a href="javascript:void(0);" class="text-[0.75rem] mb-0 !text-primary">Show full stats<i class="ti ti-chevron-right ms-1"></i></a>
                                         </div>
@@ -83,7 +83,7 @@
                                             </p>
                                             <p class="mb-2 text-[0.75rem]">
                                                 <span class="text-[1.5625rem] font-semibold leading-none vertical-bottom mb-0">27,146</span>
-                                                <span class="block text-[0.625rem] font-semibold text-[#8c9097] dark:text-white/50">THIS MONTH</span>
+                                                <span class="block text-[0.625rem] font-semibold text-[#8c9097]">THIS MONTH</span>
                                             </p>
                                             <a href="javascript:void(0);" class="text-[0.75rem] mb-0 text-primary">Show full stats<i class="ti ti-chevron-right ms-1"></i></a>
                                         </div>
@@ -107,7 +107,7 @@
                                             </p>
                                             <p class="mb-2 text-[0.75rem]">
                                                 <span class="text-[1.5625rem] font-semibold leading-none vertical-bottom mb-0">$563</span>
-                                                <span class="block text-[0.625rem] font-semibold text-[#8c9097] dark:text-white/50">THIS MONTH</span>
+                                                <span class="block text-[0.625rem] font-semibold text-[#8c9097]">THIS MONTH</span>
                                             </p>
                                             <a href="javascript:void(0);" class="text-[0.75rem] mb-0 text-primary">Show full stats<i class="ti ti-chevron-right ms-1"></i></a>
                                         </div>
@@ -155,14 +155,14 @@
                                                         <div class="flex items-start justify-between">
                                                             <div class="mt-0">
                                                                 <p class="mb-0 font-semibold"><span class="me-3">Shopping</span></p>
-                                                                <span class="mb-0 text-[0.75rem] text-[#8c9097] dark:text-white/50">card</span>
+                                                                <span class="mb-0 text-[0.75rem] text-[#8c9097]">card</span>
                                                             </div>
-                                                            <div class="text-[#8c9097] dark:text-white/50 text-[0.75rem] text-center"></div>
+                                                            <div class="text-[#8c9097] text-[0.75rem] text-center"></div>
                                                             <span class="ms-auto">
                                                                 <span class="text-end text-danger block">
                                                                     -$256.99
                                                                 </span>
-                                                                <span class="text-end text-[#8c9097] dark:text-white/50 block text-[0.75rem]">Mar 12,2022</span>
+                                                                <span class="text-end text-[#8c9097] block text-[0.75rem]">Mar 12,2022</span>
                                                             </span>
                                                         </div>
                                                     </div>
@@ -179,14 +179,14 @@
                                                         <div class="flex items-start justify-between">
                                                             <div class="mt-0">
                                                                 <p class="mb-0 font-semibold"><span class="me-3">Stock Market</span></p>
-                                                                <span class="mb-0 text-[0.75rem] text-[#8c9097] dark:text-white/50">Transfer</span>
+                                                                <span class="mb-0 text-[0.75rem] text-[#8c9097]">Transfer</span>
                                                             </div>
-                                                            <div class="text-[#8c9097] dark:text-white/50 text-[0.75rem] text-center"></div>
+                                                            <div class="text-[#8c9097] text-[0.75rem] text-center"></div>
                                                             <span class="ms-auto">
                                                                 <span class="text-end text-success block">
                                                                     +$18,567.00
                                                                 </span>
-                                                                <span class="text-end text-[#8c9097] dark:text-white/50 block text-[0.75rem]">Mar 10,2022</span>
+                                                                <span class="text-end text-[#8c9097] block text-[0.75rem]">Mar 10,2022</span>
                                                             </span>
                                                         </div>
                                                     </div>
@@ -203,14 +203,14 @@
                                                         <div class="flex items-start justify-between">
                                                             <div class="mt-0">
                                                                 <p class="mb-0 font-semibold"><span class="me-3">Grocery</span></p>
-                                                                <span class="mb-0 text-[0.75rem] text-[#8c9097] dark:text-white/50">card</span>
+                                                                <span class="mb-0 text-[0.75rem] text-[#8c9097]">card</span>
                                                             </div>
-                                                            <div class="text-[#8c9097] dark:text-white/50 text-[0.75rem] text-center"></div>
+                                                            <div class="text-[#8c9097] text-[0.75rem] text-center"></div>
                                                             <span class="ms-auto">
                                                                 <span class="text-end text-danger block">
                                                                     -$256.99
                                                                 </span>
-                                                                <span class="text-end text-[#8c9097] dark:text-white/50 block text-[0.75rem]">Apr 23,2022</span>
+                                                                <span class="text-end text-[#8c9097] block text-[0.75rem]">Apr 23,2022</span>
                                                             </span>
                                                         </div>
                                                     </div>
@@ -227,14 +227,14 @@
                                                         <div class="flex items-start justify-between">
                                                             <div class="mt-0">
                                                                 <p class="mb-0 font-semibold"><span class="me-3">Business</span></p>
-                                                                <span class="mb-0 text-[0.75rem] text-[#8c9097] dark:text-white/50">transfer</span>
+                                                                <span class="mb-0 text-[0.75rem] text-[#8c9097]">transfer</span>
                                                             </div>
-                                                            <div class="text-[#8c9097] dark:text-white/50 text-[0.75rem] text-center"></div>
+                                                            <div class="text-[#8c9097] text-[0.75rem] text-center"></div>
                                                             <span class="ms-auto">
                                                                 <span class="text-end text-success block">
                                                                     +$256.99
                                                                 </span>
-                                                                <span class="text-end text-[#8c9097] dark:text-white/50 block text-[0.75rem]">May 4,2022</span>
+                                                                <span class="text-end text-[#8c9097] block text-[0.75rem]">May 4,2022</span>
                                                             </span>
                                                         </div>
                                                     </div>
@@ -251,14 +251,14 @@
                                                         <div class="flex items-start justify-between">
                                                             <div class="mt-0">
                                                                 <p class="mb-0 font-semibold"><span class="me-3">Books</span></p>
-                                                                <span class="mb-0 text-[0.75rem] text-[#8c9097] dark:text-white/50">card</span>
+                                                                <span class="mb-0 text-[0.75rem] text-[#8c9097]">card</span>
                                                             </div>
-                                                            <div class="text-[#8c9097] dark:text-white/50 text-[0.75rem] text-center"></div>
+                                                            <div class="text-[#8c9097] text-[0.75rem] text-center"></div>
                                                             <span class="ms-auto">
                                                                 <span class="text-end text-danger block">
                                                                     -$256.99
                                                                 </span>
-                                                                <span class="text-end text-[#8c9097] dark:text-white/50 block text-[0.75rem]">May 18,2022</span>
+                                                                <span class="text-end text-[#8c9097] block text-[0.75rem]">May 18,2022</span>
                                                             </span>
                                                         </div>
                                                     </div>
@@ -275,14 +275,14 @@
                                                         <div class="flex items-start justify-between">
                                                             <div class="mt-0">
                                                                 <p class="mb-0 font-semibold"><span class="me-3">Sports</span></p>
-                                                                <span class="mb-0 text-[0.75rem] text-[#8c9097] dark:text-white/50">card</span>
+                                                                <span class="mb-0 text-[0.75rem] text-[#8c9097]">card</span>
                                                             </div>
-                                                            <div class="text-[#8c9097] dark:text-white/50 text-[0.75rem] text-center"></div>
+                                                            <div class="text-[#8c9097] text-[0.75rem] text-center"></div>
                                                             <span class="ms-auto">
                                                                 <span class="text-end text-danger block">
                                                                     -$256.99
                                                                 </span>
-                                                                <span class="text-end text-[#8c9097] dark:text-white/50 block text-[0.75rem]">Apr 30,2022</span>
+                                                                <span class="text-end text-[#8c9097] block text-[0.75rem]">Apr 30,2022</span>
                                                             </span>
                                                         </div>
                                                     </div>
@@ -326,7 +326,7 @@
                                 <div class="box-header justify-between">
                                     <div class="box-title">Activities</div>
                                     <div class="hs-dropdown ti-dropdown">
-                                        <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097] dark:text-white/50"
+                                        <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097]"
                                             aria-expanded="false">
                                             View All<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                         </a>
@@ -349,7 +349,7 @@
                                             <a href="javascript:void(0);" class="text-[0.75rem]">
                                                 <p class="mb-0"><span class="font-semibold">#Anita</span> <span class="ms-2 text-[0.75rem]">Lorem ipsum dolor, sit amet consectetur adipisicing  .</span></p>
                                             </a>
-                                            <small class="text-[#8c9097] dark:text-white/50 mt-0 mb-0 text-[0 .625rem]">12 mins ago.</small>
+                                            <small class="text-[#8c9097] mt-0 mb-0 text-[0 .625rem]">12 mins ago.</small>
                                         </li>
                                         <li>
                                             <div class="featured_icon1 featured-success"> </div>
@@ -358,7 +358,7 @@
                                             <a href="javascript:void(0);" class="text-[0.75rem]">
                                                 <p class="mb-0"><span class="me-2 text-[0.75rem]">New Product reveived.</span><span class="font-semibold">#FX-321</span> </p>
                                             </a>
-                                            <small class="text-[#8c9097] dark:text-white/50 mt-0 mb-0 text-[0 .625rem]">28 mins ago.</small>
+                                            <small class="text-[#8c9097] mt-0 mb-0 text-[0 .625rem]">28 mins ago.</small>
                                         </li>
                                         <li>
                                             <div class="featured_icon1 featured-danger"></div>
@@ -372,7 +372,7 @@
                                                     </span>
                                                 </p>
                                             </div>
-                                            <small class="text-[#8c9097] dark:text-white/50 mt-0 mb-0 text-[0 .625rem]">37 mins ago.</small>
+                                            <small class="text-[#8c9097] mt-0 mb-0 text-[0 .625rem]">37 mins ago.</small>
                                         </li>
                                         <li>
                                             <div class="featured_icon1 featured-success"></div>
@@ -380,8 +380,8 @@
                                         <li class="mt-0 activity">
                                             <div class="text-[0.75rem]">
                                                 <p class="mb-0"><span class="font-semibold text-primary">#Hussain</span> <span class="ms-2 text-[0.75rem]">shared a file. </span></p>
-                                                <small class="text-[#8c9097] dark:text-white/50 mt-0 mb-0 text-[0 .625rem]">1 day ago.</small>
-                                                <p class="p-1 border border-dotted dark:border-defaultborder/10 wp-50 br-5 mb-0">
+                                                <small class="text-[#8c9097] mt-0 mb-0 text-[0 .625rem]">1 day ago.</small>
+                                                <p class="p-1 border border-dotted wp-50 br-5 mb-0">
                                                     <a href="javascript:void(0);">
                                                         <span class="badge bg-success  text-white me-2">PPT</span> <span class="text-[0.6875rem]">Project_discussion</span>
                                                     </a>
@@ -399,7 +399,7 @@
                                                     <span class="font-semibold ms-2">More</span>
                                                 </p>
                                             </a>
-                                            <small class="text-[#8c9097] dark:text-white/50 mt-0 mb-0 text-[0 .625rem]">14 Mar 2022.</small>
+                                            <small class="text-[#8c9097] mt-0 mb-0 text-[0 .625rem]">14 Mar 2022.</small>
                                         </li>
                                     </ul>
                                 </div>
@@ -446,14 +446,14 @@
                                                         </tr>
                                                     </thead>
                                                     <tbody>
-                                                        <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                        <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                             <td class="text-center">
                                                                 <span>
                                                                     <input class="form-check-input" type="checkbox" id="check1" value="" aria-label="...">
                                                                 </span>
                                                             </td>
                                                             <td>Design task page for new template</td>
-                                                            <td class="text-[#8c9097] dark:text-white/50">12.43pm</td>
+                                                            <td class="text-[#8c9097]">12.43pm</td>
                                                             <td><span class="badge bg-primary text-white">Today</span></td>
                                                             <td>
                                                                 <div class="avatar-list-stacked !mb-0">
@@ -469,14 +469,14 @@
                                                                 </div>
                                                             </td>
                                                         </tr>
-                                                        <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                        <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                             <td class="text-center">
                                                                 <span>
                                                                     <input class="form-check-input" type="checkbox" id="check2" value="" aria-label="..." checked>
                                                                 </span>
                                                             </td>
                                                             <td>Solve UI issues in new template</td>
-                                                            <td class="text-[#8c9097] dark:text-white/50">11.25am</td>
+                                                            <td class="text-[#8c9097]">11.25am</td>
                                                             <td><span class="badge bg-secondary text-white">Tomorrow</span></td>
                                                             <td>
                                                                 <div class="avatar-list-stacked !mb-0">
@@ -489,14 +489,14 @@
                                                                 </div>
                                                             </td>
                                                         </tr>
-                                                        <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                        <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                             <td class="text-center">
                                                                 <span>
                                                                     <input class="form-check-input" type="checkbox" id="check3" value="" aria-label="...">
                                                                 </span>
                                                             </td>
                                                             <td>prepare pre requisites</td>
-                                                            <td class="text-[#8c9097] dark:text-white/50">9.56am</td>
+                                                            <td class="text-[#8c9097]">9.56am</td>
                                                             <td><span class="badge bg-primary text-white">Today</span></td>
                                                             <td>
                                                                 <div class="avatar-list-stacked !mb-0">
@@ -515,14 +515,14 @@
                                                                 </div>
                                                             </td>
                                                         </tr>
-                                                        <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                        <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                             <td class="text-center">
                                                                 <span>
                                                                     <input class="form-check-input" type="checkbox" id="check4" value="" aria-label="...">
                                                                 </span>
                                                             </td>
                                                             <td>Change total styles od that dashboard</td>
-                                                            <td class="text-[#8c9097] dark:text-white/50">8.15am</td>
+                                                            <td class="text-[#8c9097]">8.15am</td>
                                                             <td><span class="badge bg-primary text-white">Today</span></td>
                                                             <td>
                                                                 <div class="avatar-list-stacked !mb-0">
@@ -532,14 +532,14 @@
                                                                 </div>
                                                             </td>
                                                         </tr>
-                                                        <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                        <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                             <td class="text-center">
                                                                 <span>
                                                                     <input class="form-check-input" type="checkbox" id="check5" value="" aria-label="...">
                                                                 </span>
                                                             </td>
                                                             <td>Update color theme</td>
-                                                            <td class="text-[#8c9097] dark:text-white/50">4.20pm</td>
+                                                            <td class="text-[#8c9097]">4.20pm</td>
                                                             <td><span class="badge bg-secondary text-white">Tomorrow</span></td>
                                                             <td>
                                                                 <div class="avatar-list-stacked !mb-0">
@@ -555,14 +555,14 @@
                                                                 </div>
                                                             </td>
                                                         </tr>
-                                                        <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                        <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                             <td class="text-center">
                                                                 <span>
                                                                     <input class="form-check-input" type="checkbox" id="check11" value="" aria-label="...">
                                                                 </span>
                                                             </td>
                                                             <td>New dashboard design update</td>
-                                                            <td class="text-[#8c9097] dark:text-white/50">8.29am</td>
+                                                            <td class="text-[#8c9097]">8.29am</td>
                                                             <td><span class="badge bg-primary text-white">Today</span></td>
                                                             <td>
                                                                 <div class="avatar-list-stacked !mb-0">
@@ -596,14 +596,14 @@
                                                         </tr>
                                                     </thead>
                                                     <tbody>
-                                                        <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                        <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                             <td class="text-center">
                                                                 <span>
                                                                     <input class="form-check-input" type="checkbox" id="check6" value="" aria-label="...">
                                                                 </span>
                                                             </td>
                                                             <td>New landing page ui update</td>
-                                                            <td class="text-[#8c9097] dark:text-white/50">24 Nov 2022</td>
+                                                            <td class="text-[#8c9097]">24 Nov 2022</td>
                                                             <td><span class="badge bg-success text-white">4 hrs ago</span></td>
                                                             <td>
                                                                 <div class="avatar-list-stacked !mb-0">
@@ -616,14 +616,14 @@
                                                                 </div>
                                                             </td>
                                                         </tr>
-                                                        <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                        <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                             <td class="text-center">
                                                                 <span>
                                                                     <input class="form-check-input" type="checkbox" id="check7" value="" aria-label="...">
                                                                 </span>
                                                             </td>
                                                             <td>Job portal dashboard redesign</td>
-                                                            <td class="text-[#8c9097] dark:text-white/50">30 Nov 2022</td>
+                                                            <td class="text-[#8c9097]">30 Nov 2022</td>
                                                             <td><span class="badge bg-success text-white">Today</span></td>
                                                             <td>
                                                                 <div class="avatar-list-stacked !mb-0">
@@ -639,14 +639,14 @@
                                                                 </div>
                                                             </td>
                                                         </tr>
-                                                        <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                        <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                             <td class="text-center">
                                                                 <span>
                                                                     <input class="form-check-input" type="checkbox" id="check8" value="" aria-label="...">
                                                                 </span>
                                                             </td>
                                                             <td>New template layout update</td>
-                                                            <td class="text-[#8c9097] dark:text-white/50">11 Dec 2022</td>
+                                                            <td class="text-[#8c9097]">11 Dec 2022</td>
                                                             <td><span class="badge bg-success text-white">Yesterday</span></td>
                                                             <td>
                                                                 <div class="avatar-list-stacked !mb-0">
@@ -656,14 +656,14 @@
                                                                 </div>
                                                             </td>
                                                         </tr>
-                                                        <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                        <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                             <td class="text-center">
                                                                 <span>
                                                                     <input class="form-check-input" type="checkbox" id="check29" value="" aria-label="...">
                                                                 </span>
                                                             </td>
                                                             <td>All dashboard licenses page update</td>
-                                                            <td class="text-[#8c9097] dark:text-white/50">6 Dec 2022</td>
+                                                            <td class="text-[#8c9097]">6 Dec 2022</td>
                                                             <td><span class="badge bg-success text-white">Yesterday</span></td>
                                                             <td>
                                                                 <div class="avatar-list-stacked !mb-0">
@@ -676,14 +676,14 @@
                                                                 </div>
                                                             </td>
                                                         </tr>
-                                                        <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                        <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                             <td class="text-center">
                                                                 <span>
                                                                     <input class="form-check-input" type="checkbox" id="check19" value="" aria-label="...">
                                                                 </span>
                                                             </td>
                                                             <td>Update color theme of ynex template</td>
-                                                            <td class="text-[#8c9097] dark:text-white/50">8 Dec 2022</td>
+                                                            <td class="text-[#8c9097]">8 Dec 2022</td>
                                                             <td><span class="badge bg-success text-white">Yesterday</span></td>
                                                             <td>
                                                                 <div class="avatar-list-stacked !mb-0">
@@ -702,14 +702,14 @@
                                                                 </div>
                                                             </td>
                                                         </tr>
-                                                        <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                        <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                             <td class="text-center">
                                                                 <span>
                                                                     <input class="form-check-input" type="checkbox" id="check9" value="" aria-label="...">
                                                                 </span>
                                                             </td>
                                                             <td>New pages list noted</td>
-                                                            <td class="text-[#8c9097] dark:text-white/50">21 Dec 2022</td>
+                                                            <td class="text-[#8c9097]">21 Dec 2022</td>
                                                             <td><span class="badge bg-success text-white">Today</span></td>
                                                             <td>
                                                                 <div class="avatar-list-stacked !mb-0">
@@ -849,7 +849,7 @@
                                                         <p class="mb-0 text-[0.6875rem] text-success">User ID: #1234</p>
                                                     </div>
                                                     <span class="ms-auto text-[0.75rem]">
-                                                        <span class="ltr:float-right rtl:float-left text-[#8c9097] dark:text-white/50 font-semibold">11.43am</span>
+                                                        <span class="ltr:float-right rtl:float-left text-[#8c9097] font-semibold">11.43am</span>
                                                     </span>
                                                 </div>
                                             </a>
@@ -863,7 +863,7 @@
                                                         <p class="mb-0 text-[0.6875rem] text-success">User ID: #3432</p>
                                                     </div>
                                                     <span class="ms-auto text-[0.75rem]">
-                                                        <span class="ltr:float-right rtl:float-left text-[#8c9097] dark:text-white/50 font-semibold">12.35pm</span>
+                                                        <span class="ltr:float-right rtl:float-left text-[#8c9097] font-semibold">12.35pm</span>
                                                     </span>
                                                 </div>
                                             </a>
@@ -877,7 +877,7 @@
                                                         <p class="mb-0 text-[0.6875rem] text-success">User ID: #2312</p>
                                                     </div>
                                                     <span class="ms-auto text-[0.75rem]">
-                                                        <span class="ltr:float-right rtl:float-left text-[#8c9097] dark:text-white/50 font-semibold">Yeserday</span>
+                                                        <span class="ltr:float-right rtl:float-left text-[#8c9097] font-semibold">Yeserday</span>
                                                     </span>
                                                 </div>
                                             </a>
@@ -891,7 +891,7 @@
                                                         <p class="mb-0 text-[0.6875rem] text-success">User ID: #4231</p>
                                                     </div>
                                                     <span class="ms-auto text-[0.75rem]">
-                                                        <span class="ltr:float-right rtl:float-left text-[#8c9097] dark:text-white/50 font-semibold">24 Mar 2022</span>
+                                                        <span class="ltr:float-right rtl:float-left text-[#8c9097] font-semibold">24 Mar 2022</span>
                                                     </span>
                                                 </div>
                                             </a>
@@ -905,7 +905,7 @@
                                                         <p class="mb-0 text-[0.6875rem] text-success">User ID: #1754</p>
                                                     </div>
                                                     <span class="ms-auto text-[0.75rem]">
-                                                        <span class="ltr:float-right rtl:float-left text-[#8c9097] dark:text-white/50 font-semibold">18 Mar 2022</span>
+                                                        <span class="ltr:float-right rtl:float-left text-[#8c9097] font-semibold">18 Mar 2022</span>
                                                     </span>
                                                 </div>
                                             </a>
@@ -919,7 +919,7 @@
                                                         <p class="mb-0 text-[0.6875rem] text-success">User ID: #1345</p>
                                                     </div>
                                                     <span class="ms-auto text-[0.75rem]">
-                                                        <span class="ltr:float-right rtl:float-left text-[#8c9097] dark:text-white/50 font-semibold">15 Mar 2022</span>
+                                                        <span class="ltr:float-right rtl:float-left text-[#8c9097] font-semibold">15 Mar 2022</span>
                                                     </span>
                                                 </div>
                                             </a>
@@ -957,7 +957,7 @@
                                                             </div>
                                                             <div class="billing-invoice-details">
                                                                 <span class="mb-0 font-semibold me-2">Invoice #A12-005 _ <span class="text-[0.75rem] ">$1,938</span></span>
-                                                                <span class="small text-[#8c9097] dark:text-white/50 text-[0.6875rem] block">Nov 24,2022</span>
+                                                                <span class="small text-[#8c9097] text-[0.6875rem] block">Nov 24,2022</span>
                                                             </div>
                                                         </div>
                                                     </a>
@@ -970,7 +970,7 @@
                                                             </div>
                                                             <div class="billing-invoice-details">
                                                                 <span class="mb-0 font-semibold me-2">Invoice #A12-006 _ <span class="text-[0.75rem]">$1,098</span></span>
-                                                                <span class="small text-[#8c9097] dark:text-white/50 text-[0.6875rem] block">Nov 28,2022</span>
+                                                                <span class="small text-[#8c9097] text-[0.6875rem] block">Nov 28,2022</span>
                                                             </div>
                                                         </div>
                                                     </a>
@@ -983,7 +983,7 @@
                                                             </div>
                                                             <div class="billing-invoice-details">
                                                                 <span class="mb-0 font-semibold me-2">Invoice #A12-007 _ <span class="text-[0.75rem] ">$3,672</span></span>
-                                                                <span class="small text-[#8c9097] dark:text-white/50 text-[0.6875rem] block">Dec 20,2022</span>
+                                                                <span class="small text-[#8c9097] text-[0.6875rem] block">Dec 20,2022</span>
                                                             </div>
                                                         </div>
                                                     </a>
@@ -996,7 +996,7 @@
                                                             </div>
                                                             <div class="billing-invoice-details">
                                                                 <span class="mb-0 font-semibold me-2">Invoice #A12-008 _ <span class="text-[0.75rem] ">$4,362</span></span>
-                                                                <span class="small text-[#8c9097] dark:text-white/50 text-[0.6875rem] block">Dec 16,2022</span>
+                                                                <span class="small text-[#8c9097] text-[0.6875rem] block">Dec 16,2022</span>
                                                             </div>
                                                         </div>
                                                     </a>
@@ -1009,7 +1009,7 @@
                                                             </div>
                                                             <div class="billing-invoice-details">
                                                                 <span class="mb-0 font-semibold me-2">Invoice #A12-009 _ <span class="text-[0.75rem] ">$2,389</span></span>
-                                                                <span class="small text-[#8c9097] dark:text-white/50 text-[0.6875rem] block">Dec 10,2022</span>
+                                                                <span class="small text-[#8c9097] text-[0.6875rem] block">Dec 10,2022</span>
                                                             </div>
                                                         </div>
                                                     </a>
@@ -1022,7 +1022,7 @@
                                                             </div>
                                                             <div class="billing-invoice-details">
                                                                 <span class="mb-0 font-semibold me-2">Invoice #A12-002 _ <span class="text-[0.75rem] ">$4,390</span></span>
-                                                                <span class="small text-[#8c9097] dark:text-white/50 text-[0.6875rem] block">Nov 30,2022</span>
+                                                                <span class="small text-[#8c9097] text-[0.6875rem] block">Nov 30,2022</span>
                                                             </div>
                                                         </div>
                                                     </a>
@@ -1038,8 +1038,8 @@
                                                             <p class="mb-0 font-semibold text-success text-[0.875rem]">+$3,876</p>
                                                         </div>
                                                         <div class="flex w-full justify-between">
-                                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]"><i class="ri-arrow-up-fill align-middle text-success me-1"></i> <span class="text-success me-2">03%</span></span>
-                                                            <span class="text-[#8c9097] dark:text-white/50  text-[0.6875rem]">5 days ago</span>
+                                                            <span class="text-[#8c9097] text-[0.75rem]"><i class="ri-arrow-up-fill align-middle text-success me-1"></i> <span class="text-success me-2">03%</span></span>
+                                                            <span class="text-[#8c9097]  text-[0.6875rem]">5 days ago</span>
                                                         </div>
                                                     </a>
                                                 </li>
@@ -1050,8 +1050,8 @@
                                                             <p class="mb-0 font-semibold text-danger text-[0.875rem]">-$2,178</p>
                                                         </div>
                                                         <div class="flex w-full justify-between">
-                                                            <span class="text-[#8c9097] dark:text-white/50  text-[0.75rem]"><i class="ri-arrow-down-fill align-middle text-danger me-1"></i><span class="text-danger"> 16%</span></span>
-                                                            <span class="text-[#8c9097] dark:text-white/50  text-[0.6875rem]">2 days ago</span>
+                                                            <span class="text-[#8c9097]  text-[0.75rem]"><i class="ri-arrow-down-fill align-middle text-danger me-1"></i><span class="text-danger"> 16%</span></span>
+                                                            <span class="text-[#8c9097]  text-[0.6875rem]">2 days ago</span>
                                                         </div>
                                                     </a>
                                                 </li>
@@ -1062,8 +1062,8 @@
                                                             <p class="mb-0 font-semibold text-success text-[0.875rem]">+$1,367</p>
                                                         </div>
                                                         <div class="flex w-full justify-between">
-                                                            <span class="text-[#8c9097] dark:text-white/50  text-[0.75rem]"><i class="ri-arrow-up-fill align-middle text-success me-1"></i><span class="text-success"> 06%</span></span>
-                                                            <span class="text-[#8c9097] dark:text-white/50  text-[0.6875rem]">1 days ago</span>
+                                                            <span class="text-[#8c9097]  text-[0.75rem]"><i class="ri-arrow-up-fill align-middle text-success me-1"></i><span class="text-success"> 06%</span></span>
+                                                            <span class="text-[#8c9097]  text-[0.6875rem]">1 days ago</span>
                                                         </div>
                                                     </a>
                                                 </li>
@@ -1074,8 +1074,8 @@
                                                             <p class="mb-0 font-semibold text-danger text-sm">-$678</p>
                                                         </div>
                                                         <div class="flex w-full justify-between">
-                                                            <span class="text-[#8c9097] dark:text-white/50  text-[0.75rem]"><i class="ri-arrow-down-fill align-middle text-danger me-1"></i><span class="text-danger"> 25%</span></span>
-                                                            <span class="text-[#8c9097] dark:text-white/50  text-[0.6875rem]">10 days ago</span>
+                                                            <span class="text-[#8c9097]  text-[0.75rem]"><i class="ri-arrow-down-fill align-middle text-danger me-1"></i><span class="text-danger"> 25%</span></span>
+                                                            <span class="text-[#8c9097]  text-[0.6875rem]">10 days ago</span>
                                                         </div>
                                                     </a>
                                                 </li>
@@ -1086,8 +1086,8 @@
                                                             <p class="mb-0 font-semibold text-success text-sm">+$578</p>
                                                         </div>
                                                         <div class="flex w-full justify-between">
-                                                            <span class="text-[#8c9097] dark:text-white/50  text-[0.75rem]"><i class="ri-arrow-up-fill align-middle text-success me-1"></i><span class="text-success"> 55%</span></span>
-                                                            <span class="text-[#8c9097] dark:text-white/50  text-[0.6875rem]">11 days ago</span>
+                                                            <span class="text-[#8c9097]  text-[0.75rem]"><i class="ri-arrow-up-fill align-middle text-success me-1"></i><span class="text-success"> 55%</span></span>
+                                                            <span class="text-[#8c9097]  text-[0.6875rem]">11 days ago</span>
                                                         </div>
                                                     </a>
                                                 </li>
@@ -1098,8 +1098,8 @@
                                                             <p class="mb-0 font-semibold text-success text-sm">+$27,215</p>
                                                         </div>
                                                         <div class="flex w-full justify-between">
-                                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]"><i class="ri-arrow-up-fill align-middle text-success me-1"></i><span class="text-success"> 32%</span></span>
-                                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">11 days ago</span>
+                                                            <span class="text-[#8c9097] text-[0.75rem]"><i class="ri-arrow-up-fill align-middle text-success me-1"></i><span class="text-success"> 32%</span></span>
+                                                            <span class="text-[#8c9097] text-[0.6875rem]">11 days ago</span>
                                                         </div>
                                                     </a>
                                                 </li>
@@ -1134,16 +1134,16 @@
                                 <div class="box-body !p-0 px-1">
                                     <div id="sale-value" class="p-5"></div>
                                     <div class="grid grid-cols-12 pt-3 ">
-                                        <div class="xl:col-span-12  col-span-12 border-b dark:border-defaultborder/10 pb-5 text-center flex flex-wrap justify-center"><span class="font-semibold ms-2 text-primary px-4">60% Increase in sale value since last week</span></div>
-                                        <div class="xl:col-span-6 lg:col-span-6 md:col-span-6 sm:col-span-6 col-span-6 border-e dark:border-defaultborder/10 p-4 text-center">
+                                        <div class="xl:col-span-12  col-span-12 border-b pb-5 text-center flex flex-wrap justify-center"><span class="font-semibold ms-2 text-primary px-4">60% Increase in sale value since last week</span></div>
+                                        <div class="xl:col-span-6 lg:col-span-6 md:col-span-6 sm:col-span-6 col-span-6 border-e p-4 text-center">
                                             <p class="mb-1">Sale Items</p>
                                             <h5 class="mb-1 font-semibold">567</h5>
-                                            <p class="text-[0.6875rem] text-[#8c9097] dark:text-white/50 mb-0">Increased<span class="text-success ms-2"><i class="ri-arrow-up-s-line me-2 font-bold align-middle inline-block"></i><span class="badge bg-success/10 text-success !text-[0.6875rem]">0.9%</span></span></p>
+                                            <p class="text-[0.6875rem] text-[#8c9097] mb-0">Increased<span class="text-success ms-2"><i class="ri-arrow-up-s-line me-2 font-bold align-middle inline-block"></i><span class="badge bg-success/10 text-success !text-[0.6875rem]">0.9%</span></span></p>
                                         </div>
                                         <div class="xl:col-span-6 lg:col-span-6 md:col-span-6 sm:col-span-6 col-span-6  p-4 text-center">
                                             <p class="mb-1">Sale Revenue</p>
                                             <h5 class="mb-1 font-semibold">$11,197</h5>
-                                            <p class="text-[0.6875rem] text-[#8c9097] dark:text-white/50 mb-0">Profit<span class="text-success ms-2"><i class="ri-arrow-down-s-line me-2 font-bold align-middle inline-block"></i><span class="badge bg-success/10 text-success !text-[0.6875rem]">0.15%</span></span></p>
+                                            <p class="text-[0.6875rem] text-[#8c9097] mb-0">Profit<span class="text-success ms-2"><i class="ri-arrow-down-s-line me-2 font-bold align-middle inline-block"></i><span class="badge bg-success/10 text-success !text-[0.6875rem]">0.15%</span></span></p>
                                         </div>
                                     </div>
                                 </div>
@@ -1317,7 +1317,7 @@
                                                 </tr>
                                             </thead>
                                             <tbody>
-                                                <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                     <td>
                                                         <span>
                                                             <input class="form-check-input" type="checkbox" id="order_2" value="" aria-label="...">
@@ -1359,7 +1359,7 @@
                                                         </div>
                                                     </td>
                                                 </tr>
-                                                <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                     <td>
                                                         <span>
                                                             <input class="form-check-input" type="checkbox" id="order_7" value="" aria-label="...">
@@ -1401,7 +1401,7 @@
                                                         </div>
                                                     </td>
                                                 </tr>
-                                                <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                     <td>
                                                         <span>
                                                             <input class="form-check-input" type="checkbox" id="order_3" value="" aria-label="...">
@@ -1443,7 +1443,7 @@
                                                         </div>
                                                     </td>
                                                 </tr>
-                                                <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                     <td>
                                                         <span>
                                                             <input class="form-check-input" type="checkbox" id="order_4" value="" aria-label="...">
@@ -1485,7 +1485,7 @@
                                                         </div>
                                                     </td>
                                                 </tr>
-                                                <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                     <td>
                                                         <span>
                                                             <input class="form-check-input" type="checkbox" id="order_5" value="" aria-label="...">
@@ -1527,7 +1527,7 @@
                                                         </div>
                                                     </td>
                                                 </tr>
-                                                <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                     <td>
                                                         <span>
                                                             <input class="form-check-input" type="checkbox" id="order_6" value="" aria-label="...">

@@ -10,7 +10,7 @@
 @section('content')
 
 @section('error-body')
-<body class="bg-white dark:!bg-bodybg">
+<body class="bg-white">
 @endsection
 
           <div class="grid grid-cols-12 authentication mx-0 text-defaulttextcolor text-defaultsize">
@@ -24,7 +24,7 @@
                             </a>
                         </div>
                         <p class="h5 font-semibold mb-2">Lock Screen</p>
-                        <p class="mb-4 text-[#8c9097] dark:text-white/50 opacity-[0.7] font-normal">Hello Jhon !</p>
+                        <p class="mb-4 text-[#8c9097] opacity-[0.7] font-normal">Hello Jhon !</p>
                         <div class="flex items-center mb-6">
                             <div class="leading-none">
                                 <span class="avatar avatar-md avatar-rounded">
@@ -45,18 +45,18 @@
                                 <div class="mt-2">
                                     <div class="form-check !ps-0">
                                         <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
-                                        <label class="form-check-label text-[#8c9097] dark:text-white/50 font-normal" for="defaultCheck1">
+                                        <label class="form-check-label text-[#8c9097] font-normal" for="defaultCheck1">
                                             Remember password ?
                                         </label>
                                     </div>
                                 </div>
                             </div>
                             <div class="xl:col-span-12 col-span-12 grid mt-2">
-                                <a href="{{url('index')}}" class="ti-btn ti-btn-lg bg-primary text-white !font-medium dark:border-defaultborder/10">Unlock</a>
+                                <a href="{{url('index')}}" class="ti-btn ti-btn-lg bg-primary text-white !font-medium">Unlock</a>
                             </div>
                         </div>
                         <div class="text-center">
-                            <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mt-4">Try unlock with different methods <a class="text-success" href="javascript:void(0);"><u>Finger print</u></a> / <a class="text-success" href="javascript:void(0);"><u>Face Id</u></a></p>
+                            <p class="text-[0.75rem] text-[#8c9097] mt-4">Try unlock with different methods <a class="text-success" href="javascript:void(0);"><u>Finger print</u></a> / <a class="text-success" href="javascript:void(0);"><u>Face Id</u></a></p>
                         </div>
                     </div>
                   </div>

@@ -12,16 +12,16 @@
                 <!-- Page Header -->
                 <div class="block justify-between page-header md:flex">
                     <div>
-                        <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark: text-[1.125rem] font-semibold"> Toasts</h3>
+                        <h3 class="!text-defaulttextcolor dark: text-[1.125rem] font-semibold"> Toasts</h3>
                     </div>
                     <ol class="flex items-center whitespace-nowrap min-w-0">
                         <li class="text-[0.813rem] ps-[0.5rem]">
-                        <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                        <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                             Ui Elements
-                            <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                            <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                         </a>
                         </li>
-                        <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                        <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                             Toasts
                         </li>
                     </ol>
@@ -43,7 +43,7 @@
                             </div>
                             <div class="box-body">
                                 <div class="lg:flex lg:space-x-3 rtl:space-x-reverse space-y-4 lg:space-y-0">
-                                    <div class="ti-toast bg-white dark:bg-bodybg dark:border-white/10" role="alert">
+                                    <div class="ti-toast bg-white" role="alert">
                                         <div class="flex p-4">
                                             <div class="flex-shrink-0">
                                                 <svg class="h-4 w-4 text-primary mt-0.5"
@@ -54,14 +54,14 @@
                                                 </svg>
                                             </div>
                                             <div class="ms-3">
-                                                <p class="text-sm text-gray-700 dark:text-[#8c9097] dark:text-white/50">
+                                                <p class="text-sm text-gray-700">
                                                     This is a normal message.
                                                 </p>
                                             </div>
                                         </div>
                                     </div>
 
-                                    <div class="ti-toast bg-white dark:bg-bodybg dark:border-white/10" role="alert">
+                                    <div class="ti-toast bg-white" role="alert">
                                         <div class="flex p-4">
                                             <div class="flex-shrink-0">
                                                 <svg class="h-4 w-4 text-green mt-0.5"
@@ -72,14 +72,14 @@
                                                 </svg>
                                             </div>
                                             <div class="ms-3">
-                                                <p class="text-sm text-gray-700 dark:text-[#8c9097] dark:text-white/50">
+                                                <p class="text-sm text-gray-700">
                                                     This is a success message.
                                                 </p>
                                             </div>
                                         </div>
                                     </div>
 
-                                    <div class="ti-toast bg-white dark:bg-bodybg dark:border-white/10" role="alert">
+                                    <div class="ti-toast bg-white" role="alert">
                                         <div class="flex p-4">
                                             <div class="flex-shrink-0">
                                                 <svg class="h-4 w-4 text-red mt-0.5" xmlns="http://www.w3.org/2000/svg"
@@ -89,14 +89,14 @@
                                                 </svg>
                                             </div>
                                             <div class="ms-3">
-                                                <p class="text-sm text-gray-700 dark:text-[#8c9097] dark:text-white/50">
+                                                <p class="text-sm text-gray-700">
                                                     This is an error message.
                                                 </p>
                                             </div>
                                         </div>
                                     </div>
 
-                                    <div class="ti-toast bg-white dark:bg-bodybg dark:border-white/10" role="alert">
+                                    <div class="ti-toast bg-white" role="alert">
                                         <div class="flex p-4">
                                             <div class="flex-shrink-0">
                                                 <svg class="h-4 w-4 text-orange mt-0.5"
@@ -107,7 +107,7 @@
                                                 </svg>
                                             </div>
                                             <div class="ms-3">
-                                                <p class="text-sm text-gray dark:text-[#8c9097] dark:text-white/50">
+                                                <p class="text-sm text-gray">
                                                     This is a warning message.
                                                 </p>
                                             </div>
@@ -118,7 +118,7 @@
                             <div class="box-footer hidden border-t-0">
                                 <!-- Prism Code -->
                                 <pre class="language-html"><code class="language-html">&lt;div class="lg:flex lg:space-x-3 rtl:space-x-reverse space-y-4 lg:space-y-0"&gt;
-    &lt;div class="ti-toast bg-white dark:bg-bodybg dark:border-white/10" role="alert"&gt;
+    &lt;div class="ti-toast bg-white" role="alert"&gt;
         &lt;div class="flex p-4"&gt;
             &lt;div class="flex-shrink-0"&gt;
                 &lt;svg class="h-4 w-4 text-primary mt-0.5"
@@ -129,14 +129,14 @@
                 &lt;/svg&gt;
             &lt;/div&gt;
             &lt;div class="ms-3"&gt;
-                &lt;p class="text-sm text-gray-700 dark:text-[#8c9097] dark:text-white/50"&gt;
+                &lt;p class="text-sm text-gray-700"&gt;
                     This is a normal message.
                 &lt;/p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
-    &lt;div class="ti-toast bg-white dark:bg-bodybg dark:border-white/10" role="alert"&gt;
+    &lt;div class="ti-toast bg-white" role="alert"&gt;
         &lt;div class="flex p-4"&gt;
             &lt;div class="flex-shrink-0"&gt;
                 &lt;svg class="h-4 w-4 text-green mt-0.5"
@@ -147,14 +147,14 @@
                 &lt;/svg&gt;
             &lt;/div&gt;
             &lt;div class="ms-3"&gt;
-                &lt;p class="text-sm text-gray-700 dark:text-[#8c9097] dark:text-white/50"&gt;
+                &lt;p class="text-sm text-gray-700"&gt;
                     This is a success message.
                 &lt;/p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
-    &lt;div class="ti-toast bg-white dark:bg-bodybg dark:border-white/10" role="alert"&gt;
+    &lt;div class="ti-toast bg-white" role="alert"&gt;
         &lt;div class="flex p-4"&gt;
             &lt;div class="flex-shrink-0"&gt;
                 &lt;svg class="h-4 w-4 text-red mt-0.5" xmlns="http://www.w3.org/2000/svg"
@@ -164,14 +164,14 @@
                 &lt;/svg&gt;
             &lt;/div&gt;
             &lt;div class="ms-3"&gt;
-                &lt;p class="text-sm text-gray-700 dark:text-[#8c9097] dark:text-white/50"&gt;
+                &lt;p class="text-sm text-gray-700"&gt;
                     This is an error message.
                 &lt;/p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
-    &lt;div class="ti-toast bg-white dark:bg-bodybg dark:border-white/10" role="alert"&gt;
+    &lt;div class="ti-toast bg-white" role="alert"&gt;
         &lt;div class="flex p-4"&gt;
             &lt;div class="flex-shrink-0"&gt;
                 &lt;svg class="h-4 w-4 text-orange mt-0.5"
@@ -182,7 +182,7 @@
                 &lt;/svg&gt;
             &lt;/div&gt;
             &lt;div class="ms-3"&gt;
-                &lt;p class="text-sm text-gray dark:text-[#8c9097] dark:text-white/50"&gt;
+                &lt;p class="text-sm text-gray"&gt;
                     This is a warning message.
                 &lt;/p&gt;
             &lt;/div&gt;
@@ -205,10 +205,10 @@
                                 </div>
                             </div>
                             <div class="box-body">
-                                <div class="ti-toast hs-removing:translate-x-5 hs-removing:opacity-0 transition duration-300 bg-white  dark:bg-bodybg dark:border-white/10"
+                                <div class="ti-toast hs-removing:translate-x-5 hs-removing:opacity-0 transition duration-300 bg-white "
                                     role="alert">
                                     <div class="flex p-4">
-                                        <p class="text-sm text-gray-700 dark:text-[#8c9097] dark:text-white/50">
+                                        <p class="text-sm text-gray-700">
                                             Your email has been sent
                                         </p>
 
@@ -219,7 +219,7 @@
                                                 Undo
                                             </button>
                                             <button type="button"
-                                                class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-0 focus:ring-gray-400 focus:ring-offset-0 focus:ring-offset-white transition-all text-sm dark:focus:ring-white/10 dark:focus:ring-offset-white/10">
+                                                class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-0 focus:ring-gray-400 focus:ring-offset-0 focus:ring-offset-white transition-all text-sm">
                                                 <span class="sr-only">Close</span>
                                                 <svg class="w-3.5 h-3.5" width="16" height="16" viewBox="0 0 16 16"
                                                     fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -234,10 +234,10 @@
                             </div>
                             <div class="box-footer hidden border-t-0">
                                 <!-- Prism Code -->
-                                <pre class="language-html"><code class="language-html">&lt;div class="ti-toast hs-removing:translate-x-5 hs-removing:opacity-0 transition duration-300 bg-white  dark:bg-bodybg dark:border-white/10"
+                                <pre class="language-html"><code class="language-html">&lt;div class="ti-toast hs-removing:translate-x-5 hs-removing:opacity-0 transition duration-300 bg-white "
 role="alert"&gt;
 &lt;div class="flex p-4"&gt;
-    &lt;p class="text-sm text-gray-700 dark:text-[#8c9097] dark:text-white/50"&gt;
+    &lt;p class="text-sm text-gray-700"&gt;
         Your email has been sent
     &lt;/p&gt;
 
@@ -248,7 +248,7 @@ role="alert"&gt;
             Undo
         &lt;/button&gt;
         &lt;button type="button"
-            class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-0 focus:ring-gray-400 focus:ring-offset-0 focus:ring-offset-white transition-all text-sm dark:focus:ring-white/10 dark:focus:ring-offset-white/10"&gt;
+            class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-0 focus:ring-gray-400 focus:ring-offset-0 focus:ring-offset-white transition-all text-sm"&gt;
             &lt;span class="sr-only"&gt;Close&lt;/span&gt;
             &lt;svg class="w-3.5 h-3.5" width="16" height="16" viewBox="0 0 16 16"
                 fill="none" xmlns="http://www.w3.org/2000/svg"&gt;
@@ -288,7 +288,7 @@ role="alert"&gt;
 
                                                 <div class="ms-auto">
                                                     <button type="button"
-                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-white/10 focus:ring-gray-600 transition-all text-sm dark:focus:ring-offset-white/10 dark:focus:ring-white/10">
+                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-white/10 focus:ring-gray-600 transition-all text-sm">
                                                         <span class="sr-only">Close</span>
                                                         <svg class="w-3.5 h-3.5" width="16" height="16"
                                                             viewBox="0 0 16 16" fill="none"
@@ -310,7 +310,7 @@ role="alert"&gt;
 
                                                 <div class="ms-auto">
                                                     <button type="button"
-                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-gray-600 focus:ring-gray-500 transition-all text-sm dark:focus:ring-offset-white/10 dark:focus:ring-gray-500">
+                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-gray-600 focus:ring-gray-500 transition-all text-sm">
                                                         <span class="sr-only">Close</span>
                                                         <svg class="w-3.5 h-3.5" width="16" height="16"
                                                             viewBox="0 0 16 16" fill="none"
@@ -332,7 +332,7 @@ role="alert"&gt;
 
                                                 <div class="ms-auto">
                                                     <button type="button"
-                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-red-800 focus:ring-red-500 transition-all text-sm dark:focus:ring-offset-red-500 dark:focus:ring-red-700">
+                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-red-800 focus:ring-red-500 transition-all text-sm">
                                                         <span class="sr-only">Close</span>
                                                         <svg class="w-3.5 h-3.5" width="16" height="16"
                                                             viewBox="0 0 16 16" fill="none"
@@ -354,7 +354,7 @@ role="alert"&gt;
 
                                                 <div class="ms-auto">
                                                     <button type="button"
-                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-yellow-800 focus:ring-yellow-500 transition-all text-sm dark:focus:ring-offset-yellow-500 dark:focus:ring-yellow-700">
+                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-yellow-800 focus:ring-yellow-500 transition-all text-sm">
                                                         <span class="sr-only">Close</span>
                                                         <svg class="w-3.5 h-3.5" width="16" height="16"
                                                             viewBox="0 0 16 16" fill="none"
@@ -376,7 +376,7 @@ role="alert"&gt;
 
                                                 <div class="ms-auto">
                                                     <button type="button"
-                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-green-800 focus:ring-green-500 transition-all text-sm dark:focus:ring-offset-green-500 dark:focus:ring-green-700">
+                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-green-800 focus:ring-green-500 transition-all text-sm">
                                                         <span class="sr-only">Close</span>
                                                         <svg class="w-3.5 h-3.5" width="16" height="16"
                                                             viewBox="0 0 16 16" fill="none"
@@ -398,7 +398,7 @@ role="alert"&gt;
 
                                                 <div class="ms-auto">
                                                     <button type="button"
-                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-primary focus:ring-primary transition-all text-sm dark:focus:ring-offset-primary dark:focus:ring-primary">
+                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-primary focus:ring-primary transition-all text-sm">
                                                         <span class="sr-only">Close</span>
                                                         <svg class="w-3.5 h-3.5" width="16" height="16"
                                                             viewBox="0 0 16 16" fill="none"
@@ -420,7 +420,7 @@ role="alert"&gt;
 
                                                 <div class="ms-auto">
                                                     <button type="button"
-                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-indigo-800 focus:ring-indigo-500 transition-all text-sm dark:focus:ring-offset-indigo-500 dark:focus:ring-indigo-700">
+                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-indigo-800 focus:ring-indigo-500 transition-all text-sm">
                                                         <span class="sr-only">Close</span>
                                                         <svg class="w-3.5 h-3.5" width="16" height="16"
                                                             viewBox="0 0 16 16" fill="none"
@@ -446,7 +446,7 @@ role="alert"&gt;
 
             &lt;div class="ms-auto"&gt;
                 &lt;button type="button"
-                    class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-white/10 focus:ring-gray-600 transition-all text-sm dark:focus:ring-offset-white/10 dark:focus:ring-white/10"&gt;
+                    class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-white/10 focus:ring-gray-600 transition-all text-sm"&gt;
                     &lt;span class="sr-only"&gt;Close&lt;/span&gt;
                     &lt;svg class="w-3.5 h-3.5" width="16" height="16"
                         viewBox="0 0 16 16" fill="none"
@@ -468,7 +468,7 @@ role="alert"&gt;
 
             &lt;div class="ms-auto"&gt;
                 &lt;button type="button"
-                    class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-gray-600 focus:ring-gray-500 transition-all text-sm dark:focus:ring-offset-white/10 dark:focus:ring-gray-500"&gt;
+                    class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-gray-600 focus:ring-gray-500 transition-all text-sm"&gt;
                     &lt;span class="sr-only"&gt;Close&lt;/span&gt;
                     &lt;svg class="w-3.5 h-3.5" width="16" height="16"
                         viewBox="0 0 16 16" fill="none"
@@ -490,7 +490,7 @@ role="alert"&gt;
 
             &lt;div class="ms-auto"&gt;
                 &lt;button type="button"
-                    class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-red-800 focus:ring-red-500 transition-all text-sm dark:focus:ring-offset-red-500 dark:focus:ring-red-700"&gt;
+                    class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-red-800 focus:ring-red-500 transition-all text-sm"&gt;
                     &lt;span class="sr-only"&gt;Close&lt;/span&gt;
                     &lt;svg class="w-3.5 h-3.5" width="16" height="16"
                         viewBox="0 0 16 16" fill="none"
@@ -512,7 +512,7 @@ role="alert"&gt;
 
             &lt;div class="ms-auto"&gt;
                 &lt;button type="button"
-                    class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-yellow-800 focus:ring-yellow-500 transition-all text-sm dark:focus:ring-offset-yellow-500 dark:focus:ring-yellow-700"&gt;
+                    class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-yellow-800 focus:ring-yellow-500 transition-all text-sm"&gt;
                     &lt;span class="sr-only"&gt;Close&lt;/span&gt;
                     &lt;svg class="w-3.5 h-3.5" width="16" height="16"
                         viewBox="0 0 16 16" fill="none"
@@ -534,7 +534,7 @@ role="alert"&gt;
 
             &lt;div class="ms-auto"&gt;
                 &lt;button type="button"
-                    class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-green-800 focus:ring-green-500 transition-all text-sm dark:focus:ring-offset-green-500 dark:focus:ring-green-700"&gt;
+                    class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-green-800 focus:ring-green-500 transition-all text-sm"&gt;
                     &lt;span class="sr-only"&gt;Close&lt;/span&gt;
                     &lt;svg class="w-3.5 h-3.5" width="16" height="16"
                         viewBox="0 0 16 16" fill="none"
@@ -556,7 +556,7 @@ role="alert"&gt;
 
             &lt;div class="ms-auto"&gt;
                 &lt;button type="button"
-                    class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-primary focus:ring-primary transition-all text-sm dark:focus:ring-offset-primary dark:focus:ring-primary"&gt;
+                    class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-primary focus:ring-primary transition-all text-sm"&gt;
                     &lt;span class="sr-only"&gt;Close&lt;/span&gt;
                     &lt;svg class="w-3.5 h-3.5" width="16" height="16"
                         viewBox="0 0 16 16" fill="none"
@@ -578,7 +578,7 @@ role="alert"&gt;
 
             &lt;div class="ms-auto"&gt;
                 &lt;button type="button"
-                    class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-indigo-800 focus:ring-indigo-500 transition-all text-sm dark:focus:ring-offset-indigo-500 dark:focus:ring-indigo-700"&gt;
+                    class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-white/[.5]  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-indigo-800 focus:ring-indigo-500 transition-all text-sm"&gt;
                     &lt;span class="sr-only"&gt;Close&lt;/span&gt;
                     &lt;svg class="w-3.5 h-3.5" width="16" height="16"
                         viewBox="0 0 16 16" fill="none"
@@ -617,7 +617,7 @@ role="alert"&gt;
 
                                                 <div class="ms-auto">
                                                     <button type="button"
-                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-primary  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-white/10 focus:ring-gray-600 transition-all text-sm dark:focus:ring-offset-white/10 dark:focus:ring-white/10">
+                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-primary  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-white/10 focus:ring-gray-600 transition-all text-sm">
                                                         <span class="sr-only">Close</span>
                                                         <svg class="w-3.5 h-3.5" width="16" height="16"
                                                             viewBox="0 0 16 16" fill="none"
@@ -639,7 +639,7 @@ role="alert"&gt;
 
                                                 <div class="ms-auto">
                                                     <button type="button"
-                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-secondary  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-gray-600 focus:ring-gray-500 transition-all text-sm dark:focus:ring-offset-white/10 dark:focus:ring-gray-500">
+                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-secondary  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-gray-600 focus:ring-gray-500 transition-all text-sm">
                                                         <span class="sr-only">Close</span>
                                                         <svg class="w-3.5 h-3.5" width="16" height="16"
                                                             viewBox="0 0 16 16" fill="none"
@@ -661,7 +661,7 @@ role="alert"&gt;
 
                                                 <div class="ms-auto">
                                                     <button type="button"
-                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-info  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-red-800 focus:ring-red-500 transition-all text-sm dark:focus:ring-offset-red-500 dark:focus:ring-red-700">
+                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-info  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-red-800 focus:ring-red-500 transition-all text-sm">
                                                         <span class="sr-only">Close</span>
                                                         <svg class="w-3.5 h-3.5" width="16" height="16"
                                                             viewBox="0 0 16 16" fill="none"
@@ -683,7 +683,7 @@ role="alert"&gt;
 
                                                 <div class="ms-auto">
                                                     <button type="button"
-                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-success  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-yellow-800 focus:ring-yellow-500 transition-all text-sm dark:focus:ring-offset-yellow-500 dark:focus:ring-yellow-700">
+                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-success  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-yellow-800 focus:ring-yellow-500 transition-all text-sm">
                                                         <span class="sr-only">Close</span>
                                                         <svg class="w-3.5 h-3.5" width="16" height="16"
                                                             viewBox="0 0 16 16" fill="none"
@@ -705,7 +705,7 @@ role="alert"&gt;
 
                                                 <div class="ms-auto">
                                                     <button type="button"
-                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-warning  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-green-800 focus:ring-green-500 transition-all text-sm dark:focus:ring-offset-green-500 dark:focus:ring-green-700">
+                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-warning  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-green-800 focus:ring-green-500 transition-all text-sm">
                                                         <span class="sr-only">Close</span>
                                                         <svg class="w-3.5 h-3.5" width="16" height="16"
                                                             viewBox="0 0 16 16" fill="none"
@@ -727,7 +727,7 @@ role="alert"&gt;
 
                                                 <div class="ms-auto">
                                                     <button type="button"
-                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-danger  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-primary focus:ring-primary transition-all text-sm dark:focus:ring-offset-primary dark:focus:ring-primary">
+                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-danger  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-primary focus:ring-primary transition-all text-sm">
                                                         <span class="sr-only">Close</span>
                                                         <svg class="w-3.5 h-3.5" width="16" height="16"
                                                             viewBox="0 0 16 16" fill="none"
@@ -749,7 +749,7 @@ role="alert"&gt;
 
                                                 <div class="ms-auto">
                                                     <button type="button"
-                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-purple  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-indigo-800 focus:ring-indigo-500 transition-all text-sm dark:focus:ring-offset-indigo-500 dark:focus:ring-indigo-700">
+                                                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-purple  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-indigo-800 focus:ring-indigo-500 transition-all text-sm">
                                                         <span class="sr-only">Close</span>
                                                         <svg class="w-3.5 h-3.5" width="16" height="16"
                                                             viewBox="0 0 16 16" fill="none"
@@ -775,7 +775,7 @@ role="alert"&gt;
 
                 &lt;div class="ms-auto"&gt;
                     &lt;button type="button"
-                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-primary  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-white/10 focus:ring-gray-600 transition-all text-sm dark:focus:ring-offset-white/10 dark:focus:ring-white/10"&gt;
+                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-primary  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-white/10 focus:ring-gray-600 transition-all text-sm"&gt;
                         &lt;span class="sr-only"&gt;Close&lt;/span&gt;
                         &lt;svg class="w-3.5 h-3.5" width="16" height="16"
                             viewBox="0 0 16 16" fill="none"
@@ -797,7 +797,7 @@ role="alert"&gt;
 
                 &lt;div class="ms-auto"&gt;
                     &lt;button type="button"
-                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-secondary  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-gray-600 focus:ring-gray-500 transition-all text-sm dark:focus:ring-offset-white/10 dark:focus:ring-gray-500"&gt;
+                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-secondary  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-gray-600 focus:ring-gray-500 transition-all text-sm"&gt;
                         &lt;span class="sr-only"&gt;Close&lt;/span&gt;
                         &lt;svg class="w-3.5 h-3.5" width="16" height="16"
                             viewBox="0 0 16 16" fill="none"
@@ -819,7 +819,7 @@ role="alert"&gt;
 
                 &lt;div class="ms-auto"&gt;
                     &lt;button type="button"
-                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-info  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-red-800 focus:ring-red-500 transition-all text-sm dark:focus:ring-offset-red-500 dark:focus:ring-red-700"&gt;
+                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-info  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-red-800 focus:ring-red-500 transition-all text-sm"&gt;
                         &lt;span class="sr-only"&gt;Close&lt;/span&gt;
                         &lt;svg class="w-3.5 h-3.5" width="16" height="16"
                             viewBox="0 0 16 16" fill="none"
@@ -841,7 +841,7 @@ role="alert"&gt;
 
                 &lt;div class="ms-auto"&gt;
                     &lt;button type="button"
-                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-success  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-yellow-800 focus:ring-yellow-500 transition-all text-sm dark:focus:ring-offset-yellow-500 dark:focus:ring-yellow-700"&gt;
+                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-success  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-yellow-800 focus:ring-yellow-500 transition-all text-sm"&gt;
                         &lt;span class="sr-only"&gt;Close&lt;/span&gt;
                         &lt;svg class="w-3.5 h-3.5" width="16" height="16"
                             viewBox="0 0 16 16" fill="none"
@@ -863,7 +863,7 @@ role="alert"&gt;
 
                 &lt;div class="ms-auto"&gt;
                     &lt;button type="button"
-                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-warning  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-green-800 focus:ring-green-500 transition-all text-sm dark:focus:ring-offset-green-500 dark:focus:ring-green-700"&gt;
+                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-warning  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-green-800 focus:ring-green-500 transition-all text-sm"&gt;
                         &lt;span class="sr-only"&gt;Close&lt;/span&gt;
                         &lt;svg class="w-3.5 h-3.5" width="16" height="16"
                             viewBox="0 0 16 16" fill="none"
@@ -885,7 +885,7 @@ role="alert"&gt;
 
                 &lt;div class="ms-auto"&gt;
                     &lt;button type="button"
-                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-danger  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-primary focus:ring-primary transition-all text-sm dark:focus:ring-offset-primary dark:focus:ring-primary"&gt;
+                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-danger  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-primary focus:ring-primary transition-all text-sm"&gt;
                         &lt;span class="sr-only"&gt;Close&lt;/span&gt;
                         &lt;svg class="w-3.5 h-3.5" width="16" height="16"
                             viewBox="0 0 16 16" fill="none"
@@ -907,7 +907,7 @@ role="alert"&gt;
 
                 &lt;div class="ms-auto"&gt;
                     &lt;button type="button"
-                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-purple  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-indigo-800 focus:ring-indigo-500 transition-all text-sm dark:focus:ring-offset-indigo-500 dark:focus:ring-indigo-700"&gt;
+                        class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-purple  focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-offset-indigo-800 focus:ring-indigo-500 transition-all text-sm"&gt;
                         &lt;span class="sr-only"&gt;Close&lt;/span&gt;
                         &lt;svg class="w-3.5 h-3.5" width="16" height="16"
                             viewBox="0 0 16 16" fill="none"
@@ -942,12 +942,12 @@ role="alert"&gt;
                             </div>
                         </div>
                         <div class="box-body">
-                            <div class="ti-toast bg-white dark:bg-bodybg dark:border-white/10" role="alert">
+                            <div class="ti-toast bg-white" role="alert">
                                 <div class="flex items-center p-4">
                                     <div class="ti-spinner w-4 h-4 text-primary" role="status" aria-label="loading">
                                         <span class="sr-only">Loading...</span>
                                     </div>
-                                    <p class="ms-3 text-sm text-gray-700 dark:text-[#8c9097] dark:text-white/50">
+                                    <p class="ms-3 text-sm text-gray-700">
                                         Action in progress
                                     </p>
                                 </div>
@@ -955,12 +955,12 @@ role="alert"&gt;
                         </div>
                         <div class="box-footer hidden border-t-0">
                             <!-- Prism Code -->
-                            <pre class="language-html"><code class="language-html">&lt;div class="ti-toast bg-white dark:bg-bodybg dark:border-white/10" role="alert"&gt;
+                            <pre class="language-html"><code class="language-html">&lt;div class="ti-toast bg-white" role="alert"&gt;
 &lt;div class="flex items-center p-4"&gt;
     &lt;div class="ti-spinner w-4 h-4 text-primary" role="status" aria-label="loading"&gt;
         &lt;span class="sr-only"&gt;Loading...&lt;/span&gt;
     &lt;/div&gt;
-    &lt;p class="ms-3 text-sm text-gray-700 dark:text-[#8c9097] dark:text-white/50"&gt;
+    &lt;p class="ms-3 text-sm text-gray-700"&gt;
         Action in progress
     &lt;/p&gt;
 &lt;/div&gt;
@@ -982,16 +982,16 @@ role="alert"&gt;
                         </div>
                         <div class="box-body">
                             <div id="dismiss-toast"
-                                class="hs-removing:translate-x-5 hs-removing:opacity-0 transition duration-300 ti-toast bg-white dark:bg-bodybg dark:border-white/10"
+                                class="hs-removing:translate-x-5 hs-removing:opacity-0 transition duration-300 ti-toast bg-white"
                                 role="alert">
                                 <div class="flex p-4">
-                                    <p class="text-sm text-gray-700 dark:text-[#8c9097] dark:text-white/50">
+                                    <p class="text-sm text-gray-700">
                                         Your email has been sent
                                     </p>
 
                                     <div class="ms-auto">
                                         <button type="button"
-                                            class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-0 focus:ring-gray-400 focus:ring-offset-0 focus:ring-offset-white text-sm dark:focus:ring-white/10 dark:focus:ring-offset-white/10"
+                                            class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-0 focus:ring-gray-400 focus:ring-offset-0 focus:ring-offset-white text-sm"
                                             data-hs-remove-element="#dismiss-toast">
                                             <span class="sr-only">Close</span>
                                             <svg class="w-3.5 h-3.5" width="16" height="16" viewBox="0 0 16 16"
@@ -1008,16 +1008,16 @@ role="alert"&gt;
                         <div class="box-footer hidden border-t-0">
                             <!-- Prism Code -->
                             <pre class="language-html"><code class="language-html">&lt;div id="dismiss-toast"
-class="hs-removing:translate-x-5 hs-removing:opacity-0 transition duration-300 ti-toast bg-white dark:bg-bodybg dark:border-white/10"
+class="hs-removing:translate-x-5 hs-removing:opacity-0 transition duration-300 ti-toast bg-white"
 role="alert"&gt;
 &lt;div class="flex p-4"&gt;
-    &lt;p class="text-sm text-gray-700 dark:text-[#8c9097] dark:text-white/50"&gt;
+    &lt;p class="text-sm text-gray-700"&gt;
         Your email has been sent
     &lt;/p&gt;
 
     &lt;div class="ms-auto"&gt;
         &lt;button type="button"
-            class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-0 focus:ring-gray-400 focus:ring-offset-0 focus:ring-offset-white text-sm dark:focus:ring-white/10 dark:focus:ring-offset-white/10"
+            class="inline-flex flex-shrink-0 justify-center items-center h-4 w-4 rounded-sm text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-0 focus:ring-gray-400 focus:ring-offset-0 focus:ring-offset-white text-sm"
             data-hs-remove-element="#dismiss-toast"&gt;
             &lt;span class="sr-only"&gt;Close&lt;/span&gt;
             &lt;svg class="w-3.5 h-3.5" width="16" height="16" viewBox="0 0 16 16"

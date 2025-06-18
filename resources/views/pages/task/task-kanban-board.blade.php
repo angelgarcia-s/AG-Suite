@@ -23,16 +23,16 @@
                         <!-- Page Header -->
                         <div class="block justify-between page-header md:flex">
                             <div>
-                                <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Kanban Board</h3>
+                                <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Kanban Board</h3>
                             </div>
                             <ol class="flex items-center whitespace-nowrap min-w-0">
                                 <li class="text-[0.813rem] ps-[0.5rem]">
-                                  <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                  <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                     Task
-                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                   </a>
                                 </li>
-                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                     Kanban Board
                                 </li>
                             </ol>
@@ -95,13 +95,13 @@
                         <!-- End:: row-1 -->
 
                         <!-- Start::row-2 -->
-                        <div class="ynex-kanban-board text-defaulttextcolor dark:text-defaulttextcolor/70 text-defaultsize">
+                        <div class="ynex-kanban-board text-defaulttextcolor text-defaultsize">
                             <div class="kanban-tasks-type new">
                                 <div class="mb-4">
                                     <div class="flex justify-between items-center">
                                         <span class="block font-semibold text-[.9375rem]">NEW - 04</span>
                                         <div>
-                                            <a href="javascript:void(0);" class="hs-dropdown-toggle  ti-btn !py-1 !px-2 !font-medium !text-[0.75rem] bg-white dark:bg-bodybg text-default border-0" data-hs-overlay="#add-task"><i class="ri-add-line"></i>Add Task
+                                            <a href="javascript:void(0);" class="hs-dropdown-toggle  ti-btn !py-1 !px-2 !font-medium !text-[0.75rem] bg-white text-default border-0" data-hs-overlay="#add-task"><i class="ri-add-line"></i>Add Task
                                             </a>
                                         </div>
                                     </div>
@@ -111,7 +111,7 @@
                                         <div class="box kanban-tasks new">
                                             <div class="box-body !p-0">
                                                 <div class="p-4 kanban-board-head">
-                                                    <div class="flex text-[#8c9097] dark:text-white/50 justify-between mb-1 text-[.75rem] font-semibold">
+                                                    <div class="flex text-[#8c9097] justify-between mb-1 text-[.75rem] font-semibold">
                                                         <div class="inline-flex"><i class="ri-time-line me-1 align-middle"></i>Created - 28 May</div>
                                                         <div>2 days left</div>
                                                     </div>
@@ -133,13 +133,13 @@
                                                         <div class="kanban-task-description">Lorem ipsum dolor sit amet consectetur adipisicing elit, Nulla soluta consectetur sit amet elit dolor sit amet.</div>
                                                     </div>
                                                 </div>
-                                                <div class="p-4 border-t dark:border-defaultborder/10 border-dashed">
+                                                <div class="p-4 border-t border-dashed">
                                                     <div class="flex items-center justify-between">
                                                         <div class="inline-flex items-center">
                                                             <a href="javascript:void(0);" class="inline-flex items-center me-2 text-primary">
                                                                 <span class="me-1"><i class="ri-thumb-up-fill align-middle font-normal"></i></span><span class="font-semibold text-[.75rem]">12</span>
                                                             </a>
-                                                            <a href="javascript:void(0);" class="inline-flex items-center text-[#8c9097] dark:text-white/50">
+                                                            <a href="javascript:void(0);" class="inline-flex items-center text-[#8c9097]">
                                                                 <span class="me-1"><i class="ri-message-2-line align-middle font-normal"></i></span><span class="font-semibold text-[.75rem]">02</span>
                                                             </a>
                                                         </div>
@@ -164,7 +164,7 @@
                                         <div class="box kanban-tasks new">
                                             <div class="box-body !p-0">
                                                 <div class="p-4 kanban-board-head">
-                                                    <div class="flex text-[#8c9097] dark:text-white/50 justify-between mb-1 text-[.75rem] font-semibold">
+                                                    <div class="flex text-[#8c9097] justify-between mb-1 text-[.75rem] font-semibold">
                                                         <div><i class="ri-time-line align-middle"></i>Created - 30 May</div>
                                                         <div>2 days left</div>
                                                     </div>
@@ -186,13 +186,13 @@
                                                         <div class="kanban-task-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla soluta </div>
                                                     </div>
                                                 </div>
-                                                <div class="p-3 border-t dark:border-defaultborder/10 border-dashed">
+                                                <div class="p-3 border-t border-dashed">
                                                     <div class="flex items-center justify-between">
                                                         <div class="inline-flex items-center">
                                                             <a href="javascript:void(0);" class="inline-flex items-center me-2 text-primary">
                                                                 <span class="me-1"><i class="ri-thumb-up-fill align-middle font-normal"></i></span><span class="font-semibold text-[.75rem]">40</span>
                                                             </a>
-                                                            <a href="javascript:void(0);" class="inline-flex items-center text-[#8c9097] dark:text-white/50">
+                                                            <a href="javascript:void(0);" class="inline-flex items-center text-[#8c9097]">
                                                                 <span class="me-1"><i class="ri-message-2-line align-middle font-normal"></i></span><span class="font-semibold text-[.75rem]">08</span>
                                                             </a>
                                                         </div>
@@ -211,7 +211,7 @@
                                         <div class="box kanban-tasks new">
                                             <div class="box-body !p-0">
                                                 <div class="p-4 kanban-board-head">
-                                                    <div class="flex text-[#8c9097] dark:text-white/50 justify-between mb-1 text-[.75rem] font-semibold">
+                                                    <div class="flex text-[#8c9097] justify-between mb-1 text-[.75rem] font-semibold">
                                                         <div class="inline-flex"><i class="ri-time-line me-1 align-middle"></i>Created - 02 Jun</div>
                                                         <div>1 days left</div>
                                                     </div>
@@ -235,13 +235,13 @@
                                                         <h6 class="font-semibold mb-0 mt-2 text-[1rem]">Design multi usage landing.</h6>
                                                     </div>
                                                 </div>
-                                                <div class="p-4 border-t dark:border-defaultborder/10 border-dashed">
+                                                <div class="p-4 border-t border-dashed">
                                                     <div class="flex items-center justify-between">
                                                         <div class="inline-flex items-center">
                                                             <a href="javascript:void(0);" class="inline-flex items-center me-2 text-primary">
                                                                 <span class="me-1"><i class="ri-thumb-up-fill align-middle font-normal"></i></span><span class="font-semibold text-[.75rem]">16</span>
                                                             </a>
-                                                            <a href="javascript:void(0);" class="inline-flex items-center text-[#8c9097] dark:text-white/50">
+                                                            <a href="javascript:void(0);" class="inline-flex items-center text-[#8c9097]">
                                                                 <span class="me-1"><i class="ri-message-2-line align-middle font-normal"></i></span><span class="font-semibold text-[.75rem]">28</span>
                                                             </a>
                                                         </div>
@@ -274,7 +274,7 @@
                                     <div class="flex justify-between items-center">
                                         <span class="block font-semibold text-[.9375rem]">TODO - 36</span>
                                         <div>
-                                            <a href="javascript:void(0);" class="hs-dropdown-toggle  ti-btn !py-1 !px-2 !font-medium  !text-[0.75rem] bg-white dark:bg-bodybg text-default border-0" data-hs-overlay="#add-task"><i class="ri-add-line"></i>Add Task
+                                            <a href="javascript:void(0);" class="hs-dropdown-toggle  ti-btn !py-1 !px-2 !font-medium  !text-[0.75rem] bg-white text-default border-0" data-hs-overlay="#add-task"><i class="ri-add-line"></i>Add Task
                                             </a>
                                         </div>
                                     </div>
@@ -284,7 +284,7 @@
                                         <div class="box kanban-tasks todo">
                                             <div class="box-body !p-0">
                                                 <div class="p-4 kanban-board-head">
-                                                    <div class="flex text-[#8c9097] dark:text-white/50 justify-between mb-1 text-[.75rem] font-semibold">
+                                                    <div class="flex text-[#8c9097] justify-between mb-1 text-[.75rem] font-semibold">
                                                         <div class="inline-flex"><i class="ri-time-line me-1 align-middle"></i>Created - 01 Jun</div>
                                                         <div>10 days left</div>
                                                     </div>
@@ -306,13 +306,13 @@
                                                         <div class="kanban-task-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla soluta </div>
                                                     </div>
                                                 </div>
-                                                <div class="p-3 border-t dark:border-defaultborder/10 border-dashed">
+                                                <div class="p-3 border-t border-dashed">
                                                     <div class="flex items-center justify-between">
                                                         <div class="inline-flex items-center">
                                                             <a href="javascript:void(0);" class="inline-flex items-center me-2 text-primary">
                                                                 <span class="me-1"><i class="ri-thumb-up-fill align-middle font-normal"></i></span><span class="font-semibold text-[.75rem]">06</span>
                                                             </a>
-                                                            <a href="javascript:void(0);" class="inline-flex items-center text-[#8c9097] dark:text-white/50">
+                                                            <a href="javascript:void(0);" class="inline-flex items-center text-[#8c9097]">
                                                                 <span class="me-1"><i class="ri-message-2-line align-middle font-normal"></i></span><span class="font-semibold text-[.75rem]">02</span>
                                                             </a>
                                                         </div>
@@ -334,7 +334,7 @@
                                         <div class="box kanban-tasks todo">
                                             <div class="box-body p-0">
                                                 <div class="p-3 kanban-board-head">
-                                                    <div class="flex text-[#8c9097] dark:text-white/50 justify-between mb-1 text-[.75rem] font-semibold">
+                                                    <div class="flex text-[#8c9097] justify-between mb-1 text-[.75rem] font-semibold">
                                                         <div class="inline-flex"><i class="ri-time-line me-1 align-middle"></i>Created - 05 Jun</div>
                                                         <div>14 days left</div>
                                                     </div>
@@ -358,13 +358,13 @@
                                                         <h6 class="font-semibold mb-0 mt-2">New Project Discussion.</h6>
                                                     </div>
                                                 </div>
-                                                <div class="p-3 border-t dark:border-defaultborder/10 border-dashed">
+                                                <div class="p-3 border-t border-dashed">
                                                     <div class="flex items-center justify-between">
                                                         <div class="inline-flex items-center">
                                                             <a href="javascript:void(0);" class="inline-flex items-center me-2 text-primary">
                                                                 <span class="me-1"><i class="ri-thumb-up-fill align-middle font-normal"></i></span><span class="font-semibold text-[.75rem]">17</span>
                                                             </a>
-                                                            <a href="javascript:void(0);" class="inline-flex items-center text-[#8c9097] dark:text-white/50">
+                                                            <a href="javascript:void(0);" class="inline-flex items-center text-[#8c9097]">
                                                                 <span class="me-1"><i class="ri-message-2-line align-middle font-normal"></i></span><span class="font-semibold text-[.75rem]">06</span>
                                                             </a>
                                                         </div>
@@ -397,7 +397,7 @@
                                     <div class="flex justify-between items-center">
                                         <span class="block font-semibold text-[.9375rem]">ON GOING - 25</span>
                                         <div>
-                                            <a href="javascript:void(0);" class="hs-dropdown-toggle  ti-btn !py-1 !px-2 !font-medium !text-[0.75rem] bg-white dark:bg-bodybg text-default border-0" data-hs-overlay="#add-task"><i class="ri-add-line"></i>Add Task
+                                            <a href="javascript:void(0);" class="hs-dropdown-toggle  ti-btn !py-1 !px-2 !font-medium !text-[0.75rem] bg-white text-default border-0" data-hs-overlay="#add-task"><i class="ri-add-line"></i>Add Task
                                             </a>
                                         </div>
                                     </div>
@@ -407,7 +407,7 @@
                                         <div class="box kanban-tasks todo">
                                             <div class="box-body !p-0">
                                                 <div class="p-4 kanban-board-head">
-                                                    <div class="flex text-[#8c9097] dark:text-white/50 justify-between mb-1 text-[.75rem] font-semibold">
+                                                    <div class="flex text-[#8c9097] justify-between mb-1 text-[.75rem] font-semibold">
                                                         <div class="inline-flex"><i class="ri-time-line me-1 align-middle"></i>Created - 02 Jun</div>
                                                         <div>5 days left</div>
                                                     </div>
@@ -429,13 +429,13 @@
                                                         <div class="kanban-task-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla soluta </div>
                                                     </div>
                                                 </div>
-                                                <div class="p-4 border-t dark:border-defaultborder/10 border-dashed">
+                                                <div class="p-4 border-t border-dashed">
                                                     <div class="flex items-center justify-between">
                                                         <div class="inline-flex items-center">
                                                             <a href="javascript:void(0);" class="inline-flex items-center me-2 text-primary">
                                                                 <span class="me-1"><i class="ri-thumb-up-fill align-middle font-normal"></i></span><span class="font-semibold text-[.75rem]">05</span>
                                                             </a>
-                                                            <a href="javascript:void(0);" class="inline-flex items-center text-[#8c9097] dark:text-white/50">
+                                                            <a href="javascript:void(0);" class="inline-flex items-center text-[#8c9097]">
                                                                 <span class="me-1"><i class="ri-message-2-line align-middle font-normal"></i></span><span class="font-semibold text-[.75rem]">13</span>
                                                             </a>
                                                         </div>
@@ -454,7 +454,7 @@
                                         <div class="box kanban-tasks todo">
                                             <div class="box-body !p-0">
                                                 <div class="p-4 kanban-board-head">
-                                                    <div class="flex text-[#8c9097] dark:text-white/50 justify-between mb-1 text-[.75rem] font-semibold">
+                                                    <div class="flex text-[#8c9097] justify-between mb-1 text-[.75rem] font-semibold">
                                                         <div class="inline-flex"><i class="ri-time-line me-1 align-middle"></i>Created - 03 Jun</div>
                                                         <div>12 days left</div>
                                                     </div>
@@ -476,13 +476,13 @@
                                                         <div class="kanban-task-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla soluta </div>
                                                     </div>
                                                 </div>
-                                                <div class="p-3 border-t dark:border-defaultborder/10 border-dashed">
+                                                <div class="p-3 border-t border-dashed">
                                                     <div class="flex items-center justify-between">
                                                         <div class="inline-flex items-center">
                                                             <a href="javascript:void(0);" class="inline-flex items-center me-2 text-primary">
                                                                 <span class="me-1"><i class="ri-thumb-up-fill align-middle font-normal"></i></span><span class="font-semibold text-[.75rem]">02</span>
                                                             </a>
-                                                            <a href="javascript:void(0);" class="inline-flex items-center text-[#8c9097] dark:text-white/50">
+                                                            <a href="javascript:void(0);" class="inline-flex items-center text-[#8c9097]">
                                                                 <span class="me-1"><i class="ri-message-2-line align-middle font-normal"></i></span><span class="font-semibold text-[.75rem]">0</span>
                                                             </a>
                                                         </div>
@@ -506,7 +506,7 @@
                                     <div class="flex justify-between items-center">
                                         <span class="block font-semibold text-[.9375rem]">IN REVIEW - 02</span>
                                         <div>
-                                            <a href="javascript:void(0);" class="hs-dropdown-toggle  ti-btn !py-1 !px-2 !font-medium !text-[0.75rem] bg-white dark:bg-bodybg text-default border-0" data-hs-overlay="#add-task"><i class="ri-add-line"></i>Add Task
+                                            <a href="javascript:void(0);" class="hs-dropdown-toggle  ti-btn !py-1 !px-2 !font-medium !text-[0.75rem] bg-white text-default border-0" data-hs-overlay="#add-task"><i class="ri-add-line"></i>Add Task
                                             </a>
                                         </div>
                                     </div>
@@ -516,7 +516,7 @@
                                         <div class="box kanban-tasks interview">
                                             <div class="box-body !p-0">
                                                 <div class="p-4 kanban-board-head">
-                                                    <div class="flex text-[#8c9097] dark:text-white/50 justify-between mb-1 text-[.75rem] font-semibold">
+                                                    <div class="flex text-[#8c9097] justify-between mb-1 text-[.75rem] font-semibold">
                                                         <div class="inline-flex"><i class="ri-time-line me-1 align-middle"></i>Created - 05 Jun</div>
                                                         <div>14 days left</div>
                                                     </div>
@@ -540,13 +540,13 @@
                                                         <h6 class="font-semibold mb-0 mt-2">Design Architecture strategy.</h6>
                                                     </div>
                                                 </div>
-                                                <div class="p-3 border-t dark:border-defaultborder/10 border-dashed">
+                                                <div class="p-3 border-t border-dashed">
                                                     <div class="flex items-center justify-between">
                                                         <div class="inline-flex items-center">
                                                             <a href="javascript:void(0);" class="inline-flex items-center me-2 text-primary">
                                                                 <span class="me-1"><i class="ri-thumb-up-fill align-middle font-normal"></i></span><span class="font-semibold text-[.75rem]">09</span>
                                                             </a>
-                                                            <a href="javascript:void(0);" class="inline-flex items-center text-[#8c9097] dark:text-white/50">
+                                                            <a href="javascript:void(0);" class="inline-flex items-center text-[#8c9097]">
                                                                 <span class="me-1"><i class="ri-message-2-line align-middle font-normal"></i></span><span class="font-semibold text-[.75rem]">35</span>
                                                             </a>
                                                         </div>
@@ -576,7 +576,7 @@
                                     <div class="flex justify-between items-center">
                                         <span class="block font-semibold text-[.9375rem]">COMPLETED - 36</span>
                                         <div>
-                                            <a href="javascript:void(0);" class="hs-dropdown-toggle  ti-btn !py-1 !px-2 !font-medium !text-[0.75rem] bg-white dark:bg-bodybg text-default border-0" data-hs-overlay="#add-task"><i class="ri-add-line"></i>Add Task
+                                            <a href="javascript:void(0);" class="hs-dropdown-toggle  ti-btn !py-1 !px-2 !font-medium !text-[0.75rem] bg-white text-default border-0" data-hs-overlay="#add-task"><i class="ri-add-line"></i>Add Task
                                             </a>
                                         </div>
                                     </div>
@@ -586,7 +586,7 @@
                                         <div class="box kanban-tasks completed">
                                             <div class="box-body !p-0">
                                                 <div class="p-4 kanban-board-head">
-                                                    <div class="flex text-[#8c9097] dark:text-white/50 justify-between mb-1 text-[.75rem] font-semibold">
+                                                    <div class="flex text-[#8c9097] justify-between mb-1 text-[.75rem] font-semibold">
                                                         <div class="inline-flex"><i class="ri-time-line me-1 align-middle"></i>Created - 12 Jun</div>
                                                         <div class="text-success"><i class="ri-check-fill me-1 align-middle"></i>Done</div>
                                                     </div>
@@ -608,13 +608,13 @@
                                                         <div class="kanban-task-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla soluta </div>
                                                     </div>
                                                 </div>
-                                                <div class="p-4 border-t dark:border-defaultborder/10 border-dashed">
+                                                <div class="p-4 border-t border-dashed">
                                                     <div class="flex items-center justify-between">
                                                         <div class="inline-flex items-center">
                                                             <a href="javascript:void(0);" class="inline-flex items-center me-2 text-primary">
                                                                 <span class="me-1"><i class="ri-thumb-up-fill align-middle font-normal"></i></span><span class="font-semibold text-[.75rem]">18</span>
                                                             </a>
-                                                            <a href="javascript:void(0);" class="inline-flex items-center text-[#8c9097] dark:text-white/50">
+                                                            <a href="javascript:void(0);" class="inline-flex items-center text-[#8c9097]">
                                                                 <span class="me-1"><i class="ri-message-2-line align-middle font-normal"></i></span><span class="font-semibold text-[.75rem]">03</span>
                                                             </a>
                                                         </div>
@@ -633,7 +633,7 @@
                                         <div class="box kanban-tasks completed">
                                             <div class="box-body !p-0">
                                                 <div class="p-4 kanban-board-head">
-                                                    <div class="flex text-[#8c9097] dark:text-white/50 justify-between mb-1 text-[.75rem] font-semibold">
+                                                    <div class="flex text-[#8c9097] justify-between mb-1 text-[.75rem] font-semibold">
                                                         <div class="inline-flex"><i class="ri-time-line me-1 align-middle"></i>Created - 10 Jun</div>
                                                         <div class="text-success"><i class="ri-check-fill me-1 align-middle"></i>Done</div>
                                                     </div>
@@ -655,13 +655,13 @@
                                                         <div class="kanban-task-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla soluta </div>
                                                     </div>
                                                 </div>
-                                                <div class="p-4 border-t dark:border-defaultborder/10 border-dashed">
+                                                <div class="p-4 border-t border-dashed">
                                                     <div class="flex items-center justify-between">
                                                         <div class="inline-flex items-center">
                                                             <a href="javascript:void(0);" class="inline-flex items-center me-2 text-primary">
                                                                 <span class="me-1"><i class="ri-thumb-up-fill align-middle font-normal"></i></span><span class="font-semibold text-[.75rem]">22</span>
                                                             </a>
-                                                            <a href="javascript:void(0);" class="inline-flex items-center text-[#8c9097] dark:text-white/50">
+                                                            <a href="javascript:void(0);" class="inline-flex items-center text-[#8c9097]">
                                                                 <span class="me-1"><i class="ri-message-2-line align-middle font-normal"></i></span><span class="font-semibold text-[.75rem]">12</span>
                                                             </a>
                                                         </div>
@@ -683,7 +683,7 @@
                                         <div class="box kanban-tasks completed">
                                             <div class="box-body !p-0">
                                                 <div class="p-4 kanban-board-head">
-                                                    <div class="flex text-[#8c9097] dark:text-white/50 justify-between mb-1 text-[.75rem] font-semibold">
+                                                    <div class="flex text-[#8c9097] justify-between mb-1 text-[.75rem] font-semibold">
                                                         <div class="inline-flex"><i class="ri-time-line me-1 align-middle"></i>Created - 07 Jun</div>
                                                         <div class="text-success"><i class="ri-check-fill me-1 align-middle"></i>Done</div>
                                                     </div>
@@ -707,13 +707,13 @@
                                                         <h6 class="font-semibold mb-0 mt-2">Project discussion with client.</h6>
                                                     </div>
                                                 </div>
-                                                <div class="p-4 border-t dark:border-defaultborder/10 border-dashed">
+                                                <div class="p-4 border-t border-dashed">
                                                     <div class="flex items-center justify-between">
                                                         <div class="inline-flex items-center">
                                                             <a href="javascript:void(0);" class="inline-flex items-center me-2 text-primary">
                                                                 <span class="me-1"><i class="ri-thumb-up-fill align-middle font-normal"></i></span><span class="font-semibold text-[.75rem]">11</span>
                                                             </a>
-                                                            <a href="javascript:void(0);" class="inline-flex items-center text-[#8c9097] dark:text-white/50">
+                                                            <a href="javascript:void(0);" class="inline-flex items-center text-[#8c9097]">
                                                                 <span class="me-1"><i class="ri-message-2-line align-middle font-normal"></i></span><span class="font-semibold text-[.75rem]">05</span>
                                                             </a>
                                                         </div>
@@ -740,7 +740,7 @@
                             <div class="hs-overlay-open:mt-7 ti-modal-box mt-0 ease-out">
                               <div class="ti-modal-content">
                                 <div class="ti-modal-header">
-                                    <h6 class="modal-title text-[1rem] !text-default dark:text-defaulttextcolor/70 font-semibold">Add Board</h6>
+                                    <h6 class="modal-title text-[1rem] !text-default font-semibold">Add Board</h6>
                                     <button type="button" class="hs-dropdown-toggle !text-[1rem] !font-semibold" data-hs-overlay="#add-board">
                                         <span class="sr-only">Close</span>
                                         <i class="ri-close-line"></i>
@@ -772,7 +772,7 @@
                             <div class="hs-overlay-open:mt-7 ti-modal-box mt-0 ease-out">
                               <div class="ti-modal-content">
                                 <div class="ti-modal-header">
-                                    <h6 class="modal-title text-[1rem] font-semibold text-default dark:text-defaulttextcolor/70" id="mail-ComposeLabel">Add Task</h6>
+                                    <h6 class="modal-title text-[1rem] font-semibold text-default" id="mail-ComposeLabel">Add Task</h6>
                                       <button type="button" class="hs-dropdown-toggle !text-[1rem] !font-semibold" data-hs-overlay="#add-task">
                                         <span class="sr-only">Close</span>
                                         <i class="ri-close-line"></i>

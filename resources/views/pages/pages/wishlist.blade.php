@@ -12,16 +12,16 @@
                       <!-- Page Header -->
                       <div class="block justify-between page-header md:flex">
                           <div>
-                              <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Wishlist</h3>
+                              <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Wishlist</h3>
                           </div>
                           <ol class="flex items-center whitespace-nowrap min-w-0">
                               <li class="text-[0.813rem] ps-[0.5rem]">
-                                <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                   Ecommerce
-                                  <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                  <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                 </a>
                               </li>
-                              <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                              <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                   Wishlist
                               </li>
                           </ol>
@@ -51,8 +51,8 @@
                                           <a aria-label="anchor" href="javascript:void(0);" class="wishlist btn-delete"><i class="ri-close-line"></i></a>
                                       </div>
                                       <p class="product-name font-semibold mb-0 flex items-center justify-between">Dapzem &amp; Co<span class="ltr:float-right rtl:float-left text-warning text-xs">4.2<i class="ri-star-s-fill align-middle ms-1"></i></span></p>
-                                      <p class="product-description text-[.6875rem] text-[#8c9097] dark:text-white/50 mb-2">Branded hoodie ethnic style</p>
-                                      <p class="mb-1 font-semibold text-[1rem] flex items-center justify-between"><span>$229<span class="text-[#8c9097] dark:text-white/50 line-through ms-1 opacity-[0.6] inline-block">$1,799</span></span><span class="badge bg-secondary/10 text-secondary ltr:float-right rtl:float-left !text-[.625rem]">72% off</span></p>
+                                      <p class="product-description text-[.6875rem] text-[#8c9097] mb-2">Branded hoodie ethnic style</p>
+                                      <p class="mb-1 font-semibold text-[1rem] flex items-center justify-between"><span>$229<span class="text-[#8c9097] line-through ms-1 opacity-[0.6] inline-block">$1,799</span></span><span class="badge bg-secondary/10 text-secondary ltr:float-right rtl:float-left !text-[.625rem]">72% off</span></p>
                                       <p class="text-[.6875rem] text-success font-semibold mb-0 flex items-center">
                                           <i class="ti ti-discount-2 text-[1rem] me-1"></i>Offer Price $229
                                       </p>
@@ -73,8 +73,8 @@
                                           <a aria-label="anchor" href="javascript:void(0);" class="wishlist btn-delete"><i class="ri-close-line"></i></a>
                                       </div>
                                       <p class="product-name font-semibold mb-0 flex items-center justify-between">Denim Winjo<span class="ltr:float-right rtl:float-left text-warning text-xs">4.0<i class="ri-star-s-fill align-middle ms-1"></i></span></p>
-                                      <p class="product-description text-[.6875rem] text-[#8c9097] dark:text-white/50 mb-2">Vintage pure leather Jacket</p>
-                                      <p class="mb-1 font-semibold text-[1rem] flex items-center justify-between"><span>$599<span class="text-[#8c9097] dark:text-white/50 line-through ms-1 opacity-[0.6] inline-block">$2,499</span></span><span class="badge bg-secondary/10 text-secondary ltr:float-right rtl:float-left !text-[.625rem]">75% off</span></p>
+                                      <p class="product-description text-[.6875rem] text-[#8c9097] mb-2">Vintage pure leather Jacket</p>
+                                      <p class="mb-1 font-semibold text-[1rem] flex items-center justify-between"><span>$599<span class="text-[#8c9097] line-through ms-1 opacity-[0.6] inline-block">$2,499</span></span><span class="badge bg-secondary/10 text-secondary ltr:float-right rtl:float-left !text-[.625rem]">75% off</span></p>
                                       <p class="text-[.6875rem] text-success font-semibold mb-0 flex items-center">
                                           <i class="ti ti-discount-2 text-[1rem] me-1"></i>Offer Price $599</p>
                                   </div>
@@ -94,8 +94,8 @@
                                           <a aria-label="anchor" href="javascript:void(0);" class="wishlist btn-delete"><i class="ri-close-line"></i></a>
                                       </div>
                                       <p class="product-name font-semibold mb-0 flex items-center justify-between">Jimmy Lolfiger<span class="ltr:float-right rtl:float-left text-warning text-xs">4.5<i class="ri-star-s-fill align-middle ms-1"></i></span></p>
-                                      <p class="product-description text-[.6875rem] text-[#8c9097] dark:text-white/50 mb-2">Unisex jacket for men &amp; women</p>
-                                      <p class="mb-1 font-semibold text-[1rem] flex items-center justify-between"><span>$1,199<span class="text-[#8c9097] dark:text-white/50 line-through ms-1 opacity-[0.6] inline-block">$3,299</span></span><span class="badge bg-secondary/10 text-secondary ltr:float-right rtl:float-left !text-[.625rem]">62% off</span></p>
+                                      <p class="product-description text-[.6875rem] text-[#8c9097] mb-2">Unisex jacket for men &amp; women</p>
+                                      <p class="mb-1 font-semibold text-[1rem] flex items-center justify-between"><span>$1,199<span class="text-[#8c9097] line-through ms-1 opacity-[0.6] inline-block">$3,299</span></span><span class="badge bg-secondary/10 text-secondary ltr:float-right rtl:float-left !text-[.625rem]">62% off</span></p>
                                       <p class="text-[.6875rem] text-success font-semibold mb-0 flex items-center">
                                           <i class="ti ti-discount-2 text-[1rem] me-1"></i>Offer Price $1,199</p>
                                   </div>
@@ -115,8 +115,8 @@
                                           <a aria-label="anchor" href="javascript:void(0);" class="wishlist btn-delete"><i class="ri-close-line"></i></a>
                                       </div>
                                       <p class="product-name font-semibold mb-0 flex items-center justify-between">Bluberry Co.In<span class="ltr:float-right rtl:float-left text-warning text-xs">4.2<i class="ri-star-s-fill align-middle ms-1"></i></span></p>
-                                      <p class="product-description text-[.6875rem] text-[#8c9097] dark:text-white/50 mb-2">Full sleeve white hoodie</p>
-                                      <p class="mb-1 font-semibold text-[1rem] flex items-center justify-between"><span>$349<span class="text-[#8c9097] dark:text-white/50 line-through ms-1 opacity-[0.6] inline-block">$1,299</span></span><span class="badge bg-secondary/10 text-secondary ltr:float-right rtl:float-left !text-[.625rem]">60% off</span></p>
+                                      <p class="product-description text-[.6875rem] text-[#8c9097] mb-2">Full sleeve white hoodie</p>
+                                      <p class="mb-1 font-semibold text-[1rem] flex items-center justify-between"><span>$349<span class="text-[#8c9097] line-through ms-1 opacity-[0.6] inline-block">$1,299</span></span><span class="badge bg-secondary/10 text-secondary ltr:float-right rtl:float-left !text-[.625rem]">60% off</span></p>
                                       <p class="text-[.6875rem] text-success font-semibold mb-0 flex items-center">
                                           <i class="ti ti-discount-2 text-[1rem] me-1"></i>Offer Price $349</p>
                                   </div>
@@ -136,8 +136,8 @@
                                           <a aria-label="anchor" href="javascript:void(0);" class="wishlist btn-delete"><i class="ri-close-line"></i></a>
                                       </div>
                                       <p class="product-name font-semibold mb-0 flex items-center justify-between">Aus Polo Assn<span class="ltr:float-right rtl:float-left text-warning text-xs">4.5<i class="ri-star-s-fill align-middle ms-1"></i></span></p>
-                                      <p class="product-description text-[.6875rem] text-[#8c9097] dark:text-white/50 mb-2">Snow jacket with low pockets</p>
-                                      <p class="mb-1 font-semibold text-[1rem] flex items-center justify-between"><span>$1,899<span class="text-[#8c9097] dark:text-white/50 line-through ms-1 opacity-[0.6] inline-block">$3,799</span></span><span class="badge bg-secondary/10 text-secondary ltr:float-right rtl:float-left !text-[.625rem]">50% off</span></p>
+                                      <p class="product-description text-[.6875rem] text-[#8c9097] mb-2">Snow jacket with low pockets</p>
+                                      <p class="mb-1 font-semibold text-[1rem] flex items-center justify-between"><span>$1,899<span class="text-[#8c9097] line-through ms-1 opacity-[0.6] inline-block">$3,799</span></span><span class="badge bg-secondary/10 text-secondary ltr:float-right rtl:float-left !text-[.625rem]">50% off</span></p>
                                       <p class="text-[.6875rem] text-success font-semibold mb-0 flex items-center">
                                           <i class="ti ti-discount-2 text-[1rem] me-1"></i>Offer Price $1,899</p>
                                   </div>
@@ -157,8 +157,8 @@
                                           <a aria-label="anchor" href="javascript:void(0);" class="wishlist btn-delete"><i class="ri-close-line"></i></a>
                                       </div>
                                       <p class="product-name font-semibold mb-0 flex items-center justify-between">BMW<span class="ltr:float-right rtl:float-left text-warning text-xs">4.1<i class="ri-star-s-fill align-middle ms-1"></i></span></p>
-                                      <p class="product-description text-[.6875rem] text-[#8c9097] dark:text-white/50 mb-2">Ethnic wear jackets form BMW</p>
-                                      <p class="mb-1 font-semibold text-[1rem] flex items-center justify-between"><span>$1,499<span class="text-[#8c9097] dark:text-white/50 line-through ms-1 opacity-[0.6] inline-block">$2,499</span></span><span class="badge bg-secondary/10 text-secondary ltr:float-right rtl:float-left !text-[.625rem]">38% off</span></p>
+                                      <p class="product-description text-[.6875rem] text-[#8c9097] mb-2">Ethnic wear jackets form BMW</p>
+                                      <p class="mb-1 font-semibold text-[1rem] flex items-center justify-between"><span>$1,499<span class="text-[#8c9097] line-through ms-1 opacity-[0.6] inline-block">$2,499</span></span><span class="badge bg-secondary/10 text-secondary ltr:float-right rtl:float-left !text-[.625rem]">38% off</span></p>
                                       <p class="text-[.6875rem] text-success font-semibold mb-0 flex items-center">
                                           <i class="ti ti-discount-2 text-[1rem] me-1"></i>Offer Price $1,499</p>
                                   </div>
@@ -178,8 +178,8 @@
                                           <a aria-label="anchor" href="javascript:void(0);" class="wishlist btn-delete"><i class="ri-close-line"></i></a>
                                       </div>
                                       <p class="product-name font-semibold mb-0 flex items-center justify-between">Denim Corporation<span class="ltr:float-right rtl:float-left text-warning text-xs">4.4<i class="ri-star-s-fill align-middle ms-1"></i></span></p>
-                                      <p class="product-description text-[.6875rem] text-[#8c9097] dark:text-white/50 mb-2">Flap pockets denim jackets for men</p>
-                                      <p class="mb-1 font-semibold text-[1rem] flex items-center justify-between"><span>$299<span class="text-[#8c9097] dark:text-white/50 line-through ms-1 opacity-[0.6] inline-block">$399</span></span><span class="badge bg-secondary/10 text-secondary ltr:float-right rtl:float-left !text-[.625rem]">35% off</span></p>
+                                      <p class="product-description text-[.6875rem] text-[#8c9097] mb-2">Flap pockets denim jackets for men</p>
+                                      <p class="mb-1 font-semibold text-[1rem] flex items-center justify-between"><span>$299<span class="text-[#8c9097] line-through ms-1 opacity-[0.6] inline-block">$399</span></span><span class="badge bg-secondary/10 text-secondary ltr:float-right rtl:float-left !text-[.625rem]">35% off</span></p>
                                       <p class="text-[.6875rem] text-success font-semibold mb-0 flex items-center">
                                           <i class="ti ti-discount-2 text-[1rem] me-1"></i>Offer Price $299</p>
                                   </div>
@@ -199,8 +199,8 @@
                                           <a aria-label="anchor" href="javascript:void(0);" class="wishlist btn-delete"><i class="ri-close-line"></i></a>
                                       </div>
                                       <p class="product-name font-semibold mb-0 flex items-center justify-between">Pufa<span class="ltr:float-right rtl:float-left text-warning text-xs">3.8<i class="ri-star-s-fill align-middle ms-1"></i></span></p>
-                                      <p class="product-description text-[.6875rem] text-[#8c9097] dark:text-white/50 mb-2">Ergonic designed full sleeve coat</p>
-                                      <p class="mb-1 font-semibold text-[1rem] flex items-center justify-between"><span>$2,399<span class="text-[#8c9097] dark:text-white/50 line-through ms-1 opacity-[0.6] inline-block">$5,699</span></span><span class="badge bg-primary/10 text-primary ltr:float-right rtl:float-left !text-[.625rem]">72% off</span></p>
+                                      <p class="product-description text-[.6875rem] text-[#8c9097] mb-2">Ergonic designed full sleeve coat</p>
+                                      <p class="mb-1 font-semibold text-[1rem] flex items-center justify-between"><span>$2,399<span class="text-[#8c9097] line-through ms-1 opacity-[0.6] inline-block">$5,699</span></span><span class="badge bg-primary/10 text-primary ltr:float-right rtl:float-left !text-[.625rem]">72% off</span></p>
                                       <p class="text-[.6875rem] text-success font-semibold mb-0 flex items-center">
                                           <i class="ti ti-discount-2 text-[1rem] me-1"></i>Offer Price $2,399</p>
                                   </div>
@@ -220,8 +220,8 @@
                                           <a aria-label="anchor" href="javascript:void(0);" class="wishlist btn-delete"><i class="ri-close-line"></i></a>
                                       </div>
                                       <p class="product-name font-semibold mb-0 flex items-center justify-between">Louie Phillippe<span class="ltr:float-right rtl:float-left text-warning text-xs">4.0<i class="ri-star-s-fill align-middle ms-1"></i></span></p>
-                                      <p class="product-description text-[.6875rem] text-[#8c9097] dark:text-white/50 mb-2">Ergonic green colored full sleeve jacket</p>
-                                      <p class="mb-1 font-semibold text-[1rem] flex items-center justify-between"><span>$1,899<span class="text-[#8c9097] dark:text-white/50 line-through ms-1 opacity-[0.6] inline-block">$3,299</span></span><span class="badge bg-primary/10 text-primary ltr:float-right rtl:float-left !text-[.625rem]">60% off</span></p>
+                                      <p class="product-description text-[.6875rem] text-[#8c9097] mb-2">Ergonic green colored full sleeve jacket</p>
+                                      <p class="mb-1 font-semibold text-[1rem] flex items-center justify-between"><span>$1,899<span class="text-[#8c9097] line-through ms-1 opacity-[0.6] inline-block">$3,299</span></span><span class="badge bg-primary/10 text-primary ltr:float-right rtl:float-left !text-[.625rem]">60% off</span></p>
                                       <p class="text-[.6875rem] text-success font-semibold mb-0 flex items-center">
                                           <i class="ti ti-discount-2 text-[1rem] me-1"></i>Offer Price $1,899</p>
                                   </div>
@@ -241,8 +241,8 @@
                                           <a aria-label="anchor" href="javascript:void(0);" class="wishlist btn-delete"><i class="ri-close-line"></i></a>
                                       </div>
                                       <p class="product-name font-semibold mb-0 flex items-center justify-between">Denim Corp<span class="ltr:float-right rtl:float-left text-warning text-xs">4.1<i class="ri-star-s-fill align-middle ms-1"></i></span></p>
-                                      <p class="product-description text-[.6875rem] text-[#8c9097] dark:text-white/50 mb-2">beautiful brown colored snow jacket</p>
-                                      <p class="mb-1 font-semibold text-[1rem] flex items-center justify-between"><span>$2,499<span class="text-[#8c9097] dark:text-white/50 line-through ms-1 opacity-[0.6] inline-block">$4,999</span></span><span class="badge bg-primary/10 text-primary ltr:float-right rtl:float-left !text-[.625rem]">50% off</span></p>
+                                      <p class="product-description text-[.6875rem] text-[#8c9097] mb-2">beautiful brown colored snow jacket</p>
+                                      <p class="mb-1 font-semibold text-[1rem] flex items-center justify-between"><span>$2,499<span class="text-[#8c9097] line-through ms-1 opacity-[0.6] inline-block">$4,999</span></span><span class="badge bg-primary/10 text-primary ltr:float-right rtl:float-left !text-[.625rem]">50% off</span></p>
                                       <p class="text-[.6875rem] text-success font-semibold mb-0 flex items-center">
                                           <i class="ti ti-discount-2 text-[1rem] me-1"></i>Offer Price $2,499</p>
                                   </div>
@@ -262,8 +262,8 @@
                                           <a aria-label="anchor" href="javascript:void(0);" class="wishlist btn-delete"><i class="ri-close-line"></i></a>
                                       </div>
                                       <p class="product-name font-semibold mb-0 flex items-center justify-between">Garage &amp; Co<span class="ltr:float-right rtl:float-left text-warning text-xs">4.3<i class="ri-star-s-fill align-middle ms-1"></i></span></p>
-                                      <p class="product-description text-[.6875rem] text-[#8c9097] dark:text-white/50 mb-2">Full sleeve sweat shirt</p>
-                                      <p class="mb-1 font-semibold text-[1rem] flex items-center justify-between"><span>$249<span class="text-[#8c9097] dark:text-white/50 line-through ms-1 opacity-[0.6] inline-block">$1,299</span></span><span class="badge bg-primary/10 text-primary ltr:float-right rtl:float-left !text-[.625rem]">70% off</span></p>
+                                      <p class="product-description text-[.6875rem] text-[#8c9097] mb-2">Full sleeve sweat shirt</p>
+                                      <p class="mb-1 font-semibold text-[1rem] flex items-center justify-between"><span>$249<span class="text-[#8c9097] line-through ms-1 opacity-[0.6] inline-block">$1,299</span></span><span class="badge bg-primary/10 text-primary ltr:float-right rtl:float-left !text-[.625rem]">70% off</span></p>
                                       <p class="text-[.6875rem] text-success font-semibold mb-0 flex items-center">
                                           <i class="ti ti-discount-2 text-[1rem] me-1"></i>Offer Price $249</p>
                                   </div>
@@ -283,8 +283,8 @@
                                           <a aria-label="anchor" href="javascript:void(0);" class="wishlist btn-delete"><i class="ri-close-line"></i></a>
                                       </div>
                                       <p class="product-name font-semibold mb-0 flex items-center justify-between">Blueberry &amp; Co<span class="ltr:float-right rtl:float-left text-warning text-xs">4.0<i class="ri-star-s-fill align-middle ms-1"></i></span></p>
-                                      <p class="product-description text-[.6875rem] text-[#8c9097] dark:text-white/50 mb-2">Light colored sweater form blueberry</p>
-                                      <p class="mb-1 font-semibold text-[1rem] flex items-center justify-between"><span>$499<span class="text-[#8c9097] dark:text-white/50 line-through ms-1 opacity-[0.6] inline-block">$799</span></span><span class="badge bg-primary/10 text-primary ltr:float-right rtl:float-left !text-[.625rem]">32% off</span></p>
+                                      <p class="product-description text-[.6875rem] text-[#8c9097] mb-2">Light colored sweater form blueberry</p>
+                                      <p class="mb-1 font-semibold text-[1rem] flex items-center justify-between"><span>$499<span class="text-[#8c9097] line-through ms-1 opacity-[0.6] inline-block">$799</span></span><span class="badge bg-primary/10 text-primary ltr:float-right rtl:float-left !text-[.625rem]">32% off</span></p>
                                       <p class="text-[.6875rem] text-success font-semibold mb-0 flex items-center">
                                           <i class="ti ti-discount-2 text-[1rem] me-1"></i>Offer Price $499</p>
                                   </div>

@@ -15,16 +15,16 @@
                         <!-- Page Header -->
                         <div class="block justify-between page-header md:flex">
                             <div>
-                                <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold">Job Company Search</h3>
+                                <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold">Job Company Search</h3>
                             </div>
                             <ol class="flex items-center whitespace-nowrap min-w-0">
                                 <li class="text-[0.813rem] ps-[0.5rem]">
-                                  <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                  <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                     Jobs
-                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                   </a>
                                 </li>
-                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                    Job Company Search
                                 </li>
                             </ol>
@@ -37,7 +37,7 @@
                                 <div class="xxl:col-span-3 lg:col-span-5 col-span-12">
                                     <div class="box custom-box products-navigation-box">
                                         <div class="box-body !p-0">
-                                            <div class="p-4 border-b dark:border-defaultborder/10">
+                                            <div class="p-4 border-b">
                                                 <h6 class="font-semibold mb-0">Industry Type</h6>
                                                 <div class="px-0 py-4 pb-0">
                                                     <div class="form-check mb-2">
@@ -107,7 +107,7 @@
                                                     </a>
                                                 </div>
                                             </div>
-                                            <div class="p-4 border-b dark:border-defaultborder/10">
+                                            <div class="p-4 border-b">
                                                 <h6 class="font-semibold mb-0">Location</h6>
                                                 <div class="px-0 py-4 pb-0">
                                                     <div class="form-check mb-2">
@@ -164,7 +164,7 @@
                                                     </a>
                                                 </div>
                                             </div>
-                                            <div class="p-4 border-b dark:border-defaultborder/10">
+                                            <div class="p-4 border-b">
                                                 <h6 class="font-semibold mb-0">Company Size</h6>
                                                 <div class="px-2 py-3 pb-0">
                                                     <div class="form-check mb-2">
@@ -190,7 +190,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="p-4 border-b dark:border-defaultborder/10">
+                                            <div class="p-4 border-b">
                                                 <h6 class="font-semibold mb-0">Recruiter Type</h6>
                                                 <div class="px-2 py-3 pb-0">
                                                     <div class="form-check mb-2">
@@ -209,7 +209,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="p-4 border-b dark:border-defaultborder/10">
+                                            <div class="p-4 border-b">
                                                 <h6 class="font-semibold mb-0">Job Vacancies</h6>
                                                 <div class="px-2 py-3 pb-0">
                                                     <div class="form-check mb-2">
@@ -235,7 +235,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="p-4 border-b dark:border-defaultborder/10">
+                                            <div class="p-4 border-b">
                                                 <h6 class="font-semibold mb-0">Type of Employement</h6>
                                                 <div class="px-2 py-3 pb-0">
                                                     <div class="form-check mb-2">
@@ -303,7 +303,7 @@
                                             <div class="flex items-center flex-wrap gap-2">
                                                 <h5 class="font-semibold mb-0 flex-grow">1287 <span class="font-normal text-[1.125rem]">Companies match for your search</span> </h5>
                                                 <div class="btn-group hs-dropdown ti-dropdown">
-                                                    <button class="ti-btn ti-btn-outline-light border dark:!border-defaultborder/10 dropdown-toggle dark:hover:!bg-light" type="button" aria-expanded="false">
+                                                    <button class="ti-btn ti-btn-outline-light border dropdown-toggle" type="button" aria-expanded="false">
                                                         Sort By <i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                                     </button>
                                                     <ul class="hs-dropdown-menu ti-dropdown-menu hidden">
@@ -335,16 +335,16 @@
                                                 </div>
                                             </div>
                                             <div class="flex items-center flex-wrap gap-2">
-                                                <span class="avatar avatar-xl bg-white dark:bg-bodybg shadow-sm border dark:border-defaultborder/10 p-2 !rounded-full">
+                                                <span class="avatar avatar-xl bg-white shadow-sm border p-2 !rounded-full">
                                                     <img src="{{asset('build/assets/images/company-logos/1.png')}}" alt="">
                                                 </span>
                                                 <div class="ms-2">
                                                     <h5 class="font-semibold mb-0 flex items-center"><a href="javascript:void(0);"> Spotech Technical Solutions <i class="bi bi-check-circle-fill text-success text-base"  title="Verified company"></i></a></h5>
                                                     <div class="flex gap-2">
                                                         <a href="javascript:void(0);"><i class="bi bi-geo-alt text-[0.6875rem]"></i> Kondapur, Hyderabad, </a>
-                                                        <p class="mb-0 text-[#8c9097] dark:text-white/50">Establishment year - 2019</p>
+                                                        <p class="mb-0 text-[#8c9097]">Establishment year - 2019</p>
                                                     </div>
-                                                    <div class="flex items-center text-[0.74rem] text-[#8c9097] dark:text-white/50">
+                                                    <div class="flex items-center text-[0.74rem] text-[#8c9097]">
                                                         <p class="text-[0.75rem] mb-0">Ratings : </p>
                                                         <div class="min-w-fit ms-2">
                                                             <span class="text-warning"><i class="bi bi-star-fill"></i></span>
@@ -353,7 +353,7 @@
                                                             <span class="text-warning"><i class="bi bi-star-fill"></i></span>
                                                             <span class="text-warning"><i class="bi bi-star-half"></i></span>
                                                         </div>
-                                                        <a href="javascript:void(0);" class="ms-1 min-w-fit text-[#8c9097] dark:text-white/50">
+                                                        <a href="javascript:void(0);" class="ms-1 min-w-fit text-[#8c9097]">
                                                             <span>(142)</span>
                                                             <span>Ratings</span>
                                                         </a>
@@ -388,16 +388,16 @@
                                                 </div>
                                             </div>
                                             <div class="flex items-center flex-wrap gap-2">
-                                                <span class="avatar avatar-xl bg-white dark:bg-bodybg  shadow-sm border dark:border-defaultborder/10 p-2 !rounded-full">
+                                                <span class="avatar avatar-xl bg-white  shadow-sm border p-2 !rounded-full">
                                                     <img src="{{asset('build/assets/images/company-logos/2.png')}}" alt="">
                                                 </span>
                                                 <div class="ms-2">
                                                     <h5 class="font-semibold mb-0 flex items-center"><a href="javascript:void(0);"> G Technical Solutions <i class="bi bi-check-circle-fill text-success text-base"  title="Verified company"></i></a></h5>
                                                     <div class="flex gap-2">
                                                         <a href="javascript:void(0);"><i class="bi bi-geo-alt text-[0.6875rem]"></i> Gachibowli, Hyderabad, </a>
-                                                        <p class="mb-0 text-[#8c9097] dark:text-white/50">Establishment year - 2015</p>
+                                                        <p class="mb-0 text-[#8c9097]">Establishment year - 2015</p>
                                                     </div>
-                                                    <div class="flex items-center text-[0.75rem] text-[#8c9097] dark:text-white/50">
+                                                    <div class="flex items-center text-[0.75rem] text-[#8c9097]">
                                                         <p class="text-[0.75rem] mb-0">Ratings : </p>
                                                         <div class="min-w-fit ms-2">
                                                             <span class="text-warning"><i class="bi bi-star-fill"></i></span>
@@ -406,7 +406,7 @@
                                                             <span class="text-warning"><i class="bi bi-star-fill"></i></span>
                                                             <span class="text-warning"><i class="bi bi-star"></i></span>
                                                         </div>
-                                                        <a href="javascript:void(0);" class="ms-1 min-w-fit text-[#8c9097] dark:text-white/50">
+                                                        <a href="javascript:void(0);" class="ms-1 min-w-fit text-[#8c9097]">
                                                             <span>(134)</span>
                                                             <span>Ratings</span>
                                                         </a>
@@ -441,16 +441,16 @@
                                                 </div>
                                             </div>
                                             <div class="flex items-center flex-wrap gap-2">
-                                                <span class="avatar avatar-xl bg-white dark:bg-bodybg  shadow-sm border dark:border-defaultborder/10 p-2 !rounded-full">
+                                                <span class="avatar avatar-xl bg-white  shadow-sm border p-2 !rounded-full">
                                                     <img src="{{asset('build/assets/images/company-logos/3.png')}}" alt="">
                                                 </span>
                                                 <div class="ms-2">
                                                     <h5 class="font-semibold mb-0 flex items-center"><a href="javascript:void(0);"> Diego Technical Solutions <i class="bi bi-check-circle-fill text-success text-base"  title="Verified company"></i></a></h5>
                                                     <div class="flex gap-2">
                                                         <a href="javascript:void(0);"><i class="bi bi-geo-alt text-[0.6875rem]"></i> Gachibowli, Chennai, </a>
-                                                        <p class="mb-0 text-[#8c9097] dark:text-white/50">Establishment year - 2013</p>
+                                                        <p class="mb-0 text-[#8c9097]">Establishment year - 2013</p>
                                                     </div>
-                                                    <div class="flex items-center text-[0.75rem] text-[#8c9097] dark:text-white/50">
+                                                    <div class="flex items-center text-[0.75rem] text-[#8c9097]">
                                                         <p class="text-[0.75rem] mb-0">Ratings : </p>
                                                         <div class="min-w-fit ms-2">
                                                             <span class="text-warning"><i class="bi bi-star-fill"></i></span>
@@ -459,7 +459,7 @@
                                                             <span class="text-warning"><i class="bi bi-star-fill"></i></span>
                                                             <span class="text-warning"><i class="bi bi-star"></i></span>
                                                         </div>
-                                                        <a href="javascript:void(0);" class="ms-1 min-w-fit text-[#8c9097] dark:text-white/50">
+                                                        <a href="javascript:void(0);" class="ms-1 min-w-fit text-[#8c9097]">
                                                             <span>(234)</span>
                                                             <span>Ratings</span>
                                                         </a>
@@ -494,16 +494,16 @@
                                                 </div>
                                             </div>
                                             <div class="flex items-center flex-wrap gap-2">
-                                                <span class="avatar avatar-xl bg-white dark:bg-bodybg  shadow-sm border dark:border-defaultborder/10 p-2 !rounded-full">
+                                                <span class="avatar avatar-xl bg-white  shadow-sm border p-2 !rounded-full">
                                                     <img src="{{asset('build/assets/images/company-logos/7.png')}}" alt="">
                                                 </span>
                                                 <div class="ms-2">
                                                     <h5 class="font-semibold mb-0 flex items-center"><a href="javascript:void(0);"> Spoteck Solutions Pvt Ltd <i class="bi bi-check-circle-fill text-success text-base"  title="Verified company"></i></a></h5>
                                                     <div class="flex gap-2">
                                                         <a href="javascript:void(0);"><i class="bi bi-geo-alt text-[0.6875rem]"></i> Gachibowli, Banglore, </a>
-                                                        <p class="mb-0 text-[#8c9097] dark:text-white/50">Establishment year - 2002</p>
+                                                        <p class="mb-0 text-[#8c9097]">Establishment year - 2002</p>
                                                     </div>
-                                                    <div class="flex items-center text-[0.75rem] text-[#8c9097] dark:text-white/50">
+                                                    <div class="flex items-center text-[0.75rem] text-[#8c9097]">
                                                         <p class="text-[0.75rem] mb-0">Ratings : </p>
                                                         <div class="min-w-fit ms-2">
                                                             <span class="text-warning"><i class="bi bi-star-fill"></i></span>
@@ -512,7 +512,7 @@
                                                             <span class="text-warning"><i class="bi bi-star-fill"></i></span>
                                                             <span class="text-warning"><i class="bi bi-star-half"></i></span>
                                                         </div>
-                                                        <a href="javascript:void(0);" class="ms-1 min-w-fit text-[#8c9097] dark:text-white/50">
+                                                        <a href="javascript:void(0);" class="ms-1 min-w-fit text-[#8c9097]">
                                                             <span>(239)</span>
                                                             <span>Ratings</span>
                                                         </a>
@@ -557,16 +557,16 @@
                                                 </div>
                                             </div>
                                             <div class="flex items-center flex-wrap gap-2">
-                                                <span class="avatar avatar-xl bg-white dark:bg-bodybg  shadow-sm border dark:border-defaultborder/10 p-2 !rounded-full">
+                                                <span class="avatar avatar-xl bg-white  shadow-sm border p-2 !rounded-full">
                                                     <img src="{{asset('build/assets/images/company-logos/5.png')}}" alt="">
                                                 </span>
                                                 <div class="ms-2">
                                                     <h5 class="font-semibold mb-0 flex items-center"><a href="javascript:void(0);"> Vehement Capital Partners <i class="bi bi-check-circle-fill text-success text-base"  title="Verified company"></i></a></h5>
                                                     <div class="flex gap-2">
                                                         <a href="javascript:void(0);"><i class="bi bi-geo-alt text-[0.6875rem]"></i> Gachibowli, Banglore, </a>
-                                                        <p class="mb-0 text-[#8c9097] dark:text-white/50">Establishment year - 2017</p>
+                                                        <p class="mb-0 text-[#8c9097]">Establishment year - 2017</p>
                                                     </div>
-                                                    <div class="flex items-center text-[0.75rem] text-[#8c9097] dark:text-white/50">
+                                                    <div class="flex items-center text-[0.75rem] text-[#8c9097]">
                                                         <p class="text-[0.75rem] mb-0">Ratings : </p>
                                                         <div class="min-w-fit ms-2">
                                                             <span class="text-warning"><i class="bi bi-star-fill"></i></span>
@@ -575,7 +575,7 @@
                                                             <span class="text-warning"><i class="bi bi-star-fill"></i></span>
                                                             <span class="text-warning"><i class="bi bi-star-half"></i></span>
                                                         </div>
-                                                        <a href="javascript:void(0);" class="ms-1 min-w-fit text-[#8c9097] dark:text-white/50">
+                                                        <a href="javascript:void(0);" class="ms-1 min-w-fit text-[#8c9097]">
                                                             <span>(239)</span>
                                                             <span>Ratings</span>
                                                         </a>
@@ -620,16 +620,16 @@
                                                 </div>
                                             </div>
                                             <div class="flex items-center flex-wrap gap-2">
-                                                <span class="avatar avatar-xl bg-white dark:bg-bodybg  shadow-sm border dark:border-defaultborder/10 p-2 !rounded-full">
+                                                <span class="avatar avatar-xl bg-white  shadow-sm border p-2 !rounded-full">
                                                     <img src="{{asset('build/assets/images/company-logos/6.png')}}" alt="">
                                                 </span>
                                                 <div class="ms-2">
                                                     <h5 class="font-semibold mb-0 flex items-center"><a href="javascript:void(0);"> Wonka Industries <i class="bi bi-check-circle-fill text-success text-base"  title="Verified company"></i></a></h5>
                                                     <div class="flex gap-2">
                                                         <a href="javascript:void(0);"><i class="bi bi-geo-alt text-[0.6875rem]"></i> Kukatpally, Hyderabad, </a>
-                                                        <p class="mb-0 text-[#8c9097] dark:text-white/50">Establishment year - 2000</p>
+                                                        <p class="mb-0 text-[#8c9097]">Establishment year - 2000</p>
                                                     </div>
-                                                    <div class="flex items-center text-[0.75rem] text-[#8c9097] dark:text-white/50">
+                                                    <div class="flex items-center text-[0.75rem] text-[#8c9097]">
                                                         <p class="text-[0.75rem] mb-0">Ratings : </p>
                                                         <div class="min-w-fit ms-2">
                                                             <span class="text-warning"><i class="bi bi-star-fill"></i></span>
@@ -638,7 +638,7 @@
                                                             <span class="text-warning"><i class="bi bi-star-fill"></i></span>
                                                             <span class="text-warning"><i class="bi bi-star-half"></i></span>
                                                         </div>
-                                                        <a href="javascript:void(0);" class="ms-1 min-w-fit text-[#8c9097] dark:text-white/50">
+                                                        <a href="javascript:void(0);" class="ms-1 min-w-fit text-[#8c9097]">
                                                             <span>(764)</span>
                                                             <span>Ratings</span>
                                                         </a>

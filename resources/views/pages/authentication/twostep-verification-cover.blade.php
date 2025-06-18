@@ -10,7 +10,7 @@
 @section('content')
 
 @section('error-body')
-<body class="bg-white dark:!bg-bodybg">
+<body class="bg-white">
 @endsection
 
           <div class="grid grid-cols-12 authentication mx-0 text-defaulttextcolor text-defaultsize">
@@ -27,7 +27,7 @@
                                   </a>
                               </div>
                               <p class="font-semibold mb-2 text-xl">Verify Your Account</p>
-                              <p class="mb-4 text-[#8c9097] dark:text-white/50 opacity-[0.7] font-normal">Enter the 4 digit code sent to the registered email Id.</p>
+                              <p class="mb-4 text-[#8c9097] opacity-[0.7] font-normal">Enter the 4 digit code sent to the registered email Id.</p>
                               <div class="grid grid-cols-12 gap-4">
                                   <div class="xl:col-span-12 col-span-12 mb-4">
                                       <div class="grid grid-cols-12 gap-4">
@@ -52,7 +52,7 @@
                                       </div>
                                   </div>
                                   <div class="xl:col-span-12 col-span-12 grid">
-                                      <a href="{{url('index')}}" class="ti-btn ti-btn-lg bg-primary text-white !font-medium dark:border-defaultborder/10">Verify</a>
+                                      <a href="{{url('index')}}" class="ti-btn ti-btn-lg bg-primary text-white !font-medium">Verify</a>
                                   </div>
                               </div>
                               <div class="text-center">

@@ -8,13 +8,13 @@
 @section('content')
         
                     <div class="main-chart-wrapper p-2 gap-2 lg:flex">
-                        <div class="chat-info border dark:border-defaultborder/10">
+                        <div class="chat-info border">
                             <a aria-label="anchor" href="javascript:void(0)" class="ti-btn bg-secondary text-white !font-medium ti-btn-icon !rounded-full chat-add-icon">
                                 <i class="ri-add-line"></i>
                             </a>
-                            <div class="flex items-center justify-between w-full p-4 border-b dark:border-defaultborder/10">
+                            <div class="flex items-center justify-between w-full p-4 border-b">
                                 <div>
-                                    <h5 class="font-semibold mb-0 text-[1.25rem] !text-defaulttextcolor dark:text-defaulttextcolor/70">Messages</h5>
+                                    <h5 class="font-semibold mb-0 text-[1.25rem] !text-defaulttextcolor">Messages</h5>
                                 </div>
                                 <div class="hs-dropdown ti-dropdown">
                                     <button aria-label="button" class="ti-btn ti-btn-icon ti-btn-secondary text-secondary"
@@ -31,20 +31,20 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="chat-search p-4 border-b dark:border-defaultborder/10">
+                            <div class="chat-search p-4 border-b">
                                 <div class="input-group">
                                     <input type="text" class="form-control !bg-light border-0 !rounded-s-md" placeholder="Search Chat"
                                         aria-describedby="button-addon2">
                                     <button aria-label="button" class="ti-btn ti-btn-light !rounded-s-none !mb-0" type="button" id="button-addon2"><i
-                                            class="ri-search-line text-[#8c9097] dark:text-white/50"></i></button>
+                                            class="ri-search-line text-[#8c9097]"></i></button>
                                 </div>
                             </div>
-                            <nav class="flex border-b border-defaultborder dark:border-defaultborder/10" aria-label="Tabs">
-                                <a class="hs-tab-active:border-b-2 hs-tab-active:border-b-primary hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer border-e dark:border-defaultborder/10 text-defaulttextcolor py-2 px-4 flex-grow  text-sm font-medium text-center rounded-none active" id="users-item" data-hs-tab="#users-tab-pane" aria-controls="users-tab-pane">
+                            <nav class="flex border-b border-defaultborder" aria-label="Tabs">
+                                <a class="hs-tab-active:border-b-2 hs-tab-active:border-b-primary hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer border-e text-defaulttextcolor py-2 px-4 flex-grow  text-sm font-medium text-center rounded-none active" id="users-item" data-hs-tab="#users-tab-pane" aria-controls="users-tab-pane">
                                     <i
                                     class="ri-history-line me-1 align-middle inline-block cursor-pointer w-[1.875rem] h-[1.875rem] p-[0.4rem] rounded-full hs-tab-active:bg-primary/10 bg-light"></i>Recent
                                 </a>
-                                <a class="hs-tab-active:border-b-2 hs-tab-active:border-b-primary hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer border-e dark:border-defaultborder/10 text-defaulttextcolor py-2 px-4 text-sm flex-grow font-medium text-center  rounded-none " id="groups-item" data-hs-tab="#groups-tab-pane" aria-controls="groups-tab-pane">
+                                <a class="hs-tab-active:border-b-2 hs-tab-active:border-b-primary hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer border-e text-defaulttextcolor py-2 px-4 text-sm flex-grow font-medium text-center  rounded-none " id="groups-item" data-hs-tab="#groups-tab-pane" aria-controls="groups-tab-pane">
                                     <i
                                     class="ri-group-2-line me-1 align-middle inline-block w-[1.875rem] h-[1.875rem] p-[0.4rem] rounded-full hs-tab-active:bg-primary/10 bg-light"></i>Groups
                                 </a>
@@ -56,7 +56,7 @@
                                 <div class="tab-pane fade show active !border-0 chat-users-tab" id="users-tab-pane" aria-labelledby="users-item" role="tabpanel" tabindex="0">
                                     <ul class="list-none mb-0 mt-2 chat-users-tab" id="chat-msg-scroll">
                                         <li class="!pb-0 !pt-0">
-                                            <p class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] font-semibold mb-2 opacity-[0.7]">ACTIVE CHATS</p>
+                                            <p class="text-[#8c9097] text-[0.6875rem] font-semibold mb-2 opacity-[0.7]">ACTIVE CHATS</p>
                                         </li>
                                         <li class="checkforactive">
                                             <a href="javascript:void(0);" onclick="changeTheInfo(this,'Sujika','5','online')">
@@ -69,7 +69,7 @@
                                                     <div class="flex-grow">
                                                         <p class="mb-0 font-semibold">
                                                             Sujika <span
-                                                                class="ltr:float-right rtl:float-left text-[#8c9097] dark:text-white/50 font-normal text-[0.6875rem]">1:32PM</span>
+                                                                class="ltr:float-right rtl:float-left text-[#8c9097] font-normal text-[0.6875rem]">1:32PM</span>
                                                         </p>
                                                         <p class="text-[0.75rem] mb-0">
                                                             <span class="chat-msg text-truncate">Need to go for lunch?</span>
@@ -91,7 +91,7 @@
                                                     <div class="flex-grow">
                                                         <p class="mb-0 font-semibold">
                                                             Emiley Jackson <span
-                                                                class="ltr:float-right rtl:float-left text-[#8c9097] dark:text-white/50 font-normal text-[0.6875rem]">12:24PM</span>
+                                                                class="ltr:float-right rtl:float-left text-[#8c9097] font-normal text-[0.6875rem]">12:24PM</span>
                                                         </p>
                                                         <p class="text-[0.75rem] mb-0 chat-msg-typing ">
                                                             <span class="chat-msg text-truncate">Typing...</span>
@@ -115,7 +115,7 @@
                                                     <div class="flex-grow">
                                                         <p class="mb-0 font-semibold">
                                                             McGreggor <span
-                                                                class="ltr:float-right rtl:float-left text-[#8c9097] dark:text-white/50 font-normal text-[0.6875rem]">1:16PM</span>
+                                                                class="ltr:float-right rtl:float-left text-[#8c9097] font-normal text-[0.6875rem]">1:16PM</span>
                                                         </p>
                                                         <p class="text-[0.75rem] mb-0">
                                                             <span class="chat-msg text-truncate">Nice to meet you 😊</span>
@@ -137,7 +137,7 @@
                                                     <div class="flex-grow">
                                                         <p class="mb-0 font-semibold">
                                                             Alissa <span
-                                                                class="ltr:float-right rtl:float-left text-[#8c9097] dark:text-white/50 font-normal text-[0.6875rem]">12:45PM</span>
+                                                                class="ltr:float-right rtl:float-left text-[#8c9097] font-normal text-[0.6875rem]">12:45PM</span>
                                                         </p>
                                                         <p class="text-[0.75rem] mb-0">
                                                             <span class="chat-msg text-truncate">Chat with you
@@ -150,7 +150,7 @@
                                             </a>
                                         </li>
                                         <li class="!pb-0 !pt-0">
-                                            <p class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] font-semibold mb-2 opacity-[0.7]">ALL CHATS</p>
+                                            <p class="text-[#8c9097] text-[0.6875rem] font-semibold mb-2 opacity-[0.7]">ALL CHATS</p>
                                         </li>
                                         <li class="chat-inactive checkforactive" >
                                             <a href="javascript:void(0);" onclick="changeTheInfo(this,'Andreas','11','offline')">
@@ -163,7 +163,7 @@
                                                     <div class="flex-grow">
                                                         <p class="mb-0 font-semibold">
                                                             Andreas <span
-                                                                class="ltr:float-right rtl:float-left text-[#8c9097] dark:text-white/50 font-normal text-[0.6875rem]">11:54AM</span>
+                                                                class="ltr:float-right rtl:float-left text-[#8c9097] font-normal text-[0.6875rem]">11:54AM</span>
                                                         </p>
                                                         <p class="text-[0.75rem] mb-0">
                                                             <span class="chat-msg text-truncate">Congratulations on your new
@@ -186,7 +186,7 @@
                                                     <div class="flex-grow">
                                                         <p class="mb-0 font-semibold">
                                                             Melissa Sean <span
-                                                                class="ltr:float-right rtl:float-left text-[#8c9097] dark:text-white/50 font-normal text-[0.6875rem]">9:45AM</span>
+                                                                class="ltr:float-right rtl:float-left text-[#8c9097] font-normal text-[0.6875rem]">9:45AM</span>
                                                         </p>
                                                         <p class="text-[0.75rem] mb-0">
                                                             <span class="chat-msg text-truncate">Nice work,Congrats
@@ -209,7 +209,7 @@
                                                     <div class="flex-grow">
                                                         <p class="mb-0 font-semibold">
                                                             Samantha Paul <span
-                                                                class="ltr:float-right rtl:float-left text-[#8c9097] dark:text-white/50 font-normal text-[0.6875rem]">8:31AM</span>
+                                                                class="ltr:float-right rtl:float-left text-[#8c9097] font-normal text-[0.6875rem]">8:31AM</span>
                                                         </p>
                                                         <p class="text-[0.75rem] mb-0">
                                                             <span class="chat-msg text-truncate">Great work keep it up
@@ -232,7 +232,7 @@
                                                     <div class="flex-grow">
                                                         <p class="mb-0 font-semibold">
                                                             Megan Fox <span
-                                                                class="ltr:float-right rtl:float-left text-[#8c9097] dark:text-white/50 font-normal text-[0.6875rem]">7:23AM</span>
+                                                                class="ltr:float-right rtl:float-left text-[#8c9097] font-normal text-[0.6875rem]">7:23AM</span>
                                                         </p>
                                                         <p class="text-[0.75rem] mb-0">
                                                             <span class="chat-msg text-truncate">You are need to be
@@ -255,7 +255,7 @@
                                                     <div class="flex-grow">
                                                         <p class="mb-0 font-semibold">
                                                             Nicholas Sams <span
-                                                                class="ltr:float-right rtl:float-left text-[#8c9097] dark:text-white/50 font-normal text-[0.6875rem]">10:22AM</span>
+                                                                class="ltr:float-right rtl:float-left text-[#8c9097] font-normal text-[0.6875rem]">10:22AM</span>
                                                         </p>
                                                         <p class="text-[0.75rem] mb-0">
                                                             <span class="chat-msg text-truncate">Great Project</span>
@@ -277,7 +277,7 @@
                                                     <div class="flex-grow">
                                                         <p class="mb-0 font-semibold">
                                                             Pope Johnson <span
-                                                                class="ltr:float-right rtl:float-left text-[#8c9097] dark:text-white/50 font-normal text-[0.6875rem]">9:10AM</span>
+                                                                class="ltr:float-right rtl:float-left text-[#8c9097] font-normal text-[0.6875rem]">9:10AM</span>
                                                         </p>
                                                         <p class="text-[0.75rem] mb-0">
                                                             <span class="chat-msg text-truncate">Hike management
@@ -294,7 +294,7 @@
                                 <div class="tab-pane fade !border-0 chat-groups-tab" id="groups-tab-pane" aria-labelledby="groups-item" role="tabpanel" tabindex="0">
                                     <ul class="list-none mb-0 mt-2">
                                         <li class="!pb-0">
-                                            <p class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] font-semibold mb-1 opacity-[0.7]">MY CHAT GROUPS</p>
+                                            <p class="text-[#8c9097] text-[0.6875rem] font-semibold mb-1 opacity-[0.7]">MY CHAT GROUPS</p>
                                         </li>
                                         <li>
                                             <div class="flex items-center justify-between">
@@ -431,7 +431,7 @@
                                     </ul>
                                     <ul class="list-none !mb-0 mt-2 ">
                                         <li class="!pb-0">
-                                            <p class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] font-semibold mb-1 opacity-[0.7]">GROUP CHATS</p>
+                                            <p class="text-[#8c9097] text-[0.6875rem] font-semibold mb-1 opacity-[0.7]">GROUP CHATS</p>
                                         </li>
                                         <li class="checkforactive">
                                             <a href="javascript:void(0);" onclick="changeTheInfo(this,'Family Together 😍','17','online')">
@@ -444,7 +444,7 @@
                                                     <div class="flex-grow">
                                                         <p class="mb-0 font-semibold" >
                                                             Family Together 😍 <span
-                                                                class="ltr:float-right rtl:float-left text-[#8c9097] dark:text-white/50 font-normal text-[0.6875rem]">12:24PM</span>
+                                                                class="ltr:float-right rtl:float-left text-[#8c9097] font-normal text-[0.6875rem]">12:24PM</span>
                                                         </p>
                                                         <p class="text-[0.75rem] mb-0 chat-msg-typing ">
                                                             <span class="chat-msg text-truncate">Hira Typing...</span>
@@ -468,7 +468,7 @@
                                                     <div class="flex-grow">
                                                         <p class="mb-0 font-semibold" >
                                                             Work Buddies <span
-                                                                class="ltr:float-right rtl:float-left text-[#8c9097] dark:text-white/50 font-normal text-[0.6875rem]">1:16PM</span>
+                                                                class="ltr:float-right rtl:float-left text-[#8c9097] font-normal text-[0.6875rem]">1:16PM</span>
                                                         </p>
                                                         <p class="text-[0.75rem] mb-0">
                                                             <span class="chat-msg text-truncate"><span
@@ -492,7 +492,7 @@
                                                     <div class="flex-grow">
                                                         <p class="mb-0 font-semibold">
                                                             Friends Forever 😎 <span
-                                                                class="ltr:float-right rtl:float-left text-[#8c9097] dark:text-white/50 font-normal text-[0.6875rem]">3 days
+                                                                class="ltr:float-right rtl:float-left text-[#8c9097] font-normal text-[0.6875rem]">3 days
                                                                 ago</span>
                                                         </p>
                                                         <p class="text-[0.75rem] mb-0">
@@ -516,7 +516,7 @@
                                                     <div class="flex-grow">
                                                         <p class="mb-0 font-semibold">
                                                             Social Media Deals <span
-                                                                class="ltr:float-right rtl:float-left text-[#8c9097] dark:text-white/50 font-normal text-[0.6875rem]">5 days
+                                                                class="ltr:float-right rtl:float-left text-[#8c9097] font-normal text-[0.6875rem]">5 days
                                                                 ago</span>
                                                         </p>
                                                         <p class="text-[0.75rem] mb-0">
@@ -540,7 +540,7 @@
                                                     <div class="flex-grow">
                                                         <p class="mb-0 font-semibold">
                                                             Apartment Group <span
-                                                                class="ltr:float-right rtl:float-left text-[#8c9097] dark:text-white/50 font-normal text-[0.6875rem]">12 days
+                                                                class="ltr:float-right rtl:float-left text-[#8c9097] font-normal text-[0.6875rem]">12 days
                                                                 ago</span>
                                                         </p>
                                                         <p class="text-[0.75rem] mb-0">
@@ -571,7 +571,7 @@
                                                                 class="ti ti-arrow-down-left"></i></span>
                                                     </p>
                                                     <p class="text-[0.75rem] !mb-0">
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-truncate">Today,12:47PM</span>
+                                                        <span class="text-[#8c9097] text-truncate">Today,12:47PM</span>
                                                     </p>
                                                 </div>
                                                 <div class="">
@@ -595,7 +595,7 @@
                                                                 class="ti ti-arrow-up-right"></i></span>
                                                     </p>
                                                     <p class="text-[0.75rem] mb-0">
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-truncate">Today,10:27AM</span>
+                                                        <span class="text-[#8c9097] text-truncate">Today,10:27AM</span>
                                                     </p>
                                                 </div>
                                                 <div class="">
@@ -619,7 +619,7 @@
                                                                 class="ti ti-arrow-up-right"></i></span>
                                                     </p>
                                                     <p class="text-[0.75rem] mb-0">
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-truncate">Yesterday,12:45PM</span>
+                                                        <span class="text-[#8c9097] text-truncate">Yesterday,12:45PM</span>
                                                     </p>
                                                 </div>
                                                 <div class="">
@@ -643,7 +643,7 @@
                                                                 class="ti ti-arrow-down-left"></i></span>
                                                     </p>
                                                     <p class="text-[0.75rem] mb-0">
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-truncate">3 Days ago</span>
+                                                        <span class="text-[#8c9097] text-truncate">3 Days ago</span>
                                                     </p>
                                                 </div>
                                                 <div class="">
@@ -667,7 +667,7 @@
                                                                 class="ti ti-arrow-down-left"></i></span>
                                                     </p>
                                                     <p class="text-[0.75rem] mb-0">
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-truncate">22, Oct 2022</span>
+                                                        <span class="text-[#8c9097] text-truncate">22, Oct 2022</span>
                                                     </p>
                                                 </div>
                                                 <div class="">
@@ -691,7 +691,7 @@
                                                                 class="ti ti-arrow-up-right"></i></span>
                                                     </p>
                                                     <p class="text-[0.75rem] mb-0">
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-truncate">24, Oct 2022</span>
+                                                        <span class="text-[#8c9097] text-truncate">24, Oct 2022</span>
                                                     </p>
                                                 </div>
                                                 <div class="">
@@ -715,7 +715,7 @@
                                                                 class="ti ti-arrow-down-left"></i></span>
                                                     </p>
                                                     <p class="text-[0.75rem] mb-0">
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-truncate">22, Oct 2022</span>
+                                                        <span class="text-[#8c9097] text-truncate">22, Oct 2022</span>
                                                     </p>
                                                 </div>
                                                 <div class="">
@@ -739,7 +739,7 @@
                                                                 class="ti ti-arrow-down-left"></i></span>
                                                     </p>
                                                     <p class="text-[0.75rem] mb-0">
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-truncate">13, Oct 2022</span>
+                                                        <span class="text-[#8c9097] text-truncate">13, Oct 2022</span>
                                                     </p>
                                                 </div>
                                                 <div class="">
@@ -763,7 +763,7 @@
                                                                 class="ti ti-arrow-up-right"></i></span>
                                                     </p>
                                                     <p class="text-[0.75rem] mb-0">
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-truncate">13, Sep 2022</span>
+                                                        <span class="text-[#8c9097] text-truncate">13, Sep 2022</span>
                                                     </p>
                                                 </div>
                                                 <div class="">
@@ -787,7 +787,7 @@
                                                                 class="ti ti-arrow-up-right"></i></span>
                                                     </p>
                                                     <p class="text-[0.75rem] mb-0">
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-truncate">10, July 2022</span>
+                                                        <span class="text-[#8c9097] text-truncate">10, July 2022</span>
                                                     </p>
                                                 </div>
                                                 <div class="">
@@ -811,7 +811,7 @@
                                                                 class="ti ti-arrow-down-left"></i></span>
                                                     </p>
                                                     <p class="text-[0.75rem] mb-0">
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-truncate">1, Apr 2022</span>
+                                                        <span class="text-[#8c9097] text-truncate">1, Apr 2022</span>
                                                     </p>
                                                 </div>
                                                 <div class="">
@@ -825,25 +825,25 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="main-chat-area border dark:border-defaultborder/10">
-                            <div class="sm:flex items-center p-2 border-b dark:border-defaultborder/10">
+                        <div class="main-chat-area border">
+                            <div class="sm:flex items-center p-2 border-b">
                                 <div class="flex items-center leading-none">
                                     <span class="avatar avatar-lg online me-4 avatar-rounded chatstatusperson">
                                         <img class="chatimageperson" src="{{asset('build/assets/images/faces/2.jpg')}}" alt="img">
                                     </span>
                                     <div class="flex-grow">
                                         <p class="mb-1 font-semibold text-[.875rem]">
-                                            <a href="javascript:void(0);" class="chatnameperson responsive-userinfo-open !text-defaulttextcolor dark:text-defaulttextcolor/70">Emiley Jackson</a>
+                                            <a href="javascript:void(0);" class="chatnameperson responsive-userinfo-open !text-defaulttextcolor">Emiley Jackson</a>
                                         </p>
-                                        <p class="text-[#8c9097] dark:text-white/50 mb-0 chatpersonstatus !text-defaultsize">online</p>
+                                        <p class="text-[#8c9097] mb-0 chatpersonstatus !text-defaultsize">online</p>
                                     </div>
                                 </div>
                                 <div class="flex ms-auto">
-                                    <button aria-label="button" type="button" class="ti-btn ti-btn-icon ti-btn-outline-light dark:border-defaultborder/10 !text-[0.95rem] !ms-2 font-semibold">
-                                        <i class="ti ti-phone dark:text-defaulttextcolor/70"></i>
+                                    <button aria-label="button" type="button" class="ti-btn ti-btn-icon ti-btn-outline-light !text-[0.95rem] !ms-2 font-semibold">
+                                        <i class="ti ti-phone"></i>
                                     </button>
                                     <button aria-label="button" type="button" class="ti-btn ti-btn-icon ti-btn-outline-light  !text-[0.95rem] !ms-2 font-semibold">
-                                        <i class="ti ti-video dark:text-defaulttextcolor/70"></i>
+                                        <i class="ti ti-video"></i>
                                     </button>
                                     <button aria-label="button" type="button" class="ti-btn ti-btn-icon ti-btn-outline-light  !text-[0.95rem] !ms-2 font-semibold responsive-userinfo-open">
                                         <i class="ti ti-user-circle" id="responsive-chat-close"></i>
@@ -1162,14 +1162,14 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="chat-user-details border dark:border-defaultborder/10" id="chat-user-details">
+                        <div class="chat-user-details border" id="chat-user-details">
                             <button aria-label="button" type="button" class="ti-btn ti-btn-icon ti-btn-outline-light my-1 ms-2 responsive-chat-close2 xxl:hidden"> <i class="ri-close-line"></i> </button>
                             <div class="text-center mb-[3rem]">
                                 <span class="avatar avatar-rounded online avatar-xxl me-2 mb-4 chatstatusperson">
                                     <img class="chatimageperson" src="{{asset('build/assets/images/faces/2.jpg')}}" alt="img">
                                 </span>
-                                <p class="mb-1 text-[0.9375rem] font-semibold text-defaulttextcolor dark:text-defaulttextcolor/70 leading-none chatnameperson ">Emiley Jackson</p>
-                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 !mb-4"><span class="chatnameperson">emaileyjackson2134</span>@gmail.com</p>
+                                <p class="mb-1 text-[0.9375rem] font-semibold text-defaulttextcolor leading-none chatnameperson ">Emiley Jackson</p>
+                                <p class="text-[0.75rem] text-[#8c9097] !mb-4"><span class="chatnameperson">emaileyjackson2134</span>@gmail.com</p>
                                 <p class="text-center mb-0">
                                     <button type="button" aria-label="button" class="ti-btn ti-btn-icon !rounded-full ti-btn-primary"><i
                                             class="ri-phone-line"></i></button>
@@ -1180,7 +1180,7 @@
                                 </p>
                             </div>
                             <div class="mb-[3rem]">
-                                <div class="font-semibold mb-6 dark:text-defaulttextcolor/70  text-defaultsize">Shared Files
+                                <div class="font-semibold mb-6  text-defaultsize">Shared Files
                                     <span class="badge bg-primary/10 !rounded-full text-primary ms-1">4</span>
                                     <span class="ltr:float-right rtl:float-left text-[0.6875rem]"><a href="javascript:void(0);" class="text-primary underline"><u>View All</u></a></span>
                                 </div>
@@ -1193,11 +1193,11 @@
                                                 </span>
                                             </div>
                                             <div class="flex-grow">
-                                                <p class="text-[0.75rem] font-semibold mb-0 dark:text-defaulttextcolor/70 ">Project Details.pdf</p>
-                                                <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.6875rem]">24,Oct 2022 - 14:24PM</p>
+                                                <p class="text-[0.75rem] font-semibold mb-0 ">Project Details.pdf</p>
+                                                <p class="mb-0 text-[#8c9097] text-[0.6875rem]">24,Oct 2022 - 14:24PM</p>
                                             </div>
                                             <div class="!text-[1.125rem]">
-                                                <a aria-label="anchor" href="javascript:void(0)"><i class="ri-download-2-line text-[#8c9097] dark:text-white/50"></i></a>
+                                                <a aria-label="anchor" href="javascript:void(0)"><i class="ri-download-2-line text-[#8c9097]"></i></a>
                                             </div>
                                         </div>
                                     </li>
@@ -1209,11 +1209,11 @@
                                                 </span>
                                             </div>
                                             <div class="flex-grow">
-                                                <p class="text-[0.75rem] font-semibold mb-0 dark:text-defaulttextcolor/70">Img_02.Jpg</p>
-                                                <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.6875rem]">22,Oct 2022 - 10:19AM</p>
+                                                <p class="text-[0.75rem] font-semibold mb-0">Img_02.Jpg</p>
+                                                <p class="mb-0 text-[#8c9097] text-[0.6875rem]">22,Oct 2022 - 10:19AM</p>
                                             </div>
                                             <div class="!text-[1.125rem]">
-                                                <a aria-label="anchor" href="javascript:void(0)"><i class="ri-download-2-line text-[#8c9097] dark:text-white/50"></i></a>
+                                                <a aria-label="anchor" href="javascript:void(0)"><i class="ri-download-2-line text-[#8c9097]"></i></a>
                                             </div>
                                         </div>
                                     </li>
@@ -1225,11 +1225,11 @@
                                                 </span>
                                             </div>
                                             <div class="flex-grow">
-                                                <p class="text-[0.75rem] font-semibold mb-0 dark:text-defaulttextcolor/70">Img_15.Jpg</p>
-                                                <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.6875rem]">22,Oct 2022 - 10:18AM</p>
+                                                <p class="text-[0.75rem] font-semibold mb-0">Img_15.Jpg</p>
+                                                <p class="mb-0 text-[#8c9097] text-[0.6875rem]">22,Oct 2022 - 10:18AM</p>
                                             </div>
                                             <div class="!text-[1.125rem]">
-                                                <a aria-label="anchor" href="javascript:void(0)"><i class="ri-download-2-line text-[#8c9097] dark:text-white/50"></i></a>
+                                                <a aria-label="anchor" href="javascript:void(0)"><i class="ri-download-2-line text-[#8c9097]"></i></a>
                                             </div>
                                         </div>
                                     </li>
@@ -1241,18 +1241,18 @@
                                                 </span>
                                             </div>
                                             <div class="flex-grow">
-                                                <p class="text-[0.75rem] font-semibold mb-0 dark:text-defaulttextcolor/70">Video_15_02_2022.MP4</p>
-                                                <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.6875rem]">22,Oct 2022 - 10:18AM</p>
+                                                <p class="text-[0.75rem] font-semibold mb-0">Video_15_02_2022.MP4</p>
+                                                <p class="mb-0 text-[#8c9097] text-[0.6875rem]">22,Oct 2022 - 10:18AM</p>
                                             </div>
                                             <div class="">
-                                                <a aria-label="anchor" href="javascript:void(0)"><i class="ri-download-2-line text-[#8c9097] dark:text-white/50 !text-[1.125rem]"></i></a>
+                                                <a aria-label="anchor" href="javascript:void(0)"><i class="ri-download-2-line text-[#8c9097] !text-[1.125rem]"></i></a>
                                             </div>
                                         </div>
                                     </li>
                                 </ul>
                             </div>
                             <div class="mb-0">
-                                <div class="font-semibold mb-4 text-defaultsize dark:text-defaulttextcolor/70">Photos &amp; Media
+                                <div class="font-semibold mb-4 text-defaultsize">Photos &amp; Media
                                     <span class="badge bg-primary/10 !rounded-full text-primary ms-1">22</span>
                                     <span class="ltr:float-right rtl:float-left text-[0.6875rem]"><a href="javascript:void(0);" class="text-primary underline"><u>View All</u></a></span>
                                 </div>

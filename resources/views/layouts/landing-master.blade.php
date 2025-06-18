@@ -53,7 +53,7 @@
             <!-- END SIDEBAR -->
 
             <!-- MAIN-CONTENT -->
-            <div class="main-content !p-0 landing-main dark:text-defaulttextcolor/70">
+            <div class="main-content !p-0 landing-main">
                 @yield('content')
 
                     <!-- FOOTER -->

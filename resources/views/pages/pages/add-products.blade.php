@@ -26,16 +26,16 @@
                   <!-- Page Header -->
                   <div class="block justify-between page-header md:flex">
                       <div>
-                          <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Add Products</h3>
+                          <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Add Products</h3>
                       </div>
                       <ol class="flex items-center whitespace-nowrap min-w-0">
                           <li class="text-[0.813rem] ps-[0.5rem]">
-                            <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                            <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                               Ecommerce
-                              <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                              <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                             </a>
                           </li>
-                          <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                          <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                             Add Products
                           </li>
                       </ol>
@@ -54,7 +54,7 @@
                                                   <div class="xl:col-span-12 col-span-12">
                                                       <label for="product-name-add" class="form-label">Product Name</label>
                                                       <input type="text" class="form-control w-full !rounded-md" id="product-name-add" placeholder="Name">
-                                                      <label for="product-name-add" class="form-label mt-1 text-[0.75rem] opacity-[0.5] !text-[#8c9097] dark:text-white/50 !mb-0">*Product Name should not exceed 30 characters</label>
+                                                      <label for="product-name-add" class="form-label mt-1 text-[0.75rem] opacity-[0.5] !text-[#8c9097] !mb-0">*Product Name should not exceed 30 characters</label>
                                                   </div>
                                                   <div class="xl:col-span-6 col-span-12">
                                                       <label for="product-category-add" class="form-label">Category</label>
@@ -125,12 +125,12 @@
                                                   <div class="xl:col-span-6 col-span-12">
                                                       <label for="product-cost-add" class="form-label">Enter Cost</label>
                                                       <input type="text" class="form-control w-full !rounded-md" id="product-cost-add" placeholder="Cost">
-                                                      <label for="product-cost-add" class="form-label mt-1 text-[0.75rem] opacity-[0.5] !text-[#8c9097] dark:text-white/50 mb-0">*Mention final price of the product</label>
+                                                      <label for="product-cost-add" class="form-label mt-1 text-[0.75rem] opacity-[0.5] !text-[#8c9097] mb-0">*Mention final price of the product</label>
                                                   </div>
                                                   <div class="xl:col-span-12 col-span-12">
                                                       <label for="product-description-add" class="form-label">Product Description</label>
                                                       <textarea class="form-control w-full !rounded-md" id="product-description-add" rows="2"></textarea>
-                                                      <label for="product-description-add" class="form-label mt-1 text-[0.75rem] opacity-[0.5] !text-[#8c9097] dark:text-white/50 mb-0">*Description should not exceed 500 letters</label>
+                                                      <label for="product-description-add" class="form-label mt-1 text-[0.75rem] opacity-[0.5] !text-[#8c9097] mb-0">*Description should not exceed 500 letters</label>
                                                   </div>
                                                   <div class="xl:col-span-12 col-span-12 mb-4">
                                                       <label class="form-label">Product Features</label>
@@ -206,7 +206,7 @@
                                           </div>
                                       </div>
                                   </div>
-                                  <div class="px-6 py-4 border-t border-dashed dark:border-defaultborder/10 sm:flex justify-end">
+                                  <div class="px-6 py-4 border-t border-dashed sm:flex justify-end">
                                       <button type="button" class="ti-btn ti-btn-primary !font-medium m-1">Add Product<i class="bi bi-plus-lg ms-2"></i></button>
                                       <button type="button" class="ti-btn ti-btn-success !font-medium m-1">Save Product<i class="bi bi-download ms-2"></i></button>
                                   </div>

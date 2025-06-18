@@ -12,16 +12,16 @@
                     <!-- Page Header -->
                     <div class="block justify-between page-header md:flex">
                         <div>
-                            <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Crypto</h3>
+                            <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Crypto</h3>
                         </div>
                         <ol class="flex items-center whitespace-nowrap min-w-0">
                             <li class="text-[0.813rem] ps-[0.5rem]">
-                            <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                            <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                 Dashboards
-                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                             </a>
                             </li>
-                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                 Crypto
                             </li>
                         </ol>
@@ -59,8 +59,8 @@
                                                 </div>
                                                 <div class="ms-auto text-end">
                                                     <p class="mb-0">$0.04</p>
-                                                    <p class="mb-0 text-[#8c9097] dark:text-white/50"><span
-                                                            class="text-[#8c9097] dark:text-white/50">Vol:</span>(+2.33%)</p>
+                                                    <p class="mb-0 text-[#8c9097]"><span
+                                                            class="text-[#8c9097]">Vol:</span>(+2.33%)</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -93,8 +93,8 @@
                                                 </div>
                                                 <div class="ms-auto text-end">
                                                     <p class="mb-0">$2.57</p>
-                                                    <p class="mb-0 text-[#8c9097] dark:text-white/50"><span
-                                                            class="text-[#8c9097] dark:text-white/50">Vol:</span>(+13.45%)</p>
+                                                    <p class="mb-0 text-[#8c9097]"><span
+                                                            class="text-[#8c9097]">Vol:</span>(+13.45%)</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -127,8 +127,8 @@
                                                 </div>
                                                 <div class="ms-auto text-end">
                                                     <p class="mb-0">$12.32</p>
-                                                    <p class="mb-0 text-[#8c9097] dark:text-white/50"><span
-                                                            class="text-[#8c9097] dark:text-white/50">Vol:</span>(+112.95%)</p>
+                                                    <p class="mb-0 text-[#8c9097]"><span
+                                                            class="text-[#8c9097]">Vol:</span>(+112.95%)</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -157,7 +157,7 @@
                                             </div>
                                         </div>
                                         <div class="box-body !p-0">
-                                            <div class="flex flex-wrap p-4 border-b border-dashed dark:border-defaultborder/10">
+                                            <div class="flex flex-wrap p-4 border-b border-dashed">
                                                 <div class="me-3">
                                                     <span class="avatar avatar-md avatar-rounded p-2 bg-light">
                                                         <img src="{{asset('build/assets/images/crypto-currencies/regular/Bitcoin.svg')}}"
@@ -228,7 +228,7 @@
                                                                 <p class="mb-0 font-semibold">
                                                                     +$19,123.02
                                                                 </p>
-                                                                <p class="mb-0 opacity-[0.7] text-[#8c9097] dark:text-white/50  text-[0.6875rem]">
+                                                                <p class="mb-0 opacity-[0.7] text-[#8c9097]  text-[0.6875rem]">
                                                                     BTC 0.0823.45
                                                                 </p>
                                                             </div>
@@ -251,7 +251,7 @@
                                                                 <p class="mb-0 font-semibold">
                                                                     -$1,430.92
                                                                 </p>
-                                                                <p class="mb-0 opacity-[0.7] text-[#8c9097] dark:text-white/50  text-[0.6875rem]">
+                                                                <p class="mb-0 opacity-[0.7] text-[#8c9097]  text-[0.6875rem]">
                                                                     ETH 10,783.23
                                                                 </p>
                                                             </div>
@@ -274,7 +274,7 @@
                                                                 <p class="mb-0 font-semibold">
                                                                     +$5,236.53
                                                                 </p>
-                                                                <p class="mb-0 opacity-[0.7] text-[#8c9097] dark:text-white/50  text-[0.6875rem]">
+                                                                <p class="mb-0 opacity-[0.7] text-[#8c9097]  text-[0.6875rem]">
                                                                     DASH 12,456.98
                                                                 </p>
                                                             </div>
@@ -297,7 +297,7 @@
                                                                 <p class="mb-0 font-semibold">
                                                                     -$1,810.93
                                                                 </p>
-                                                                <p class="mb-0 opacity-[0.7] text-[#8c9097] dark:text-white/50  text-[0.6875rem]">
+                                                                <p class="mb-0 opacity-[0.7] text-[#8c9097]  text-[0.6875rem]">
                                                                     BYTE 8,154.00
                                                                 </p>
                                                             </div>
@@ -320,7 +320,7 @@
                                                                 <p class="mb-0 font-semibold">
                                                                     +$5,046.34
                                                                 </p>
-                                                                <p class="mb-0 opacity-[0.7] text-[#8c9097] dark:text-white/50 text-[0.6875rem]">
+                                                                <p class="mb-0 opacity-[0.7] text-[#8c9097] text-[0.6875rem]">
                                                                     GOLEM 9,384.73
                                                                 </p>
                                                             </div>
@@ -343,7 +343,7 @@
                                                                 <p class="mb-0 font-semibold">
                                                                     +$2,625.50
                                                                 </p>
-                                                                <p class="mb-0 opacity-[0.7] text-[#8c9097] dark:text-white/50  text-[0.6875rem]">
+                                                                <p class="mb-0 opacity-[0.7] text-[#8c9097]  text-[0.6875rem]">
                                                                     SIA 3,151.09
                                                                 </p>
                                                             </div>
@@ -366,7 +366,7 @@
                                                                 <p class="mb-0 font-semibold">
                                                                     +$1,256.24
                                                                 </p>
-                                                                <p class="mb-0 opacity-[0.7] text-[#8c9097] dark:text-white/50  text-[0.6875rem]">
+                                                                <p class="mb-0 opacity-[0.7] text-[#8c9097]  text-[0.6875rem]">
                                                                     XMR 2,799.06
                                                                 </p>
                                                             </div>
@@ -389,7 +389,7 @@
                                                         class="text-[0.625rem] badge bg-success/10 text-success p-1 ms-2"><i
                                                             class="ri-arrow-up-s-line align-middle me-1"></i>12.2%</span></div>
                                                 <div class="text-[1.25rem] font-semibold">$132,12933.000</div>
-                                                <small class="text-[#8c9097] dark:text-white/50 font-semibold">12 BTC</small>
+                                                <small class="text-[#8c9097] font-semibold">12 BTC</small>
                                             </div>
                                             <div class="ms-auto">
                                                 <span class="avatar avatar-xxl">
@@ -438,22 +438,22 @@
                                                     </div>
                                                     <div>
                                                         <div class="text-[0.875rem] py-2"><span
-                                                                class="font-semibold text-dark dark:text-defaulttextcolor/70">Price:</span><span
-                                                                class="text-[#8c9097] dark:text-white/50 ms-2 text-[0.875rem] inline-block">6.003435</span><span
-                                                                class="text-dark font-semibold ltr:float-right rtl:float-left dark:text-defaulttextcolor/70">BTC</span></div>
+                                                                class="font-semibold text-dark">Price:</span><span
+                                                                class="text-[#8c9097] ms-2 text-[0.875rem] inline-block">6.003435</span><span
+                                                                class="text-dark font-semibold ltr:float-right rtl:float-left">BTC</span></div>
                                                         <div class="text-[0.875rem] py-2"><span
-                                                                class="font-semibold text-dark dark:text-defaulttextcolor/70">Amount:</span><span
-                                                                class="text-[#8c9097] dark:text-white/50 ms-2 text-[0.875rem] inline-block ">2,34,4543.00</span><span
-                                                                class="text-dark font-semibold ltr:float-right rtl:float-left dark:text-defaulttextcolor/70">LTC</span></div>
-                                                        <div class="font-semibold text-[0.875rem] py-3 dark:text-defaulttextcolor/70">Total: <span
-                                                                class="text-[0.875rem] inline-block dark:text-defaulttextcolor/70">22.00 BTC</span></div>
+                                                                class="font-semibold text-dark">Amount:</span><span
+                                                                class="text-[#8c9097] ms-2 text-[0.875rem] inline-block ">2,34,4543.00</span><span
+                                                                class="text-dark font-semibold ltr:float-right rtl:float-left">LTC</span></div>
+                                                        <div class="font-semibold text-[0.875rem] py-3">Total: <span
+                                                                class="text-[0.875rem] inline-block">22.00 BTC</span></div>
                                                         <div class="text-[0.75rem] text-success !mb-3">Additional Charges:
                                                             0.32%(0.0001231 BTC)</div>
-                                                        <label class="font-semibold text-[0.75rem] !mt-2 !mb-2  dark:text-defaulttextcolor/70">SELECT PAYMENT
+                                                        <label class="font-semibold text-[0.75rem] !mt-2 !mb-2 ">SELECT PAYMENT
                                                             METHOD :</label>
                                                         <div class="sm:grid grid-cols-12 sm:gap-2 ">
                                                             <div class="sm:col-span-6 col-span-12 sm:me-2 mb-2 sm:mb-0">
-                                                                <div class="p-2 border rounded-md dark:border-defaultborder/10">
+                                                                <div class="p-2 border rounded-md">
                                                                     <div class="form-check !ps-0 !mb-0 !flex items-center">
                                                                         <input class="form-check-input" type="radio"
                                                                             name="flexRadioDefault" id="flexRadioDefault1" >
@@ -465,7 +465,7 @@
                                                                 </div>
                                                             </div>
                                                             <div class="sm:col-span-6 col-span-12">
-                                                                <div class="p-2 border rounded-md dark:border-defaultborder/10">
+                                                                <div class="p-2 border rounded-md">
                                                                     <div class="form-check !ps-0 !mb-0 !flex items-center">
                                                                         <input class="form-check-input" type="radio"
                                                                             name="flexRadioDefault" id="flexRadioDefault2" checked>
@@ -515,22 +515,22 @@
                                                     </div>
                                                     <div>
                                                         <div class="text-[0.875rem] py-2"><span
-                                                                class="font-semibold text-dark dark:text-defaulttextcolor/70">Price:</span><span
-                                                                class="text-[#8c9097] ms-2 text-[0.875rem] dark:text-defaulttextcolor/70">6.003435</span><span
-                                                                class="text-dark font-semibold ltr:float-right rtl:float-left dark:text-defaulttextcolor/70">BTC</span></div>
+                                                                class="font-semibold text-dark">Price:</span><span
+                                                                class="text-[#8c9097] ms-2 text-[0.875rem]">6.003435</span><span
+                                                                class="text-dark font-semibold ltr:float-right rtl:float-left">BTC</span></div>
                                                         <div class="text-[0.875rem] py-2"><span
-                                                                class="font-semibold text-dark dark:text-defaulttextcolor/70">Amount:</span><span
-                                                                class="text-[#8c9097] ms-2 text-[0.875rem] dark:text-defaulttextcolor/70">2,34,4543.00</span><span
-                                                                class="text-dark font-semibold ltr:float-right rtl:float-left dark:text-defaulttextcolor/70">LTC</span></div>
+                                                                class="font-semibold text-dark">Amount:</span><span
+                                                                class="text-[#8c9097] ms-2 text-[0.875rem]">2,34,4543.00</span><span
+                                                                class="text-dark font-semibold ltr:float-right rtl:float-left">LTC</span></div>
                                                         <div class="font-semibold text-[0.875rem] py-3">Total: <span
                                                                 class="text-[0.875rem]">22.00 BTC</span></div>
                                                         <div class="text-[0.75rem] text-success !mb-3">Additional Charges:
                                                             0.32%(0.0001231 BTC)</div>
-                                                        <label class="font-semibold text-[0.75rem] mt-2 mb-2 dark:text-defaulttextcolor/70">SELECT PAYMENT
+                                                        <label class="font-semibold text-[0.75rem] mt-2 mb-2">SELECT PAYMENT
                                                             METHOD :</label>
                                                             <div class="sm:grid grid-cols-12 sm:gap-2 ">
                                                                 <div class="sm:col-span-6 col-span-12 sm:me-2 mb-2 sm:mb-0">
-                                                                    <div class="p-2 border rounded-md dark:border-defaultborder/10">
+                                                                    <div class="p-2 border rounded-md">
                                                                         <div class="form-check !ps-0 !mb-0 !flex items-center">
                                                                             <input class="form-check-input" type="radio"
                                                                                 name="flexRadioDefault" id="flexRadioDefault11"
@@ -543,7 +543,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="sm:col-span-6 col-span-12">
-                                                                    <div class="p-2 border rounded-md dark:border-defaultborder/10">
+                                                                    <div class="p-2 border rounded-md">
                                                                         <div class="form-check !ps-0 !mb-0 !flex items-center">
                                                                             <input class="form-check-input" type="radio"
                                                                                 name="flexRadioDefault" id="flexRadioDefault12">
@@ -606,20 +606,20 @@
                                                     </tr>
                                                 </thead>
                                                 <tbody class="active-tab">
-                                                    <tr class="border-t border-inherit border-solid  dark:border-defaultborder/10">
+                                                    <tr class="border-t border-inherit border-solid ">
                                                         <td>
                                                             <div class="text-center">
-                                                                <p class="text-[#8c9097] dark:text-white/50 mb-0 font-semibold">Dec</p>
-                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">15</span>
+                                                                <p class="text-[#8c9097] mb-0 font-semibold">Dec</p>
+                                                                <span class="text-[0.75rem] text-[#8c9097]">15</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div class="flex items-center">
                                                                 <img src="{{asset('build/assets/images/crypto-currencies/regular/Bitcoin.svg')}}" alt="" class="leading-none avatar avatar-md avatar-rounded me-2 p-2 bg-light !my-auto">
                                                                 <div class="items-center">
-                                                                    <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Currency</span>
+                                                                    <span class="text-[0.75rem] text-[#8c9097]">Currency</span>
                                                                     <p class="mb-0">Bitcoin - <span
-                                                                            class="text-[#8c9097] dark:text-white/50">(0.0092312)</span></p>
+                                                                            class="text-[#8c9097]">(0.0092312)</span></p>
                                                                 </div>
                                                             </div>
                                                         </td>
@@ -635,7 +635,7 @@
                                                         </td>
                                                         <td>
                                                             <div class="items-center">
-                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-1">Delivered
+                                                                <span class="text-[0.75rem] text-[#8c9097] mb-1">Delivered
                                                                     Time</span>
                                                                 <p class="mb-0">04:24PM -
                                                                     <span
@@ -644,20 +644,20 @@
                                                             </div>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border-t border-inherit border-solid  dark:border-defaultborder/10">
+                                                    <tr class="border-t border-inherit border-solid ">
                                                         <td>
                                                             <div class="text-center">
-                                                                <p class="text-[#8c9097] dark:text-white/50 mb-0 fw-semibold">Dec</p>
-                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">24</span>
+                                                                <p class="text-[#8c9097] mb-0 fw-semibold">Dec</p>
+                                                                <span class="text-[0.75rem] text-[#8c9097]">24</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div class="flex items-center">
                                                                 <img src="{{asset('build/assets/images/crypto-currencies/regular/Ethereum.svg')}}" alt="" class="leading-none avatar avatar-md avatar-rounded me-2 p-2 bg-light !my-auto">
                                                                 <div class="items-center">
-                                                                    <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Currency</span>
+                                                                    <span class="text-[0.75rem] text-[#8c9097]">Currency</span>
                                                                     <p class="mb-0">Etherium - <span
-                                                                            class="text-[#8c9097] dark:text-white/50">(0.9207702)</span></p>
+                                                                            class="text-[#8c9097]">(0.9207702)</span></p>
                                                                 </div>
                                                             </div>
                                                         </td>
@@ -673,7 +673,7 @@
                                                         </td>
                                                         <td>
                                                             <div class="items-center">
-                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-1">Received
+                                                                <span class="text-[0.75rem] text-[#8c9097] mb-1">Received
                                                                     Time</span>
                                                                 <p class="mb-0">11:57PM -
                                                                     <span
@@ -682,20 +682,20 @@
                                                             </div>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border-t border-inherit border-solid  dark:border-defaultborder/10">
+                                                    <tr class="border-t border-inherit border-solid ">
                                                         <td>
                                                             <div class="text-center">
-                                                                <p class="text-[#8c9097] dark:text-white/50 mb-0 fw-semibold">Dec</p>
-                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">02</span>
+                                                                <p class="text-[#8c9097] mb-0 fw-semibold">Dec</p>
+                                                                <span class="text-[0.75rem] text-[#8c9097]">02</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div class="flex items-center">
                                                                 <img src="{{asset('build/assets/images/crypto-currencies/regular/Dash.svg')}}" alt="" class="leading-none avatar avatar-md avatar-rounded me-2 p-2 bg-light !my-auto">
                                                                 <div class="items-center">
-                                                                    <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Currency</span>
+                                                                    <span class="text-[0.75rem] text-[#8c9097]">Currency</span>
                                                                     <p class="mb-0">Dash - <span
-                                                                            class="text-[#8c9097] dark:text-white/50">(0.83092333)</span></p>
+                                                                            class="text-[#8c9097]">(0.83092333)</span></p>
                                                                 </div>
                                                             </div>
                                                         </td>
@@ -711,7 +711,7 @@
                                                         </td>
                                                         <td>
                                                             <div class="items-center">
-                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-1">Received
+                                                                <span class="text-[0.75rem] text-[#8c9097] mb-1">Received
                                                                     Time</span>
                                                                 <p class="mb-0">02:28AM -
                                                                     <span
@@ -720,20 +720,20 @@
                                                             </div>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border-t border-inherit border-solid  dark:border-defaultborder/10">
+                                                    <tr class="border-t border-inherit border-solid ">
                                                         <td>
                                                             <div class="text-center">
-                                                                <p class="text-[#8c9097] dark:text-white/50 mb-0 font-semibold">Nov</p>
-                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">30</span>
+                                                                <p class="text-[#8c9097] mb-0 font-semibold">Nov</p>
+                                                                <span class="text-[0.75rem] text-[#8c9097]">30</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div class="flex items-center">
                                                                 <img src="{{asset('build/assets/images/crypto-currencies/regular/Euro.svg')}}" alt="" class="leading-none avatar avatar-md avatar-rounded me-2 p-2 bg-light !my-auto">
                                                                 <div class="items-center">
-                                                                    <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Currency</span>
+                                                                    <span class="text-[0.75rem] text-[#8c9097]">Currency</span>
                                                                     <p class="mb-0">Euro - <span
-                                                                            class="text-[#8c9097] dark:text-white/50">(0.0092363)</span></p>
+                                                                            class="text-[#8c9097]">(0.0092363)</span></p>
                                                                 </div>
                                                             </div>
                                                         </td>
@@ -749,7 +749,7 @@
                                                         </td>
                                                         <td>
                                                             <div class="items-center">
-                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-1">Sent
+                                                                <span class="text-[0.75rem] text-[#8c9097] mb-1">Sent
                                                                     Time</span>
                                                                 <p class="mb-0">10:08AM -
                                                                     <span
@@ -758,20 +758,20 @@
                                                             </div>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border-t border-inherit border-solid  dark:border-defaultborder/10">
+                                                    <tr class="border-t border-inherit border-solid ">
                                                         <td>
                                                             <div class="text-center">
-                                                                <p class="text-[#8c9097] dark:text-white/50 mb-0 font-semibold">Nov</p>
-                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">29</span>
+                                                                <p class="text-[#8c9097] mb-0 font-semibold">Nov</p>
+                                                                <span class="text-[0.75rem] text-[#8c9097]">29</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div class="flex items-center">
                                                                 <img src="{{asset('build/assets/images/crypto-currencies/regular/litecoin.svg')}}" alt="" class="leading-none avatar avatar-md avatar-rounded me-2 p-2 bg-light !my-auto">
                                                                 <div class="items-center">
-                                                                    <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Currency</span>
+                                                                    <span class="text-[0.75rem] text-[#8c9097]">Currency</span>
                                                                     <p class="mb-0">Litecoin - <span
-                                                                            class="text-[#8c9097] dark:text-white/50">(1.00009023)</span></p>
+                                                                            class="text-[#8c9097]">(1.00009023)</span></p>
                                                                 </div>
                                                             </div>
                                                         </td>
@@ -787,7 +787,7 @@
                                                         </td>
                                                         <td>
                                                             <div class="items-center">
-                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-1">Received
+                                                                <span class="text-[0.75rem] text-[#8c9097] mb-1">Received
                                                                     Time</span>
                                                                 <p class="mb-0">06:05PM -
                                                                     <span
@@ -831,7 +831,7 @@
                                 </div>
                                 <div class="box-body !p-0">
                                     <ul class="border-0">
-                                        <li class="py-[0.8rem] px-[1.25rem] border-b dark:border-defaultborder/10">
+                                        <li class="py-[0.8rem] px-[1.25rem] border-b">
                                             <a href="javascript:void(0);" class=" flex-column items-start">
                                                 <div class="flex w-full justify-between items-center">
                                                     <p class="tx-14 mb-0 font-normal text-dark">Bitcoin value in USD</p>
@@ -841,7 +841,7 @@
                                                 </div>
                                             </a>
                                         </li>
-                                        <li class="py-[0.8rem] px-[1.25rem] border-b dark:border-defaultborder/10">
+                                        <li class="py-[0.8rem] px-[1.25rem] border-b">
                                             <a href="javascript:void(0);" class=" flex-column items-start">
                                                 <div class="flex w-full justify-between items-center">
                                                     <p class="tx-14 mb-0 font-normal text-dark">Price Change <span
@@ -854,7 +854,7 @@
                                                 </div>
                                             </a>
                                         </li>
-                                        <li class="py-[0.8rem] px-[1.25rem] border-b dark:border-defaultborder/10">
+                                        <li class="py-[0.8rem] px-[1.25rem] border-b">
                                             <a href="javascript:void(0);" class="flex-column items-start">
                                                 <div class="flex w-full justify-between items-center">
                                                     <p class="tx-14 mb-0 font-normal text-dark">Trade Value</p>
@@ -864,7 +864,7 @@
                                                 </div>
                                             </a>
                                         </li>
-                                        <li class="py-[0.8rem] px-[1.25rem] border-b dark:border-defaultborder/10">
+                                        <li class="py-[0.8rem] px-[1.25rem] border-b">
                                             <a href="javascript:void(0);" class=" flex-column items-start">
                                                 <div class="flex w-full justify-between items-center">
                                                     <p class="tx-14 mb-0 font-normal text-dark">Market Rank<span
@@ -876,7 +876,7 @@
                                                 </div>
                                             </a>
                                         </li>
-                                        <li class="py-[0.8rem] px-[1.25rem] border-b dark:border-defaultborder/10">
+                                        <li class="py-[0.8rem] px-[1.25rem] border-b">
                                             <a href="javascript:void(0);" class=" flex-column items-start">
                                                 <div class="flex w-full justify-between items-center">
                                                     <p class="tx-14 mb-0 font-normal text-dark">This Week High</p>
@@ -886,7 +886,7 @@
                                                 </div>
                                             </a>
                                         </li>
-                                        <li class="py-[0.8rem] px-[1.25rem] border-b dark:border-defaultborder/10">
+                                        <li class="py-[0.8rem] px-[1.25rem] border-b">
                                             <a href="javascript:void(0);" class=" flex-column items-start">
                                                 <div class="flex w-full justify-between items-center">
                                                     <p class="tx-14 mb-0 font-normal text-dark">This Week Low</p>
@@ -896,7 +896,7 @@
                                                 </div>
                                             </a>
                                         </li>
-                                        <li class="py-[0.8rem] px-[1.25rem] border-b dark:border-defaultborder/10">
+                                        <li class="py-[0.8rem] px-[1.25rem] border-b">
                                             <a href="javascript:void(0);" class=" flex-column items-start">
                                                 <div class="flex w-full justify-between items-center">
                                                     <p class="tx-14 mb-0 font-normal text-dark">Market Dominance</p>
@@ -927,7 +927,7 @@
                                         Top Traders
                                     </div>
                                     <div class="hs-dropdown ti-dropdown">
-                                        <a href="javascript:void(0);" class="text-[0.75rem] px-2 font-normal text-[#8c9097] dark:text-white/50"
+                                        <a href="javascript:void(0);" class="text-[0.75rem] px-2 font-normal text-[#8c9097]"
                                             aria-expanded="false">
                                             View All<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                         </a>
@@ -953,7 +953,7 @@
                                                     </div>
                                                     <div>
                                                         <p class="mb-0 font-semibold">Json Taylor</p>
-                                                        <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.75rem]">Bought 0.008213
+                                                        <p class="mb-0 text-[#8c9097] text-[0.75rem]">Bought 0.008213
                                                             Bitcoin using ****9808</p>
                                                     </div>
                                                 </div>
@@ -961,7 +961,7 @@
                                                     <p class="mb-0 font-semibold text-success">
                                                         0.09251821409 <span class="text-default">- BTC</span>
                                                     </p>
-                                                    <p class="mb-0 opacity-[0.7] text-[#8c9097] dark:text-white/50 text-[0.6875rem]">
+                                                    <p class="mb-0 opacity-[0.7] text-[#8c9097] text-[0.6875rem]">
                                                         $1,203.92
                                                     </p>
                                                 </div>
@@ -977,7 +977,7 @@
                                                     </div>
                                                     <div>
                                                         <p class="mb-0 font-semibold">Alicia Smith</p>
-                                                        <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.75rem]">Sold - 0.7902400
+                                                        <p class="mb-0 text-[#8c9097] text-[0.75rem]">Sold - 0.7902400
                                                             Litecoin</p>
                                                     </div>
                                                 </div>
@@ -985,7 +985,7 @@
                                                     <p class="mb-0 font-semibold text-success">
                                                         0.2362333001 <span class="text-default">- LTC</span>
                                                     </p>
-                                                    <p class="mb-0 opacity-[0.7] text-[#8c9097] dark:text-white/50 text-[0.6875rem]">
+                                                    <p class="mb-0 opacity-[0.7] text-[#8c9097] text-[0.6875rem]">
                                                         $19,092.56
                                                     </p>
                                                 </div>
@@ -1001,7 +1001,7 @@
                                                     </div>
                                                     <div>
                                                         <p class="mb-0 font-semibold">Branco Eliga</p>
-                                                        <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.75rem]">Bought +12.9092 Euro
+                                                        <p class="mb-0 text-[#8c9097] text-[0.75rem]">Bought +12.9092 Euro
                                                             coin</p>
                                                     </div>
                                                 </div>
@@ -1009,7 +1009,7 @@
                                                     <p class="mb-0 font-semibold text-success">
                                                         0.009823487 <span class="text-default">- EUROC</span>
                                                     </p>
-                                                    <p class="mb-0 opacity-[0.7] text-[#8c9097] dark:text-white/50 text-[0.6875rem]">
+                                                    <p class="mb-0 opacity-[0.7] text-[#8c9097] text-[0.6875rem]">
                                                         $8,977.46
                                                     </p>
                                                 </div>
@@ -1025,7 +1025,7 @@
                                                     </div>
                                                     <div>
                                                         <p class="mb-0 font-semibold">Alec Carey</p>
-                                                        <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.75rem]">Bought 32.09472944
+                                                        <p class="mb-0 text-[#8c9097] text-[0.75rem]">Bought 32.09472944
                                                             Dash using wallet</p>
                                                     </div>
                                                 </div>
@@ -1033,7 +1033,7 @@
                                                     <p class="mb-0 font-semibold text-success">
                                                         8.88234590 <span class="text-default">- DASH</span>
                                                     </p>
-                                                    <p class="mb-0 opacity-[0.7] text-[#8c9097] dark:text-white/50 text-[0.6875rem]">
+                                                    <p class="mb-0 opacity-[0.7] text-[#8c9097] text-[0.6875rem]">
                                                         $9,772.46
                                                     </p>
                                                 </div>
@@ -1049,7 +1049,7 @@
                                                     </div>
                                                     <div>
                                                         <p class="mb-0 font-semibold">Sia Linda</p>
-                                                        <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.75rem]">Sent 0.00662 Bitcoin
+                                                        <p class="mb-0 text-[#8c9097] text-[0.75rem]">Sent 0.00662 Bitcoin
                                                             to Ravos Chan</p>
                                                     </div>
                                                 </div>
@@ -1057,7 +1057,7 @@
                                                     <p class="mb-0 font-semibold text-success">
                                                         58.6225600 <span class="text-default">- BTC</span>
                                                     </p>
-                                                    <p class="mb-0 opacity-[0.7] text-[#8c9097] dark:text-white/50 text-[0.6875rem]">
+                                                    <p class="mb-0 opacity-[0.7] text-[#8c9097] text-[0.6875rem]">
                                                         $9,772.46
                                                     </p>
                                                 </div>
@@ -1073,7 +1073,7 @@
                                                     </div>
                                                     <div>
                                                         <p class="mb-0 font-semibold">Ryan Ranolds</p>
-                                                        <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.75rem]">Bought 2.098123
+                                                        <p class="mb-0 text-[#8c9097] text-[0.75rem]">Bought 2.098123
                                                             Etherium</p>
                                                     </div>
                                                 </div>
@@ -1081,7 +1081,7 @@
                                                     <p class="mb-0 font-semibold text-success">
                                                         190.0092773 <span class="text-default">- ETH</span>
                                                     </p>
-                                                    <p class="mb-0 opacity-[0.7] text-[#8c9097] dark:text-white/50 text-[0.6875rem]">
+                                                    <p class="mb-0 opacity-[0.7] text-[#8c9097] text-[0.6875rem]">
                                                         $18,283982.00
                                                     </p>
                                                 </div>
@@ -1134,7 +1134,7 @@
                                                     </tr>
                                                 </thead>
                                                 <tbody>
-                                                    <tr class="border border-inherit border-solid hover:bg-gray-100 dark:border-defaultborder/10 dark:hover:bg-light">
+                                                    <tr class="border border-inherit border-solid hover:bg-gray-100">
                                                         <td>1</td>
                                                         <td>Bitcoin</td>
                                                         <td>
@@ -1162,7 +1162,7 @@
                                                                     class="ti ti-arrow-big-up-lines ms-1"></i></span>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border border-inherit border-solid hover:bg-gray-100 dark:border-defaultborder/10 dark:hover:bg-light">
+                                                    <tr class="border border-inherit border-solid hover:bg-gray-100">
                                                         <td>2</td>
                                                         <td>Etherium</td>
                                                         <td>
@@ -1190,7 +1190,7 @@
                                                                     class="ti ti-arrow-big-up-lines ms-1"></i></span>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border border-inherit border-solid hover:bg-gray-100 dark:border-defaultborder/10 dark:hover:bg-light">
+                                                    <tr class="border border-inherit border-solid hover:bg-gray-100">
                                                         <td>3</td>
                                                         <td>Dash</td>
                                                         <td>
@@ -1218,7 +1218,7 @@
                                                                     class="ti ti-arrow-big-up-lines ms-1"></i></span>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border border-inherit border-solid hover:bg-gray-100 dark:border-defaultborder/10 dark:hover:bg-light">
+                                                    <tr class="border border-inherit border-solid hover:bg-gray-100">
                                                         <td>4</td>
                                                         <td>Ripple</td>
                                                         <td>
@@ -1246,7 +1246,7 @@
                                                                     class="ti ti-arrow-big-up-lines ms-1"></i></span>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border border-inherit border-solid hover:bg-gray-100 dark:border-defaultborder/10 dark:hover:bg-light">
+                                                    <tr class="border border-inherit border-solid hover:bg-gray-100">
                                                         <td>5</td>
                                                         <td>Iota</td>
                                                         <td>
@@ -1274,7 +1274,7 @@
                                                                     class="ti ti-arrow-big-up-lines ms-1"></i></span>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border border-inherit border-solid hover:bg-gray-100 dark:border-defaultborder/10 dark:hover:bg-light">
+                                                    <tr class="border border-inherit border-solid hover:bg-gray-100">
                                                         <td>6</td>
                                                         <td>Neo</td>
                                                         <td>

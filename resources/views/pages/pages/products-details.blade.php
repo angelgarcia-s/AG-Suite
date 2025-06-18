@@ -12,16 +12,16 @@
                       <!-- Page Header -->
                       <div class="block justify-between page-header md:flex">
                           <div>
-                              <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Products Details</h3>
+                              <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Products Details</h3>
                           </div>
                           <ol class="flex items-center whitespace-nowrap min-w-0">
                               <li class="text-[0.813rem] ps-[0.5rem]">
-                                <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                   Ecommerce
-                                  <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                  <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                 </a>
                               </li>
-                              <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                              <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                   Products Details
                               </li>
                           </ol>
@@ -88,14 +88,14 @@
                                                                                       <p class="mb-1 text-[0.875rem] font-semibold similar-product-name text-truncate">Omega watch series 3</p>
                                                                                       <p class="mb-0">
                                                                                           <span class="badge bg-success text-white">4.4<i class="ri-star-s-fill ms-1"></i></span>
-                                                                                          <span class="text-[#8c9097] dark:text-white/50 ms-1">(13,256)</span>
+                                                                                          <span class="text-[#8c9097] ms-1">(13,256)</span>
                                                                                       </p>
                                                                                   </div>
                                                                                   <div class="text-center">
                                                                                       <p class="mb-0 text-[1rem] font-semibold">
                                                                                           $1,099
                                                                                       </p>
-                                                                                      <p class="mb-0 text-[#8c9097] dark:text-white/50">
+                                                                                      <p class="mb-0 text-[#8c9097]">
                                                                                           <s>$1,759</s>
                                                                                       </p>
                                                                                   </div>
@@ -103,7 +103,7 @@
                                                                           </a>
                                                                       </td>
                                                                   </tr>
-                                                                  <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                                  <tr class="border border-defaultborder">
                                                                       <td>
                                                                           <a href="javascript:void(0);">
                                                                               <div class="flex items-start">
@@ -114,14 +114,14 @@
                                                                                       <p class="mb-1 text-[0.875rem] font-semibold similar-product-name text-truncate">Strap on watch(White)</p>
                                                                                       <p class="mb-0">
                                                                                           <span class="badge bg-success text-white">3.8<i class="ri-star-s-fill ms-1"></i></span>
-                                                                                          <span class="text-[#8c9097] dark:text-white/50 ms-1">(5,289)</span>
+                                                                                          <span class="text-[#8c9097] ms-1">(5,289)</span>
                                                                                       </p>
                                                                                   </div>
                                                                                   <div class="text-center">
                                                                                       <p class="mb-0 text-[1rem] font-semibold">
                                                                                           $7,99
                                                                                       </p>
-                                                                                      <p class="mb-0 text-[#8c9097] dark:text-white/50">
+                                                                                      <p class="mb-0 text-[#8c9097]">
                                                                                           <s>$1,299</s>
                                                                                       </p>
                                                                                   </div>
@@ -129,7 +129,7 @@
                                                                           </a>
                                                                       </td>
                                                                   </tr>
-                                                                  <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                                  <tr class="border border-defaultborder">
                                                                       <td>
                                                                           <a href="javascript:void(0);">
                                                                               <div class="flex items-start">
@@ -140,14 +140,14 @@
                                                                                       <p class="mb-1 font-semibold similar-product-name text-truncate">Orange watch series 3</p>
                                                                                       <p class="mb-0">
                                                                                           <span class="badge bg-success text-white">4.1<i class="ri-star-s-fill ms-1"></i></span>
-                                                                                          <span class="text-[#8c9097] dark:text-white/50 ms-1">(2,476)</span>
+                                                                                          <span class="text-[#8c9097] ms-1">(2,476)</span>
                                                                                       </p>
                                                                                   </div>
                                                                                   <div class="text-center">
                                                                                       <p class="mb-0 text-[1rem] font-semibold">
                                                                                           $1,499
                                                                                       </p>
-                                                                                      <p class="mb-0 text-[#8c9097] dark:text-white/50">
+                                                                                      <p class="mb-0 text-[#8c9097]">
                                                                                           <s>$2,599</s>
                                                                                       </p>
                                                                                   </div>
@@ -155,7 +155,7 @@
                                                                           </a>
                                                                       </td>
                                                                   </tr>
-                                                                  <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                                  <tr class="border border-defaultborder">
                                                                       <td>
                                                                           <a href="javascript:void(0);">
                                                                               <div class="flex items-start">
@@ -166,14 +166,14 @@
                                                                                       <p class="mb-1 font-semibold similar-product-name text-truncate">Omega watch special edition</p>
                                                                                       <p class="mb-0">
                                                                                           <span class="badge bg-success text-white">3.8<i class="ri-star-s-fill ms-1"></i></span>
-                                                                                          <span class="text-[#8c9097] dark:text-white/50 ms-1">(1,893)</span>
+                                                                                          <span class="text-[#8c9097] ms-1">(1,893)</span>
                                                                                       </p>
                                                                                   </div>
                                                                                   <div class="text-center">
                                                                                       <p class="mb-0 text-[1rem] font-semibold">
                                                                                           $2,299
                                                                                       </p>
-                                                                                      <p class="mb-0 text-[#8c9097] dark:text-white/50">
+                                                                                      <p class="mb-0 text-[#8c9097]">
                                                                                           <s>$3,299</s>
                                                                                       </p>
                                                                                   </div>
@@ -181,7 +181,7 @@
                                                                           </a>
                                                                       </td>
                                                                   </tr>
-                                                                  <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                                  <tr class="border border-defaultborder">
                                                                       <td>
                                                                           <a href="javascript:void(0);">
                                                                               <div class="flex items-start">
@@ -192,14 +192,14 @@
                                                                                       <p class="mb-1 font-semibold similar-product-name text-truncate">Fassil smart watch(45mm)</p>
                                                                                       <p class="mb-0">
                                                                                           <span class="badge bg-success text-white">4.5<i class="ri-star-s-fill ms-1"></i></span>
-                                                                                          <span class="text-[#8c9097] dark:text-white/50 ms-1">(12,923)</span>
+                                                                                          <span class="text-[#8c9097] ms-1">(12,923)</span>
                                                                                       </p>
                                                                                   </div>
                                                                                   <div class="text-center">
                                                                                       <p class="mb-0 text-[1rem] font-semibold">
                                                                                           $8,99
                                                                                       </p>
-                                                                                      <p class="mb-0 text-[#8c9097] dark:text-white/50">
+                                                                                      <p class="mb-0 text-[#8c9097]">
                                                                                           <s>$1,299</s>
                                                                                       </p>
                                                                                   </div>
@@ -207,7 +207,7 @@
                                                                           </a>
                                                                       </td>
                                                                   </tr>
-                                                                  <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                                  <tr class="border border-defaultborder">
                                                                       <td>
                                                                           <a href="javascript:void(0);">
                                                                               <div class="flex items-start">
@@ -218,14 +218,14 @@
                                                                                       <p class="mb-1 font-semibold similar-product-name text-truncate">Electro viintage watch(40mm)</p>
                                                                                       <p class="mb-0">
                                                                                           <span class="badge bg-success text-white">4.1<i class="ri-star-s-fill ms-1"></i></span>
-                                                                                          <span class="text-[#8c9097] dark:text-white/50 ms-1">(453)</span>
+                                                                                          <span class="text-[#8c9097] ms-1">(453)</span>
                                                                                       </p>
                                                                                   </div>
                                                                                   <div class="text-center">
                                                                                       <p class="mb-0 text-[1rem] font-semibold">
                                                                                           $1,799
                                                                                       </p>
-                                                                                      <p class="mb-0 text-[#8c9097] dark:text-white/50">
+                                                                                      <p class="mb-0 text-[#8c9097]">
                                                                                           <s>$2,499</s>
                                                                                       </p>
                                                                                   </div>
@@ -233,7 +233,7 @@
                                                                           </a>
                                                                       </td>
                                                                   </tr>
-                                                                  <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                                  <tr class="border border-defaultborder">
                                                                       <td>
                                                                           <a href="javascript:void(0);">
                                                                               <div class="flex items-start">
@@ -244,14 +244,14 @@
                                                                                       <p class="mb-1 font-semibold similar-product-name text-truncate">Bolts smart watch(Amoled)</p>
                                                                                       <p class="mb-0">
                                                                                           <span class="badge bg-success text-white">4.3<i class="ri-star-s-fill ms-1"></i></span>
-                                                                                          <span class="text-[#8c9097] dark:text-white/50 ms-1">(1,874)</span>
+                                                                                          <span class="text-[#8c9097] ms-1">(1,874)</span>
                                                                                       </p>
                                                                                   </div>
                                                                                   <div class="text-center">
                                                                                       <p class="mb-0 text-[1rem] font-semibold">
                                                                                           $2,299
                                                                                       </p>
-                                                                                      <p class="mb-0 text-[#8c9097] dark:text-white/50">
+                                                                                      <p class="mb-0 text-[#8c9097]">
                                                                                           <s>$2,999</s>
                                                                                       </p>
                                                                                   </div>
@@ -280,38 +280,38 @@
                                                           <i class="ri-star-s-fill text-warning align-middle"></i>
                                                           <i class="ri-star-s-fill text-warning align-middle"></i>
                                                           <i class="ri-star-half-s-fill text-warning align-middle"></i>
-                                                          <span class="font-semibold text-[#8c9097] dark:text-white/50 ms-1">4.3<a class="text-info" href="javascript:void(0);">(2.4k Reviews)</a></span>
+                                                          <span class="font-semibold text-[#8c9097] ms-1">4.3<a class="text-info" href="javascript:void(0);">(2.4k Reviews)</a></span>
                                                       </p>
                                                       <div class="grid grid-cols-12 mb-6">
                                                           <div class="xxl:col-span-3 xl:col-span-12 col-span-12">
                                                               <p class="mb-1 lh-1 text-[0.6875rem] text-success font-semibold">Special Offer</p>
                                                               <p class="mb-1"><span class="h3  font-semibold"><sup class="text-[0.875rem]">$</sup>1,299<sup class="text-[0.875rem]">.00</sup></span><span class="ms-3 badge bg-danger/10 text-danger">50% Off</span></p>
-                                                              <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.75rem]">M.R.P-<s>$2,599.00</s></p>
+                                                              <p class="mb-0 text-[#8c9097] text-[0.75rem]">M.R.P-<s>$2,599.00</s></p>
                                                           </div>
                                                           <div class="xxl:col-span-4 xl:col-span-6 lg:col-span-6 md:col-span-6 sm:col-span-12 col-span-12 mml:mt-0 mt-4">
                                                               <p class="mb-2 text-[.9375rem] font-semibold">Watch Type</p>
                                                               <div class="inline-flex" role="group" aria-label="Basic radio toggle button group">
                                                                   <input type="radio" class="btn-check " name="select-type" id="type1" checked>
-                                                                  <label class="ti-btn !py-[0.45rem] !px-3 ti-btn-light !border-e-0 !text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:!border-defaultborder/10 !text-[0.75rem] !font-medium !rounded-e-none hover:!bg-light hover:!text-defaulttextcolor" for="type1">GPS</label>
+                                                                  <label class="ti-btn !py-[0.45rem] !px-3 ti-btn-light !border-e-0 !text-defaulttextcolor !text-[0.75rem] !font-medium !rounded-e-none hover:!bg-light hover:!text-defaulttextcolor" for="type1">GPS</label>
                                                                   <input type="radio" class="btn-check" name="select-type" id="type2">
-                                                                  <label class="ti-btn !py-[0.45rem] !px-3 ti-btn-outline-light !text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:!border-defaultborder/10 !text-[0.75rem] !rounded-s-none hover:!bg-light hover:!text-defaulttextcolor" for="type2">GPS+Cellular</label>
+                                                                  <label class="ti-btn !py-[0.45rem] !px-3 ti-btn-outline-light !text-defaulttextcolor !text-[0.75rem] !rounded-s-none hover:!bg-light hover:!text-defaulttextcolor" for="type2">GPS+Cellular</label>
                                                               </div>
                                                           </div>
                                                           <div class="xxl:col-span-5 xl:col-span-6 lg:col-span-6 md:col-span-6 sm:col-span-12 col-span-12 xxl:mt-0 mt-4">
                                                               <p class="mb-2 text-[.9375rem] font-semibold">Strap Material</p>
                                                               <div class="inline-flex " role="group" aria-label="Basic radio toggle button group">
                                                                   <input type="radio" class="btn-check " name="strap-material" id="strap1" checked>
-                                                                  <label class="ti-btn !py-[0.45rem] !px-3 ti-btn-light !border-e-0 !text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:!border-defaultborder/10 !text-[0.75rem] !font-medium !rounded-e-none hover:!bg-light hover:!text-defaulttextcolor" for="strap1">Leather</label>
+                                                                  <label class="ti-btn !py-[0.45rem] !px-3 ti-btn-light !border-e-0 !text-defaulttextcolor !text-[0.75rem] !font-medium !rounded-e-none hover:!bg-light hover:!text-defaulttextcolor" for="strap1">Leather</label>
                                                                   <input type="radio" class="btn-check " name="strap-material" id="strap2">
-                                                                  <label class="ti-btn !py-[0.45rem] !px-3 ti-btn-outline-light !border-e-0 !text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:!border-defaultborder/10 !text-[0.75rem] !font-medium !rounded-none hover:!bg-light hover:!text-defaulttextcolor" for="strap2">Stainless steel</label>
+                                                                  <label class="ti-btn !py-[0.45rem] !px-3 ti-btn-outline-light !border-e-0 !text-defaulttextcolor !text-[0.75rem] !font-medium !rounded-none hover:!bg-light hover:!text-defaulttextcolor" for="strap2">Stainless steel</label>
                                                                   <input type="radio" class="btn-check" name="strap-material" id="strap3">
-                                                                  <label class="ti-btn !py-[0.45rem] !px-3 ti-btn-outline-light !text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:!border-defaultborder/10 !text-[0.75rem] !font-medium  !rounded-s-none hover:!bg-light hover:!text-defaulttextcolor" for="strap3">Synthetic</label>
+                                                                  <label class="ti-btn !py-[0.45rem] !px-3 ti-btn-outline-light !text-defaulttextcolor !text-[0.75rem] !font-medium  !rounded-s-none hover:!bg-light hover:!text-defaulttextcolor" for="strap3">Synthetic</label>
                                                               </div>
                                                           </div>
                                                       </div>
                                                       <div class="mb-4">
                                                           <p class="text-[.9375rem] font-semibold mb-1">Description :</p>
-                                                          <p class="text-[#8c9097] dark:text-white/50 mb-0">
+                                                          <p class="text-[#8c9097] mb-0">
                                                               Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati accusamus, quaerat nam quo optio reiciendis harum reprehenderit omnis tempora adipisci in iste aperiam unde, repellendus possimus explicabo veritatis? Dignissimos, id.
                                                           </p>
                                                       </div>
@@ -390,13 +390,13 @@
                                                           <div class="table-responsive min-w-full">
                                                               <table class="table table-bordered whitespace-nowrap w-full">
                                                                   <tbody>
-                                                                      <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                                      <tr class="border border-defaultborder">
                                                                           <th scope="row" class="!font-semibold text-start">
                                                                               Brand
                                                                           </th>
                                                                           <td>Orange.Inc</td>
                                                                       </tr>
-                                                                      <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                                      <tr class="border border-defaultborder">
                                                                           <th scope="row" class="!font-semibold text-start">
                                                                               Model Name
                                                                           </th>
@@ -404,7 +404,7 @@
                                                                               Orange watch series 4
                                                                           </td>
                                                                       </tr>
-                                                                      <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                                      <tr class="border border-defaultborder">
                                                                           <th scope="row" class="!font-semibold text-start">
                                                                               Color
                                                                           </th>
@@ -412,7 +412,7 @@
                                                                               Raging Brass
                                                                           </td>
                                                                       </tr>
-                                                                      <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                                      <tr class="border border-defaultborder">
                                                                           <th scope="row" class="!font-semibold text-start">
                                                                               Style
                                                                           </th>
@@ -420,7 +420,7 @@
                                                                               GPS
                                                                           </td>
                                                                       </tr>
-                                                                      <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                                      <tr class="border border-defaultborder">
                                                                           <th scope="row" class="!font-semibold text-start">
                                                                               Special Features
                                                                           </th>
@@ -437,35 +437,35 @@
                                                               <div class="grid grid-cols-12 gap-x-6 gap-y-2">
                                                               <div class="xl:col-span-6 col-span-12">
                                                                   <ul class="mb-0 ps-8 list-disc">
-                                                                      <li class="text-[#8c9097] dark:text-white/50 mb-2">
+                                                                      <li class="text-[#8c9097] mb-2">
                                                                           Dial height: 44 mm
                                                                       </li>
-                                                                      <li class="text-[#8c9097] dark:text-white/50 mb-2">
+                                                                      <li class="text-[#8c9097] mb-2">
                                                                           Dial width: 35 mm
                                                                       </li>
-                                                                      <li class="text-[#8c9097] dark:text-white/50 mb-2">
+                                                                      <li class="text-[#8c9097] mb-2">
                                                                           SpO2
                                                                       </li>
-                                                                      <li class="text-[#8c9097] dark:text-white/50 mb-2">
+                                                                      <li class="text-[#8c9097] mb-2">
                                                                           30+ sports mode
                                                                       </li>
-                                                                      <li class="text-[#8c9097] dark:text-white/50 mb-2">
+                                                                      <li class="text-[#8c9097] mb-2">
                                                                           Upto 12 days battery life
                                                                       </li>
-                                                                      <li class="text-[#8c9097] dark:text-white/50">
+                                                                      <li class="text-[#8c9097]">
                                                                           Water resistant
                                                                       </li>
                                                                   </ul>
                                                               </div>
                                                               <div class="xl:col-span-6 col-span-12">
                                                                   <ul class="mb-0 ps-7 list-disc">
-                                                                      <li class="text-[#8c9097] dark:text-white/50 mb-2">
+                                                                      <li class="text-[#8c9097] mb-2">
                                                                           Battery powered
                                                                       </li>
-                                                                      <li class="text-[#8c9097] dark:text-white/50 mb-2">
+                                                                      <li class="text-[#8c9097] mb-2">
                                                                           Country of origin: USA
                                                                       </li>
-                                                                      <li class="text-[#8c9097] dark:text-white/50">
+                                                                      <li class="text-[#8c9097]">
                                                                           1-year warranty against manufacturing defects
                                                                       </li>
                                                                   </ul>
@@ -482,7 +482,7 @@
                                                                       </div>
                                                                       <div class="leading-none">
                                                                           <p class="mb-1">4.2 out of 5</p>
-                                                                          <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.6875rem]">Based on (23,435) ratings</p>
+                                                                          <p class="mb-0 text-[#8c9097] text-[0.6875rem]">Based on (23,435) ratings</p>
                                                                       </div>
                                                                   </div>
 
@@ -493,7 +493,7 @@
                                                                           <div class="progress-bar !bg-success rounded-md w-[55%]" >
                                                                           </div>
                                                                       </div>
-                                                                      <div class="text-[#8c9097] dark:text-white/50 ms-2 text-[0.75rem]">(10,893)</div>
+                                                                      <div class="text-[#8c9097] ms-2 text-[0.75rem]">(10,893)</div>
                                                                   </div>
                                                                   <div class="flex items-center mb-4">
                                                                       <div class="text-[0.75rem] font-semibold">4 </div>
@@ -502,7 +502,7 @@
                                                                           <div class="progress-bar rounded-md !bg-success w-[22%]" >
                                                                           </div>
                                                                       </div>
-                                                                      <div class="text-[#8c9097] dark:text-white/50 ms-2 text-[0.75rem]">(6,534)</div>
+                                                                      <div class="text-[#8c9097] ms-2 text-[0.75rem]">(6,534)</div>
                                                                   </div>
                                                                   <div class="flex items-center mb-4">
                                                                       <div class="text-[0.75rem] font-semibold">3 </div>
@@ -511,7 +511,7 @@
                                                                           <div class="progress-bar rounded-s-md !bg-success w-[8%]" >
                                                                           </div>
                                                                       </div>
-                                                                      <div class="text-[#8c9097] dark:text-white/50 ms-2 text-[0.75rem]">(4,342)</div>
+                                                                      <div class="text-[#8c9097] ms-2 text-[0.75rem]">(4,342)</div>
                                                                   </div>
                                                                   <div class="flex items-center mb-4">
                                                                       <div class="text-[0.75rem] font-semibold">2 </div>
@@ -520,7 +520,7 @@
                                                                           <div class="progress-bar rounded-md !bg-warning w-[9%]" >
                                                                           </div>
                                                                       </div>
-                                                                      <div class="text-[#8c9097] dark:text-white/50 ms-2 text-[0.75rem]">(1,432)</div>
+                                                                      <div class="text-[#8c9097] ms-2 text-[0.75rem]">(1,432)</div>
                                                                   </div>
                                                                   <div class="flex items-center">
                                                                       <div class="text-[0.75rem]  font-semibold">1 </div>
@@ -529,11 +529,11 @@
                                                                           <div class="progress-bar rounded-md !bg-danger w-[6%]" >
                                                                           </div>
                                                                       </div>
-                                                                      <div class="text-[#8c9097] dark:text-white/50 ms-2 text-[0.75rem]">(1,453)</div>
+                                                                      <div class="text-[#8c9097] ms-2 text-[0.75rem]">(1,453)</div>
                                                                   </div>
                                                               </div>
                                                               <div class="xxl:col-span-8 xl:col-span-12 lg:col-span-12 md:col-span-12 sm:col-span-12 col-span-12 xxl:mt-0 mt-4">
-                                                                  <div class="border p-4 dark:border-defaultborder/10">
+                                                                  <div class="border p-4">
                                                                       <div class="sm:flex block items-start mb-4">
                                                                           <div class="flex flex-grow">
                                                                               <div class="me-2">
@@ -550,7 +550,7 @@
                                                                                       <i class="ri-star-s-fill text-warning align-middle text-[0.75rem]"></i>
                                                                                       <i class="ri-star-s-line text-warning align-middle text-[0.75rem]"></i>
                                                                                   </div>
-                                                                                  <div class="text-[0.6875rem] text-[#8c9097] dark:text-white/50">
+                                                                                  <div class="text-[0.6875rem] text-[#8c9097]">
                                                                                       Reviewed on 24 nov,2022
                                                                                   </div>
                                                                               </div>
@@ -562,7 +562,7 @@
                                                                       </div>
                                                                       <div class="sm:ps-4 ps-0 mb-4">
                                                                           <p class="font-semibold mb-1 ps-2">Wonderful product😀</p>
-                                                                          <p class="mb-0 text-[0.75rem] text-[#8c9097] dark:text-white/50 ps-2">Really this product is very good quality and best for daily use... It supports Spo2.. Very well.. </p>
+                                                                          <p class="mb-0 text-[0.75rem] text-[#8c9097] ps-2">Really this product is very good quality and best for daily use... It supports Spo2.. Very well.. </p>
                                                                       </div>
                                                                       <div class="product-images sm:ps-4 ps-0">
                                                                               <div class="sm:grid grid-cols-12 gap-6">
@@ -594,7 +594,7 @@
                                                   </div>
                                                   <div class="xl:col-span-4 col-span-12 xxl:mt-0 mt-6">
                                                       <div class="mb-[3rem]">
-                                                          <div class="offer-promotion dark:border-defaultborder/10 mb-6">
+                                                          <div class="offer-promotion mb-6">
                                                               <div class="xxl:flex flex lg:block sm:flex flex-wrap justify-between items-center">
                                                                   <div class="text-warning xxxl:mb-0 mb-2">Use Code <span class="promotion-code font-semibold">FIRBUY</span><a class="text-[.625rem] text-warning ms-1" href="javascript:void(0);">T&amp;C.</a></div>
                                                                   <div class="sm:mt-0">
@@ -646,9 +646,9 @@
                                                           </div>
                                                           <div class="mb-4">
                                                               <p class="mb-0 font-semibold">Returns:</p>
-                                                              <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Min 7 days return and exchange policy. Return Policies may vary based on products and promotions. For full details on our Returns Policies, please <a href="javascript:void(0);" class="text-primary">click here</a>․</p>
+                                                              <p class="text-[0.75rem] text-[#8c9097]">Min 7 days return and exchange policy. Return Policies may vary based on products and promotions. For full details on our Returns Policies, please <a href="javascript:void(0);" class="text-primary">click here</a>․</p>
                                                           </div>
-                                                          <div class="alert alert-light mb-6 text-[0.75rem] text-[#8c9097] dark:text-white/50" role="alert">
+                                                          <div class="alert alert-light mb-6 text-[0.75rem] text-[#8c9097]" role="alert">
                                                               <a aria-label="anchor" href="javascript:void(0);"><i class="ri-map-pin-line me-1 align-middle text-primary text-[.9375rem] inline-block"></i></a>Select location to find out estimated delivery date
                                                           </div>
                                                           <div class="grid gap-2">

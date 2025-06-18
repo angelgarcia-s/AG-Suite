@@ -250,5 +250,17 @@ module.exports = {
         'h6': { fontSize: '1rem' },
       })
     }),
+    function({ addBase, addUtilities, matchUtilities, theme }) {
+      addUtilities({
+        '.before\\:bg-textmuted': {
+          '&::before': {
+            backgroundColor: 'rgb(var(--text-muted) / 1)'
+          }
+        },
+        '.border-b-headerbordercolor': {
+          borderBottomColor: 'rgb(var(--header-border-color) / 1)'
+        }
+      });
+    }
   ],
 };

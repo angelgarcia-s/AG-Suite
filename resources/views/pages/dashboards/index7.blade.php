@@ -10,16 +10,16 @@
                     <!-- Page Header -->
                     <div class="block justify-between page-header md:flex">
                         <div>
-                            <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Analytics</h3>
+                            <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Analytics</h3>
                         </div>
                         <ol class="flex items-center whitespace-nowrap min-w-0">
                             <li class="text-[0.813rem] ps-[0.5rem]">
-                              <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                              <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                 Dashboards
-                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                               </a>
                             </li>
-                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                 Analytics
                             </li>
                         </ol>
@@ -96,7 +96,7 @@
                                             Top Countries Sessions vs Bounce Rate
                                         </div>
                                         <div class="hs-dropdown ti-dropdown">
-                                            <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097] dark:text-white/50"
+                                            <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097]"
                                               aria-expanded="false">
                                               View All<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                             </a>
@@ -122,7 +122,7 @@
                                             Traffic Sources
                                         </div>
                                         <div class="hs-dropdown ti-dropdown">
-                                            <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097] dark:text-white/50"
+                                            <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097]"
                                               aria-expanded="false">
                                               View All<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                             </a>
@@ -147,7 +147,7 @@
                                                     </tr>
                                                 </thead>
                                                 <tbody>
-                                                    <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                    <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                         <td>
                                                             <div class="flex items-center">
                                                                 <span class="avatar avatar-rounded avatar-sm p-2 bg-light me-2">
@@ -166,7 +166,7 @@
                                                             </div>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                    <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                         <td>
                                                             <div class="flex items-center">
                                                                 <span class="avatar avatar-rounded avatar-sm p-2 bg-light me-2">
@@ -185,7 +185,7 @@
                                                             </div>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                    <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                         <td>
                                                             <div class="flex items-center">
                                                                 <span class="avatar avatar-rounded avatar-sm p-2 bg-light me-2">
@@ -204,7 +204,7 @@
                                                             </div>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                    <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                         <td>
                                                             <div class="flex items-center">
                                                                 <span class="avatar avatar-rounded avatar-sm p-2 bg-light me-2">
@@ -223,7 +223,7 @@
                                                             </div>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                    <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                         <td>
                                                             <div class="flex items-center">
                                                                 <span class="avatar avatar-rounded avatar-sm p-2 bg-light me-2">
@@ -242,7 +242,7 @@
                                                             </div>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                    <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                         <td class="border-bottom-0">
                                                             <div class="flex items-center">
                                                                 <span class="avatar avatar-rounded avatar-sm p-2 bg-light me-2">
@@ -289,7 +289,7 @@
                                             <div class="flex items-center flex-wrap">
                                                 <div id="analytics-followers"></div>
                                                 <div class="ms-1">
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50">Impressions</p>
+                                                    <p class="mb-1 text-[#8c9097]">Impressions</p>
                                                     <h5 class="font-semibold mb-0 text-[1.25rem]">9,903</h5>
                                                 </div>
                                             </div>
@@ -300,7 +300,7 @@
                                             <div class="flex items-center flex-wrap">
                                                 <div id="analytics-views"></div>
                                                 <div class="ms-1">
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50">Clicks</p>
+                                                    <p class="mb-1 text-[#8c9097]">Clicks</p>
                                                     <h5 class="font-semibold mb-0 text-[1.25rem]">16,789</h5>
                                                 </div>
                                             </div>
@@ -324,25 +324,25 @@
                                             <div class="grid grid-cols-12 justify-center">
                                                 <div class="col-span-3 pe-0 text-center">
                                                     <div class="sm:p-4  p-2 ">
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">Mobile</span>
+                                                        <span class="text-[#8c9097] text-[0.6875rem]">Mobile</span>
                                                         <span class="block text-[1rem] font-semibold">68.3%</span>
                                                     </div>
                                                 </div>
                                                 <div class="col-span-3 px-0 text-center">
                                                     <div class="sm:p-4 p-2">
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">Tablet</span>
+                                                        <span class="text-[#8c9097] text-[0.6875rem]">Tablet</span>
                                                         <span class="block text-[1rem] font-semibold">17.68%</span>
                                                     </div>
                                                 </div>
                                                 <div class="col-span-3 px-0 text-center">
                                                     <div class="sm:p-4 p-2 ">
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">Desktop</span>
+                                                        <span class="text-[#8c9097] text-[0.6875rem]">Desktop</span>
                                                         <span class="block text-[1rem] font-semibold">10.5%</span>
                                                     </div>
                                                 </div>
                                                 <div class="col-span-3 px-0 text-center">
                                                     <div class="sm:p-4 p-2">
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">Others</span>
+                                                        <span class="text-[#8c9097] text-[0.6875rem]">Others</span>
                                                         <span class="block text-[1rem] font-semibold">5.16%</span>
                                                     </div>
                                                 </div>
@@ -355,7 +355,7 @@
                                         <div class="box-header justify-between">
                                             <div class="box-title">Sessions Duration By New Users</div>
                                             <div class="hs-dropdown ti-dropdown">
-                                                <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097] dark:text-white/50"
+                                                <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097]"
                                                   aria-expanded="false">
                                                   View All<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                                 </a>
@@ -420,7 +420,7 @@
                                                 </tr>
                                             </thead>
                                             <tbody>
-                                                <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                     <th scope="row" class="!text-start">
                                                         1
                                                     </th>
@@ -446,7 +446,7 @@
                                                         2.9
                                                     </td>
                                                 </tr>
-                                                <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                     <th scope="row" class="!text-start">
                                                         2
                                                     </th>
@@ -472,7 +472,7 @@
                                                         1.5
                                                     </td>
                                                 </tr>
-                                                <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                     <th scope="row" class="!text-start">
                                                         3
                                                     </th>
@@ -498,7 +498,7 @@
                                                         3.2
                                                     </td>
                                                 </tr>
-                                                <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                     <th scope="row" class="!text-start">
                                                         4
                                                     </th>
@@ -524,7 +524,7 @@
                                                         1.4
                                                     </td>
                                                 </tr>
-                                                <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                     <th scope="row" class="!text-start">
                                                         5
                                                     </th>
@@ -550,7 +550,7 @@
                                                         1.6
                                                     </td>
                                                 </tr>
-                                                <tr class="border-t border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                <tr class="border-t border-inherit border-solid hover:bg-gray-100">
                                                     <th scope="row" class="!text-start">
                                                         6
                                                     </th>
@@ -614,7 +614,7 @@
                                         Visitors By Countries
                                     </div>
                                     <div class="hs-dropdown ti-dropdown">
-                                        <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097] dark:text-white/50"
+                                        <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097]"
                                           aria-expanded="false">
                                           View All<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                         </a>

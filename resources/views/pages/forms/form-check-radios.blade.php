@@ -12,16 +12,16 @@
                     <!-- Page Header -->
                     <div class="block justify-between page-header md:flex">
                         <div>
-                            <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold">Checks &amp; Radios</h3>
+                            <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold">Checks &amp; Radios</h3>
                         </div>
                         <ol class="flex items-center whitespace-nowrap min-w-0">
                             <li class="text-[0.813rem] ps-[0.5rem]">
-                              <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                              <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                 Form Elements
-                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                               </a>
                             </li>
-                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                Checks &amp; Radios
                             </li>
                         </ol>
@@ -302,16 +302,16 @@
                                 <div class="box-body flex flex-col gap-y-4">
                                       <div class="flex items-center">
                                         <input type="checkbox" id="hs-basic-with-description-checked" class="ti-switch" checked>
-                                        <label for="hs-basic-with-description-checked" class="text-sm text-gray-500 ms-3 dark:text-[#8c9097] dark:text-white/50">Checked</label>
+                                        <label for="hs-basic-with-description-checked" class="text-sm text-gray-500 ms-3">Checked</label>
                                       </div>
                                       <div class="flex items-center">
                                         <input type="checkbox" id="hs-basic-with-description-unchecked" class="ti-switch">
-                                        <label for="hs-basic-with-description-unchecked" class="text-sm text-gray-500 ms-3 dark:text-[#8c9097] dark:text-white/50">Unchecked</label>
+                                        <label for="hs-basic-with-description-unchecked" class="text-sm text-gray-500 ms-3">Unchecked</label>
                                       </div>
                                       <div class="flex items-center">
-                                        <label class="text-sm text-gray-500 me-3 dark:text-[#8c9097] dark:text-white/50">On</label>
+                                        <label class="text-sm text-gray-500 me-3">On</label>
                                         <input type="checkbox" id="hs-basic-with-description" class="ti-switch">
-                                        <label class="text-sm text-gray-500 ms-3 dark:text-[#8c9097] dark:text-white/50">Off</label>
+                                        <label class="text-sm text-gray-500 ms-3">Off</label>
                                       </div>
                                    </div>
                                 <div class="box-footer hidden border-t-0">

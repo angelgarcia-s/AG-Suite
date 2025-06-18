@@ -10,16 +10,16 @@
                         <!-- Page Header -->
                         <div class="block justify-between page-header md:flex">
                             <div>
-                                <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold">Marketcap</h3>
+                                <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold">Marketcap</h3>
                             </div>
                             <ol class="flex items-center whitespace-nowrap min-w-0">
                                 <li class="text-[0.813rem] ps-[0.5rem]">
-                                  <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                  <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                     Crypto
-                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                   </a>
                                 </li>
-                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                   Marketcap
                                 </li>
                             </ol>
@@ -53,13 +53,13 @@
                                             </div>
                                             <div class="sm:ms-auto sm:text-end mt-2 sm:mt-0">
                                                 <p class="mb-0">$0.04</p>
-                                                <p class="mb-0 text-[#8c9097] dark:text-white/50"><span class="text-[#8c9097] dark:text-white/50">Vol:</span>(+2.33%)</p>
+                                                <p class="mb-0 text-[#8c9097]"><span class="text-[#8c9097]">Vol:</span>(+2.33%)</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="box-footer !p-0">
                                         <div class="list-group border-0">
-                                            <a href="javascript:void(0);" class="py-3 !px-[1.25rem] flex flex-col items-start border-t-0 border-x-0 !border-b dark:border-defaultborder/10 ">
+                                            <a href="javascript:void(0);" class="py-3 !px-[1.25rem] flex flex-col items-start border-t-0 border-x-0 !border-b ">
                                                 <div class="sm:flex w-full justify-between items-center">
                                                     <p class="tx-14 mb-0 font-weight-semibold text-dark">Price Change <span class="badge bg-primary/10  ms-4 text-primary">Increased</span></p>
                                                     <p class="text-success mb-0 font-weight-normal tx-13">
@@ -104,13 +104,13 @@
                                             </div>
                                             <div class="sm:ms-auto sm:text-end mt-2 sm:mt-0">
                                                 <p class="mb-0">$2.57</p>
-                                                <p class="mb-0 text-[#8c9097] dark:text-white/50"><span class="text-[#8c9097] dark:text-white/50">Vol:</span>(+13.45%)</p>
+                                                <p class="mb-0 text-[#8c9097]"><span class="text-[#8c9097]">Vol:</span>(+13.45%)</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="box-footer !p-0">
                                         <div class="list-group border-0">
-                                            <a href="javascript:void(0);" class="py-3 px-[1.25rem] flex flex-col items-start border-t-0 border-x-0 border-b dark:border-defaultborder/10">
+                                            <a href="javascript:void(0);" class="py-3 px-[1.25rem] flex flex-col items-start border-t-0 border-x-0 border-b">
                                                 <div class="sm:flex w-full justify-between items-center">
                                                     <p class="tx-14 mb-0 font-weight-semibold text-dark">Price Change <span class="badge bg-primary/10 ms-3 text-primary">Increased</span></p>
                                                     <p class="text-success mb-0 font-weight-normal tx-13">
@@ -155,13 +155,13 @@
                                             </div>
                                             <div class="sm:ms-auto sm:text-end mt-2 sm:mt-0">
                                                 <p class="mb-0">$12.32</p>
-                                                <p class="mb-0 text-[#8c9097] dark:text-white/50"><span class="text-[#8c9097] dark:text-white/50">Vol:</span>(+112.95%)</p>
+                                                <p class="mb-0 text-[#8c9097]"><span class="text-[#8c9097]">Vol:</span>(+112.95%)</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="box-footer !p-0">
                                         <div class="list-group">
-                                            <a href="javascript:void(0);" class="py-3 px-[1.25rem] flex flex-col items-start border-t-0 border-x-0 border-b dark:border-defaultborder/10">
+                                            <a href="javascript:void(0);" class="py-3 px-[1.25rem] flex flex-col items-start border-t-0 border-x-0 border-b">
                                                 <div class="sm:flex w-full justify-between items-center">
                                                     <p class="tx-14 mb-0 font-weight-semibold text-dark">Price Change <span class="badge bg-primary/10 ms-3 text-primary">Increased</span></p>
                                                     <p class="text-success mb-0 font-weight-normal tx-13">
@@ -193,7 +193,7 @@
                                     </div>
                                     <div class="box-body !p-0">
                                         <ul class="list-group list-group-flush">
-                                            <li class="!py-1 !px-[1.25rem] border-b border-defaultborder dark:border-defaultborder/10">
+                                            <li class="!py-1 !px-[1.25rem] border-b border-defaultborder">
                                                 <div class="sm:flex items-center justify-between">
                                                     <div class="flex items-center gap-2">
                                                         <div>
@@ -203,20 +203,20 @@
                                                         </div>
                                                         <div>
                                                             <span class="block font-semibold">Bitcoin</span>
-                                                            <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] font-normal">$29,948.80</span>
+                                                            <span class="block text-[#8c9097] text-[0.75rem] font-normal">$29,948.80</span>
                                                         </div>
                                                     </div>
                                                     <div>
-                                                        <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Max Limit</span>
+                                                        <span class="text-[0.75rem] text-[#8c9097]">Max Limit</span>
                                                         <span class="font-semibold block">50 BTC</span>
                                                     </div>
                                                     <div>
-                                                        <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">My Volume</span>
+                                                        <span class="text-[0.75rem] text-[#8c9097]">My Volume</span>
                                                         <span class="font-semibold block">31.2450 BTC</span>
                                                     </div>
                                                 </div>
                                             </li>
-                                            <li class="py-3 px-[1.25rem] border-b border-defaultborder dark:border-defaultborder/10">
+                                            <li class="py-3 px-[1.25rem] border-b border-defaultborder">
                                                 <div class="sm:flex items-center justify-between">
                                                     <div class="flex items-center gap-2">
                                                         <div>
@@ -226,15 +226,15 @@
                                                         </div>
                                                         <div>
                                                             <span class="block font-semibold">Litecon</span>
-                                                            <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] font-normal">$92.98</span>
+                                                            <span class="block text-[#8c9097] text-[0.75rem] font-normal">$92.98</span>
                                                         </div>
                                                     </div>
                                                     <div>
-                                                        <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Max Limit</span>
+                                                        <span class="text-[0.75rem] text-[#8c9097]">Max Limit</span>
                                                         <span class="font-semibold block">200 LTC</span>
                                                     </div>
                                                     <div class="">
-                                                        <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">My Volume</span>
+                                                        <span class="text-[0.75rem] text-[#8c9097]">My Volume</span>
                                                         <span class="font-semibold block">38.0023 LTC</span>
                                                     </div>
                                                 </div>
@@ -249,15 +249,15 @@
                                                         </div>
                                                         <div>
                                                             <span class="block font-semibold">Etherium</span>
-                                                            <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] font-normal">$1,895.96</span>
+                                                            <span class="block text-[#8c9097] text-[0.75rem] font-normal">$1,895.96</span>
                                                         </div>
                                                     </div>
                                                     <div>
-                                                        <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Max Limit</span>
+                                                        <span class="text-[0.75rem] text-[#8c9097]">Max Limit</span>
                                                         <span class="font-semibold block">100 ETH</span>
                                                     </div>
                                                     <div>
-                                                        <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">My Volume</span>
+                                                        <span class="text-[0.75rem] text-[#8c9097]">My Volume</span>
                                                         <span class="font-semibold block">69.2412 BTC</span>
                                                     </div>
                                                 </div>
@@ -309,7 +309,7 @@
                                                         <th scope="col"  class="font-semibold text-start">#</th>
                                                         <th scope="col" class="text-start">Crypto Name</th>
                                                         <th scope="col" class="text-start">MarketCap</th>
-                                                        <th scope="col" class="text-start">Price<span class="text-[#8c9097] dark:text-white/50 ms-1">(USD)</span></th>
+                                                        <th scope="col" class="text-start">Price<span class="text-[#8c9097] ms-1">(USD)</span></th>
                                                         <th scope="col" class="text-start">1h Change</th>
                                                         <th scope="col" class="text-start">24h Change</th>
                                                         <th scope="col" class="text-start">Volume (24h)</th>
@@ -321,7 +321,7 @@
                                                 <tbody>
                                                     <tr class="border border-defaultborder">
                                                         <td class="text-center">
-                                                            <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-line text-[1rem] text-[#8c9097] dark:text-white/50"></i></a>
+                                                            <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-line text-[1rem] text-[#8c9097]"></i></a>
                                                         </td>
                                                         <td>1</td>
                                                         <td>
@@ -373,7 +373,7 @@
                                                     </tr>
                                                     <tr class="border border-defaultborder">
                                                         <td class="text-center">
-                                                            <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-line text-[1rem] text-[#8c9097] dark:text-white/50"></i></a>
+                                                            <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-line text-[1rem] text-[#8c9097]"></i></a>
                                                         </td>
                                                         <td>2</td>
                                                         <td>
@@ -421,7 +421,7 @@
                                                     </tr>
                                                     <tr class="border border-defaultborder">
                                                         <td class="text-center">
-                                                            <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-line text-[1rem] text-[#8c9097] dark:text-white/50"></i></a></td>
+                                                            <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-line text-[1rem] text-[#8c9097]"></i></a></td>
                                                         <td>3</td>
                                                         <td>
                                                             <div class="flex items-center gap-2">
@@ -471,7 +471,7 @@
                                                     </tr>
                                                     <tr class="border border-defaultborder">
                                                         <td class="text-center">
-                                                            <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-line text-[1rem] text-[#8c9097] dark:text-white/50"></i></a></td>
+                                                            <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-line text-[1rem] text-[#8c9097]"></i></a></td>
                                                         <td>4</td>
                                                         <td>
                                                             <div class="flex items-center gap-2">
@@ -522,7 +522,7 @@
                                                     </tr>
                                                     <tr class="border border-defaultborder">
                                                         <td class="text-center">
-                                                            <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-line text-[1rem] text-[#8c9097] dark:text-white/50"></i></a></td>
+                                                            <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-line text-[1rem] text-[#8c9097]"></i></a></td>
                                                         <td>5</td>
                                                         <td>
                                                             <div class="flex items-center gap-2">
@@ -572,7 +572,7 @@
                                                     </tr>
                                                     <tr class="border border-defaultborder">
                                                         <td class="text-center">
-                                                            <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-line text-[1rem] text-[#8c9097] dark:text-white/50"></i></a></td>
+                                                            <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-line text-[1rem] text-[#8c9097]"></i></a></td>
                                                         <td>6</td>
                                                         <td>
                                                             <div class="flex items-center gap-2">
@@ -623,7 +623,7 @@
                                                     </tr>
                                                     <tr class="border border-defaultborder">
                                                         <td class="text-center">
-                                                            <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-line text-[1rem] text-[#8c9097] dark:text-white/50"></i></a></td>
+                                                            <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-line text-[1rem] text-[#8c9097]"></i></a></td>
                                                         <td>7</td>
                                                         <td>
                                                             <div class="flex items-center gap-2">
@@ -674,7 +674,7 @@
                                                     </tr>
                                                     <tr class="border border-defaultborder">
                                                         <td class="text-center">
-                                                            <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-line text-[1rem] text-[#8c9097] dark:text-white/50"></i></a></td>
+                                                            <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-line text-[1rem] text-[#8c9097]"></i></a></td>
                                                         <td>8</td>
                                                         <td>
                                                             <div class="flex items-center gap-2">
@@ -725,7 +725,7 @@
                                                     </tr>
                                                     <tr class="border border-defaultborder">
                                                         <td class="text-center">
-                                                            <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-line text-[1rem] text-[#8c9097] dark:text-white/50"></i></a></td>
+                                                            <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-line text-[1rem] text-[#8c9097]"></i></a></td>
                                                         <td>9</td>
                                                         <td>
                                                             <div class="flex items-center gap-2">
@@ -772,7 +772,7 @@
                                                     </tr>
                                                     <tr class="border border-defaultborder">
                                                         <td class="text-center">
-                                                            <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-line text-[1rem] text-[#8c9097] dark:text-white/50"></i></a></td>
+                                                            <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-line text-[1rem] text-[#8c9097]"></i></a></td>
                                                         <td>10</td>
                                                         <td>
                                                             <div class="flex items-center gap-2">

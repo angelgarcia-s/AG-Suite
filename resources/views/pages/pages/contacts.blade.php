@@ -18,7 +18,7 @@
                                                 <div class="flex sm:mt-0 mt-2 items-center">
                                                     <div class="input-group">
                                                         <input type="text" class="form-control !rounded-s-sm w-full !bg-light !border-0" placeholder="Search Contact" aria-describedby="search-contact-member">
-                                                        <button  aria-label="button" type="button" class="ti-btn ti-btn-light  !rounded-s-none !mb-0" id="search-contact-member"><i class="ri-search-line text-[#8c9097] dark:text-white/50"></i></button>
+                                                        <button  aria-label="button" type="button" class="ti-btn ti-btn-light  !rounded-s-none !mb-0" id="search-contact-member"><i class="ri-search-line text-[#8c9097]"></i></button>
                                                     </div>
                                                     <div class="hs-dropdown ti-dropdown ms-2">
                                                         <button  aria-label="button" type="button" class="ti-btn ti-btn-icon ti-btn-primary w-[2.313rem] h-[2.313rem]" aria-expanded="false">
@@ -58,7 +58,7 @@
                                                     <h6 class=" mb-1 font-semibold text-[1rem]">
                                                         Melissa Jane
                                                     </h6>
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50 contact-mail text-truncate">melissajane2134@gmail.com</p>
+                                                    <p class="mb-1 text-[#8c9097] contact-mail text-truncate">melissajane2134@gmail.com</p>
                                                     <p class="font-semibold text-[0.6875rem] mb-0 !text-primary">
                                                         +1(555) 354 2345
                                                     </p>
@@ -105,14 +105,14 @@
                                                     <h6 class=" text-[1rem] mb-1 font-semibold">
                                                         Simon Cowall
                                                     </h6>
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50 contact-mail text-truncate">simoncowal111@gmail.com</p>
+                                                    <p class="mb-1 text-[#8c9097] contact-mail text-truncate">simoncowal111@gmail.com</p>
                                                     <p class="font-semibold text-[0.6875rem] mb-0 !text-primary">
                                                         +1(555) 873 8923
                                                     </p>
                                                 </div>
                                             </div>
                                             <div>
-                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097] dark:text-white/50"></i>
+                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097]"></i>
                                             </div>
                                         </div>
                                         <div class="flex items-center justify-center gap-2 contact-hover-buttons">
@@ -152,7 +152,7 @@
                                                     <h6 class=" text-[1rem] mb-1 font-semibold">
                                                         Susana Sane
                                                     </h6>
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50 contact-mail text-truncate">susanasane@gmail.com</p>
+                                                    <p class="mb-1 text-[#8c9097] contact-mail text-truncate">susanasane@gmail.com</p>
                                                     <p class="font-semibold text-[0.6875rem] mb-0 !text-primary">
                                                         +1(555) 347 0923
                                                     </p>
@@ -199,14 +199,14 @@
                                                     <h6 class="text-[1rem] mb-1 font-semibold">
                                                         Sahne Watson
                                                     </h6>
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50 contact-mail text-truncate">shanewatson@gmail.com</p>
+                                                    <p class="mb-1 text-[#8c9097] contact-mail text-truncate">shanewatson@gmail.com</p>
                                                     <p class="font-semibold text-[0.6875rem] mb-0 !text-primary">
                                                         +1(555) 674 7824
                                                     </p>
                                                 </div>
                                             </div>
                                             <div>
-                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097] dark:text-white/50"></i>
+                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097]"></i>
                                             </div>
                                         </div>
                                         <div class="flex items-center justify-center gap-2 contact-hover-buttons">
@@ -246,14 +246,14 @@
                                                     <h6 class="text-[1rem] mb-1 font-semibold">
                                                         Dwayne Happy
                                                     </h6>
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50 contact-mail text-truncate">dwaynehappy235@gmail.com</p>
+                                                    <p class="mb-1 text-[#8c9097] contact-mail text-truncate">dwaynehappy235@gmail.com</p>
                                                     <p class="font-semibold text-[0.6875rem] mb-0 !text-primary">
                                                         +1(555) 985 2893
                                                     </p>
                                                 </div>
                                             </div>
                                             <div>
-                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097] dark:text-white/50"></i>
+                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097]"></i>
                                             </div>
                                         </div>
                                         <div class="flex items-center justify-center gap-2 contact-hover-buttons">
@@ -293,14 +293,14 @@
                                                     <h6 class="text-[1rem] mb-1 font-semibold">
                                                         Meisha Tite
                                                     </h6>
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50 contact-mail text-truncate">meishatite456@gmail.com</p>
+                                                    <p class="mb-1 text-[#8c9097] contact-mail text-truncate">meishatite456@gmail.com</p>
                                                     <p class="font-semibold text-[0.6875rem] mb-0 !text-primary">
                                                         +1(555) 675 4680
                                                     </p>
                                                 </div>
                                             </div>
                                             <div>
-                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097] dark:text-white/50"></i>
+                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097]"></i>
                                             </div>
                                         </div>
                                         <div class="flex items-center justify-center gap-2 contact-hover-buttons">
@@ -340,14 +340,14 @@
                                                     <h6 class="text-[1rem] mb-1 font-semibold">
                                                         Andrew Gerfield
                                                     </h6>
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50 contact-mail text-truncate">andrewgerfield00@gmail.com</p>
+                                                    <p class="mb-1 text-[#8c9097] contact-mail text-truncate">andrewgerfield00@gmail.com</p>
                                                     <p class="font-semibold text-[0.6875rem] mb-0 !text-primary">
                                                         +1(555) 765 8937
                                                     </p>
                                                 </div>
                                             </div>
                                             <div>
-                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097] dark:text-white/50"></i>
+                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097]"></i>
                                             </div>
                                         </div>
                                         <div class="flex items-center justify-center gap-2 contact-hover-buttons">
@@ -387,14 +387,14 @@
                                                     <h6 class="text-[1rem] mb-1 font-semibold">
                                                         Samantha Melon
                                                     </h6>
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50 contact-mail text-truncate">samanthamelon@gmail.com</p>
+                                                    <p class="mb-1 text-[#8c9097] contact-mail text-truncate">samanthamelon@gmail.com</p>
                                                     <p class="font-semibold text-[0.6875rem] mb-0 !text-primary">
                                                         +1(555) 890 5687
                                                     </p>
                                                 </div>
                                             </div>
                                             <div>
-                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097] dark:text-white/50"></i>
+                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097]"></i>
                                             </div>
                                         </div>
                                         <div class="flex items-center justify-center gap-2 contact-hover-buttons">
@@ -434,14 +434,14 @@
                                                     <h6 class="text-[1rem] mb-1 font-semibold">
                                                         Elisha Smith
                                                     </h6>
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50 contact-mail text-truncate">elishasmith@gmail.com</p>
+                                                    <p class="mb-1 text-[#8c9097] contact-mail text-truncate">elishasmith@gmail.com</p>
                                                     <p class="font-semibold text-[0.6875rem] mb-0 !text-primary">
                                                         +1(555) 972 9883
                                                     </p>
                                                 </div>
                                             </div>
                                             <div>
-                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097] dark:text-white/50"></i>
+                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097]"></i>
                                             </div>
                                         </div>
                                         <div class="flex items-center justify-center gap-2 contact-hover-buttons">
@@ -481,7 +481,7 @@
                                                     <h6 class="text-[1rem] mb-1 font-semibold">
                                                         Devon Convoy
                                                     </h6>
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50 contact-mail text-truncate">devonconvoy65@gmail.com</p>
+                                                    <p class="mb-1 text-[#8c9097] contact-mail text-truncate">devonconvoy65@gmail.com</p>
                                                     <p class="font-semibold text-[0.6875rem] mb-0 !text-primary">
                                                         +1(555) 693 7836
                                                     </p>
@@ -528,14 +528,14 @@
                                                     <h6 class="text-[1rem] mb-1 font-semibold">
                                                         Shensovic Jeremy
                                                     </h6>
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50 contact-mail text-truncate">shensovicjeremy@gmail.com</p>
+                                                    <p class="mb-1 text-[#8c9097] contact-mail text-truncate">shensovicjeremy@gmail.com</p>
                                                     <p class="font-semibold text-[0.6875rem] mb-0 !text-primary">
                                                         +1(555) 238 2342
                                                     </p>
                                                 </div>
                                             </div>
                                             <div>
-                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097] dark:text-white/50"></i>
+                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097]"></i>
                                             </div>
                                         </div>
                                         <div class="flex items-center justify-center gap-2 contact-hover-buttons">
@@ -575,14 +575,14 @@
                                                     <h6 class="text-[1rem] mb-1 font-semibold">
                                                         Jason Mama
                                                     </h6>
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50 contact-mail text-truncate">jasonmama96@gmail.com</p>
+                                                    <p class="mb-1 text-[#8c9097] contact-mail text-truncate">jasonmama96@gmail.com</p>
                                                     <p class="font-semibold text-[0.6875rem] mb-0 !text-primary">
                                                         +1(555) 875 6789
                                                     </p>
                                                 </div>
                                             </div>
                                             <div>
-                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097] dark:text-white/50"></i>
+                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097]"></i>
                                             </div>
                                         </div>
                                         <div class="flex items-center justify-center gap-2 contact-hover-buttons">
@@ -622,14 +622,14 @@
                                                     <h6 class="text-[1rem] mb-1 font-semibold">
                                                         Monika Karen
                                                     </h6>
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50 contact-mail text-truncate">monikakaren@gmail.com</p>
+                                                    <p class="mb-1 text-[#8c9097] contact-mail text-truncate">monikakaren@gmail.com</p>
                                                     <p class="font-semibold text-[0.6875rem] mb-0 !text-primary">
                                                         +1(555) 568 9234
                                                     </p>
                                                 </div>
                                             </div>
                                             <div>
-                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097] dark:text-white/50"></i>
+                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097]"></i>
                                             </div>
                                         </div>
                                         <div class="flex items-center justify-center gap-2 contact-hover-buttons">
@@ -669,14 +669,14 @@
                                                     <h6 class="text-[1rem] mb-1 font-semibold">
                                                         Tom Holland
                                                     </h6>
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50 contact-mail text-truncate">tomholland98@gmail.com</p>
+                                                    <p class="mb-1 text-[#8c9097] contact-mail text-truncate">tomholland98@gmail.com</p>
                                                     <p class="font-semibold text-[0.6875rem] mb-0 !text-primary">
                                                         +1(555) 892 4334
                                                     </p>
                                                 </div>
                                             </div>
                                             <div>
-                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097] dark:text-white/50"></i>
+                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097]"></i>
                                             </div>
                                         </div>
                                         <div class="flex items-center justify-center gap-2 contact-hover-buttons">
@@ -716,14 +716,14 @@
                                                     <h6 class="text-[1rem] mb-1 font-semibold">
                                                         Anelica Julie
                                                     </h6>
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50 contact-mail text-truncate">angelicajulie@gmail.com</p>
+                                                    <p class="mb-1 text-[#8c9097] contact-mail text-truncate">angelicajulie@gmail.com</p>
                                                     <p class="font-semibold text-[0.6875rem] mb-0 !text-primary">
                                                         +1(555) 882 3445
                                                     </p>
                                                 </div>
                                             </div>
                                             <div>
-                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097] dark:text-white/50"></i>
+                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097]"></i>
                                             </div>
                                         </div>
                                         <div class="flex items-center justify-center gap-2 contact-hover-buttons">
@@ -763,14 +763,14 @@
                                                     <h6 class="text-[1rem] mb-1 font-semibold">
                                                         Aneera Khan
                                                     </h6>
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50 contact-mail text-truncate">aneerakhan@gmail.com</p>
+                                                    <p class="mb-1 text-[#8c9097] contact-mail text-truncate">aneerakhan@gmail.com</p>
                                                     <p class="font-semibold text-[0.6875rem] mb-0 !text-primary">
                                                         +1(555) 973 8734
                                                     </p>
                                                 </div>
                                             </div>
                                             <div>
-                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097] dark:text-white/50"></i>
+                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097]"></i>
                                             </div>
                                         </div>
                                         <div class="flex items-center justify-center gap-2 contact-hover-buttons">
@@ -810,7 +810,7 @@
                                                     <h6 class="text-[1rem] mb-1 font-semibold">
                                                         Linda Simson
                                                     </h6>
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50 contact-mail text-truncate">lindasimson@gmail.com</p>
+                                                    <p class="mb-1 text-[#8c9097] contact-mail text-truncate">lindasimson@gmail.com</p>
                                                     <p class="font-semibold text-[0.6875rem] mb-0 !text-primary">
                                                         +1(555) 234 9345
                                                     </p>
@@ -857,14 +857,14 @@
                                                     <h6 class="text-[1rem] mb-1 font-semibold">
                                                         Umaga Nigel
                                                     </h6>
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50 contact-mail text-truncate">umaganigel89@gmail.com</p>
+                                                    <p class="mb-1 text-[#8c9097] contact-mail text-truncate">umaganigel89@gmail.com</p>
                                                     <p class="font-semibold text-[0.6875rem] mb-0 !text-primary">
                                                         +1(555) 783 0213
                                                     </p>
                                                 </div>
                                             </div>
                                             <div>
-                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097] dark:text-white/50"></i>
+                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097]"></i>
                                             </div>
                                         </div>
                                         <div class="flex items-center justify-center gap-2 contact-hover-buttons">
@@ -904,7 +904,7 @@
                                                     <h6 class="text-[1rem] mb-1 font-semibold">
                                                         Json Taylor
                                                     </h6>
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50 contact-mail text-truncate">jsontaylor@gmail.com</p>
+                                                    <p class="mb-1 text-[#8c9097] contact-mail text-truncate">jsontaylor@gmail.com</p>
                                                     <p class="font-semibold text-[0.6875rem] mb-0 !text-primary">
                                                         +1(555) 234 2452
                                                     </p>
@@ -951,14 +951,14 @@
                                                     <h6 class="text-[1rem] mb-1 font-semibold">
                                                         Karizma Tope
                                                     </h6>
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50 contact-mail text-truncate">Karizmatope@gmail.com</p>
+                                                    <p class="mb-1 text-[#8c9097] contact-mail text-truncate">Karizmatope@gmail.com</p>
                                                     <p class="font-semibold text-[0.6875rem] mb-0 !text-primary">
                                                         +1(555) 890 2455
                                                     </p>
                                                 </div>
                                             </div>
                                             <div>
-                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097] dark:text-white/50"></i>
+                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097]"></i>
                                             </div>
                                         </div>
                                         <div class="flex items-center justify-center gap-2 contact-hover-buttons">
@@ -998,14 +998,14 @@
                                                     <h6 class="text-[1rem] mb-1 font-semibold">
                                                         Gahaskar Shaik
                                                     </h6>
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50 contact-mail text-truncate">gahaskarshaik@gmail.com</p>
+                                                    <p class="mb-1 text-[#8c9097] contact-mail text-truncate">gahaskarshaik@gmail.com</p>
                                                     <p class="font-semibold text-[0.6875rem] mb-0 !text-primary">
                                                         +1(555) 982 7648
                                                     </p>
                                                 </div>
                                             </div>
                                             <div>
-                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097] dark:text-white/50"></i>
+                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097]"></i>
                                             </div>
                                         </div>
                                         <div class="flex items-center justify-center gap-2 contact-hover-buttons">
@@ -1045,14 +1045,14 @@
                                                     <h6 class="text-[1rem] mb-1 font-semibold">
                                                         Balvinder Singh
                                                     </h6>
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50 contact-mail text-truncate">balvindersingh@gmail.com</p>
+                                                    <p class="mb-1 text-[#8c9097] contact-mail text-truncate">balvindersingh@gmail.com</p>
                                                     <p class="font-semibold text-[0.6875rem] mb-0 !text-primary">
                                                         +1(555) 002 1239
                                                     </p>
                                                 </div>
                                             </div>
                                             <div>
-                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097] dark:text-white/50"></i>
+                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097]"></i>
                                             </div>
                                         </div>
                                         <div class="flex items-center justify-center gap-2 contact-hover-buttons">
@@ -1092,14 +1092,14 @@
                                                     <h6 class="text-[1rem] mb-1 font-semibold">
                                                         Ramika Missi
                                                     </h6>
-                                                    <p class="mb-1 text-[#8c9097] dark:text-white/50 contact-mail text-truncate">ramikamissi@gmail.com</p>
+                                                    <p class="mb-1 text-[#8c9097] contact-mail text-truncate">ramikamissi@gmail.com</p>
                                                     <p class="font-semibold text-[0.6875rem] mb-0 !text-primary">
                                                         +1(555) 982 4834
                                                     </p>
                                                 </div>
                                             </div>
                                             <div>
-                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097] dark:text-white/50"></i>
+                                                <i class="ri-heart-3-line text-[1rem] text-[#8c9097]"></i>
                                             </div>
                                         </div>
                                         <div class="flex items-center justify-center gap-2 contact-hover-buttons">

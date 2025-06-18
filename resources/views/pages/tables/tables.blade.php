@@ -12,16 +12,16 @@
                 <!-- Page Header -->
                 <div class="block justify-between page-header md:flex">
                     <div>
-                        <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold">Tables</h3>
+                        <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold">Tables</h3>
                     </div>
                     <ol class="flex items-center whitespace-nowrap min-w-0">
                         <li class="text-[0.813rem] ps-[0.5rem]">
-                          <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                          <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                             Tables
-                            <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                            <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                           </a>
                         </li>
-                        <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                        <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                            Tables
                         </li>
                     </ol>
@@ -880,7 +880,7 @@
                                                 <th scope="col" class="text-start">Qunatity Sold</th>
                                             </tr>
                                         </thead>
-                                        <tbody class="table-group-divider dark:border-defaultborder/10">
+                                        <tbody class="table-group-divider">
                                             <tr class="border-b border-defaultborder">
                                                 <th scope="row" class="text-start">Smart Watch</th>
                                                 <td>Slowtrack.inc</td>
@@ -926,7 +926,7 @@
                     &lt;th scope="col" class="text-start"&gt;Qunatity Sold&lt;/th&gt;
                 &lt;/tr&gt;
             &lt;/thead&gt;
-            &lt;tbody class="table-group-divider dark:border-defaultborder/10"&gt;
+            &lt;tbody class="table-group-divider"&gt;
                 &lt;tr class="border-b border-defaultborder"&gt;
                     &lt;th scope="row" class="text-start"&gt;Smart Watch&lt;/th&gt;
                     &lt;td&gt;Slowtrack.inc&lt;/td&gt;
@@ -1572,7 +1572,7 @@
                                 <div class="table-responsive">
                                     <table class="table whitespace-nowrap table-dark !rounded-none min-w-full">
                                         <thead>
-                                            <tr class="border-b border-black/10 dark:border-black/[0.025];">
+                                            <tr class="border-b border-black/10">
                                                 <th scope="col" class="text-start">#</th>
                                                 <th scope="col" class="text-start">First</th>
                                                 <th scope="col" class="text-start">Last</th>
@@ -1608,7 +1608,7 @@
     &lt;div class="table-responsive"&gt;
         &lt;table class="table whitespace-nowrap table-dark !rounded-none min-w-full"&gt;
             &lt;thead&gt;
-                &lt;tr class="border-b border-black/10 dark:border-black/[0.025];"&gt;
+                &lt;tr class="border-b border-black/10"&gt;
                     &lt;th scope="col" class="text-start"&gt;#&lt;/th&gt;
                     &lt;th scope="col" class="text-start"&gt;First&lt;/th&gt;
                     &lt;th scope="col" class="text-start"&gt;Last&lt;/th&gt;
@@ -1761,7 +1761,7 @@
                                                             </div>
                                                             <div class="leading-none">
                                                                 <span
-                                                                    class="text-[0.6875rem] text-[#8c9097] dark:text-white/50">joannasmith14@gmail.com</span>
+                                                                    class="text-[0.6875rem] text-[#8c9097]">joannasmith14@gmail.com</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1803,7 +1803,7 @@
                                                             </div>
                                                             <div class="leading-none">
                                                                 <span
-                                                                    class="text-[0.6875rem] text-[#8c9097] dark:text-white/50">milesakara@gmail.com</span>
+                                                                    class="text-[0.6875rem] text-[#8c9097]">milesakara@gmail.com</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1842,12 +1842,12 @@
                                                             </div>
                                                             <div class="leading-none">
                                                                 <span
-                                                                    class="text-[0.6875rem] text-[#8c9097] dark:text-white/50">donaldo21@gmail.com</span>
+                                                                    class="text-[0.6875rem] text-[#8c9097]">donaldo21@gmail.com</span>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </td>
-                                                <td><span class="badge bg-dark/10 text-black dark:text-white">Electronics</span></td>
+                                                <td><span class="badge bg-dark/10 text-black">Electronics</span></td>
                                                 <td>
                                                     <div class="avatar-list-stacked">
                                                         <span class="avatar avatar-sm avatar-rounded">
@@ -1884,7 +1884,7 @@
                                                             </div>
                                                             <div class="leading-none">
                                                                 <span
-                                                                    class="text-[0.6875rem] text-[#8c9097] dark:text-white/50">justingae@gmail.com</span>
+                                                                    class="text-[0.6875rem] text-[#8c9097]">justingae@gmail.com</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1941,7 +1941,7 @@
                                 &lt;/div&gt;
                                 &lt;div class="leading-none"&gt;
                                     &lt;span
-                                        class="text-[0.6875rem] text-[#8c9097] dark:text-white/50"&gt;joannasmith14@gmail.com&lt;/span&gt;
+                                        class="text-[0.6875rem] text-[#8c9097]"&gt;joannasmith14@gmail.com&lt;/span&gt;
                                 &lt;/div&gt;
                             &lt;/div&gt;
                         &lt;/div&gt;
@@ -1983,7 +1983,7 @@
                                 &lt;/div&gt;
                                 &lt;div class="leading-none"&gt;
                                     &lt;span
-                                        class="text-[0.6875rem] text-[#8c9097] dark:text-white/50"&gt;milesakara@gmail.com&lt;/span&gt;
+                                        class="text-[0.6875rem] text-[#8c9097]"&gt;milesakara@gmail.com&lt;/span&gt;
                                 &lt;/div&gt;
                             &lt;/div&gt;
                         &lt;/div&gt;
@@ -2022,12 +2022,12 @@
                                 &lt;/div&gt;
                                 &lt;div class="leading-none"&gt;
                                     &lt;span
-                                        class="text-[0.6875rem] text-[#8c9097] dark:text-white/50"&gt;donaldo21@gmail.com&lt;/span&gt;
+                                        class="text-[0.6875rem] text-[#8c9097]"&gt;donaldo21@gmail.com&lt;/span&gt;
                                 &lt;/div&gt;
                             &lt;/div&gt;
                         &lt;/div&gt;
                     &lt;/td&gt;
-                    &lt;td&gt;&lt;span class="badge bg-dark/10 text-black dark:text-white"&gt;Electronics&lt;/span&gt;&lt;/td&gt;
+                    &lt;td&gt;&lt;span class="badge bg-dark/10 text-black"&gt;Electronics&lt;/span&gt;&lt;/td&gt;
                     &lt;td&gt;
                         &lt;div class="avatar-list-stacked"&gt;
                             &lt;span class="avatar avatar-sm avatar-rounded"&gt;
@@ -2064,7 +2064,7 @@
                                 &lt;/div&gt;
                                 &lt;div class="leading-none"&gt;
                                     &lt;span
-                                        class="text-[0.6875rem] text-[#8c9097] dark:text-white/50"&gt;justingae@gmail.com&lt;/span&gt;
+                                        class="text-[0.6875rem] text-[#8c9097]"&gt;justingae@gmail.com&lt;/span&gt;
                                 &lt;/div&gt;
                             &lt;/div&gt;
                         &lt;/div&gt;
@@ -2133,7 +2133,7 @@
                                                             </div>
                                                             <div class="leading-none">
                                                                 <span
-                                                                    class="text-[0.6875rem] text-[#8c9097] dark:text-white/50">markcruise24@gmail.com</span>
+                                                                    class="text-[0.6875rem] text-[#8c9097]">markcruise24@gmail.com</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -2155,7 +2155,7 @@
                                                             </div>
                                                             <div class="leading-none">
                                                                 <span
-                                                                    class="text-[0.6875rem] text-[#8c9097] dark:text-white/50">charanjeep@gmail.in</span>
+                                                                    class="text-[0.6875rem] text-[#8c9097]">charanjeep@gmail.in</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -2176,7 +2176,7 @@
                                                                 <span>Samantha Julie</span>
                                                             </div>
                                                             <div class="leading-none">
-                                                                <span class="text-[0.6875rem] text-[#8c9097] dark:text-white/50">julie453@gmail.com</span>
+                                                                <span class="text-[0.6875rem] text-[#8c9097]">julie453@gmail.com</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -2198,12 +2198,12 @@
                                                                 <span>Simon Cohen</span>
                                                             </div>
                                                             <div class="leading-none">
-                                                                <span class="text-[0.6875rem] text-[#8c9097] dark:text-white/50">simon@gmail.com</span>
+                                                                <span class="text-[0.6875rem] text-[#8c9097]">simon@gmail.com</span>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </td>
-                                                <td><span class="badge bg-light text-black dark:text-white"><i
+                                                <td><span class="badge bg-light text-black"><i
                                                             class="ri-reply-line align-middle me-1"></i>Refunded</span>
                                                 </td>
                                                 <td>Apr 24,2022</td>
@@ -2239,7 +2239,7 @@
                                 &lt;/div&gt;
                                 &lt;div class="leading-none"&gt;
                                     &lt;span
-                                        class="text-[0.6875rem] text-[#8c9097] dark:text-white/50"&gt;markcruise24@gmail.com&lt;/span&gt;
+                                        class="text-[0.6875rem] text-[#8c9097]"&gt;markcruise24@gmail.com&lt;/span&gt;
                                 &lt;/div&gt;
                             &lt;/div&gt;
                         &lt;/div&gt;
@@ -2261,7 +2261,7 @@
                                 &lt;/div&gt;
                                 &lt;div class="leading-none"&gt;
                                     &lt;span
-                                        class="text-[0.6875rem] text-[#8c9097] dark:text-white/50"&gt;charanjeep@gmail.in&lt;/span&gt;
+                                        class="text-[0.6875rem] text-[#8c9097]"&gt;charanjeep@gmail.in&lt;/span&gt;
                                 &lt;/div&gt;
                             &lt;/div&gt;
                         &lt;/div&gt;
@@ -2282,7 +2282,7 @@
                                     &lt;span&gt;Samantha Julie&lt;/span&gt;
                                 &lt;/div&gt;
                                 &lt;div class="leading-none"&gt;
-                                    &lt;span class="text-[0.6875rem] text-[#8c9097] dark:text-white/50"&gt;julie453@gmail.com&lt;/span&gt;
+                                    &lt;span class="text-[0.6875rem] text-[#8c9097]"&gt;julie453@gmail.com&lt;/span&gt;
                                 &lt;/div&gt;
                             &lt;/div&gt;
                         &lt;/div&gt;
@@ -2304,12 +2304,12 @@
                                     &lt;span&gt;Simon Cohen&lt;/span&gt;
                                 &lt;/div&gt;
                                 &lt;div class="leading-none"&gt;
-                                    &lt;span class="text-[0.6875rem] text-[#8c9097] dark:text-white/50"&gt;simon@gmail.com&lt;/span&gt;
+                                    &lt;span class="text-[0.6875rem] text-[#8c9097]"&gt;simon@gmail.com&lt;/span&gt;
                                 &lt;/div&gt;
                             &lt;/div&gt;
                         &lt;/div&gt;
                     &lt;/td&gt;
-                    &lt;td&gt;&lt;span class="badge bg-light text-black dark:text-white"&gt;&lt;i
+                    &lt;td&gt;&lt;span class="badge bg-light text-black"&gt;&lt;i
                                 class="ri-reply-line align-middle me-1"&gt;&lt;/i&gt;Refunded&lt;/span&gt;
                     &lt;/td&gt;
                     &lt;td&gt;Apr 24,2022&lt;/td&gt;

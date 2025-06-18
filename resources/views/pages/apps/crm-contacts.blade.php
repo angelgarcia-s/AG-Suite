@@ -15,16 +15,16 @@
                         <!-- Page Header -->
                         <div class="block justify-between page-header md:flex">
                             <div>
-                                <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Contacts</h3>
+                                <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Contacts</h3>
                             </div>
                             <ol class="flex items-center whitespace-nowrap min-w-0">
                                 <li class="text-[0.813rem] ps-[0.5rem]">
-                                    <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                    <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                     CRM
-                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                     </a>
                                 </li>
-                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                     Contacts
                                 </li>
                             </ol>
@@ -87,7 +87,7 @@
                                                                 </div>
                                                                 <div>
                                                                     <a href="javascript:void(0);" data-hs-overlay="#hs-overlay-contacts"><span class="block font-semibold">Lisa Convay</span></a>
-                                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem]" title="Last Contacted"><i class="ri-account-circle-line me-1 text-[0.8125rem] align-middle"></i>24, Jul 2023 - 4:45PM</span>
+                                                                    <span class="block text-[#8c9097] text-[0.6875rem]" title="Last Contacted"><i class="ri-account-circle-line me-1 text-[0.8125rem] align-middle"></i>24, Jul 2023 - 4:45PM</span>
                                                                 </div>
                                                             </div>
                                                         </td>
@@ -96,12 +96,12 @@
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>lisaconvay2981@gmail.com</span>
+                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>lisaconvay2981@gmail.com</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>1678-28993-223</span>
+                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>1678-28993-223</span>
                                                             </div>
                                                         </td>
                                                         <td>
@@ -144,7 +144,7 @@
                                                                 </div>
                                                                 <div>
                                                                     <a href="javascript:void(0);" data-hs-overlay="#hs-overlay-contacts"><span class="block font-semibold">Jacob Smith</span></a>
-                                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem]"   title="Last Contacted"><i class="ri-account-circle-line me-1 text-[0.8125rem] align-middle"></i>15, Jul 2023 - 11:45AM</span>
+                                                                    <span class="block text-[#8c9097] text-[0.6875rem]"   title="Last Contacted"><i class="ri-account-circle-line me-1 text-[0.8125rem] align-middle"></i>15, Jul 2023 - 11:45AM</span>
                                                                 </div>
                                                             </div>
                                                         </td>
@@ -153,12 +153,12 @@
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>jacobsmith289@gmail.com</span>
+                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>jacobsmith289@gmail.com</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>8122-2342-4453</span>
+                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>8122-2342-4453</span>
                                                             </div>
                                                         </td>
                                                         <td>
@@ -201,7 +201,7 @@
                                                                 </div>
                                                                 <div>
                                                                     <a href="javascript:void(0);" data-hs-overlay="#hs-overlay-contacts"><span class="block font-semibold">Jake Sully</span></a>
-                                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem]"   title="Last Contacted"><i class="ri-account-circle-line me-1 text-[0.8125rem] align-middle"></i>10, Aug 2023 - 3:25PM</span>
+                                                                    <span class="block text-[#8c9097] text-[0.6875rem]"   title="Last Contacted"><i class="ri-account-circle-line me-1 text-[0.8125rem] align-middle"></i>10, Aug 2023 - 3:25PM</span>
                                                                 </div>
                                                             </div>
                                                         </td>
@@ -210,12 +210,12 @@
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>jakesully789@gmail.com</span>
+                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>jakesully789@gmail.com</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>1902-2001-3023</span>
+                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>1902-2001-3023</span>
                                                             </div>
                                                         </td>
                                                         <td>
@@ -257,7 +257,7 @@
                                                                 </div>
                                                                 <div>
                                                                     <a href="javascript:void(0);" data-hs-overlay="#hs-overlay-contacts"><span class="block font-semibold">Kiara Advain</span></a>
-                                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem]"   title="Last Contacted"><i class="ri-account-circle-line me-1 text-[0.8125rem] align-middle"></i>18, Aug 2023 - 10:10AM</span>
+                                                                    <span class="block text-[#8c9097] text-[0.6875rem]"   title="Last Contacted"><i class="ri-account-circle-line me-1 text-[0.8125rem] align-middle"></i>18, Aug 2023 - 10:10AM</span>
                                                                 </div>
                                                             </div>
                                                         </td>
@@ -266,12 +266,12 @@
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>kiaraadvain290@gmail.com</span>
+                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>kiaraadvain290@gmail.com</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>1603-2032-1123</span>
+                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>1603-2032-1123</span>
                                                             </div>
                                                         </td>
                                                         <td>
@@ -314,7 +314,7 @@
                                                                 </div>
                                                                 <div>
                                                                     <a href="javascript:void(0);" data-hs-overlay="#hs-overlay-contacts"><span class="block font-semibold">Brenda Simpson</span></a>
-                                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem]"   title="Last Contacted"><i class="ri-account-circle-line me-1 text-[0.8125rem] align-middle"></i>19, Jul 2023 - 12:41PM</span>
+                                                                    <span class="block text-[#8c9097] text-[0.6875rem]"   title="Last Contacted"><i class="ri-account-circle-line me-1 text-[0.8125rem] align-middle"></i>19, Jul 2023 - 12:41PM</span>
                                                                 </div>
                                                             </div>
                                                         </td>
@@ -323,12 +323,12 @@
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>brendasimpson1993@gmail.com</span>
+                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>brendasimpson1993@gmail.com</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>1129-2302-1092</span>
+                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>1129-2302-1092</span>
                                                             </div>
                                                         </td>
                                                         <td>
@@ -371,7 +371,7 @@
                                                                 </div>
                                                                 <div>
                                                                     <a href="javascript:void(0);" data-hs-overlay="#hs-overlay-contacts"><span class="block font-semibold">Json Taylor</span></a>
-                                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem]"   title="Last Contacted"><i class="ri-account-circle-line me-1 text-[0.8125rem] align-middle"></i>14, Aug 2023 - 5:18PM</span>
+                                                                    <span class="block text-[#8c9097] text-[0.6875rem]"   title="Last Contacted"><i class="ri-account-circle-line me-1 text-[0.8125rem] align-middle"></i>14, Aug 2023 - 5:18PM</span>
                                                                 </div>
                                                             </div>
                                                         </td>
@@ -380,12 +380,12 @@
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>jsontaylor345@gmail.com</span>
+                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>jsontaylor345@gmail.com</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>9923-2344-2003</span>
+                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>9923-2344-2003</span>
                                                             </div>
                                                         </td>
                                                         <td>
@@ -428,7 +428,7 @@
                                                                 </div>
                                                                 <div>
                                                                     <a href="javascript:void(0);" data-hs-overlay="#hs-overlay-contacts"><span class="block font-semibold">Dwayne Jhonson</span></a>
-                                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem]"   title="Last Contacted"><i class="ri-account-circle-line me-1 text-[0.8125rem] align-middle"></i>12, Jun 2023 - 11:38AM</span>
+                                                                    <span class="block text-[#8c9097] text-[0.6875rem]"   title="Last Contacted"><i class="ri-account-circle-line me-1 text-[0.8125rem] align-middle"></i>12, Jun 2023 - 11:38AM</span>
                                                                 </div>
                                                             </div>
                                                         </td>
@@ -437,12 +437,12 @@
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>dwayenejhonson78@gmail.com</span>
+                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>dwayenejhonson78@gmail.com</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>7891-2093-1994</span>
+                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>7891-2093-1994</span>
                                                             </div>
                                                         </td>
                                                         <td>
@@ -485,7 +485,7 @@
                                                                 </div>
                                                                 <div>
                                                                     <a href="javascript:void(0);" data-hs-overlay="#hs-overlay-contacts"><span class="block font-semibold">Emiley Jackson</span></a>
-                                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem]"   title="Last Contacted"><i class="ri-account-circle-line me-1 text-[0.8125rem] align-middle"></i>19, May 2023 - 1:57PM</span>
+                                                                    <span class="block text-[#8c9097] text-[0.6875rem]"   title="Last Contacted"><i class="ri-account-circle-line me-1 text-[0.8125rem] align-middle"></i>19, May 2023 - 1:57PM</span>
                                                                 </div>
                                                             </div>
                                                         </td>
@@ -494,12 +494,12 @@
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>emileyjackson678@gmail.com</span>
+                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>emileyjackson678@gmail.com</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>1899-2993-0923</span>
+                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>1899-2993-0923</span>
                                                             </div>
                                                         </td>
                                                         <td>
@@ -542,7 +542,7 @@
                                                                 </div>
                                                                 <div>
                                                                     <a href="javascript:void(0);" data-hs-overlay="#hs-overlay-contacts"><span class="block font-semibold">Jessica Morris</span></a>
-                                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem]"   title="Last Contacted"><i class="ri-account-circle-line me-1 text-[0.8125rem] align-middle"></i>28, Jul 2023 - 9:31AM</span>
+                                                                    <span class="block text-[#8c9097] text-[0.6875rem]"   title="Last Contacted"><i class="ri-account-circle-line me-1 text-[0.8125rem] align-middle"></i>28, Jul 2023 - 9:31AM</span>
                                                                 </div>
                                                             </div>
                                                         </td>
@@ -551,12 +551,12 @@
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>jessicamorris289@gmail.com</span>
+                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>jessicamorris289@gmail.com</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>1768-2332-4934</span>
+                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>1768-2332-4934</span>
                                                             </div>
                                                         </td>
                                                         <td>
@@ -599,7 +599,7 @@
                                                                 </div>
                                                                 <div>
                                                                     <a href="javascript:void(0);" data-hs-overlay="#hs-overlay-contacts"><span class="block font-semibold">Michael Jeremy</span></a>
-                                                                    <span class="block text-[#8c9097] dark:text-white/50 text-[0.6875rem]"   title="Last Contacted"><i class="ri-account-circle-line me-1 text-[0.8125rem] align-middle"></i>28, Jul 2023 - 9:31AM</span>
+                                                                    <span class="block text-[#8c9097] text-[0.6875rem]"   title="Last Contacted"><i class="ri-account-circle-line me-1 text-[0.8125rem] align-middle"></i>28, Jul 2023 - 9:31AM</span>
                                                                 </div>
                                                             </div>
                                                         </td>
@@ -608,12 +608,12 @@
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>michaeljeremy186@gmail.com</span>
+                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>michaeljeremy186@gmail.com</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>4788-7822-4786</span>
+                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>4788-7822-4786</span>
                                                             </div>
                                                         </td>
                                                         <td>
@@ -680,7 +680,7 @@
                         <!-- Start:: Contact Details Offcanvas -->
                         <div class="hs-overlay hidden ti-offcanvas ti-offcanvas-right !max-w-[25rem] !border-0" tabindex="-1" id="hs-overlay-contacts">
                             <div class="ti-offcanvas-body !p-0">
-                                <div class="sm:flex items-start p-6 border-b border-dashed border-defaultborder dark:border-defaultborder/10 main-profile-cover">
+                                <div class="sm:flex items-start p-6 border-b border-dashed border-defaultborder main-profile-cover">
                                     <div class="avatar avatar-xxl avatar-rounded online me-4 !bottom-0 !mb-0">
                                         <img src="{{asset('build/assets/images/faces/4.jpg')}}" alt="">
                                     </div>
@@ -713,20 +713,20 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="p-6 border-b border-dashed border-defaultborder dark:border-defaultborder/10">
+                                <div class="p-6 border-b border-dashed border-defaultborder">
                                     <div class="mb-0">
                                         <p class="text-[0.9375rem] mb-2 font-semibold">Professional Bio :</p>
-                                        <p class="text-[#8c9097] dark:text-white/50 op-8 mb-0">
+                                        <p class="text-[#8c9097] op-8 mb-0">
                                             I am <b class="text-default">Lisa Convay,</b> here by conclude that,i am the founder and managing director of the prestigeous company name laugh at all and acts as the cheif executieve officer of the company.
                                         </p>
                                     </div>
                                 </div>
-                                <div class="p-6 border-b border-dashed border-defaultborder dark:border-defaultborder/10">
+                                <div class="p-6 border-b border-dashed border-defaultborder">
                                     <p class="text-[.875rem] mb-2 me-4 font-semibold">Contact Information :</p>
                                     <div class="">
                                         <div class="flex items-center mb-2">
                                             <div class="me-2">
-                                                <span class="avatar avatar-sm avatar-rounded bg-light !text-[#8c9097] dark:text-white/50">
+                                                <span class="avatar avatar-sm avatar-rounded bg-light !text-[#8c9097]">
                                                     <i class="ri-mail-line align-middle text-[.875rem]"></i>
                                                 </span>
                                             </div>
@@ -736,7 +736,7 @@
                                         </div>
                                         <div class="flex items-center mb-2">
                                             <div class="me-2">
-                                                <span class="avatar avatar-sm avatar-rounded bg-light !text-[#8c9097] dark:text-white/50">
+                                                <span class="avatar avatar-sm avatar-rounded bg-light !text-[#8c9097]">
                                                     <i class="ri-phone-line align-middle text-[.875rem]"></i>
                                                 </span>
                                             </div>
@@ -746,7 +746,7 @@
                                         </div>
                                         <div class="flex items-center mb-0">
                                             <div class="me-2">
-                                                <span class="avatar avatar-sm avatar-rounded bg-light !text-[#8c9097] dark:text-white/50">
+                                                <span class="avatar avatar-sm avatar-rounded bg-light !text-[#8c9097]">
                                                     <i class="ri-map-pin-line align-middle text-[.875rem]"></i>
                                                 </span>
                                             </div>
@@ -756,7 +756,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="p-6 border-b border-dashed border-defaultborder dark:border-defaultborder/10 flex items-center">
+                                <div class="p-6 border-b border-dashed border-defaultborder flex items-center">
                                     <p class="text-[.875rem] mb-0 me-4 font-semibold">Social Networks :</p>
                                     <div class="btn-list mb-0 gap-2 flex">
                                         <button aria-label="button" type="button" class="ti-btn w-[1.75rem] h-[1.75rem] text-[0.8rem] py-[0.26rem] px-2 rounded-sm ti-btn-primary mb-0">
@@ -776,11 +776,11 @@
                                         </button>
                                     </div>
                                 </div>
-                                <div class="p-6 border-b border-dashed border-defaultborder dark:border-defaultborder/10">
+                                <div class="p-6 border-b border-dashed border-defaultborder">
                                     <p class="text-[.875rem] mb-2 me-4 font-semibold">Tags :</p>
                                     <div>
-                                        <span class="badge bg-light text-[#8c9097] dark:text-white/50 m-1">New Lead</span>
-                                        <span class="badge bg-light text-[#8c9097] dark:text-white/50 m-1">Others</span>
+                                        <span class="badge bg-light text-[#8c9097] m-1">New Lead</span>
+                                        <span class="badge bg-light text-[#8c9097] m-1">Others</span>
                                     </div>
                                 </div>
                                 <div class="p-4">
@@ -864,7 +864,7 @@
                                             <label class="form-label">Last Contacted</label>
                                             <div class="form-group">
                                                 <div class="input-group">
-                                                    <div class="input-group-text text-[#8c9097] dark:text-white/50"> <i class="ri-calendar-line"></i> </div>
+                                                    <div class="input-group-text text-[#8c9097]"> <i class="ri-calendar-line"></i> </div>
                                                     <input type="text" class="form-control" id="targetDate" placeholder="Choose date and time">
                                                 </div>
                                             </div>

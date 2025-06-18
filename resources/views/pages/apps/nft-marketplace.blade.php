@@ -10,16 +10,16 @@
                         <!-- Page Header -->
                         <div class="block justify-between page-header md:flex">
                             <div>
-                                <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Market Place</h3>
+                                <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Market Place</h3>
                             </div>
                             <ol class="flex items-center whitespace-nowrap min-w-0">
                                 <li class="text-[0.813rem] ps-[0.5rem]">
-                                  <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                  <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                     NFT
-                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                   </a>
                                 </li>
-                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                     Market Place
                                 </li>
                             </ol>
@@ -112,7 +112,7 @@
                                                             </div>
                                                             <div>
                                                                 <p class="mb-0 font-semibold">NFTNinja</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@nftninja</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">@nftninja</p>
                                                             </div>
                                                         </div>
                                                         <p class="mb-0 text-white nft-auction-time">
@@ -157,7 +157,7 @@
                                                             </div>
                                                             <div>
                                                                 <p class="mb-0 font-semibold">ArtTechie</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@arttechie</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">@arttechie</p>
                                                             </div>
                                                         </div>
                                                         <p class="mb-0 text-white nft-auction-time">
@@ -202,7 +202,7 @@
                                                             </div>
                                                             <div>
                                                                 <p class="mb-0 font-semibold">BitMaster</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@bit_master</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">@bit_master</p>
                                                             </div>
                                                         </div>
                                                         <p class="mb-0 text-white nft-auction-time">
@@ -247,7 +247,7 @@
                                                             </div>
                                                             <div>
                                                                 <p class="mb-0 font-semibold">CyberCanvas</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@cybercanvas</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">@cybercanvas</p>
                                                             </div>
                                                         </div>
                                                         <p class="mb-0 text-white nft-auction-time">
@@ -292,7 +292,7 @@
                                                             </div>
                                                             <div>
                                                                 <p class="mb-0 font-semibold">DigitalDreamer</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@d_dreamer</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">@d_dreamer</p>
                                                             </div>
                                                         </div>
                                                         <p class="mb-0 text-white nft-auction-time">
@@ -337,7 +337,7 @@
                                                             </div>
                                                             <div>
                                                                 <p class="mb-0 font-semibold">PixelProphet</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@pixelprophet</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">@pixelprophet</p>
                                                             </div>
                                                         </div>
                                                         <p class="mb-0 text-white nft-auction-time">
@@ -382,7 +382,7 @@
                                                             </div>
                                                             <div>
                                                                 <p class="mb-0 font-semibold">TechnoTalent</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@techno_t</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">@techno_t</p>
                                                             </div>
                                                         </div>
                                                         <p class="mb-0 text-white nft-auction-time">
@@ -427,7 +427,7 @@
                                                             </div>
                                                             <div>
                                                                 <p class="mb-0 font-semibold">PixelMaestro</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@pixelmaestro</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">@pixelmaestro</p>
                                                             </div>
                                                         </div>
                                                         <p class="mb-0 text-white nft-auction-time">
@@ -472,7 +472,7 @@
                                                             </div>
                                                             <div>
                                                                 <p class="mb-0 font-semibold">BitBard</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@bitbard</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">@bitbard</p>
                                                             </div>
                                                         </div>
                                                         <p class="mb-0 text-white nft-auction-time">
@@ -517,7 +517,7 @@
                                                             </div>
                                                             <div>
                                                                 <p class="mb-0 font-semibold">CryptoCraft</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@cryptocraft</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">@cryptocraft</p>
                                                             </div>
                                                         </div>
                                                         <p class="mb-0 text-white nft-auction-time">
@@ -562,7 +562,7 @@
                                                             </div>
                                                             <div>
                                                                 <p class="mb-0 font-semibold">ArtWizard</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@artwizard</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">@artwizard</p>
                                                             </div>
                                                         </div>
                                                         <p class="mb-0 text-white nft-auction-time">
@@ -607,7 +607,7 @@
                                                             </div>
                                                             <div>
                                                                 <p class="mb-0 font-semibold">DigitalMuse</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@digitalmuse</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">@digitalmuse</p>
                                                             </div>
                                                         </div>
                                                         <p class="mb-0 text-white nft-auction-time">
@@ -665,7 +665,7 @@
                                                             </div>
                                                             <div>
                                                                 <p class="mb-0 font-semibold">CyberCanvas</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@cybercanvas</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">@cybercanvas</p>
                                                             </div>
                                                         </div>
                                                         <p class="mb-0 text-white nft-auction-time">
@@ -710,7 +710,7 @@
                                                             </div>
                                                             <div>
                                                                 <p class="mb-0 font-semibold">PixelMaestro</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@pixelmaestro</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">@pixelmaestro</p>
                                                             </div>
                                                         </div>
                                                         <p class="mb-0 text-white nft-auction-time">
@@ -755,7 +755,7 @@
                                                             </div>
                                                             <div>
                                                                 <p class="mb-0 font-semibold">BitBard</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@bitbard</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">@bitbard</p>
                                                             </div>
                                                         </div>
                                                         <p class="mb-0 text-white nft-auction-time">
@@ -804,7 +804,7 @@
                                                             </div>
                                                             <div>
                                                                 <p class="mb-0 font-semibold">NFTNinja</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@nftninja</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">@nftninja</p>
                                                             </div>
                                                         </div>
                                                         <p class="mb-0 text-white nft-auction-time">
@@ -849,7 +849,7 @@
                                                             </div>
                                                             <div>
                                                                 <p class="mb-0 font-semibold">BitMaster</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@bit_master</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">@bit_master</p>
                                                             </div>
                                                         </div>
                                                         <p class="mb-0 text-white nft-auction-time">
@@ -898,7 +898,7 @@
                                                             </div>
                                                             <div>
                                                                 <p class="mb-0 font-semibold">NFTNinja</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@nftninja</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">@nftninja</p>
                                                             </div>
                                                         </div>
                                                         <p class="mb-0 text-white nft-auction-time">
@@ -947,7 +947,7 @@
                                                             </div>
                                                             <div>
                                                                 <p class="mb-0 font-semibold">NFTNinja</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@nftninja</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">@nftninja</p>
                                                             </div>
                                                         </div>
                                                         <p class="mb-0 text-white nft-auction-time">
@@ -996,7 +996,7 @@
                                                             </div>
                                                             <div>
                                                                 <p class="mb-0 font-semibold">NFTNinja</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@nftninja</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">@nftninja</p>
                                                             </div>
                                                         </div>
                                                         <p class="mb-0 text-white nft-auction-time">
@@ -1045,7 +1045,7 @@
                                                             </div>
                                                             <div>
                                                                 <p class="mb-0 font-semibold">NFTNinja</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@nftninja</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">@nftninja</p>
                                                             </div>
                                                         </div>
                                                         <p class="mb-0 text-white nft-auction-time">
@@ -1094,7 +1094,7 @@
                                                             </div>
                                                             <div>
                                                                 <p class="mb-0 font-semibold">NFTNinja</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@nftninja</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">@nftninja</p>
                                                             </div>
                                                         </div>
                                                         <p class="mb-0 text-white nft-auction-time">
@@ -1143,7 +1143,7 @@
                                                             </div>
                                                             <div>
                                                                 <p class="mb-0 font-semibold">NFTNinja</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@nftninja</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">@nftninja</p>
                                                             </div>
                                                         </div>
                                                         <p class="mb-0 text-white nft-auction-time">
@@ -1192,7 +1192,7 @@
                                                             </div>
                                                             <div>
                                                                 <p class="mb-0 font-semibold">NFTNinja</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@nftninja</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">@nftninja</p>
                                                             </div>
                                                         </div>
                                                         <p class="mb-0 text-white nft-auction-time">

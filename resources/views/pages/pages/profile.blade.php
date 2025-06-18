@@ -12,16 +12,16 @@
                     <!-- Page Header -->
                     <div class="block justify-between page-header md:flex">
                         <div>
-                            <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Profile</h3>
+                            <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Profile</h3>
                         </div>
                         <ol class="flex items-center whitespace-nowrap min-w-0">
                             <li class="text-[0.813rem] ps-[0.5rem]">
-                            <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                            <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                 Pages
-                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                             </a>
                             </li>
-                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                 Profile
                             </li>
                         </ol>
@@ -65,10 +65,10 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="p-6 border-b border-dashed dark:border-defaultborder/10">
+                                    <div class="p-6 border-b border-dashed">
                                         <div class="mb-6">
                                             <p class="text-[.9375rem] mb-2 font-semibold">Professional Bio :</p>
-                                            <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 opacity-[0.7] mb-0">
+                                            <p class="text-[0.75rem] text-[#8c9097] opacity-[0.7] mb-0">
                                                 I am <b class="text-defaulttextcolor">Sonya Taylor,</b> here by conclude that,i am the founder and managing director of the prestigeous company name laugh at all and acts as the cheif executieve officer of the company.
                                             </p>
                                         </div>
@@ -84,30 +84,30 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="p-6 border-b border-dashed dark:border-defaultborder/10">
+                                    <div class="p-6 border-b border-dashed">
                                         <p class="text-[.9375rem] mb-2 me-6 font-semibold">Contact Information :</p>
-                                        <div class="text-[#8c9097] dark:text-white/50">
+                                        <div class="text-[#8c9097]">
                                             <p class="mb-2">
-                                                <span class="avatar avatar-sm avatar-rounded me-2 bg-light text-[#8c9097] dark:text-white/50">
-                                                    <i class="ri-mail-line align-middle text-[.875rem] text-[#8c9097] dark:text-white/50"></i>
+                                                <span class="avatar avatar-sm avatar-rounded me-2 bg-light text-[#8c9097]">
+                                                    <i class="ri-mail-line align-middle text-[.875rem] text-[#8c9097]"></i>
                                                 </span>
                                                 sonyataylor2531@gmail.com
                                             </p>
                                             <p class="mb-2">
-                                                <span class="avatar avatar-sm avatar-rounded me-2 bg-light text-[#8c9097] dark:text-white/50">
-                                                    <i class="ri-phone-line align-middle text-[.875rem] text-[#8c9097] dark:text-white/50"></i>
+                                                <span class="avatar avatar-sm avatar-rounded me-2 bg-light text-[#8c9097]">
+                                                    <i class="ri-phone-line align-middle text-[.875rem] text-[#8c9097]"></i>
                                                 </span>
                                                 +(555) 555-1234
                                             </p>
                                             <p class="mb-0">
-                                                <span class="avatar avatar-sm avatar-rounded me-2 bg-light text-[#8c9097] dark:text-white/50">
-                                                    <i class="ri-map-pin-line align-middle text-[.875rem] text-[#8c9097] dark:text-white/50"></i>
+                                                <span class="avatar avatar-sm avatar-rounded me-2 bg-light text-[#8c9097]">
+                                                    <i class="ri-map-pin-line align-middle text-[.875rem] text-[#8c9097]"></i>
                                                 </span>
                                                 MIG-1-11, Monroe Street, Georgetown, Washington D.C, USA,20071
                                             </p>
                                         </div>
                                     </div>
-                                    <div class="p-6 border-b dark:border-defaultborder/10 border-dashed sm:flex items-center">
+                                    <div class="p-6 border-b border-dashed sm:flex items-center">
                                         <p class="text-[.9375rem] mb-2 me-6 font-semibold">Social Networks :</p>
                                         <div class="btn-list mb-0">
                                             <button aria-label="button" type="button" class="ti-btn ti-btn-sm ti-btn-primary text-primary me-[.375rem] mb-1">
@@ -127,44 +127,44 @@
                                             </button>
                                         </div>
                                     </div>
-                                    <div class="p-6 border-b dark:border-defaultborder/10 border-dashed">
+                                    <div class="p-6 border-b border-dashed">
                                         <p class="text-[.9375rem] mb-2 me-6 font-semibold">Skills :</p>
                                         <div>
                                             <a href="javascript:void(0);">
-                                                <span class="badge bg-light text-[#8c9097] dark:text-white/50 m-1">Cloud computing</span>
+                                                <span class="badge bg-light text-[#8c9097] m-1">Cloud computing</span>
                                             </a>
                                             <a href="javascript:void(0);">
-                                                <span class="badge bg-light text-[#8c9097] dark:text-white/50 m-1">Data analysis</span>
+                                                <span class="badge bg-light text-[#8c9097] m-1">Data analysis</span>
                                             </a>
                                             <a href="javascript:void(0);">
-                                                <span class="badge bg-light text-[#8c9097] dark:text-white/50 m-1">DevOps</span>
+                                                <span class="badge bg-light text-[#8c9097] m-1">DevOps</span>
                                             </a>
                                             <a href="javascript:void(0);">
-                                                <span class="badge bg-light text-[#8c9097] dark:text-white/50 m-1">Machine learning</span>
+                                                <span class="badge bg-light text-[#8c9097] m-1">Machine learning</span>
                                             </a>
                                             <a href="javascript:void(0);">
-                                                <span class="badge bg-light text-[#8c9097] dark:text-white/50 m-1">Programming</span>
+                                                <span class="badge bg-light text-[#8c9097] m-1">Programming</span>
                                             </a>
                                             <a href="javascript:void(0);">
-                                                <span class="badge bg-light text-[#8c9097] dark:text-white/50 m-1">Security</span>
+                                                <span class="badge bg-light text-[#8c9097] m-1">Security</span>
                                             </a>
                                             <a href="javascript:void(0);">
-                                                <span class="badge bg-light text-[#8c9097] dark:text-white/50 m-1">Python</span>
+                                                <span class="badge bg-light text-[#8c9097] m-1">Python</span>
                                             </a>
                                             <a href="javascript:void(0);">
-                                                <span class="badge bg-light text-[#8c9097] dark:text-white/50 m-1">JavaScript</span>
+                                                <span class="badge bg-light text-[#8c9097] m-1">JavaScript</span>
                                             </a>
                                             <a href="javascript:void(0);">
-                                                <span class="badge bg-light text-[#8c9097] dark:text-white/50 m-1">Ruby</span>
+                                                <span class="badge bg-light text-[#8c9097] m-1">Ruby</span>
                                             </a>
                                             <a href="javascript:void(0);">
-                                                <span class="badge bg-light text-[#8c9097] dark:text-white/50 m-1">PowerShell</span>
+                                                <span class="badge bg-light text-[#8c9097] m-1">PowerShell</span>
                                             </a>
                                             <a href="javascript:void(0);">
-                                                <span class="badge bg-light text-[#8c9097] dark:text-white/50 m-1">Statistics</span>
+                                                <span class="badge bg-light text-[#8c9097] m-1">Statistics</span>
                                             </a>
                                             <a href="javascript:void(0);">
-                                                <span class="badge bg-light text-[#8c9097] dark:text-white/50 m-1">SQL</span>
+                                                <span class="badge bg-light text-[#8c9097] m-1">SQL</span>
                                             </a>
                                         </div>
                                     </div>
@@ -178,7 +178,7 @@
                                                     </span>
                                                     <div class="sm:ms-2 ms-0 sm:mt-0 mt-1 font-semibold flex-grow">
                                                         <p class="mb-0 leading-none">Alicia Sierra</p>
-                                                        <span class="text-[.6875rem] text-[#8c9097] dark:text-white/50 opacity-[0.7]">aliciasierra389@gmail.com</span>
+                                                        <span class="text-[.6875rem] text-[#8c9097] opacity-[0.7]">aliciasierra389@gmail.com</span>
                                                     </div>
                                                     <button type="button" class="ti-btn ti-btn-light !py-1 !px-2 !text-[0.75rem]">Follow</button>
                                                 </div>
@@ -190,7 +190,7 @@
                                                     </span>
                                                     <div class="sm:ms-2 ms-0 sm:mt-0 mt-1 font-semibold flex-grow">
                                                         <p class="mb-0 leading-none">Samantha Mery</p>
-                                                        <span class="text-[.6875rem] text-[#8c9097] dark:text-white/50 opacity-[0.7]">samanthamery@gmail.com</span>
+                                                        <span class="text-[.6875rem] text-[#8c9097] opacity-[0.7]">samanthamery@gmail.com</span>
                                                     </div>
                                                     <button type="button" class="ti-btn ti-btn-light !py-1 !px-2 !text-[0.75rem]">Follow</button>
                                                 </div>
@@ -202,7 +202,7 @@
                                                     </span>
                                                     <div class="sm:ms-2 ms-0 sm:mt-0 mt-1 font-semibold flex-grow">
                                                         <p class="mb-0 leading-none">Juliana Pena</p>
-                                                        <span class="text-[.6875rem] text-[#8c9097] dark:text-white/50 opacity-[0.7]">juliapena555@gmail.com</span>
+                                                        <span class="text-[.6875rem] text-[#8c9097] opacity-[0.7]">juliapena555@gmail.com</span>
                                                     </div>
                                                     <button type="button" class="ti-btn ti-btn-light !py-1 !px-2 !text-[0.75rem]">Follow</button>
                                                 </div>
@@ -214,7 +214,7 @@
                                                     </span>
                                                     <div class="sm:ms-2 ms-0 sm:mt-0 mt-1 font-semibold flex-grow">
                                                         <p class="mb-0 leading-none">Adam Smith</p>
-                                                        <span class="text-[.6875rem] text-[#8c9097] dark:text-white/50 opacity-[0.7]">adamsmith99@gmail.com</span>
+                                                        <span class="text-[.6875rem] text-[#8c9097] opacity-[0.7]">adamsmith99@gmail.com</span>
                                                     </div>
                                                     <button type="button" class="ti-btn ti-btn-light !py-1 !px-2 !text-[0.75rem]">Follow</button>
                                                 </div>
@@ -226,7 +226,7 @@
                                                     </span>
                                                     <div class="sm:ms-2 ms-0 sm:mt-0 mt-1 font-semibold flex-grow">
                                                         <p class="mb-0 leading-none">Farhaan Amhed</p>
-                                                        <span class="text-[.6875rem] text-[#8c9097] dark:text-white/50 opacity-[0.7]">farhaanahmed989@gmail.com</span>
+                                                        <span class="text-[.6875rem] text-[#8c9097] opacity-[0.7]">farhaanahmed989@gmail.com</span>
                                                     </div>
                                                     <button type="button" class="ti-btn ti-btn-light !py-1 !px-2 !text-[0.75rem]">Follow</button>
                                                 </div>
@@ -241,7 +241,7 @@
                                 <div class="xl:col-span-12 col-span-12">
                                     <div class="box">
                                         <div class="box-body !p-0">
-                                            <div class="!p-4 border-b dark:border-defaultborder/10 border-dashed md:flex items-center justify-between">
+                                            <div class="!p-4 border-b border-dashed md:flex items-center justify-between">
                                                 <nav class="-mb-0.5 sm:flex md:space-x-6 rtl:space-x-reverse pb-2">
                                                     <a class="w-full sm:w-auto flex active hs-tab-active:font-semibold  hs-tab-active:text-white hs-tab-active:bg-primary rounded-md py-2 px-4 text-primary text-sm" href="javascript:void(0);" id="activity-tab" data-hs-tab="#activity-tab-pane" aria-controls="activity-tab-pane">
                                                         <i class="ri-gift-line  align-middle inline-block me-1"></i>Activity
@@ -274,7 +274,7 @@
                                                                         E
                                                                     </span>
                                                                     <p class="mb-2">
-                                                                        <b>You</b> Commented on <b>alexander taylor</b> post <a class="text-secondary" href="javascript:void(0);"><u>#beautiful day</u></a>.<span class="ltr:float-right rtl:float-left text-[.6875rem] text-[#8c9097] dark:text-white/50">24,Dec 2022 - 14:34</span>
+                                                                        <b>You</b> Commented on <b>alexander taylor</b> post <a class="text-secondary" href="javascript:void(0);"><u>#beautiful day</u></a>.<span class="ltr:float-right rtl:float-left text-[.6875rem] text-[#8c9097]">24,Dec 2022 - 14:34</span>
                                                                     </p>
                                                                     <p class="profile-activity-media mb-0 flex w-full mt-2 sm:mt-0">
                                                                         <a aria-label="anchor" href="javascript:void(0);">
@@ -291,10 +291,10 @@
                                                                     <span class="avatar avatar-sm avatar-rounded profile-timeline-avatar">
                                                                         <img src="{{asset('build/assets/images/faces/11.jpg')}}" alt="">
                                                                     </span>
-                                                                    <p class="text-[#8c9097] dark:text-white/50 mb-2">
-                                                                        <span class="text-default"><b>Json Smith</b> reacted to the post 👍</span>.<span class="ltr:float-right rtl:float-left text-[.6875rem] text-[#8c9097] dark:text-white/50">18,Dec 2022 - 12:16</span>
+                                                                    <p class="text-[#8c9097] mb-2">
+                                                                        <span class="text-default"><b>Json Smith</b> reacted to the post 👍</span>.<span class="ltr:float-right rtl:float-left text-[.6875rem] text-[#8c9097]">18,Dec 2022 - 12:16</span>
                                                                     </p>
-                                                                    <p class="text-[#8c9097] dark:text-white/50 mb-0">
+                                                                    <p class="text-[#8c9097] mb-0">
                                                                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, repellendus rem rerum excepturi aperiam ipsam temporibus inventore ullam tempora eligendi libero sequi dignissimos cumque, et a sint tenetur consequatur omnis!
                                                                     </p>
                                                                 </div>
@@ -304,14 +304,14 @@
                                                                     <span class="avatar avatar-sm avatar-rounded profile-timeline-avatar">
                                                                         <img src="{{asset('build/assets/images/faces/4.jpg')}}" alt="">
                                                                     </span>
-                                                                    <p class="text-[#8c9097] dark:text-white/50 mb-2">
-                                                                        <span class="text-default"><b>Alicia Keys</b> shared a document with <b>you</b></span>.<span class="ltr:float-right rtl:float-left text-[.6875rem] text-[#8c9097] dark:text-white/50">21,Dec 2022 - 15:32</span>
+                                                                    <p class="text-[#8c9097] mb-2">
+                                                                        <span class="text-default"><b>Alicia Keys</b> shared a document with <b>you</b></span>.<span class="ltr:float-right rtl:float-left text-[.6875rem] text-[#8c9097]">21,Dec 2022 - 15:32</span>
                                                                     </p>
                                                                     <p class="profile-activity-media mb-0 flex w-full mt-2 sm:mt-0 items-center">
                                                                         <a aria-label="anchor" href="javascript:void(0);">
                                                                             <img src="{{asset('build/assets/images/media/file-manager/3.png')}}" alt="">
                                                                         </a>
-                                                                        <span class="text-[.6875rem] text-[#8c9097] dark:text-white/50">432.87KB</span>
+                                                                        <span class="text-[.6875rem] text-[#8c9097]">432.87KB</span>
                                                                     </p>
                                                                 </div>
                                                             </li>
@@ -320,8 +320,8 @@
                                                                     <span class="avatar avatar-sm bg-success/10 !text-success avatar-rounded profile-timeline-avatar">
                                                                         P
                                                                     </span>
-                                                                    <p class="text-[#8c9097] dark:text-white/50 mb-4">
-                                                                        <span class="text-default"><b>You</b> shared a post with 4 people <b>Simon,Sasha, Anagha,Hishen</b></span>.<span class="ltr:float-right rtl:float-left text-[.6875rem] text-[#8c9097] dark:text-white/50">28,Dec 2022 - 18:46</span>
+                                                                    <p class="text-[#8c9097] mb-4">
+                                                                        <span class="text-default"><b>You</b> shared a post with 4 people <b>Simon,Sasha, Anagha,Hishen</b></span>.<span class="ltr:float-right rtl:float-left text-[.6875rem] text-[#8c9097]">28,Dec 2022 - 18:46</span>
                                                                     </p>
                                                                     <p class="profile-activity-media mb-4">
                                                                         <a aria-label="anchor" href="javascript:void(0);">
@@ -351,10 +351,10 @@
                                                                     <span class="avatar avatar-sm avatar-rounded profile-timeline-avatar">
                                                                         <img src="{{asset('build/assets/images/faces/5.jpg')}}" alt="">
                                                                     </span>
-                                                                    <p class="text-[#8c9097] dark:text-white/50 mb-1">
-                                                                        <span class="text-default"><b>Melissa Blue</b> liked your post <b>travel excites</b></span>.<span class="ltr:float-right rtl:float-left text-[.6875rem] text-[#8c9097] dark:text-white/50">11,Dec 2022 - 11:18</span>
+                                                                    <p class="text-[#8c9097] mb-1">
+                                                                        <span class="text-default"><b>Melissa Blue</b> liked your post <b>travel excites</b></span>.<span class="ltr:float-right rtl:float-left text-[.6875rem] text-[#8c9097]">11,Dec 2022 - 11:18</span>
                                                                     </p>
-                                                                    <p class="text-[#8c9097] dark:text-white/50">you are already feeling the tense atmosphere of the video playing in the background</p>
+                                                                    <p class="text-[#8c9097]">you are already feeling the tense atmosphere of the video playing in the background</p>
                                                                     <p class="profile-activity-media sm:flex mb-0">
                                                                         <a aria-label="anchor" href="javascript:void(0);">
                                                                             <img src="{{asset('build/assets/images/media/media-59.jpg')}}" class="m-1" alt="">
@@ -374,9 +374,9 @@
                                                                         <img src="{{asset('build/assets/images/media/media-39.jpg')}}" alt="">
                                                                     </span>
                                                                     <p class="mb-1">
-                                                                        <b>You</b> Commented on <b>Peter Engola</b> post <a class="text-secondary" href="javascript:void(0);"><u>#Mother Nature</u></a>.<span class="ltr:float-right rtl:float-left text-[.6875rem] text-[#8c9097] dark:text-white/50">24,Dec 2022 - 14:34</span>
+                                                                        <b>You</b> Commented on <b>Peter Engola</b> post <a class="text-secondary" href="javascript:void(0);"><u>#Mother Nature</u></a>.<span class="ltr:float-right rtl:float-left text-[.6875rem] text-[#8c9097]">24,Dec 2022 - 14:34</span>
                                                                     </p>
-                                                                    <p class="text-[#8c9097] dark:text-white/50">Technology id developing rapidly kepp uo your work 👌</p>
+                                                                    <p class="text-[#8c9097]">Technology id developing rapidly kepp uo your work 👌</p>
                                                                     <p class="profile-activity-media mb-0 flex w-full mt-2 sm:mt-0">
                                                                         <a aria-label="anchor" href="javascript:void(0);">
                                                                             <img src="{{asset('build/assets/images/media/media-26.jpg')}}" alt="">
@@ -413,7 +413,7 @@
                                                             <li class="list-group-item" id="profile-posts-scroll">
                                                                 <div class="grid grid-cols-12 gap-4">
                                                                     <div class="xxl:col-span-12 xl:col-span-12 lg:col-span-12 md:col-span-12 col-span-12">
-                                                                        <div class="rounded border dark:border-defaultborder/10">
+                                                                        <div class="rounded border">
                                                                             <div class="p-4 flex items-start flex-wrap">
                                                                                 <div class="me-2">
                                                                                     <span class="avatar avatar-sm avatar-rounded">
@@ -422,9 +422,9 @@
                                                                                 </div>
                                                                                 <div class="flex-grow">
                                                                                     <p class="mb-1 font-semibold leading-none">You</p>
-                                                                                    <p class="text-[.6875rem] mb-2 text-[#8c9097] dark:text-white/50">24, Dec - 04:32PM</p>
-                                                                                    <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                                                                                    <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-4">As opposed to using 'Content here 👌</p>
+                                                                                    <p class="text-[.6875rem] mb-2 text-[#8c9097]">24, Dec - 04:32PM</p>
+                                                                                    <p class="text-[0.75rem] text-[#8c9097] mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                                                                                    <p class="text-[0.75rem] text-[#8c9097] mb-4">As opposed to using 'Content here 👌</p>
                                                                                     <div class="flex items-center justify-between md:mb-0 mb-2">
                                                                                         <div>
                                                                                             <div class="btn-list">
@@ -462,7 +462,7 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="xxl:col-span-12 xl:col-span-12 lg:col-span-12 md:col-span-12 col-span-12">
-                                                                        <div class="rounded border dark:border-defaultborder/10">
+                                                                        <div class="rounded border">
                                                                             <div class="p-4 flex items-start flex-wrap">
                                                                                 <div class="me-2">
                                                                                     <span class="avatar avatar-sm avatar-rounded">
@@ -471,8 +471,8 @@
                                                                                 </div>
                                                                                 <div class="flex-grow">
                                                                                     <p class="mb-1 font-semibold leading-none">You</p>
-                                                                                    <p class="text-[.6875rem] mb-2 text-[#8c9097] dark:text-white/50">26, Dec - 12:45PM</p>
-                                                                                    <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-1">Shared pictures with 4 of friends <span>Hiren,Sasha,Biden,Thara</span>.</p>
+                                                                                    <p class="text-[.6875rem] mb-2 text-[#8c9097]">26, Dec - 12:45PM</p>
+                                                                                    <p class="text-[0.75rem] text-[#8c9097] mb-1">Shared pictures with 4 of friends <span>Hiren,Sasha,Biden,Thara</span>.</p>
                                                                                     <div class="flex leading-none justify-between mb-4">
                                                                                         <div>
                                                                                             <a aria-label="anchor" href="javascript:void(0);">
@@ -540,7 +540,7 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="xxl:col-span-12 xl:col-span-12 lg:col-span-12 md:col-span-12 col-span-12">
-                                                                        <div class="rounded border dark:border-defaultborder/10">
+                                                                        <div class="rounded border">
                                                                             <div class="p-4 flex items-start flex-wrap">
                                                                                 <div class="me-2">
                                                                                     <span class="avatar avatar-sm avatar-rounded">
@@ -549,8 +549,8 @@
                                                                                 </div>
                                                                                 <div class="flex-grow">
                                                                                     <p class="mb-1 font-semibold leading-none">You</p>
-                                                                                    <p class="text-[.6875rem] mb-2 text-[#8c9097] dark:text-white/50">29, Dec - 09:53AM</p>
-                                                                                    <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-1">Sharing an article that excites me about nature more than what i thought.</p>
+                                                                                    <p class="text-[.6875rem] mb-2 text-[#8c9097]">29, Dec - 09:53AM</p>
+                                                                                    <p class="text-[0.75rem] text-[#8c9097] mb-1">Sharing an article that excites me about nature more than what i thought.</p>
                                                                                     <p class="mb-4 profile-post-link">
                                                                                         <a href="javascript:void(0);" class="text-[0.75rem] text-primary">
                                                                                             <u>https://www.discovery.com/ nature/caring-for-coral</u>
@@ -591,7 +591,7 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="xxl:col-span-12 xl:col-span-12 lg:col-span-12 md:col-span-12 col-span-12">
-                                                                        <div class="rounded border dark:border-defaultborder/10">
+                                                                        <div class="rounded border">
                                                                             <div class="p-4 flex items-start flex-wrap">
                                                                                 <div class="me-2">
                                                                                     <span class="avatar avatar-sm avatar-rounded">
@@ -600,8 +600,8 @@
                                                                                 </div>
                                                                                 <div class="flex-grow">
                                                                                     <p class="mb-1 font-semibold leading-none">You</p>
-                                                                                    <p class="text-[.6875rem] mb-2 text-[#8c9097] dark:text-white/50">22, Dec - 11:22PM</p>
-                                                                                    <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-1">Shared pictures with 3 of your friends <span>Maya,Jacob,Amanda</span>.</p>
+                                                                                    <p class="text-[.6875rem] mb-2 text-[#8c9097]">22, Dec - 11:22PM</p>
+                                                                                    <p class="text-[0.75rem] text-[#8c9097] mb-1">Shared pictures with 3 of your friends <span>Maya,Jacob,Amanda</span>.</p>
                                                                                     <div class="flex leading-none justify-between mb-4">
                                                                                         <div>
                                                                                             <a aria-label="anchor" href="javascript:void(0);">
@@ -664,7 +664,7 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="xxl:col-span-12 xl:col-span-12 lg:col-span-12 md:col-span-12 col-span-12">
-                                                                        <div class="rounded border dark:border-defaultborder/10">
+                                                                        <div class="rounded border">
                                                                             <div class="p-4 flex items-start flex-wrap">
                                                                                 <div class="me-2">
                                                                                     <span class="avatar avatar-sm avatar-rounded">
@@ -673,8 +673,8 @@
                                                                                 </div>
                                                                                 <div class="flex-grow">
                                                                                     <p class="mb-1 font-semibold leading-none">You</p>
-                                                                                    <p class="text-[.6875rem] mb-2 text-[#8c9097] dark:text-white/50">18, Dec - 12:28PM</p>
-                                                                                    <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-1">Followed this author for top class themes with best code you can get in the market.</p>
+                                                                                    <p class="text-[.6875rem] mb-2 text-[#8c9097]">18, Dec - 12:28PM</p>
+                                                                                    <p class="text-[0.75rem] text-[#8c9097] mb-1">Followed this author for top class themes with best code you can get in the market.</p>
                                                                                     <p class="mb-4 profile-post-link">
                                                                                         <a href="javascript:void(0);" class="text-[0.75rem] text-primary">
                                                                                             <u>https://themeforest.net/user/ spruko/portfolio</u>
@@ -715,7 +715,7 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="xxl:col-span-12 xl:col-span-12 lg:col-span-12 md:col-span-12 col-span-12">
-                                                                        <div class="rounded border dark:border-defaultborder/10">
+                                                                        <div class="rounded border">
                                                                             <div class="p-4 flex items-start flex-wrap">
                                                                                 <div class="me-2">
                                                                                     <span class="avatar avatar-sm avatar-rounded">
@@ -724,9 +724,9 @@
                                                                                 </div>
                                                                                 <div class="flex-grow">
                                                                                     <p class="mb-1 font-semibold leading-none">You</p>
-                                                                                    <p class="text-[.6875rem] mb-2 text-[#8c9097] dark:text-white/50">02, Dec - 06:32AM</p>
-                                                                                    <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                                                                                    <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-4">There are many variations of passages 👏😍</p>
+                                                                                    <p class="text-[.6875rem] mb-2 text-[#8c9097]">02, Dec - 06:32AM</p>
+                                                                                    <p class="text-[0.75rem] text-[#8c9097] mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                                                                                    <p class="text-[0.75rem] text-[#8c9097] mb-4">There are many variations of passages 👏😍</p>
                                                                                     <div class="flex items-center justify-between md:mb-0 mb-2">
                                                                                         <div>
                                                                                             <div class="btn-list">
@@ -774,7 +774,7 @@
                                                         role="tabpanel" aria-labelledby="followers-tab" tabindex="0">
                                                         <div class="grid grid-cols-12 sm:gap-x-6">
                                                             <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-6 md:col-span-6 col-span-12">
-                                                                <div class="box !shadow-none border dark:border-defaultborder/10">
+                                                                <div class="box !shadow-none border">
                                                                     <div class="box-body p-6">
                                                                         <div class="text-center">
                                                                             <span class="avatar avatar-xl avatar-rounded">
@@ -782,7 +782,7 @@
                                                                             </span>
                                                                             <div class="mt-2">
                                                                                 <p class="mb-0 font-semibold">Samantha May</p>
-                                                                                <p class="text-[0.75rem] opacity-[0.7] mb-1 text-[#8c9097] dark:text-white/50">samanthamay2912@gmail.com</p>
+                                                                                <p class="text-[0.75rem] opacity-[0.7] mb-1 text-[#8c9097]">samanthamay2912@gmail.com</p>
                                                                                 <span class="badge bg-info/10 rounded-full text-info">Team Member</span>
                                                                             </div>
                                                                         </div>
@@ -796,7 +796,7 @@
                                                                 </div>
                                                             </div>
                                                             <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-6 md:col-span-6 col-span-12">
-                                                                <div class="box !shadow-none border dark:border-defaultborder/10">
+                                                                <div class="box !shadow-none border">
                                                                     <div class="box-body p-6">
                                                                         <div class="text-center">
                                                                             <span class="avatar avatar-xl avatar-rounded">
@@ -804,7 +804,7 @@
                                                                             </span>
                                                                             <div class="mt-2">
                                                                                 <p class="mb-0 font-semibold">Andrew Garfield</p>
-                                                                                <p class="text-[0.75rem] opacity-[0.7] mb-1 text-[#8c9097] dark:text-white/50">andrewgarfield98@gmail.com</p>
+                                                                                <p class="text-[0.75rem] opacity-[0.7] mb-1 text-[#8c9097]">andrewgarfield98@gmail.com</p>
                                                                                 <span class="badge bg-success/10 text-success rounded-full">Team Lead</span>
                                                                             </div>
                                                                         </div>
@@ -818,7 +818,7 @@
                                                                 </div>
                                                             </div>
                                                             <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-6 md:col-span-6 col-span-12">
-                                                                <div class="box !shadow-none border dark:border-defaultborder/10">
+                                                                <div class="box !shadow-none border">
                                                                     <div class="box-body p-6">
                                                                         <div class="text-center">
                                                                             <span class="avatar avatar-xl avatar-rounded">
@@ -826,7 +826,7 @@
                                                                             </span>
                                                                             <div class="mt-2">
                                                                                 <p class="mb-0 font-semibold">Jessica Cashew</p>
-                                                                                <p class="text-[0.75rem] opacity-[0.7] mb-1 text-[#8c9097] dark:text-white/50">jessicacashew143@gmail.com</p>
+                                                                                <p class="text-[0.75rem] opacity-[0.7] mb-1 text-[#8c9097]">jessicacashew143@gmail.com</p>
                                                                                 <span class="badge bg-info/10 rounded-full text-info">Team Member</span>
                                                                             </div>
                                                                         </div>
@@ -840,7 +840,7 @@
                                                                 </div>
                                                             </div>
                                                             <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-6 md:col-span-6 col-span-12">
-                                                                <div class="box !shadow-none border dark:border-defaultborder/10">
+                                                                <div class="box !shadow-none border">
                                                                     <div class="box-body !p-6">
                                                                         <div class="text-center">
                                                                             <span class="avatar avatar-xl avatar-rounded">
@@ -848,7 +848,7 @@
                                                                             </span>
                                                                             <div class="mt-2">
                                                                                 <p class="mb-0 font-semibold">Simon Cowan</p>
-                                                                                <p class="text-[0.75rem] opacity-[0.7] mb-1 text-[#8c9097] dark:text-white/50">jessicacashew143@gmail.com</p>
+                                                                                <p class="text-[0.75rem] opacity-[0.7] mb-1 text-[#8c9097]">jessicacashew143@gmail.com</p>
                                                                                 <span class="badge bg-warning/10 text-warning rounded-full">Team Manager</span>
                                                                             </div>
                                                                         </div>
@@ -862,7 +862,7 @@
                                                                 </div>
                                                             </div>
                                                             <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-6 md:col-span-6 col-span-12">
-                                                                <div class="box !shadow-none border dark:border-defaultborder/10">
+                                                                <div class="box !shadow-none border">
                                                                     <div class="box-body p-6">
                                                                         <div class="text-center">
                                                                             <span class="avatar avatar-xl avatar-rounded">
@@ -870,7 +870,7 @@
                                                                             </span>
                                                                             <div class="mt-2">
                                                                                 <p class="mb-0 font-semibold">Amanda nunes</p>
-                                                                                <p class="text-[0.75rem] opacity-[0.7] mb-1 text-[#8c9097] dark:text-white/50">amandanunes45@gmail.com</p>
+                                                                                <p class="text-[0.75rem] opacity-[0.7] mb-1 text-[#8c9097]">amandanunes45@gmail.com</p>
                                                                                 <span class="badge bg-info/10 rounded-full text-info">Team Member</span>
                                                                             </div>
                                                                         </div>
@@ -884,7 +884,7 @@
                                                                 </div>
                                                             </div>
                                                             <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-6 md:col-span-6 col-span-12">
-                                                                <div class="box !shadow-none border dark:border-defaultborder/10">
+                                                                <div class="box !shadow-none border">
                                                                     <div class="box-body p-6">
                                                                         <div class="text-center">
                                                                             <span class="avatar avatar-xl avatar-rounded">
@@ -892,7 +892,7 @@
                                                                             </span>
                                                                             <div class="mt-2">
                                                                                 <p class="mb-0 font-semibold">Mahira Hose</p>
-                                                                                <p class="text-[0.75rem] opacity-[0.7] mb-1 text-[#8c9097] dark:text-white/50">mahirahose9456@gmail.com</p>
+                                                                                <p class="text-[0.75rem] opacity-[0.7] mb-1 text-[#8c9097]">mahirahose9456@gmail.com</p>
                                                                                 <span class="badge bg-info/10 rounded-full text-info">Team Member</span>
                                                                             </div>
                                                                         </div>
@@ -1001,7 +1001,7 @@
                                                         <div class="me-2 font-semibold">
                                                             Name :
                                                         </div>
-                                                        <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Sonya Taylor</span>
+                                                        <span class="text-[0.75rem] text-[#8c9097]">Sonya Taylor</span>
                                                     </div>
                                                 </li>
                                                 <li class="list-group-item">
@@ -1009,7 +1009,7 @@
                                                         <div class="me-2 font-semibold">
                                                             Email :
                                                         </div>
-                                                        <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">sonyataylor231@gmail.com</span>
+                                                        <span class="text-[0.75rem] text-[#8c9097]">sonyataylor231@gmail.com</span>
                                                     </div>
                                                 </li>
                                                 <li class="list-group-item">
@@ -1017,7 +1017,7 @@
                                                         <div class="me-2 font-semibold">
                                                             Phone :
                                                         </div>
-                                                        <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">+(555) 555-1234</span>
+                                                        <span class="text-[0.75rem] text-[#8c9097]">+(555) 555-1234</span>
                                                     </div>
                                                 </li>
                                                 <li class="list-group-item">
@@ -1025,7 +1025,7 @@
                                                         <div class="me-2 font-semibold">
                                                             Designation :
                                                         </div>
-                                                        <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">C.E.O</span>
+                                                        <span class="text-[0.75rem] text-[#8c9097]">C.E.O</span>
                                                     </div>
                                                 </li>
                                                 <li class="list-group-item">
@@ -1033,7 +1033,7 @@
                                                         <div class="me-2 font-semibold">
                                                             Age :
                                                         </div>
-                                                        <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">28</span>
+                                                        <span class="text-[0.75rem] text-[#8c9097]">28</span>
                                                     </div>
                                                 </li>
                                                 <li class="list-group-item">
@@ -1041,7 +1041,7 @@
                                                         <div class="me-2 font-semibold">
                                                             Experience :
                                                         </div>
-                                                        <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">10 Years</span>
+                                                        <span class="text-[0.75rem] text-[#8c9097]">10 Years</span>
                                                     </div>
                                                 </li>
                                             </ul>
@@ -1068,7 +1068,7 @@
                                                             </span>
                                                             <div class="flex-grow">
                                                                 <p class="font-semibold mb-0">Animals</p>
-                                                                <p class="mb-0 text-[0.75rem] profile-recent-posts text-truncate text-[#8c9097] dark:text-white/50">
+                                                                <p class="mb-0 text-[0.75rem] profile-recent-posts text-truncate text-[#8c9097]">
                                                                     There are many variations of passages of Lorem Ipsum available
                                                                 </p>
                                                             </div>
@@ -1083,7 +1083,7 @@
                                                             </span>
                                                             <div class="flex-grow">
                                                                 <p class="font-semibold mb-0">Travel</p>
-                                                                <p class="mb-0 text-[0.75rem] profile-recent-posts text-truncate text-[#8c9097] dark:text-white/50">
+                                                                <p class="mb-0 text-[0.75rem] profile-recent-posts text-truncate text-[#8c9097]">
                                                                     Latin words, combined with a handful of model sentence
                                                                 </p>
                                                             </div>
@@ -1098,7 +1098,7 @@
                                                             </span>
                                                             <div class="flex-grow">
                                                                 <p class="font-semibold mb-0">Interior</p>
-                                                                <p class="mb-0 text-[0.75rem] profile-recent-posts text-truncate text-[#8c9097] dark:text-white/50">
+                                                                <p class="mb-0 text-[0.75rem] profile-recent-posts text-truncate text-[#8c9097]">
                                                                     Contrary to popular belief, Lorem Ipsum is not simply random
                                                                 </p>
                                                             </div>
@@ -1113,7 +1113,7 @@
                                                             </span>
                                                             <div class="flex-grow">
                                                                 <p class="font-semibold mb-0">Nature</p>
-                                                                <p class="mb-0 text-[0.75rem] profile-recent-posts text-truncate text-[#8c9097] dark:text-white/50">
+                                                                <p class="mb-0 text-[0.75rem] profile-recent-posts text-truncate text-[#8c9097]">
                                                                     It is a long established fact that a reader will be distracted by the readable content
                                                                 </p>
                                                             </div>

@@ -12,16 +12,16 @@
                 <!-- Page Header -->
                 <div class="block justify-between page-header md:flex">
                     <div>
-                        <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Tooltips</h3>
+                        <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Tooltips</h3>
                     </div>
                     <ol class="flex items-center whitespace-nowrap min-w-0">
                         <li class="text-[0.813rem] ps-[0.5rem]">
-                          <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                          <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                            Ui Elements
-                            <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                            <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                           </a>
                         </li>
-                        <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                        <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                             Tooltips
                         </li>
                     </ol>
@@ -57,7 +57,7 @@
                                         <button type="button" class="hs-tooltip-toggle ti-btn ti-btn-primary-full">
                                             Tooltip on right
                                             <span
-                                                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-black !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+                                                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-black !text-xs !font-medium !text-white shadow-sm"
                                                 role="tooltip">
                                                 Tooltip on right
                                             </span>
@@ -67,7 +67,7 @@
                                         <button type="button" class="hs-tooltip-toggle ti-btn ti-btn-primary-full">
                                             Tooltip on bottom
                                             <span
-                                                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-black !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+                                                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-black !text-xs !font-medium !text-white shadow-sm"
                                                 role="tooltip">
                                                 Tooltip on bottom
                                             </span>
@@ -77,7 +77,7 @@
                                         <button type="button" class="hs-tooltip-toggle ti-btn ti-btn-primary-full">
                                             Tooltip on left
                                             <span
-                                                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-black !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+                                                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-black !text-xs !font-medium !text-white shadow-sm"
                                                 role="tooltip">
                                                 Tooltip on left
                                             </span>
@@ -99,7 +99,7 @@
     &lt;div class="hs-tooltip ti-main-tooltip [--placement:right]"&gt;
     &lt;button type="button" class="hs-tooltip-toggle ti-btn ti-btn-primary-full"&gt;
         Tooltip on right
-        &lt;span class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-black !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700" role="tooltip"&gt;
+        &lt;span class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-black !text-xs !font-medium !text-white shadow-sm" role="tooltip"&gt;
         Tooltip on right
         &lt;/span&gt;
     &lt;/button&gt;
@@ -107,7 +107,7 @@
     &lt;div class="hs-tooltip ti-main-tooltip [--placement:bottom]"&gt;
     &lt;button type="button" class="hs-tooltip-toggle ti-btn ti-btn-primary-full"&gt;
         Tooltip on bottom
-        &lt;span class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-black !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700" role="tooltip"&gt;
+        &lt;span class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-black !text-xs !font-medium !text-white shadow-sm" role="tooltip"&gt;
         Tooltip on bottom
         &lt;/span&gt;
     &lt;/button&gt;
@@ -115,7 +115,7 @@
     &lt;div class="hs-tooltip ti-main-tooltip [--placement:left]"&gt;
     &lt;button type="button" class="hs-tooltip-toggle ti-btn ti-btn-primary-full"&gt;
         Tooltip on left
-        &lt;span class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-black !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700" role="tooltip"&gt;
+        &lt;span class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-black !text-xs !font-medium !text-white shadow-sm" role="tooltip"&gt;
         Tooltip on left
         &lt;/span&gt;
     &lt;/button&gt;
@@ -147,7 +147,7 @@
                                         <button type="button" class="hs-tooltip-toggle ti-btn ti-btn-primary-full">
                                             Primary Tooltip
                                             <span
-                                                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-primary !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+                                                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-primary !text-xs !font-medium !text-white shadow-sm"
                                                 role="tooltip">
                                                 Primary Tooltip
                                             </span>
@@ -157,7 +157,7 @@
                                         <button type="button" class="hs-tooltip-toggle ti-btn ti-btn-secondary-full">
                                             Secondary Tooltip
                                             <span
-                                                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-secondary !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+                                                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-secondary !text-xs !font-medium !text-white shadow-sm"
                                                 role="tooltip">
                                                 Secondary Tooltip
                                             </span>
@@ -167,7 +167,7 @@
                                         <button type="button" class="hs-tooltip-toggle ti-btn ti-btn-warning-full">
                                             Warning Tooltip
                                             <span
-                                                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-warning !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+                                                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-warning !text-xs !font-medium !text-white shadow-sm"
                                                 role="tooltip">
                                                 Warning Tooltip
                                             </span>
@@ -177,7 +177,7 @@
                                         <button type="button" class="hs-tooltip-toggle ti-btn ti-btn-info-full">
                                             Info Tooltip
                                             <span
-                                                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-info !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+                                                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-info !text-xs !font-medium !text-white shadow-sm"
                                                 role="tooltip">
                                                 Info Tooltip
                                             </span>
@@ -187,7 +187,7 @@
                                         <button type="button" class="hs-tooltip-toggle ti-btn ti-btn-success-full">
                                             Success Tooltip
                                             <span
-                                                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-success !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+                                                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-success !text-xs !font-medium !text-white shadow-sm"
                                                 role="tooltip">
                                                 Success Tooltip
                                             </span>
@@ -197,7 +197,7 @@
                                         <button type="button" class="hs-tooltip-toggle ti-btn ti-btn-danger-full">
                                             Danger Tooltip
                                             <span
-                                                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-danger !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+                                                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-danger !text-xs !font-medium !text-white shadow-sm"
                                                 role="tooltip">
                                                 Danger Tooltip
                                             </span>
@@ -207,7 +207,7 @@
                                         <button type="button" class="hs-tooltip-toggle ti-btn ti-btn-light">
                                             Light Tooltip
                                             <span
-                                                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-light !text-xs !font-medium !text-defaulttextcolor shadow-sm dark:bg-slate-700"
+                                                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-light !text-xs !font-medium !text-defaulttextcolor shadow-sm"
                                                 role="tooltip">
                                                 Light Tooltip</span>
                                         </button>
@@ -216,7 +216,7 @@
                                         <button type="button" class="hs-tooltip-toggle ti-btn ti-btn-dark">
                                             Dark Tooltip
                                             <span
-                                                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-black !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+                                                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-black !text-xs !font-medium !text-white shadow-sm"
                                                 role="tooltip">
                                                 Dark Tooltip
                                             </span>
@@ -231,7 +231,7 @@
         &lt;button type="button" class="hs-tooltip-toggle ti-btn ti-btn-primary-full"&gt;
             Primary Tooltip
             &lt;span
-                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-primary !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-primary !text-xs !font-medium !text-white shadow-sm"
                 role="tooltip"&gt;
                 Primary Tooltip
             &lt;/span&gt;
@@ -241,7 +241,7 @@
         &lt;button type="button" class="hs-tooltip-toggle ti-btn ti-btn-secondary-full"&gt;
             Secondary Tooltip
             &lt;span
-                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-secondary !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-secondary !text-xs !font-medium !text-white shadow-sm"
                 role="tooltip"&gt;
                 Secondary Tooltip
             &lt;/span&gt;
@@ -251,7 +251,7 @@
         &lt;button type="button" class="hs-tooltip-toggle ti-btn ti-btn-warning-full"&gt;
             Warning Tooltip
             &lt;span
-                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-warning !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-warning !text-xs !font-medium !text-white shadow-sm"
                 role="tooltip"&gt;
                 Warning Tooltip
             &lt;/span&gt;
@@ -261,7 +261,7 @@
         &lt;button type="button" class="hs-tooltip-toggle ti-btn ti-btn-info-full"&gt;
             Info Tooltip
             &lt;span
-                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-info !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-info !text-xs !font-medium !text-white shadow-sm"
                 role="tooltip"&gt;
                 Info Tooltip
             &lt;/span&gt;
@@ -271,7 +271,7 @@
         &lt;button type="button" class="hs-tooltip-toggle ti-btn ti-btn-success-full"&gt;
             Success Tooltip
             &lt;span
-                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-success !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-success !text-xs !font-medium !text-white shadow-sm"
                 role="tooltip"&gt;
                 Success Tooltip
             &lt;/span&gt;
@@ -281,7 +281,7 @@
         &lt;button type="button" class="hs-tooltip-toggle ti-btn ti-btn-danger-full"&gt;
             Danger Tooltip
             &lt;span
-                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-danger !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-danger !text-xs !font-medium !text-white shadow-sm"
                 role="tooltip"&gt;
                 Danger Tooltip
             &lt;/span&gt;
@@ -291,7 +291,7 @@
         &lt;button type="button" class="hs-tooltip-toggle ti-btn ti-btn-light"&gt;
             Light Tooltip
             &lt;span
-                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-light !text-xs !font-medium !text-defaulttextcolor shadow-sm dark:bg-slate-700"
+                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-light !text-xs !font-medium !text-defaulttextcolor shadow-sm"
                 role="tooltip"&gt;
                 Light Tooltip
         &lt;/button&gt;
@@ -300,7 +300,7 @@
         &lt;button type="button" class="hs-tooltip-toggle ti-btn ti-btn-dark"&gt;
             Dark Tooltip
             &lt;span
-                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-black !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+                class="hs-tooltip-content ti-main-tooltip-content py-1 px-2 !bg-black !text-xs !font-medium !text-white shadow-sm"
                 role="tooltip"&gt;
                 Dark Tooltip
             &lt;/span&gt;
@@ -336,7 +336,7 @@
                                         <span class="hs-tooltip-toggle !text-primary">
                                             Tooltip
                                             <span
-                                                class="hs-tooltip-content ti-main-tooltip-content !py-1 !px-1 !bg-primary !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+                                                class="hs-tooltip-content ti-main-tooltip-content !py-1 !px-1 !bg-primary !text-xs !font-medium !text-white shadow-sm"
                                                 role="tooltip">
                                                 Link Tooltip
                                             </span>
@@ -353,7 +353,7 @@
     &lt;span class="hs-tooltip-toggle !text-primary"&gt;
         Tooltip
         &lt;span
-            class="hs-tooltip-content ti-main-tooltip-content !py-1 !px-1 !bg-primary !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+            class="hs-tooltip-content ti-main-tooltip-content !py-1 !px-1 !bg-primary !text-xs !font-medium !text-white shadow-sm"
             role="tooltip"&gt;
             Link Tooltip
         &lt;/span&gt;
@@ -385,7 +385,7 @@
                                                 d="M12 5.69l5 4.5V18h-2v-6H9v6H7v-7.81l5-4.5M12 3L2 12h3v8h6v-6h2v6h6v-8h3L12 3z" />
                                         </svg>
                                         <span
-                                            class="hs-tooltip-content ti-main-tooltip-content !py-1 !px-2 !bg-primary !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+                                            class="hs-tooltip-content ti-main-tooltip-content !py-1 !px-2 !bg-primary !text-xs !font-medium !text-white shadow-sm"
                                             role="tooltip">
                                             Home
                                         </span>
@@ -400,7 +400,7 @@
                                                 d="M22 6c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6zm-2 0l-8 5-8-5h16zm0 12H4V8l8 5 8-5v10z" />
                                         </svg>
                                         <span
-                                            class="hs-tooltip-content ti-main-tooltip-content !py-1 !px-2 !bg-secondary !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+                                            class="hs-tooltip-content ti-main-tooltip-content !py-1 !px-2 !bg-secondary !text-xs !font-medium !text-white shadow-sm"
                                             role="tooltip">
                                             Message
                                         </span>
@@ -420,7 +420,7 @@
                                             </g>
                                         </svg>
                                         <span
-                                            class="hs-tooltip-content ti-main-tooltip-content !py-1 !px-2 !bg-warning !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+                                            class="hs-tooltip-content ti-main-tooltip-content !py-1 !px-2 !bg-warning !text-xs !font-medium !text-white shadow-sm"
                                             role="tooltip">
                                             Add User
                                         </span>
@@ -435,7 +435,7 @@
                                                 d="M4.01 6.03l7.51 3.22-7.52-1 .01-2.22m7.5 8.72L4 17.97v-2.22l7.51-1M2.01 3L2 10l15 2-15 2 .01 7L23 12 2.01 3z" />
                                         </svg>
                                         <span
-                                            class="hs-tooltip-content ti-main-tooltip-content !py-1 !px-2 !bg-info !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+                                            class="hs-tooltip-content ti-main-tooltip-content !py-1 !px-2 !bg-info !text-xs !font-medium !text-white shadow-sm"
                                             role="tooltip">
                                             Send File
                                         </span>
@@ -450,7 +450,7 @@
                                                 d="M6 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm12 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" />
                                         </svg>
                                         <span
-                                            class="hs-tooltip-content ti-main-tooltip-content !py-1 !px-2 !bg-success !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+                                            class="hs-tooltip-content ti-main-tooltip-content !py-1 !px-2 !bg-success !text-xs !font-medium !text-white shadow-sm"
                                             role="tooltip">
                                             Action
                                         </span>
@@ -468,7 +468,7 @@
                 d="M12 5.69l5 4.5V18h-2v-6H9v6H7v-7.81l5-4.5M12 3L2 12h3v8h6v-6h2v6h6v-8h3L12 3z" /&gt;
         &lt;/svg&gt;
         &lt;span
-            class="hs-tooltip-content ti-main-tooltip-content !py-1 !px-2 !bg-primary !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+            class="hs-tooltip-content ti-main-tooltip-content !py-1 !px-2 !bg-primary !text-xs !font-medium !text-white shadow-sm"
             role="tooltip"&gt;
             Home
         &lt;/span&gt;
@@ -483,7 +483,7 @@
                 d="M22 6c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6zm-2 0l-8 5-8-5h16zm0 12H4V8l8 5 8-5v10z" /&gt;
         &lt;/svg&gt;
         &lt;span
-            class="hs-tooltip-content ti-main-tooltip-content !py-1 !px-2 !bg-secondary !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+            class="hs-tooltip-content ti-main-tooltip-content !py-1 !px-2 !bg-secondary !text-xs !font-medium !text-white shadow-sm"
             role="tooltip"&gt;
             Message
         &lt;/span&gt;
@@ -503,7 +503,7 @@
             &lt;/g&gt;
         &lt;/svg&gt;
         &lt;span
-            class="hs-tooltip-content ti-main-tooltip-content !py-1 !px-2 !bg-warning !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+            class="hs-tooltip-content ti-main-tooltip-content !py-1 !px-2 !bg-warning !text-xs !font-medium !text-white shadow-sm"
             role="tooltip"&gt;
             Add User
         &lt;/span&gt;
@@ -518,7 +518,7 @@
                 d="M4.01 6.03l7.51 3.22-7.52-1 .01-2.22m7.5 8.72L4 17.97v-2.22l7.51-1M2.01 3L2 10l15 2-15 2 .01 7L23 12 2.01 3z" /&gt;
         &lt;/svg&gt;
         &lt;span
-            class="hs-tooltip-content ti-main-tooltip-content !py-1 !px-2 !bg-info !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+            class="hs-tooltip-content ti-main-tooltip-content !py-1 !px-2 !bg-info !text-xs !font-medium !text-white shadow-sm"
             role="tooltip"&gt;
             Send File
         &lt;/span&gt;
@@ -533,7 +533,7 @@
                 d="M6 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm12 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" /&gt;
         &lt;/svg&gt;
         &lt;span
-            class="hs-tooltip-content ti-main-tooltip-content !py-1 !px-2 !bg-success !text-xs !font-medium !text-white shadow-sm dark:bg-slate-700"
+            class="hs-tooltip-content ti-main-tooltip-content !py-1 !px-2 !bg-success !text-xs !font-medium !text-white shadow-sm"
             role="tooltip"&gt;
             Action
         &lt;/span&gt;

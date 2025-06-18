@@ -15,16 +15,16 @@
                         <!-- Page Header -->
                         <div class="block justify-between page-header md:flex">
                             <div>
-                                <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold">Buy &amp; Sell</h3>
+                                <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold">Buy &amp; Sell</h3>
                             </div>
                             <ol class="flex items-center whitespace-nowrap min-w-0">
                                 <li class="text-[0.813rem] ps-[0.5rem]">
-                                  <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                  <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                     Crypto
-                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                   </a>
                                 </li>
-                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                   Buy &amp; Sell
                                 </li>
                             </ol>
@@ -69,14 +69,14 @@
                                                     </select>
                                                 </div>
                                                 <div>
-                                                    <div class="text-[.875rem] py-2"><span class="font-semibold text-dark">Price:</span><span class="text-[#8c9097] dark:text-white/50 ms-2 text-[.875rem] inline-block">6.003435</span><span class="text-dark font-semibold ltr:float-right rtl:float-left">BTC</span></div>
-                                                    <div class="text-[.875rem] py-2"><span class="font-semibold text-dark">Amount:</span><span class="text-[#8c9097] dark:text-white/50 ms-2 text-[.875rem] inline-block">2,34,4543.00</span><span class="text-dark font-semibold ltr:float-right rtl:float-left">LTC</span></div>
+                                                    <div class="text-[.875rem] py-2"><span class="font-semibold text-dark">Price:</span><span class="text-[#8c9097] ms-2 text-[.875rem] inline-block">6.003435</span><span class="text-dark font-semibold ltr:float-right rtl:float-left">BTC</span></div>
+                                                    <div class="text-[.875rem] py-2"><span class="font-semibold text-dark">Amount:</span><span class="text-[#8c9097] ms-2 text-[.875rem] inline-block">2,34,4543.00</span><span class="text-dark font-semibold ltr:float-right rtl:float-left">LTC</span></div>
                                                     <div class="font-semibold text-[.875rem] py-2">Total: <span class="text-[.875rem] inline-block">22.00 BTC</span></div>
                                                     <div class="text-[0.75rem] text-success">Additional Charges: 0.32%(0.0001231 BTC)</div>
                                                     <label class="font-semibold text-[0.75rem] mt-4 mb-2">SELECT PAYMENT METHOD :</label>
                                                     <div class="grid grid-cols-12 gap-2">
                                                         <div class="xl:col-span-6 col-span-12">
-                                                            <div class="!p-2 border dark:border-defaultborder/10 rounded-md">
+                                                            <div class="!p-2 border rounded-md">
                                                                 <div class="form-check !ps-0 !mb-0 !min-h-[auto]">
                                                                     <input class="form-check-input !align-middle" type="radio" name="flexRadioDefault" id="flexRadioDefault1" checked>
                                                                     <label class="form-check-label text-[0.75rem]" for="flexRadioDefault1">
@@ -86,7 +86,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="xl:col-span-6 col-span-12">
-                                                            <div class="!p-2 border dark:border-defaultborder/10 rounded-md">
+                                                            <div class="!p-2 border rounded-md">
                                                                 <div class="form-check !ps-0 !mb-0 !min-h-[auto]">
                                                                     <input class="form-check-input !align-middle" type="radio" name="flexRadioDefault" id="flexRadioDefault2">
                                                                     <label class="form-check-label text-[0.75rem]" for="flexRadioDefault2">
@@ -96,7 +96,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="xl:col-span-12 col-span-12">
-                                                            <div class="!p-2 border dark:border-defaultborder/10 rounded-md">
+                                                            <div class="!p-2 border rounded-md">
                                                                 <div class="form-check !ps-0 !mb-0 !min-h-[auto]">
                                                                     <input class="form-check-input !align-middle" type="radio" name="flexRadioDefault" id="flexRadioDefault3">
                                                                     <label class="form-check-label text-[0.75rem]" for="flexRadioDefault3">
@@ -108,7 +108,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="grid mt-6 pt-1">
-                                                    <button type="button" class="ti-btn ti-btn-primary-full btn-wave ti-btn-lg dark:border-defaultborder/10">BUY</button>
+                                                    <button type="button" class="ti-btn ti-btn-primary-full btn-wave ti-btn-lg">BUY</button>
                                                 </div>
                                             </div>
                                         </div>
@@ -152,7 +152,7 @@
                                                     <span class="form-label">Crypto Value :</span>
                                                     <div class="relative">
                                                         <a aria-label="anchor" href="javascript:void(0);" class="stretched-link"></a>
-                                                        <div class="p-2 border dark:border-defaultborder/10 rounded-md flex items-center justify-between gap-4 mt-1">
+                                                        <div class="p-2 border rounded-md flex items-center justify-between gap-4 mt-1">
                                                             <div class="gap-2 flex items-center">
                                                                 <div class="leading-none">
                                                                     <span class="avatar bg-light p-2">
@@ -163,7 +163,7 @@
                                                             </div>
                                                             <div class="text-end">
                                                                 <span class="font-semibold block">0.374638535 BTC</span>
-                                                                <span class="text-[#8c9097] dark:text-white/50">$5,364.65</span>
+                                                                <span class="text-[#8c9097]">$5,364.65</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -172,7 +172,7 @@
                                                     <span class="form-label">Deposit To :</span>
                                                     <div class="relative">
                                                         <a aria-label="anchor" href="javascript:void(0);" class="stretched-link"></a>
-                                                        <div class="p-2 border dark:border-defaultborder/10 rounded-md flex items-center gap-2 mt-1">
+                                                        <div class="p-2 border rounded-md flex items-center gap-2 mt-1">
                                                             <div class="leading-none">
                                                                 <span class="avatar bg-light p-2">
                                                                     <i class="ri-bank-line text-info text-xl"></i>
@@ -180,17 +180,17 @@
                                                             </div>
                                                             <div>
                                                                 <span class="font-semibold block">Banking</span>
-                                                                <span class="text-[#8c9097] dark:text-white/50">Checking ...</span>
+                                                                <span class="text-[#8c9097]">Checking ...</span>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div>
-                                                    <div class="text-[.875rem] py-2"><span class="font-semibold text-dark">Price:</span><span class="text-[#8c9097] dark:text-white/50 ms-2 text-[.875rem]">6.003435</span><span class="text-dark font-semibold ltr:float-right rtl:float-left">BTC</span></div>
-                                                    <div class="text-[.875rem] py-2"><span class="font-semibold text-dark">Amount:</span><span class="text-[#8c9097] dark:text-white/50 ms-2 text-[.875rem]">2,34,4543.00</span><span class="text-dark font-semibold ltr:float-right rtl:float-left">LTC</span></div>
+                                                    <div class="text-[.875rem] py-2"><span class="font-semibold text-dark">Price:</span><span class="text-[#8c9097] ms-2 text-[.875rem]">6.003435</span><span class="text-dark font-semibold ltr:float-right rtl:float-left">BTC</span></div>
+                                                    <div class="text-[.875rem] py-2"><span class="font-semibold text-dark">Amount:</span><span class="text-[#8c9097] ms-2 text-[.875rem]">2,34,4543.00</span><span class="text-dark font-semibold ltr:float-right rtl:float-left">LTC</span></div>
                                                 </div>
                                                 <div class="grid mt-6">
-                                                    <button type="button" class="ti-btn ti-btn-danger-full btn-wave ti-btn-lg dark:border-defaultborder/10">SELL</button>
+                                                    <button type="button" class="ti-btn ti-btn-danger-full btn-wave ti-btn-lg">SELL</button>
                                                 </div>
                                             </div>
                                         </div>
@@ -210,7 +210,7 @@
                                                     <span class="form-label">Crypto Value :</span>
                                                     <div class="relative">
                                                         <a aria-label="anchor" href="javascript:void(0);" class="stretched-link"></a>
-                                                        <div class="p-2 border dark:border-defaultborder/10 rounded flex items-center justify-between gap-4 mt-1 rounded-md">
+                                                        <div class="p-2 border rounded flex items-center justify-between gap-4 mt-1 rounded-md">
                                                             <div class="gap-2 flex items-center">
                                                                 <div class="leading-none">
                                                                     <span class="avatar bg-light p-2">
@@ -221,7 +221,7 @@
                                                             </div>
                                                             <div class="text-end">
                                                                 <span class="font-semibold block">0.374638535 BTC</span>
-                                                                <span class="text-[#8c9097] dark:text-white/50">$5,364.65</span>
+                                                                <span class="text-[#8c9097]">$5,364.65</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -230,7 +230,7 @@
                                                     <span class="form-label">Deposit To :</span>
                                                     <div class="relative">
                                                         <a aria-label="anchor" href="javascript:void(0);" class="stretched-link"></a>
-                                                        <div class="p-2 border dark:border-defaultborder/10 rounded flex items-center gap-2 mt-1 rounded-md">
+                                                        <div class="p-2 border rounded flex items-center gap-2 mt-1 rounded-md">
                                                             <div class="leading-none">
                                                                 <span class="avatar bg-light p-2">
                                                                     <i class="ri-bank-line text-info text-xl"></i>
@@ -238,14 +238,14 @@
                                                             </div>
                                                             <div>
                                                                 <span class="font-semibold block">Banking</span>
-                                                                <span class="text-[#8c9097] dark:text-white/50">Checking ...</span>
+                                                                <span class="text-[#8c9097]">Checking ...</span>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="mb-4">
                                                     <span class="block font-semibold">Amount :</span>
-                                                    <div class="flex items-center justify-between text-[#8c9097] dark:text-white/50">
+                                                    <div class="flex items-center justify-between text-[#8c9097]">
                                                         <div>Weekly Bank Limit</div>
                                                         <div>$10,000 remaining</div>
                                                     </div>
@@ -263,11 +263,11 @@
                                                     </select>
                                                 </div>
                                                 <div>
-                                                    <div class="text-[.875rem] py-2"><span class="font-semibold text-dark">Price:</span><span class="text-[#8c9097] dark:text-white/50 ms-2 text-[.875rem]">6.003435</span><span class="text-dark font-semibold ltr:float-right rtl:float-left">BTC</span></div>
-                                                    <div class="text-[.875rem] py-2"><span class="font-semibold text-dark">Amount:</span><span class="text-[#8c9097] dark:text-white/50 ms-2 text-[.875rem]">2,34,4543.00</span><span class="text-dark font-semibold ltr:float-right rtl:float-left">LTC</span></div>
+                                                    <div class="text-[.875rem] py-2"><span class="font-semibold text-dark">Price:</span><span class="text-[#8c9097] ms-2 text-[.875rem]">6.003435</span><span class="text-dark font-semibold ltr:float-right rtl:float-left">BTC</span></div>
+                                                    <div class="text-[.875rem] py-2"><span class="font-semibold text-dark">Amount:</span><span class="text-[#8c9097] ms-2 text-[.875rem]">2,34,4543.00</span><span class="text-dark font-semibold ltr:float-right rtl:float-left">LTC</span></div>
                                                 </div>
                                                 <div class="grid mt-6">
-                                                    <button type="button" class="ti-btn ti-btn-success-full btn-wave ti-btn-lg dark:border-defaultborder/10">Transfer</button>
+                                                    <button type="button" class="ti-btn ti-btn-success-full btn-wave ti-btn-lg">Transfer</button>
                                                 </div>
                                             </div>
                                         </div>
@@ -295,8 +295,8 @@
                                         </div>
                                         <div class="box-body !p-0">
                                           <div class="grid grid-cols-12 gap-6">
-                                                <div class="xl:col-span-8 col-span-12 pe-0 border-e border-dashed dark:border-defaultborder/10">
-                                                    <div class="flex flex-wrap items-center border-b border-dashed dark:border-defaultborder/10 mb-4 p-4 gap-4 ps-[3rem]">
+                                                <div class="xl:col-span-8 col-span-12 pe-0 border-e border-dashed">
+                                                    <div class="flex flex-wrap items-center border-b border-dashed mb-4 p-4 gap-4 ps-[3rem]">
                                                         <div>
                                                             <span class="block text-[0.75rem]">Total Buy</span>
                                                             <span class="block font-semibold text-[.9375rem] text-success">$324.25 USD</span>
@@ -323,7 +323,7 @@
                                                             <div class="box-body">
                                                                 <div class="flex items-center justify-between">
                                                                     <div>
-                                                                        <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] mb-2">BTC/USD</span>
+                                                                        <span class="block text-[#8c9097] text-[0.75rem] mb-2">BTC/USD</span>
                                                                         <span class="font-semibold h6 mb-0">27.53612</span>
                                                                         <span class="text-danger block text-[0.75rem] mt-1">-0.06%</span>
                                                                     </div>
@@ -339,7 +339,7 @@
                                                             <div class="box-body">
                                                                 <div class="flex items-center justify-between">
                                                                     <div>
-                                                                        <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] mb-2">ETH/USD</span>
+                                                                        <span class="block text-[#8c9097] text-[0.75rem] mb-2">ETH/USD</span>
                                                                         <span class="font-semibold h6 mb-0">20.6782</span>
                                                                         <span class="text-success block text-[0.75rem] mt-1">+2.86%</span>
                                                                     </div>
@@ -355,7 +355,7 @@
                                                             <div class="box-body">
                                                                 <div class="flex items-center justify-between">
                                                                     <div>
-                                                                        <span class="block text-[#8c9097] dark:text-white/50 text-[0.75rem] mb-2">LTC/USD</span>
+                                                                        <span class="block text-[#8c9097] text-[0.75rem] mb-2">LTC/USD</span>
                                                                         <span class="font-semibold h6 mb-0">54.2912</span>
                                                                         <span class="text-success block text-[0.75rem] mt-1">+15.93%</span>
                                                                     </div>

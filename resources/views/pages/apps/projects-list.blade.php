@@ -12,16 +12,16 @@
                         <!-- Page Header -->
                         <div class="block justify-between page-header md:flex">
                             <div>
-                                <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Projects List</h3>
+                                <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Projects List</h3>
                             </div>
                             <ol class="flex items-center whitespace-nowrap min-w-0">
                                 <li class="text-[0.813rem] ps-[0.5rem]">
-                                  <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                  <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                     Projects
-                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                   </a>
                                 </li>
-                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                     Projects List
                                 </li>
                             </ol>
@@ -96,7 +96,7 @@
                                         </div>
                                         <div class="flex-grow">
                                             <a href="javascript:void(0);" class="font-semibold text-[.875rem] block text-truncate project-list-title">Design &amp; Developing New Project</a>
-                                            <span class="text-[#8c9097] dark:text-white/50 block text-[0.75rem]">Total <strong class="text-defaulttextcolor">18/22</strong> tasks completed</span>
+                                            <span class="text-[#8c9097] block text-[0.75rem]">Total <strong class="text-defaulttextcolor">18/22</strong> tasks completed</span>
                                         </div>
                                         <div class="hs-dropdown ti-dropdown">
                                             <a aria-label="anchor" href="javascript:void(0);" class="ti-btn ti-btn-sm ti-btn-light !mb-0" aria-expanded="false">
@@ -137,7 +137,7 @@
                                             </div>
                                         </div>
                                         <div class="font-semibold mb-1">Description :</div>
-                                        <p class="text-[#8c9097] dark:text-white/50 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi maiores similique tempore.</p>
+                                        <p class="text-[#8c9097] mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi maiores similique tempore.</p>
                                         <div class="font-semibold mb-1">Status :</div>
                                         <div>
                                             <div></div>
@@ -149,11 +149,11 @@
                                     </div>
                                     <div class="box-footer flex items-center justify-between">
                                         <div>
-                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] block">Assigned Date :</span>
+                                            <span class="text-[#8c9097] text-[0.6875rem] block">Assigned Date :</span>
                                             <span class="font-semibold block">24,May 2023</span>
                                         </div>
                                         <div class="text-end">
-                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] block">Due Date :</span>
+                                            <span class="text-[#8c9097] text-[0.6875rem] block">Due Date :</span>
                                             <span class="font-semibold block">12,Jul 2023</span>
                                         </div>
                                     </div>
@@ -169,7 +169,7 @@
                                         </div>
                                         <div class="flex-grow">
                                             <a href="javascript:void(0);" class="font-semibold text-[.875rem] block !truncate project-list-title">Content Management System (CMS) Integration</a>
-                                            <span class="text-[#8c9097] dark:text-white/50 block text-[0.75rem]">Total <strong class="text-defaulttextcolor">26/68</strong> tasks completed</span>
+                                            <span class="text-[#8c9097] block text-[0.75rem]">Total <strong class="text-defaulttextcolor">26/68</strong> tasks completed</span>
                                         </div>
                                         <div class="hs-dropdown ti-dropdown">
                                             <a aria-label="anchor" href="javascript:void(0);" class="ti-btn ti-btn-sm ti-btn-light !mb-0" aria-expanded="false">
@@ -207,7 +207,7 @@
                                             </div>
                                         </div>
                                         <div class="font-semibold mb-1">Description :</div>
-                                        <p class="text-[#8c9097] dark:text-white/50 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi maiores similique tempore.</p>
+                                        <p class="text-[#8c9097] mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi maiores similique tempore.</p>
                                         <div class="font-semibold mb-1">Status :</div>
                                         <div>
                                             <div></div>
@@ -219,11 +219,11 @@
                                     </div>
                                     <div class="box-footer flex items-center justify-between">
                                         <div>
-                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] block">Assigned Date :</span>
+                                            <span class="text-[#8c9097] text-[0.6875rem] block">Assigned Date :</span>
                                             <span class="font-semibold block">20,May 2023</span>
                                         </div>
                                         <div class="text-end">
-                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] block">Due Date :</span>
+                                            <span class="text-[#8c9097] text-[0.6875rem] block">Due Date :</span>
                                             <span class="font-semibold block">10,Jun 2023</span>
                                         </div>
                                     </div>
@@ -239,7 +239,7 @@
                                         </div>
                                         <div class="flex-grow">
                                             <a href="javascript:void(0);" class="font-semibold text-[.875rem] block text-truncate project-list-title">Task Scheduler and Automation</a>
-                                            <span class="text-[#8c9097] dark:text-white/50 block text-[0.75rem]">Total <strong class="text-default">21/45</strong> tasks completed</span>
+                                            <span class="text-[#8c9097] block text-[0.75rem]">Total <strong class="text-default">21/45</strong> tasks completed</span>
                                         </div>
                                         <div class="hs-dropdown ti-dropdown">
                                             <a aria-label="anchor" href="javascript:void(0);" class="ti-btn ti-btn-sm ti-btn-light !mb-0" aria-expanded="false">
@@ -274,7 +274,7 @@
                                             </div>
                                         </div>
                                         <div class="font-semibold mb-1">Description :</div>
-                                        <p class="text-[#8c9097] dark:text-white/50 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi maiores similique tempore.</p>
+                                        <p class="text-[#8c9097] mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi maiores similique tempore.</p>
                                         <div class="font-semibold mb-1">Status :</div>
                                         <div>
                                             <div></div>
@@ -286,11 +286,11 @@
                                     </div>
                                     <div class="box-footer flex items-center justify-between">
                                         <div>
-                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] block">Assigned Date :</span>
+                                            <span class="text-[#8c9097] text-[0.6875rem] block">Assigned Date :</span>
                                             <span class="font-semibold block">31,May 2023</span>
                                         </div>
                                         <div class="text-end">
-                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] block">Due Date :</span>
+                                            <span class="text-[#8c9097] text-[0.6875rem] block">Due Date :</span>
                                             <span class="font-semibold block">10,Jul 2023</span>
                                         </div>
                                     </div>
@@ -306,7 +306,7 @@
                                         </div>
                                         <div class="flex-grow">
                                             <a href="javascript:void(0);" class="font-semibold text-[.875rem] block text-truncate project-list-title">Advanced Search and Filtering</a>
-                                            <span class="text-[#8c9097] dark:text-white/50 block text-[0.75rem]">Total <strong class="text-default">45/54</strong> tasks completed</span>
+                                            <span class="text-[#8c9097] block text-[0.75rem]">Total <strong class="text-default">45/54</strong> tasks completed</span>
                                         </div>
                                         <div class="hs-dropdown ti-dropdown">
                                             <a aria-label="anchor" href="javascript:void(0);" class="ti-btn ti-btn-sm ti-btn-light !mb-0" aria-expanded="false">
@@ -347,7 +347,7 @@
                                             </div>
                                         </div>
                                         <div class="font-semibold mb-1">Description :</div>
-                                        <p class="text-[#8c9097] dark:text-white/50 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi maiores similique tempore.</p>
+                                        <p class="text-[#8c9097] mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi maiores similique tempore.</p>
                                         <div class="font-semibold mb-1">Status :</div>
                                         <div>
                                             <div></div>
@@ -359,11 +359,11 @@
                                     </div>
                                     <div class="box-footer flex items-center justify-between">
                                         <div>
-                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] block">Assigned Date :</span>
+                                            <span class="text-[#8c9097] text-[0.6875rem] block">Assigned Date :</span>
                                             <span class="font-semibold block">02,Jun 2023</span>
                                         </div>
                                         <div class="text-end">
-                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] block">Due Date :</span>
+                                            <span class="text-[#8c9097] text-[0.6875rem] block">Due Date :</span>
                                             <span class="font-semibold block">15,Jun 2023</span>
                                         </div>
                                     </div>
@@ -379,7 +379,7 @@
                                         </div>
                                         <div class="flex-grow">
                                             <a href="javascript:void(0);" class="font-semibold text-[.875rem] block text-truncate project-list-title">Data Export and Reporting</a>
-                                            <span class="text-[#8c9097] dark:text-white/50 block text-[0.75rem]">Total <strong class="text-default">14/26</strong> tasks completed</span>
+                                            <span class="text-[#8c9097] block text-[0.75rem]">Total <strong class="text-default">14/26</strong> tasks completed</span>
                                         </div>
                                         <div class="hs-dropdown ti-dropdown">
                                             <a aria-label="anchor" href="javascript:void(0);" class="ti-btn ti-btn-sm ti-btn-light !mb-0" aria-expanded="false">
@@ -417,7 +417,7 @@
                                             </div>
                                         </div>
                                         <div class="font-semibold mb-1">Description :</div>
-                                        <p class="text-[#8c9097] dark:text-white/50 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi maiores similique tempore.</p>
+                                        <p class="text-[#8c9097] mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi maiores similique tempore.</p>
                                         <div class="font-semibold mb-1">Status :</div>
                                         <div>
                                             <div></div>
@@ -429,11 +429,11 @@
                                     </div>
                                     <div class="box-footer flex items-center justify-between">
                                         <div>
-                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] block">Assigned Date :</span>
+                                            <span class="text-[#8c9097] text-[0.6875rem] block">Assigned Date :</span>
                                             <span class="font-semibold block">29,May 2023</span>
                                         </div>
                                         <div class="text-end">
-                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] block">Due Date :</span>
+                                            <span class="text-[#8c9097] text-[0.6875rem] block">Due Date :</span>
                                             <span class="font-semibold block">08,Jun 2023</span>
                                         </div>
                                     </div>
@@ -449,7 +449,7 @@
                                         </div>
                                         <div class="flex-grow">
                                             <a href="javascript:void(0);" class="font-semibold text-[.875rem] block text-truncate project-list-title">Activity Log and Audit Trail</a>
-                                            <span class="text-[#8c9097] dark:text-white/50 block text-[0.75rem]">Total <strong class="text-default">28/64</strong> tasks completed</span>
+                                            <span class="text-[#8c9097] block text-[0.75rem]">Total <strong class="text-default">28/64</strong> tasks completed</span>
                                         </div>
                                         <div class="hs-dropdown ti-dropdown">
                                             <a aria-label="anchor" href="javascript:void(0);" class="ti-btn ti-btn-sm ti-btn-light !mb-0" aria-expanded="false">
@@ -481,7 +481,7 @@
                                             </div>
                                         </div>
                                         <div class="font-semibold mb-1">Description :</div>
-                                        <p class="text-[#8c9097] dark:text-white/50 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi maiores similique tempore.</p>
+                                        <p class="text-[#8c9097] mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi maiores similique tempore.</p>
                                         <div class="font-semibold mb-1">Status :</div>
                                         <div>
                                             <div></div>
@@ -493,11 +493,11 @@
                                     </div>
                                     <div class="box-footer flex items-center justify-between">
                                         <div>
-                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] block">Assigned Date :</span>
+                                            <span class="text-[#8c9097] text-[0.6875rem] block">Assigned Date :</span>
                                             <span class="font-semibold block">04,Jun 2023</span>
                                         </div>
                                         <div class="text-end">
-                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] block">Due Date :</span>
+                                            <span class="text-[#8c9097] text-[0.6875rem] block">Due Date :</span>
                                             <span class="font-semibold block">15,Jun 2023</span>
                                         </div>
                                     </div>
@@ -513,7 +513,7 @@
                                         </div>
                                         <div class="flex-grow">
                                             <a href="javascript:void(0);" class="font-semibold text-[.875rem] block text-truncate project-list-title">Role-Based Access Control (RBAC) Implementation</a>
-                                            <span class="text-[#8c9097] dark:text-white/50 block text-[0.75rem]">Total <strong class="text-default">86/122</strong> tasks completed</span>
+                                            <span class="text-[#8c9097] block text-[0.75rem]">Total <strong class="text-default">86/122</strong> tasks completed</span>
                                         </div>
                                         <div class="hs-dropdown ti-dropdown">
                                             <a aria-label="anchor" href="javascript:void(0);" class="ti-btn ti-btn-sm ti-btn-light !mb-0" aria-expanded="false">
@@ -551,7 +551,7 @@
                                             </div>
                                         </div>
                                         <div class="font-semibold mb-1">Description :</div>
-                                        <p class="text-[#8c9097] dark:text-white/50 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi maiores similique tempore.</p>
+                                        <p class="text-[#8c9097] mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi maiores similique tempore.</p>
                                         <div class="font-semibold mb-1">Status :</div>
                                         <div>
                                             <div></div>
@@ -563,11 +563,11 @@
                                     </div>
                                     <div class="box-footer flex items-center justify-between">
                                         <div>
-                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] block">Assigned Date :</span>
+                                            <span class="text-[#8c9097] text-[0.6875rem] block">Assigned Date :</span>
                                             <span class="font-semibold block">24,Jun 2023</span>
                                         </div>
                                         <div class="text-end">
-                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] block">Due Date :</span>
+                                            <span class="text-[#8c9097] text-[0.6875rem] block">Due Date :</span>
                                             <span class="font-semibold block">05,Jul 2023</span>
                                         </div>
                                     </div>
@@ -583,7 +583,7 @@
                                         </div>
                                         <div class="flex-grow">
                                             <a href="javascript:void(0);" class="font-semibold text-[.875rem] block text-truncate project-list-title">Customizable Themes and Layouts</a>
-                                            <span class="text-[#8c9097] dark:text-white/50 block text-[0.75rem]">Total <strong class="text-default">20/26</strong> tasks completed</span>
+                                            <span class="text-[#8c9097] block text-[0.75rem]">Total <strong class="text-default">20/26</strong> tasks completed</span>
                                         </div>
                                         <div class="hs-dropdown ti-dropdown">
                                             <a aria-label="anchor" href="javascript:void(0);" class="ti-btn ti-btn-sm ti-btn-light !mb-0" aria-expanded="false">
@@ -618,7 +618,7 @@
                                             </div>
                                         </div>
                                         <div class="font-semibold mb-1">Description :</div>
-                                        <p class="text-[#8c9097] dark:text-white/50 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi maiores similique tempore.</p>
+                                        <p class="text-[#8c9097] mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi maiores similique tempore.</p>
                                         <div class="font-semibold mb-1">Status :</div>
                                         <div>
                                             <div></div>
@@ -630,11 +630,11 @@
                                     </div>
                                     <div class="box-footer flex items-center justify-between">
                                         <div>
-                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] block">Assigned Date :</span>
+                                            <span class="text-[#8c9097] text-[0.6875rem] block">Assigned Date :</span>
                                             <span class="font-semibold block">20,Jun 2023</span>
                                         </div>
                                         <div class="text-end">
-                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] block">Due Date :</span>
+                                            <span class="text-[#8c9097] text-[0.6875rem] block">Due Date :</span>
                                             <span class="font-semibold block">18,Jul 2023</span>
                                         </div>
                                     </div>

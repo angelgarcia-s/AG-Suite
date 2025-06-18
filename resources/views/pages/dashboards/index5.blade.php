@@ -12,16 +12,16 @@
                     <!-- Page Header -->
                     <div class="block justify-between page-header md:flex">
                         <div>
-                            <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> NFT</h3>
+                            <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> NFT</h3>
                         </div>
                         <ol class="flex items-center whitespace-nowrap min-w-0">
                             <li class="text-[0.813rem] ps-[0.5rem]">
-                            <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                            <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                 Dashboards
-                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                             </a>
                             </li>
-                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                 NFT
                             </li>
                         </ol>
@@ -38,7 +38,7 @@
                                                 <div class="my-auto">
                                                     <h4 class="font-semibold mb-2 text-[1.5rem] leading-6">Discover, collect and sell
                                                         your <span class="text-primary">NFTs</span> at one place</h4>
-                                                    <p class="mb-6 text-[#8c9097] dark:text-white/50 text-[0.875rem] opacity-[0.7]">
+                                                    <p class="mb-6 text-[#8c9097] text-[0.875rem] opacity-[0.7]">
                                                         NFT means non-fungible tokens (NFTs), which are generally created
                                                         using the same type of programming used for cryptocurrencies.It is
                                                         is a unique digital identifier that cannot be copied.
@@ -76,9 +76,9 @@
                                                 </span>
                                             </div>
                                             <div>
-                                                <p class="text-[#8c9097] dark:text-white/50">Total Assets</p>
+                                                <p class="text-[#8c9097]">Total Assets</p>
                                                 <h5 class="mb-1 font-semibold text-[1.25rem]">596</h5>
-                                                <p class="text-[0.6875rem] text-[#8c9097] dark:text-white/50 mb-0"><span
+                                                <p class="text-[0.6875rem] text-[#8c9097] mb-0"><span
                                                         class="text-success font-semibold">0.25%<i
                                                             class="ri-arrow-up-s-line align-middle mx-1"></i></span>
                                                     This month
@@ -111,9 +111,9 @@
                                                 </span>
                                             </div>
                                             <div>
-                                                <p class="text-[#8c9097] dark:text-white/50">Total Sales</p>
+                                                <p class="text-[#8c9097]">Total Sales</p>
                                                 <h5 class="font-semibold mb-1 text-[1.25rem]">821</h5>
-                                                <p class="text-[0.6875rem] text-[#8c9097] dark:text-white/50 mb-0"><span
+                                                <p class="text-[0.6875rem] text-[#8c9097] mb-0"><span
                                                         class="text-success font-semibold">1.52%<i
                                                             class="ri-arrow-up-s-line  align-middle mx-1"></i></span>
                                                     This month</p>
@@ -146,9 +146,9 @@
                                                 </span>
                                             </div>
                                             <div>
-                                                <p class="text-[#8c9097] dark:text-white/50">Total Value</p>
+                                                <p class="text-[#8c9097]">Total Value</p>
                                                 <h5 class="font-semibold mb-1 text-[1.25rem]">$1,298</h5>
-                                                <p class="text-[0.6875rem] text-[#8c9097] dark:text-white/50 mb-0"><span
+                                                <p class="text-[0.6875rem] text-[#8c9097] mb-0"><span
                                                         class="text-success font-semibold">0.74%<i
                                                             class="ri-arrow-up-s-line  align-middle mx-1"></i></span>
                                                     This month</p>
@@ -177,9 +177,9 @@
                                                 </span>
                                             </div>
                                             <div>
-                                                <p class=" text-[#8c9097] dark:text-white/50">Total Revenue</p>
+                                                <p class=" text-[#8c9097]">Total Revenue</p>
                                                 <h5 class="font-semibold mb-1 text-[1.25rem]">$7,63,129.09</h5>
-                                                <p class="text-[0.6875rem] text-[#8c9097] dark:text-white/50 mb-0"><span
+                                                <p class="text-[0.6875rem] text-[#8c9097] mb-0"><span
                                                         class="text-danger font-semibold">0.124%<i
                                                             class="ri-arrow-up-s-line  align-middle mx-1"></i></span> This
                                                     month</p>
@@ -194,7 +194,7 @@
                                 <div class="box-body">
                                     <div class="flex flex-wrap items-center justify-between mb-2">
                                         <div>
-                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">Your Balance</p>
+                                            <p class="mb-0 text-[#8c9097]">Your Balance</p>
                                             <h5 class="font-semibold text-[1.25rem]">$19,867.96</h5>
                                         </div>
                                         <div>
@@ -209,7 +209,7 @@
                                             </span>
                                         </div>
                                     </div>
-                                    <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.6875rem] opacity-[0.7]">Top offers on USD-27,981
+                                    <p class="mb-0 text-[#8c9097] text-[0.6875rem] opacity-[0.7]">Top offers on USD-27,981
                                         <span class="text-success font-semibold">(+29.09%)</span></p>
                                     <div id="nft-balance-chart" class="px-4 py-6"></div>
                                     <div class="grid mt-3">
@@ -248,7 +248,7 @@
                                                 <img src="{{asset('build/assets/images/faces/10.jpg')}}" alt="" class="avatar avatar-md rounded-md me-2 leading-none !mb-0">
                                                 <div>
                                                     <p class="mb-0 font-semibold">Bloom NFT</p>
-                                                    <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@bloom116</p>
+                                                    <p class="text-[0.75rem] text-[#8c9097] mb-0">@bloom116</p>
                                                 </div>
                                             </div>
                                             <p class="mb-0 text-white nft-auction-time">
@@ -293,7 +293,7 @@
                                                 <img src="{{asset('build/assets/images/faces/5.jpg')}}" alt="" class="avatar avatar-md rounded-md me-2 leading-none !mb-0">
                                                 <div>
                                                     <p class="mb-0 font-semibold">Ergos NFT</p>
-                                                    <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@ergos900</p>
+                                                    <p class="text-[0.75rem] text-[#8c9097] mb-0">@ergos900</p>
                                                 </div>
                                             </div>
                                             <p class="mb-0 text-white nft-auction-time">
@@ -339,7 +339,7 @@
                                                 <img src="{{asset('build/assets/images/faces/7.jpg')}}" alt="" class="avatar avatar-md rounded-md me-2 leading-none !mb-0">
                                                 <div>
                                                     <p class="mb-0 font-semibold">Caros NFT</p>
-                                                    <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@caros002</p>
+                                                    <p class="text-[0.75rem] text-[#8c9097] mb-0">@caros002</p>
                                                 </div>
                                             </div>
                                             <p class="mb-0 text-white nft-auction-time ">
@@ -385,7 +385,7 @@
                                                 <img src="{{asset('build/assets/images/faces/11.jpg')}}" alt="" class="avatar avatar-md rounded-md me-2 leading-none !mb-0">
                                                 <div>
                                                     <p class="mb-0 font-semibold">Daron NFT</p>
-                                                    <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">@daron789</p>
+                                                    <p class="text-[0.75rem] text-[#8c9097] mb-0">@daron789</p>
                                                 </div>
                                             </div>
                                             <p class="mb-0 text-white nft-auction-time">
@@ -419,7 +419,7 @@
                                         Top Creators
                                     </div>
                                     <div class="hs-dropdown ti-dropdown">
-                                        <a href="javascript:void(0);" class="text-[0.75rem] px-2 font-normal text-[#8c9097] dark:text-white/50"
+                                        <a href="javascript:void(0);" class="text-[0.75rem] px-2 font-normal text-[#8c9097]"
                                             aria-expanded="false">
                                             View All<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                         </a>
@@ -445,7 +445,7 @@
                                                 </tr>
                                             </thead>
                                             <tbody>
-                                                <tr class="border !border-x-0 border-defaultborder dark:border-defaultborder/10">
+                                                <tr class="border !border-x-0 border-defaultborder">
                                                     <td>
                                                         <div class="flex items-center">
                                                             <div class="leading-none">
@@ -458,19 +458,19 @@
                                                                         class="bi bi-patch-check-fill text-success ms-2"></i>
                                                                 </p>
                                                                 <span
-                                                                    class="text-[0.75rem] text-[#8c9097] dark:text-white/50">amandananes@</span>
+                                                                    class="text-[0.75rem] text-[#8c9097]">amandananes@</span>
                                                             </div>
                                                         </div>
                                                     </td>
                                                     <td>
                                                         <div class="items-center">
-                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Total Sold</span>
+                                                            <span class="text-[0.75rem] text-[#8c9097]">Total Sold</span>
                                                             <p class="mb-0 font-semibold">18</p>
                                                         </div>
                                                     </td>
                                                     <td>
                                                         <div class="items-center">
-                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Sale Value</span>
+                                                            <span class="text-[0.75rem] text-[#8c9097]">Sale Value</span>
                                                             <p class="mb-0 font-semibold">$1,982</p>
                                                         </div>
                                                     </td>
@@ -479,7 +479,7 @@
                                                             class="ti-btn !py-1 !px-2 !text-[0.75rem] bg-primary text-white ti-btn-wave">Follow</button>
                                                     </td>
                                                 </tr>
-                                                <tr class="border !border-x-0 border-defaultborder dark:border-defaultborder/10">
+                                                <tr class="border !border-x-0 border-defaultborder">
                                                     <td>
                                                         <div class="flex items-center">
                                                             <div class="leading-none">
@@ -492,19 +492,19 @@
                                                                         class="bi bi-patch-check-fill text-success ms-2"></i>
                                                                 </p>
                                                                 <span
-                                                                    class="text-[0.75rem] text-[#8c9097] dark:text-white/50">@charlesachilles</span>
+                                                                    class="text-[0.75rem] text-[#8c9097]">@charlesachilles</span>
                                                             </div>
                                                         </div>
                                                     </td>
                                                     <td>
                                                         <div class="items-center">
-                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Total Sold</span>
+                                                            <span class="text-[0.75rem] text-[#8c9097]">Total Sold</span>
                                                             <p class="mb-0 font-semibold">126</p>
                                                         </div>
                                                     </td>
                                                     <td>
                                                         <div class="items-center">
-                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Sale Value</span>
+                                                            <span class="text-[0.75rem] text-[#8c9097]">Sale Value</span>
                                                             <p class="mb-0 font-semibold">$16,982</p>
                                                         </div>
                                                     </td>
@@ -513,7 +513,7 @@
                                                             class="ti-btn !py-1 !px-2 !text-[0.75rem] btn-wave ti-btn-primary">Unfollow</button>
                                                     </td>
                                                 </tr>
-                                                <tr class="border !border-x-0 border-defaultborder dark:border-defaultborder/10">
+                                                <tr class="border !border-x-0 border-defaultborder">
                                                     <td>
                                                         <div class="flex items-center">
                                                             <div class="leading-none">
@@ -526,19 +526,19 @@
                                                                         class="bi bi-patch-check-fill text-success ms-2"></i>
                                                                 </p>
                                                                 <span
-                                                                    class="text-[0.75rem] text-[#8c9097] dark:text-white/50">@juliacamo</span>
+                                                                    class="text-[0.75rem] text-[#8c9097]">@juliacamo</span>
                                                             </div>
                                                         </div>
                                                     </td>
                                                     <td>
                                                         <div class="items-center">
-                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Total Sold</span>
+                                                            <span class="text-[0.75rem] text-[#8c9097]">Total Sold</span>
                                                             <p class="mb-0 font-semibold">42</p>
                                                         </div>
                                                     </td>
                                                     <td>
                                                         <div class="items-center">
-                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Sale Value</span>
+                                                            <span class="text-[0.75rem] text-[#8c9097]">Sale Value</span>
                                                             <p class="mb-0 font-semibold">$3,432</p>
                                                         </div>
                                                     </td>
@@ -547,7 +547,7 @@
                                                             class="ti-btn !py-1 !px-2 bg-primary !text-[0.75rem] text-white ti-btn-wave">Follow</button>
                                                     </td>
                                                 </tr>
-                                                <tr class="border !border-x-0 border-defaultborder dark:border-defaultborder/10">
+                                                <tr class="border !border-x-0 border-defaultborder">
                                                     <td>
                                                         <div class="flex items-center">
                                                             <div class="leading-none">
@@ -560,19 +560,19 @@
                                                                         class="bi bi-patch-check-fill text-success ms-2"></i>
                                                                 </p>
                                                                 <span
-                                                                    class="text-[0.75rem] text-[#8c9097] dark:text-white/50">@jsontaylor</span>
+                                                                    class="text-[0.75rem] text-[#8c9097]">@jsontaylor</span>
                                                             </div>
                                                         </div>
                                                     </td>
                                                     <td>
                                                         <div class="items-center">
-                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Total Sold</span>
+                                                            <span class="text-[0.75rem] text-[#8c9097]">Total Sold</span>
                                                             <p class="mb-0 font-semibold">63</p>
                                                         </div>
                                                     </td>
                                                     <td>
                                                         <div class="items-center">
-                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Sale Value</span>
+                                                            <span class="text-[0.75rem] text-[#8c9097]">Sale Value</span>
                                                             <p class="mb-0 font-semibold">$9,236</p>
                                                         </div>
                                                     </td>
@@ -581,7 +581,7 @@
                                                             class="ti-btn !py-1 1px-2 bg-primary !text-[0.75rem] text-white ti-btn-wave">Follow</button>
                                                     </td>
                                                 </tr>
-                                                <tr class="border !border-x-0 border-defaultborder dark:border-defaultborder/10">
+                                                <tr class="border !border-x-0 border-defaultborder">
                                                     <td>
                                                         <div class="flex items-center">
                                                             <div class="leading-none">
@@ -594,19 +594,19 @@
                                                                         class="bi bi-patch-check-fill text-success ms-2"></i>
                                                                 </p>
                                                                 <span
-                                                                    class="text-[0.75rem] text-[#8c9097] dark:text-white/50">elishasean</span>
+                                                                    class="text-[0.75rem] text-[#8c9097]">elishasean</span>
                                                             </div>
                                                         </div>
                                                     </td>
                                                     <td>
                                                         <div class="items-center">
-                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Total Sold</span>
+                                                            <span class="text-[0.75rem] text-[#8c9097]">Total Sold</span>
                                                             <p class="mb-0 font-semibold">59</p>
                                                         </div>
                                                     </td>
                                                     <td>
                                                         <div class="items-center">
-                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Sale Value</span>
+                                                            <span class="text-[0.75rem] text-[#8c9097]">Sale Value</span>
                                                             <p class="mb-0 font-semibold">$7,783</p>
                                                         </div>
                                                     </td>
@@ -615,7 +615,7 @@
                                                             class="ti-btn !py-1 !px-2 bg-primary !text-[0.75rem] text-white ti-btn-wave">Follow</button>
                                                     </td>
                                                 </tr>
-                                                <tr class="!border-b-0 !border-x-0 border-defaultborder dark:border-defaultborder/10">
+                                                <tr class="!border-b-0 !border-x-0 border-defaultborder">
                                                     <td>
                                                         <div class="flex items-center">
                                                             <div class="leading-none">
@@ -628,19 +628,19 @@
                                                                         class="bi bi-patch-check-fill text-success ms-2"></i>
                                                                 </p>
                                                                 <span
-                                                                    class="text-[0.75rem] text-[#8c9097] dark:text-white/50">@josephsmith</span>
+                                                                    class="text-[0.75rem] text-[#8c9097]">@josephsmith</span>
                                                             </div>
                                                         </div>
                                                     </td>
                                                     <td>
                                                         <div class="items-center">
-                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Total Sold</span>
+                                                            <span class="text-[0.75rem] text-[#8c9097]">Total Sold</span>
                                                             <p class="mb-0 font-semibold">137</p>
                                                         </div>
                                                     </td>
                                                     <td>
                                                         <div class="items-center">
-                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Sale Value</span>
+                                                            <span class="text-[0.75rem] text-[#8c9097]">Sale Value</span>
                                                             <p class="mb-0 font-semibold">$13,562</p>
                                                         </div>
                                                     </td>
@@ -665,7 +665,7 @@
                                         Top Collectors
                                     </div>
                                     <div class="hs-dropdown ti-dropdown">
-                                        <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097] dark:text-white/50"
+                                        <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097]"
                                             aria-expanded="false">
                                             View All<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                         </a>
@@ -700,14 +700,14 @@
                                                         </div>
                                                     </td>
                                                     <td>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">75%</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">75%</span>
                                                     </td>
                                                     <td>
                                                         <p class="mb-0 font-semibold">$9,223.46</p>
                                                         <span class="text-[0.6875rem] font-normal text-success">0.214ETH</span>
                                                     </td>
                                                 </tr>
-                                                <tr class="border !border-x-0 border-defaultborder dark:border-defaultborder/10">
+                                                <tr class="border !border-x-0 border-defaultborder">
                                                     <td>
                                                         <div class="flex items-center">
                                                             <div class="me-2">
@@ -724,14 +724,14 @@
                                                         </div>
                                                     </td>
                                                     <td>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">60%</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">60%</span>
                                                     </td>
                                                     <td>
                                                         <p class="mb-0 font-semibold">$17,239.09</p>
                                                         <span class="text-[0.6875rem] font-normal text-success">1.890ETH</span>
                                                     </td>
                                                 </tr>
-                                                <tr class="border !border-x-0 border-defaultborder dark:border-defaultborder/10">
+                                                <tr class="border !border-x-0 border-defaultborder">
                                                     <td>
                                                         <div class="flex items-center">
                                                             <div class="me-2">
@@ -748,14 +748,14 @@
                                                         </div>
                                                     </td>
                                                     <td>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">35%</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">35%</span>
                                                     </td>
                                                     <td>
                                                         <p class="mb-0 font-semibold">$5,902.83</p>
                                                         <span class="text-[0.6875rem] font-normal text-success">1.903ETH</span>
                                                     </td>
                                                 </tr>
-                                                <tr class="border !border-x-0 border-defaultborder dark:border-defaultborder/10">
+                                                <tr class="border !border-x-0 border-defaultborder">
                                                     <td>
                                                         <div class="flex items-center">
                                                             <div class="me-2">
@@ -772,14 +772,14 @@
                                                         </div>
                                                     </td>
                                                     <td>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">70%</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">70%</span>
                                                     </td>
                                                     <td>
                                                         <p class="mb-0 font-semibold">$3,993.09</p>
                                                         <span class="text-[0.6875rem] font-normal text-success">0.689ETH</span>
                                                     </td>
                                                 </tr>
-                                                <tr class="border !border-x-0 border-defaultborder dark:border-defaultborder/10">
+                                                <tr class="border !border-x-0 border-defaultborder">
                                                     <td>
                                                         <div class="flex items-center">
                                                             <div class="me-2">
@@ -796,14 +796,14 @@
                                                         </div>
                                                     </td>
                                                     <td>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">90%</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">90%</span>
                                                     </td>
                                                     <td>
                                                         <p class="mb-0 font-semibold">$12,124.34</p>
                                                         <span class="text-[0.6875rem] font-normal text-success">2.577ETH</span>
                                                     </td>
                                                 </tr>
-                                                <tr class="border !border-x-0 border-defaultborder dark:border-defaultborder/10">
+                                                <tr class="border !border-x-0 border-defaultborder">
                                                     <td>
                                                         <div class="flex items-center">
                                                             <div class="me-2">
@@ -820,14 +820,14 @@
                                                         </div>
                                                     </td>
                                                     <td>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">62%</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">62%</span>
                                                     </td>
                                                     <td>
                                                         <p class="mb-0 font-semibold">$2,534.56</p>
                                                         <span class="text-[0.6875rem] font-normal text-success">0.737ETH</span>
                                                     </td>
                                                 </tr>
-                                                <tr class="!border-b-0 !border-x-0 border-defaultborder dark:border-defaultborder/10">
+                                                <tr class="!border-b-0 !border-x-0 border-defaultborder">
                                                     <td>
                                                         <div class="flex items-center">
                                                             <div class="me-2">
@@ -844,7 +844,7 @@
                                                         </div>
                                                     </td>
                                                     <td>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">85%</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">85%</span>
                                                     </td>
                                                     <td>
                                                         <p class="mb-0 font-semibold">$15,236.00</p>
@@ -880,7 +880,7 @@
                                     </div>
                                 </div>
                                 <div class="box-body !p-0">
-                                    <div class="flex flex-wrap p-3 border-b border-dashed dark:border-defaultborder/10">
+                                    <div class="flex flex-wrap p-3 border-b border-dashed">
                                         <div class="me-3">
                                             <span class="avatar avatar-md avatar-rounded p-2 bg-light">
                                                 <img src="{{asset('build/assets/images/crypto-currencies/regular/Ethereum.svg')}}" alt="">
@@ -915,7 +915,7 @@
                         </div>
                         <div class="xxl:col-span-3 xl:col-span-4 lg:col-span-5 md:col-span-12 sm:col-span-12 col-span-12">
                             <div class="mb-4 flex items-center justify-between">
-                                <h6 class="font-semibold mb-0 text-[1rem] text-defaulttextcolor dark:text-defaulttextcolor/70">Featured Collections :</h6>
+                                <h6 class="font-semibold mb-0 text-[1rem] text-defaulttextcolor">Featured Collections :</h6>
                                 <div>
                                     <button type="button" class="ti-btn !py-1 !px-2 ti-btn-primary !text-[0.75rem] ti-btn-wave waves-effect waves-light">View All</button>
                                 </div>
@@ -947,7 +947,7 @@
                                             <div class="box-footer">
                                                 <div class="flex items-center justify-between">
                                                     <div>
-                                                        <div class="text-[#8c9097] dark:text-white/50 text-[0.75rem] flex items-center">
+                                                        <div class="text-[#8c9097] text-[0.75rem] flex items-center">
                                                             Collection Rank :
                                                             <span
                                                                 class="font-semibold text-success text-[0.9375rem] mb-0 ms-1">#1</span>
@@ -980,7 +980,7 @@
                                                         <div>
                                                             <p class="mb-0 font-semibold"><a
                                                                     href="javascript:void(0);">Simon Cowell</a></p>
-                                                            <p class="text-[#8c9097] dark:text-white/50 text-[0.75rem] mb-0">@simon</p>
+                                                            <p class="text-[#8c9097] text-[0.75rem] mb-0">@simon</p>
                                                         </div>
                                                     </div>
                                                     <div class="">
@@ -1018,7 +1018,7 @@
                                             <div class="box-footer">
                                                 <div class="flex items-center justify-between">
                                                     <div>
-                                                        <div class="text-[#8c9097] dark:text-white/50 text-[0.75rem] flex items-center">Collection
+                                                        <div class="text-[#8c9097] text-[0.75rem] flex items-center">Collection
                                                             Rank :
                                                             <span
                                                                 class="font-semibold text-success text-[0.9375rem] mb-0 ms-1">#2</span>
@@ -1051,7 +1051,7 @@
                                                         <div>
                                                             <p class="mb-0 font-semibold"><a href="javascript:void(0);">Melissa
                                                                     Smith</a></p>
-                                                            <p class="text-[#8c9097] dark:text-white/50 text-[0.75rem] mb-0">@melissa</p>
+                                                            <p class="text-[#8c9097] text-[0.75rem] mb-0">@melissa</p>
                                                         </div>
                                                     </div>
                                                     <div class="">
@@ -1089,7 +1089,7 @@
                                         <div class="box-footer">
                                             <div class="flex items-center justify-between">
                                                 <div>
-                                                    <div class="text-[#8c9097] dark:text-white/50 text-[0.75rem] flex items-center">Collection
+                                                    <div class="text-[#8c9097] text-[0.75rem] flex items-center">Collection
                                                         Rank :
                                                         <span
                                                             class="font-semibold text-success text-[0.9375rem] mb-0 ms-1">#3</span>
@@ -1122,7 +1122,7 @@
                                                     <div>
                                                         <p class="mb-0 font-semibold"><a href="javascript:void(0);">Json
                                                                 Talor</a></p>
-                                                        <p class="text-[#8c9097] dark:text-white/50 text-[0.75rem] mb-0">@taylor</p>
+                                                        <p class="text-[#8c9097] text-[0.75rem] mb-0">@taylor</p>
                                                     </div>
                                                 </div>
                                                 <div class="">
@@ -1182,13 +1182,13 @@
                                                 </tr>
                                             </thead>
                                             <tbody>
-                                                <tr class="border border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                <tr class="border border-inherit border-solid hover:bg-gray-100">
                                                     <td>
                                                         <div class="flex items-center">
                                                             <img src="{{asset('build/assets/images/nft-images/1.png')}}" alt="" class="avatar avatar-md rounded-md me-2 leading-none !mb-0">
                                                             <div>
                                                                 <p class="mb-0 font-semibold"><a href="javascript:void(0);" title="nft_name">Starter Sense NFT</a></p>
-                                                                <a href="javascript:void(0);" class="text-[0.75rem] text-[#8c9097] dark:text-white/50 font-normal" title="creator_name">@irukasensei229</a>
+                                                                <a href="javascript:void(0);" class="text-[0.75rem] text-[#8c9097] font-normal" title="creator_name">@irukasensei229</a>
                                                             </div>
                                                         </div>
                                                     </td>
@@ -1215,13 +1215,13 @@
                                                     </td>
                                                     <td>12.4K</td>
                                                 </tr>
-                                                <tr class="border border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                <tr class="border border-inherit border-solid hover:bg-gray-100">
                                                     <td>
                                                         <div class="flex items-center">
                                                             <img src="{{asset('build/assets/images/nft-images/2.png')}}" alt="" class="avatar avatar-md rounded-md me-2 leading-none !mb-0">
                                                             <div>
                                                                 <p class="mb-0 font-semibold"><a href="javascript:void(0);" title="nft_name">Lorem Kekkei</a></p>
-                                                                <a href="javascript:void(0);" class="text-[0.75rem] text-[#8c9097] dark:text-white/50 font-normal" title="creator_name">@clansound209</a>
+                                                                <a href="javascript:void(0);" class="text-[0.75rem] text-[#8c9097] font-normal" title="creator_name">@clansound209</a>
                                                             </div>
                                                         </div>
                                                     </td>
@@ -1248,13 +1248,13 @@
                                                     </td>
                                                     <td>10.1K</td>
                                                 </tr>
-                                                <tr class="border border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                <tr class="border border-inherit border-solid hover:bg-gray-100">
                                                     <td>
                                                         <div class="flex items-center">
                                                             <img src="{{asset('build/assets/images/nft-images/10.png')}}" alt="" class="avatar avatar-md rounded-md me-2 leading-none !mb-0">
                                                             <div>
                                                                 <p class="mb-0 font-semibold"><a href="javascript:void(0);" title="nft_name">NFT Uchiha</a></p>
-                                                                <a href="javascript:void(0);" class="text-[0.75rem] text-[#8c9097] dark:text-white/50 font-normal" title="creator_name">@sasukeuhi990</a>
+                                                                <a href="javascript:void(0);" class="text-[0.75rem] text-[#8c9097] font-normal" title="creator_name">@sasukeuhi990</a>
                                                             </div>
                                                         </div>
                                                     </td>
@@ -1281,14 +1281,14 @@
                                                     </td>
                                                     <td>52.7K</td>
                                                 </tr>
-                                                <tr class="border border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                <tr class="border border-inherit border-solid hover:bg-gray-100">
                                                     <td>
                                                         <div class="flex items-center">
                                                             <img src="{{asset('build/assets/images/nft-images/12.png')}}" alt="" class="avatar avatar-md rounded-md me-2 leading-none !mb-0">
                                                             <div>
                                                                 <p class="mb-0 font-semibold"><a href="javascript:void(0);" title="nft_name">
                                                                     Lorem Ipsum Uch</a></p>
-                                                                <a href="javascript:void(0);" class="text-[0.75rem] text-[#8c9097] dark:text-white/50 font-normal" title="creator_name">@kakashi092</a>
+                                                                <a href="javascript:void(0);" class="text-[0.75rem] text-[#8c9097] font-normal" title="creator_name">@kakashi092</a>
                                                             </div>
                                                         </div>
                                                     </td>
@@ -1315,14 +1315,14 @@
                                                     </td>
                                                     <td>31.4K</td>
                                                 </tr>
-                                                <tr class="border border-inherit border-solid hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10">
+                                                <tr class="border border-inherit border-solid hover:bg-gray-100">
                                                     <td>
                                                         <div class="flex items-center">
                                                             <img src="{{asset('build/assets/images/nft-images/15.png')}}" alt="" class="avatar avatar-md rounded-md me-2 leading-none !mb-0">
                                                             <div>
                                                                 <p class="mb-0 font-semibold"><a href="javascript:void(0);" title="nft_name">
                                                                     Ivan Shomer Har</a></p>
-                                                                <a href="javascript:void(0);" class="text-[0.75rem] text-[#8c9097] dark:text-white/50 font-normal" title="creator_name">@narutouze025</a>
+                                                                <a href="javascript:void(0);" class="text-[0.75rem] text-[#8c9097] font-normal" title="creator_name">@narutouze025</a>
                                                             </div>
                                                         </div>
                                                     </td>
@@ -1355,7 +1355,7 @@
                                 </div>
                                 <div class="box-footer">
                                     <div class="sm:flex items-center">
-                                    <div class="text-defaulttextcolor dark:text-defaulttextcolor/70">
+                                    <div class="text-defaulttextcolor">
                                         Showing 5 Entries <i class="bi bi-arrow-right ms-2 font-semibold"></i>
                                     </div>
                                     <div class="ms-auto">
@@ -1388,7 +1388,7 @@
                                         Personal Listings
                                     </div>
                                     <div class="hs-dropdown ti-dropdown">
-                                        <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097] dark:text-white/50"
+                                        <a href="javascript:void(0);" class="px-2 font-normal text-[0.75rem] text-[#8c9097]"
                                             aria-expanded="false">
                                             View All<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                         </a>
@@ -1411,11 +1411,11 @@
                                                         <img src="{{asset('build/assets/images/nft-images/10.png')}}" alt="" class="avatar avatar-md rounded-md me-2 leading-none !mb-0">
                                                         <div>
                                                             <p class="font-semibold mb-0">Kakasha Si</p>
-                                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">@sensei011<span class="ms-2 text-success text-[0.6875rem]"><i class="ri-arrow-up-s-line align-middle me-1"></i>0.45%</span></span>
+                                                            <span class="text-[#8c9097] text-[0.75rem]">@sensei011<span class="ms-2 text-success text-[0.6875rem]"><i class="ri-arrow-up-s-line align-middle me-1"></i>0.45%</span></span>
                                                         </div>
                                                     </div>
                                                     <div>
-                                                        <span class="text-[0.625rem] text-[#8c9097] dark:text-white/50 ps-4">PRICE</span>
+                                                        <span class="text-[0.625rem] text-[#8c9097] ps-4">PRICE</span>
                                                         <p class="mb-0 font-semibold flex items-center"><span class="avatar avatar-sm p-1 !mb-0"><img src="{{asset('build/assets/images/crypto-currencies/regular/Ethereum.svg')}}" alt=""></span>1.75ETH</p>
                                                     </div>
                                                 </div>
@@ -1428,11 +1428,11 @@
                                                         <img src="{{asset('build/assets/images/nft-images/1.png')}}" alt="" class="avatar avatar-md rounded-md me-2 leading-none !mb-0">
                                                         <div>
                                                             <p class="font-semibold mb-0">Oorichimaru lo</p>
-                                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">@ooro001<span class="ms-2 text-success text-[0.6875rem]"><i class="ri-arrow-up-s-line align-middle me-1"></i>0.24%</span></span>
+                                                            <span class="text-[#8c9097] text-[0.75rem]">@ooro001<span class="ms-2 text-success text-[0.6875rem]"><i class="ri-arrow-up-s-line align-middle me-1"></i>0.24%</span></span>
                                                         </div>
                                                     </div>
                                                     <div>
-                                                        <span class="text-[0.625rem] text-[#8c9097] dark:text-white/50 ps-4">PRICE</span>
+                                                        <span class="text-[0.625rem] text-[#8c9097] ps-4">PRICE</span>
                                                         <p class="mb-0 font-semibold flex items-center"><span class="avatar avatar-sm p-1 !mb-0"><img src="{{asset('build/assets/images/crypto-currencies/regular/Ethereum.svg')}}" alt=""></span>1.15ETH</p>
                                                     </div>
                                                 </div>
@@ -1445,11 +1445,11 @@
                                                         <img src="{{asset('build/assets/images/nft-images/12.png')}}" alt="" class="avatar avatar-md rounded-md me-2 leading-none !mb-0">
                                                         <div>
                                                             <p class="font-semibold mb-0">SakuraYM</p>
-                                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">@sakura903<span class="ms-2 text-danger text-[0.6875rem]"><i class="ri-arrow-down-s-line align-middle me-1"></i>0.07%</span></span>
+                                                            <span class="text-[#8c9097] text-[0.75rem]">@sakura903<span class="ms-2 text-danger text-[0.6875rem]"><i class="ri-arrow-down-s-line align-middle me-1"></i>0.07%</span></span>
                                                         </div>
                                                     </div>
                                                     <div>
-                                                        <span class="text-[0.625rem] text-[#8c9097] dark:text-white/50 ps-4">PRICE</span>
+                                                        <span class="text-[0.625rem] text-[#8c9097] ps-4">PRICE</span>
                                                         <p class="mb-0 font-semibold flex items-center"><span class="avatar avatar-sm p-1 !mb-0"><img src="{{asset('build/assets/images/crypto-currencies/regular/Ethereum.svg')}}" alt=""></span>1.58ETH</p>
                                                     </div>
                                                 </div>
@@ -1462,11 +1462,11 @@
                                                         <img src="{{asset('build/assets/images/nft-images/4.png')}}" alt="" class="avatar avatar-md rounded-md me-2 leading-none !mb-0">
                                                         <div>
                                                             <p class="font-semibold mb-0">Sasuke Uchiha</p>
-                                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">@sasuke777<span class="ms-2 text-success text-[0.6875rem]"><i class="ri-arrow-up-s-line align-middle me-1"></i>1.34%</span></span>
+                                                            <span class="text-[#8c9097] text-[0.75rem]">@sasuke777<span class="ms-2 text-success text-[0.6875rem]"><i class="ri-arrow-up-s-line align-middle me-1"></i>1.34%</span></span>
                                                         </div>
                                                     </div>
                                                     <div>
-                                                        <span class="text-[0.625rem] text-[#8c9097] dark:text-white/50 ps-4">PRICE</span>
+                                                        <span class="text-[0.625rem] text-[#8c9097] ps-4">PRICE</span>
                                                         <p class="mb-0 font-semibold flex items-center"><span class="avatar avatar-sm p-1 !mb-0"><img src="{{asset('build/assets/images/crypto-currencies/regular/Ethereum.svg')}}" alt=""></span>1.19ETH</p>
                                                     </div>
                                                 </div>
@@ -1479,11 +1479,11 @@
                                                         <img src="{{asset('build/assets/images/nft-images/15.png')}}" alt="" class="avatar avatar-md rounded-md me-2 leading-none !mb-0">
                                                         <div>
                                                             <p class="font-semibold mb-0">Naruto Uzumaki</p>
-                                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">@naruto111<span class="ms-2 text-success text-[0.6875rem]"><i class="ri-arrow-up-s-line align-middle me-1"></i>1.70%</span></span>
+                                                            <span class="text-[#8c9097] text-[0.75rem]">@naruto111<span class="ms-2 text-success text-[0.6875rem]"><i class="ri-arrow-up-s-line align-middle me-1"></i>1.70%</span></span>
                                                         </div>
                                                     </div>
                                                     <div>
-                                                        <span class="text-[0.625rem] text-[#8c9097] dark:text-white/50 ps-4">PRICE</span>
+                                                        <span class="text-[0.625rem] text-[#8c9097] ps-4">PRICE</span>
                                                         <p class="mb-0 font-semibold flex items-center"><span class="avatar avatar-sm p-1 !mb-0"><img src="{{asset('build/assets/images/crypto-currencies/regular/Ethereum.svg')}}" alt=""></span>2.45ETH</p>
                                                     </div>
                                                 </div>
@@ -1496,11 +1496,11 @@
                                                         <img src="{{asset('build/assets/images/nft-images/16.png')}}" alt="" class="avatar avatar-md rounded-md me-2 leading-none !mb-0">
                                                         <div>
                                                             <p class="font-semibold mb-0">Kazimo Aruke</p>
-                                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">@kazimo900<span class="ms-2 text-danger text-[0.6875rem]"><i class="ri-arrow-down-s-line align-middle me-1"></i>1.21%</span></span>
+                                                            <span class="text-[#8c9097] text-[0.75rem]">@kazimo900<span class="ms-2 text-danger text-[0.6875rem]"><i class="ri-arrow-down-s-line align-middle me-1"></i>1.21%</span></span>
                                                         </div>
                                                     </div>
                                                     <div>
-                                                        <span class="text-[0.625rem] text-[#8c9097] dark:text-white/50 ps-4">PRICE</span>
+                                                        <span class="text-[0.625rem] text-[#8c9097] ps-4">PRICE</span>
                                                         <p class="mb-0 font-semibold flex items-center"><span class="avatar avatar-sm p-1 !mb-0"><img src="{{asset('build/assets/images/crypto-currencies/regular/Ethereum.svg')}}" alt=""></span>1.95ETH</p>
                                                     </div>
                                                 </div>
@@ -1513,11 +1513,11 @@
                                                         <img src="{{asset('build/assets/images/nft-images/6.png')}}" alt="" class="avatar avatar-md rounded-md me-2 leading-none !mb-0">
                                                         <div>
                                                             <p class="font-semibold mb-0">Nagiro Ohinavo</p>
-                                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">@nagiro096<span class="ms-2 text-success text-[0.6875rem]"><i class="ri-arrow-up-s-line align-middle me-1"></i>0.99%</span></span>
+                                                            <span class="text-[#8c9097] text-[0.75rem]">@nagiro096<span class="ms-2 text-success text-[0.6875rem]"><i class="ri-arrow-up-s-line align-middle me-1"></i>0.99%</span></span>
                                                         </div>
                                                     </div>
                                                     <div>
-                                                        <span class="text-[0.625rem] text-[#8c9097] dark:text-white/50 ps-4">PRICE</span>
+                                                        <span class="text-[0.625rem] text-[#8c9097] ps-4">PRICE</span>
                                                         <p class="mb-0 font-semibold flex items-center"><span class="avatar avatar-sm p-1 !mb-0"><img src="{{asset('build/assets/images/crypto-currencies/regular/Ethereum.svg')}}" alt=""></span>1.12ETH</p>
                                                     </div>
                                                 </div>

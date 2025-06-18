@@ -12,16 +12,16 @@
                         <!-- Page Header -->
                         <div class="block justify-between page-header md:flex">
                             <div>
-                                <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold">Draggable cards</h3>
+                                <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold">Draggable cards</h3>
                             </div>
                             <ol class="flex items-center whitespace-nowrap min-w-0">
                                 <li class="text-[0.813rem] ps-[0.5rem]">
-                                  <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                  <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                   Advanced Ui
-                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                   </a>
                                 </li>
-                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                   Draggable cards
                                 </li>
                             </ol>
@@ -84,7 +84,7 @@
                                             </div>
                                             <div>
                                                 <p class="box-text mb-0 text-[.875rem] font-semibold">Atharva Simon.</p>
-                                                <div class="box-title !text-[#8c9097] dark:text-white/50 !text-[0.75rem] !font-normal mb-0">Correspondent Professor</div>
+                                                <div class="box-title !text-[#8c9097] !text-[0.75rem] !font-normal mb-0">Correspondent Professor</div>
                                             </div>
                                         </div>
                                     </div>
@@ -101,7 +101,7 @@
                                             <div>
                                                 <p class="box-text text-info mb-1 text-[.875rem] font-semibold">Alicia Keys.</p>
                                                 <div class="box-title !text-[0.75rem] mb-1 !font-normal">Department Of Commerce</div>
-                                                <div class="box-title !text-[#8c9097] dark:text-white/50 !text-[.6875rem] !font-normal mb-0">24 Years, Female</div>
+                                                <div class="box-title !text-[#8c9097] !text-[.6875rem] !font-normal mb-0">24 Years, Female</div>
                                             </div>
                                         </div>
                                     </div>

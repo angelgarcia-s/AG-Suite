@@ -12,16 +12,16 @@
                 <!-- Page Header -->
                 <div class="block justify-between page-header md:flex">
                     <div>
-                        <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Dropdowns</h3>
+                        <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Dropdowns</h3>
                     </div>
                     <ol class="flex items-center whitespace-nowrap min-w-0">
                         <li class="text-[0.813rem] ps-[0.5rem]">
-                          <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                          <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                            Ui Elements
-                            <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                            <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                           </a>
                         </li>
-                        <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                        <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                             Dropdowns
                         </li>
                     </ol>
@@ -2727,12 +2727,12 @@ Split dropleft
                                         Dropdown button<i class="ri-arrow-down-s-line align-middle inline-block"></i>
                                     </button>
                                     <ul
-                                        class="hs-dropdown-menu ti-dropdown-menu !bg-black dark:!bg-defaulttextcolor/10 hidden">
-                                        <li><a class="ti-dropdown-item !text-white dark:!text-defaulttextcolor"
+                                        class="hs-dropdown-menu ti-dropdown-menu !bg-black hidden">
+                                        <li><a class="ti-dropdown-item !text-white"
                                                 href="javascript:void(0);">Action</a></li>
-                                        <li><a class="ti-dropdown-item !text-white dark:!text-defaulttextcolor"
+                                        <li><a class="ti-dropdown-item !text-white"
                                                 href="javascript:void(0);">Another action</a></li>
-                                        <li><a class="ti-dropdown-item !text-white dark:!text-defaulttextcolor"
+                                        <li><a class="ti-dropdown-item !text-white"
                                                 href="javascript:void(0);">Something else here</a></li>
                                     </ul>
                                 </div>
@@ -2745,12 +2745,12 @@ Split dropleft
     Dropdown button&lt;i class="ri-arrow-down-s-line align-middle inline-block"&gt;&lt;/i&gt;
 &lt;/button&gt;
 &lt;ul
-    class="hs-dropdown-menu ti-dropdown-menu hs-dropdown-menu !bg-black dark:!bg-defaulttextcolor/10 hidden"&gt;
-    &lt;li&gt;&lt;a class="ti-dropdown-item !text-white dark:!text-defaulttextcolor"
+    class="hs-dropdown-menu ti-dropdown-menu hs-dropdown-menu !bg-black hidden"&gt;
+    &lt;li&gt;&lt;a class="ti-dropdown-item !text-white"
             href="javascript:void(0);"&gt;Action&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a class="ti-dropdown-item !text-white dark:!text-defaulttextcolor"
+    &lt;li&gt;&lt;a class="ti-dropdown-item !text-white"
             href="javascript:void(0);"&gt;Another action&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a class="ti-dropdown-item !text-white dark:!text-defaulttextcolor"
+    &lt;li&gt;&lt;a class="ti-dropdown-item !text-white"
             href="javascript:void(0);"&gt;Something else here&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</code></pre>
@@ -3229,7 +3229,7 @@ Split dropleft
                                 <p class=" mb-3">Use <code>.ti-dropdown-item-text.</code> to create non-interactive
                                     dropdown items.</p>
                                 <div class="bd-example">
-                                    <ul class="dropdown-menu border dark:border-defaultborder/10 shadow-sm">
+                                    <ul class="dropdown-menu border shadow-sm">
                                         <li><span class="!py-2 !px-4 !text-[0.875rem]">Dropdown item text</span>
                                         </li>
                                         <li><a class="ti-dropdown-item" href="javascript:void(0);">Action</a></li>
@@ -3246,7 +3246,7 @@ Split dropleft
                                 <pre class="language-html"><code class="language-html"> &lt;p class=" mb-3"&gt;Use &lt;code&gt;.ti-dropdown-item-text.&lt;/code&gt; to create non-interactive
     dropdown items.&lt;/p&gt;
 &lt;div class="bd-example"&gt;
-    &lt;ul class="dropdown-menu border dark:border-defaultborder/10 shadow-sm"&gt;
+    &lt;ul class="dropdown-menu border shadow-sm"&gt;
         &lt;li&gt;&lt;span class="!py-2 !px-4 !text-[0.875rem]"&gt;Dropdown item text&lt;/span&gt;
         &lt;/li&gt;
         &lt;li&gt;&lt;a class="ti-dropdown-item" href="javascript:void(0);"&gt;Action&lt;/a&gt;&lt;/li&gt;
@@ -3277,7 +3277,7 @@ Split dropleft
                                 <p class="card-titlte mb-3">Add a <code>.dropdown-header</code> to label sections of
                                     actions in any dropdown menu.</p>
                                 <div class="bd-example">
-                                    <ul class="dropdown-menu border dark:border-defaultborder/10 shadow-sm">
+                                    <ul class="dropdown-menu border shadow-sm">
                                         <li>
                                             <h6 class="dropdown-header">Dropdown header</h6>
                                         </li>
@@ -3294,7 +3294,7 @@ Split dropleft
                                 <pre class="language-html"><code class="language-html">&lt;p class="card-titlte mb-3"&gt;Add a &lt;code&gt;.dropdown-header&lt;/code&gt; to label sections of
                                     actions in any dropdown menu.&lt;/p&gt;
                                     &lt;div class="bd-example"&gt;
-                                    &lt;ul class="dropdown-menu border dark:border-defaultborder/10 shadow-sm"&gt;
+                                    &lt;ul class="dropdown-menu border shadow-sm"&gt;
                                         &lt;li&gt;
                                             &lt;h6 class="dropdown-header"&gt;Dropdown header&lt;/h6&gt;
                                         &lt;/li&gt;
@@ -3323,7 +3323,7 @@ Split dropleft
                             </div>
                             <div class="box-body">
                                 <div class="bd-example">
-                                    <ul class="dropdown-menu border dark:border-defaultborder/10 shadow-sm">
+                                    <ul class="dropdown-menu border shadow-sm">
                                         <li><a class="dropdown-header" href="javascript:void(0);">Heading</a></li>
                                         <li><a class="ti-dropdown-item" href="javascript:void(0);">Action</a></li>
                                         <li><a class="ti-dropdown-item" href="javascript:void(0);">Another action</a>
@@ -3341,7 +3341,7 @@ Split dropleft
                             <div class="box-footer hidden border-t-0">
                                 <!-- Prism Code -->
                                 <pre class="language-html"><code class="language-html">&lt;div class="bd-example"&gt;
-&lt;ul class="dropdown-menu border dark:border-defaultborder/10 shadow-sm"&gt;
+&lt;ul class="dropdown-menu border shadow-sm"&gt;
     &lt;li&gt;&lt;a class="dropdown-header" href="javascript:void(0);"&gt;Heading&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a class="ti-dropdown-item" href="javascript:void(0);"&gt;Action&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a class="ti-dropdown-item" href="javascript:void(0);"&gt;Another action&lt;/a&gt;
@@ -3372,7 +3372,7 @@ Split dropleft
                             </div>
                             <div class="box-body">
                                 <div class="bd-example">
-                                    <div class="dropdown-menu border dark:border-defaultborder/10 shadow-sm p-6 text-[#8c9097] dark:text-white/50 text-[0.875rem] max-w-[200px]">
+                                    <div class="dropdown-menu border shadow-sm p-6 text-[#8c9097] text-[0.875rem] max-w-[200px]">
                                         <p>
                                             Some example text that's free-flowing within the dropdown menu.
                                         </p>
@@ -3385,7 +3385,7 @@ Split dropleft
                             <div class="box-footer hidden border-t-0">
                                 <!-- Prism Code -->
                                 <pre class="language-html"><code class="language-html">&lt;div class="bd-example"&gt;
-                                    &lt;div class="dropdown-menu border dark:border-defaultborder/10 shadow-sm p-6 text-[#8c9097] dark:text-white/50 text-[0.875rem] max-w-[200px]"&gt;
+                                    &lt;div class="dropdown-menu border shadow-sm p-6 text-[#8c9097] text-[0.875rem] max-w-[200px]"&gt;
                                         &lt;p&gt;
                                             Some example text that's free-flowing within the dropdown menu.
                                         &lt;/p&gt;

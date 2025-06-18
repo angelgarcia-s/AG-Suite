@@ -12,16 +12,16 @@
                     <!-- Page Header -->
                     <div class="block justify-between page-header md:flex">
                         <div>
-                            <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> List Groups</h3>
+                            <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> List Groups</h3>
                         </div>
                         <ol class="flex items-center whitespace-nowrap min-w-0">
                             <li class="text-[0.813rem] ps-[0.5rem]">
-                              <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                              <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                Ui Elements
-                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                               </a>
                             </li>
-                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                             List Groups
                             </li>
                         </ol>
@@ -347,22 +347,22 @@
                                 </div>
                                 <div class="box-body">
                                     <ul class="ti-list-group ti-list-group-flush">
-                                        <li class="ti-list-group-item !border-t-0 !border-l-0 !border-r-0 font-semibold"><i class="bi bi-envelope align-middle me-2 text-[#8c9097] dark:text-white/50"></i>Asish Trivedhi<span class="ms-1 text-[#8c9097] dark:text-white/50 font-normal inline-block">(+1023-84534)</span></li>
-                                        <li class="ti-list-group-item !border-l-0 !border-r-0  font-semibold"><i class="bi bi-tiktok align-middle me-2 text-[#8c9097] dark:text-white/50"></i>Alezander Russo<span class="ms-1 text-[#8c9097] dark:text-white/50 font-normal inline-block">(+7546-12342)</span></li>
-                                        <li class="ti-list-group-item !border-l-0 !border-r-0  font-semibold"><i class="bi bi-whatsapp align-middle me-2 text-[#8c9097] dark:text-white/50"></i>Karem Smith<span class="ms-1 text-[#8c9097] dark:text-white/50 font-normal inline-block">(+9944-56632)</span></li>
-                                        <li class="ti-list-group-item !border-l-0 !border-r-0  font-semibold"><i class="bi bi-facebook align-middle me-2 text-[#8c9097] dark:text-white/50"></i>Melissa Brien<span class="ms-1 text-[#8c9097] dark:text-white/50 font-normal inline-block">(+1023-34323)</span></li>
-                                        <li class="ti-list-group-item !border-l-0 !border-r-0 !border-b-0  font-semibold"><i class="bi bi-instagram align-middle me-2 text-[#8c9097] dark:text-white/50"></i>Kamala Harris<span class="ms-1 text-[#8c9097] dark:text-white/50 font-normal inline-block">(+91-63421)</span></li>
+                                        <li class="ti-list-group-item !border-t-0 !border-l-0 !border-r-0 font-semibold"><i class="bi bi-envelope align-middle me-2 text-[#8c9097]"></i>Asish Trivedhi<span class="ms-1 text-[#8c9097] font-normal inline-block">(+1023-84534)</span></li>
+                                        <li class="ti-list-group-item !border-l-0 !border-r-0  font-semibold"><i class="bi bi-tiktok align-middle me-2 text-[#8c9097]"></i>Alezander Russo<span class="ms-1 text-[#8c9097] font-normal inline-block">(+7546-12342)</span></li>
+                                        <li class="ti-list-group-item !border-l-0 !border-r-0  font-semibold"><i class="bi bi-whatsapp align-middle me-2 text-[#8c9097]"></i>Karem Smith<span class="ms-1 text-[#8c9097] font-normal inline-block">(+9944-56632)</span></li>
+                                        <li class="ti-list-group-item !border-l-0 !border-r-0  font-semibold"><i class="bi bi-facebook align-middle me-2 text-[#8c9097]"></i>Melissa Brien<span class="ms-1 text-[#8c9097] font-normal inline-block">(+1023-34323)</span></li>
+                                        <li class="ti-list-group-item !border-l-0 !border-r-0 !border-b-0  font-semibold"><i class="bi bi-instagram align-middle me-2 text-[#8c9097]"></i>Kamala Harris<span class="ms-1 text-[#8c9097] font-normal inline-block">(+91-63421)</span></li>
                                     </ul>
                                 </div>
                                 <div class="box-footer hidden border-t-0">
 <!-- Prism Code -->
 <pre class="language-html"><code class="language-html">
     &lt;ul class="ti-list-group ti-list-group-flush"&gt;
-        &lt;li class="ti-list-group-item !border-t-0 !border-l-0 !border-r-0 font-semibold"&gt;&lt;i class="bi bi-envelope align-middle me-2 text-[#8c9097] dark:text-white/50"&gt;&lt;/i&gt;Asish Trivedhi&lt;span class="ms-1 text-[#8c9097] dark:text-white/50 font-normal inline-block"&gt;(+1023-84534)&lt;/span&gt;&lt;/li&gt;
-        &lt;li class="ti-list-group-item !border-l-0 !border-r-0  font-semibold"&gt;&lt;i class="bi bi-tiktok align-middle me-2 text-[#8c9097] dark:text-white/50"&gt;&lt;/i&gt;Alezander Russo&lt;span class="ms-1 text-[#8c9097] dark:text-white/50 font-normal inline-block"&gt;(+7546-12342)&lt;/span&gt;&lt;/li&gt;
-        &lt;li class="ti-list-group-item !border-l-0 !border-r-0  font-semibold"&gt;&lt;i class="bi bi-whatsapp align-middle me-2 text-[#8c9097] dark:text-white/50"&gt;&lt;/i&gt;Karem Smith&lt;span class="ms-1 text-[#8c9097] dark:text-white/50 font-normal inline-block"&gt;(+9944-56632)&lt;/span&gt;&lt;/li&gt;
-        &lt;li class="ti-list-group-item !border-l-0 !border-r-0  font-semibold"&gt;&lt;i class="bi bi-facebook align-middle me-2 text-[#8c9097] dark:text-white/50"&gt;&lt;/i&gt;Melissa Brien&lt;span class="ms-1 text-[#8c9097] dark:text-white/50 font-normal inline-block"&gt;(+1023-34323)&lt;/span&gt;&lt;/li&gt;
-        &lt;li class="ti-list-group-item !border-l-0 !border-r-0 !border-b-0  font-semibold"&gt;&lt;i class="bi bi-instagram align-middle me-2 text-[#8c9097] dark:text-white/50"&gt;&lt;/i&gt;Kamala Harris&lt;span class="ms-1 text-[#8c9097] dark:text-white/50 font-normal inline-block"&gt;(+91-63421)&lt;/span&gt;&lt;/li&gt;
+        &lt;li class="ti-list-group-item !border-t-0 !border-l-0 !border-r-0 font-semibold"&gt;&lt;i class="bi bi-envelope align-middle me-2 text-[#8c9097]"&gt;&lt;/i&gt;Asish Trivedhi&lt;span class="ms-1 text-[#8c9097] font-normal inline-block"&gt;(+1023-84534)&lt;/span&gt;&lt;/li&gt;
+        &lt;li class="ti-list-group-item !border-l-0 !border-r-0  font-semibold"&gt;&lt;i class="bi bi-tiktok align-middle me-2 text-[#8c9097]"&gt;&lt;/i&gt;Alezander Russo&lt;span class="ms-1 text-[#8c9097] font-normal inline-block"&gt;(+7546-12342)&lt;/span&gt;&lt;/li&gt;
+        &lt;li class="ti-list-group-item !border-l-0 !border-r-0  font-semibold"&gt;&lt;i class="bi bi-whatsapp align-middle me-2 text-[#8c9097]"&gt;&lt;/i&gt;Karem Smith&lt;span class="ms-1 text-[#8c9097] font-normal inline-block"&gt;(+9944-56632)&lt;/span&gt;&lt;/li&gt;
+        &lt;li class="ti-list-group-item !border-l-0 !border-r-0  font-semibold"&gt;&lt;i class="bi bi-facebook align-middle me-2 text-[#8c9097]"&gt;&lt;/i&gt;Melissa Brien&lt;span class="ms-1 text-[#8c9097] font-normal inline-block"&gt;(+1023-34323)&lt;/span&gt;&lt;/li&gt;
+        &lt;li class="ti-list-group-item !border-l-0 !border-r-0 !border-b-0  font-semibold"&gt;&lt;i class="bi bi-instagram align-middle me-2 text-[#8c9097]"&gt;&lt;/i&gt;Kamala Harris&lt;span class="ms-1 text-[#8c9097] font-normal inline-block"&gt;(+91-63421)&lt;/span&gt;&lt;/li&gt;
     &lt;/ul&gt;</code></pre>
 <!-- Prism Code -->
                                 </div>
@@ -386,7 +386,7 @@
                                             aria-current="true">
                                             <div class="flex items-center">
                                                 <div>
-                                                    <span class="avatar avatar-xs bg-white dark:bg-bodybg !text-defaulttextcolor avatar-rounded">
+                                                    <span class="avatar avatar-xs bg-white !text-defaulttextcolor avatar-rounded">
                                                         C
                                                     </span>
                                                 </div>
@@ -394,7 +394,7 @@
                                             </div>
                                         </a>
                                         </li>
-                                        <li class="ti-list-group-item ti-list-group-item-action hover:bg-gray-200 dark:hover:bg-light">
+                                        <li class="ti-list-group-item ti-list-group-item-action hover:bg-gray-200">
                                             <a href="javascript:void(0);" class="">
                                                 <div class="flex items-center">
                                                     <div>
@@ -406,7 +406,7 @@
                                                 </div>
                                             </a>
                                         </li>
-                                        <li class="ti-list-group-item ti-list-group-item-action hover:bg-gray-200 dark:hover:bg-light">
+                                        <li class="ti-list-group-item ti-list-group-item-action hover:bg-gray-200">
                                             <a href="javascript:void(0);" class="">
                                                 <div class="flex items-center">
                                                     <div>
@@ -418,7 +418,7 @@
                                                 </div>
                                             </a>
                                         </li>
-                                        <li class="ti-list-group-item ti-list-group-item-action hover:bg-gray-200 dark:hover:bg-light">
+                                        <li class="ti-list-group-item ti-list-group-item-action hover:bg-gray-200">
                                             <a href="javascript:void(0);" class="">
                                                 <div class="flex items-center">
                                                     <div>
@@ -455,7 +455,7 @@
         aria-current="true"&gt;
         &lt;div class="flex items-center"&gt;
             &lt;div&gt;
-                &lt;span class="avatar avatar-xs bg-white dark:bg-bodybg !text-defaulttextcolor avatar-rounded"&gt;
+                &lt;span class="avatar avatar-xs bg-white !text-defaulttextcolor avatar-rounded"&gt;
                     C
                 &lt;/span&gt;
             &lt;/div&gt;
@@ -463,7 +463,7 @@
         &lt;/div&gt;
     &lt;/a&gt;
     &lt;/li&gt;
-    &lt;li class="ti-list-group-item ti-list-group-item-action hover:bg-gray-200 dark:hover:bg-light"&gt;
+    &lt;li class="ti-list-group-item ti-list-group-item-action hover:bg-gray-200"&gt;
         &lt;a href="javascript:void(0);" class=""&gt;
             &lt;div class="flex items-center"&gt;
                 &lt;div&gt;
@@ -475,7 +475,7 @@
             &lt;/div&gt;
         &lt;/a&gt;
     &lt;/li&gt;
-    &lt;li class="ti-list-group-item ti-list-group-item-action hover:bg-gray-200 dark:hover:bg-light"&gt;
+    &lt;li class="ti-list-group-item ti-list-group-item-action hover:bg-gray-200"&gt;
         &lt;a href="javascript:void(0);" class=""&gt;
             &lt;div class="flex items-center"&gt;
                 &lt;div&gt;
@@ -487,7 +487,7 @@
             &lt;/div&gt;
         &lt;/a&gt;
     &lt;/li&gt;
-    &lt;li class="ti-list-group-item ti-list-group-item-action hover:bg-gray-200 dark:hover:bg-light"&gt;
+    &lt;li class="ti-list-group-item ti-list-group-item-action hover:bg-gray-200"&gt;
         &lt;a href="javascript:void(0);" class=""&gt;
             &lt;div class="flex items-center"&gt;
                 &lt;div&gt;
@@ -590,7 +590,7 @@
                                         <li class="ti-list-group-item !bg-light/10 !text-defaulttextcolor">A simple light list group
                                             item
                                         </li>
-                                        <li class="ti-list-group-item !bg-black/10 dark:!bg-light !text-defaulttextcolor">A simple dark list group
+                                        <li class="ti-list-group-item !bg-black/10 !text-defaulttextcolor">A simple dark list group
                                             item
                                         </li>
                                     </ul>
@@ -622,7 +622,7 @@
         &lt;li class="ti-list-group-item !bg-light/10 !text-defaulttextcolor"&gt;A simple light list group
             item
         &lt;/li&gt;
-        &lt;li class="ti-list-group-item !bg-black/10 dark:!bg-light !text-defaulttextcolor"&gt;A simple dark list group
+        &lt;li class="ti-list-group-item !bg-black/10 !text-defaulttextcolor"&gt;A simple dark list group
             item
         &lt;/li&gt;
     &lt;/ul&gt;</code></pre>
@@ -650,7 +650,7 @@
                                         <a href="javascript:void(0);" class="w-full ti-list-group-item !bg-warning/10 !text-warning hover:!bg-warning/20">A simple warning list group item</a>
                                         <a href="javascript:void(0);" class="w-full ti-list-group-item !bg-info/10 !text-info hover:!bg-info/20">A simple info list group item</a>
                                         <a href="javascript:void(0);" class="w-full ti-list-group-item !bg-light/10 !text-defaulttextcolor hover:!bg-light/20">A simple light list group item</a>
-                                        <a href="javascript:void(0);" class="w-full ti-list-group-item !bg-black/10 dark:!bg-light !text-defaulttextcolor hover:!bg-black/20">A simple dark list group item</a>
+                                        <a href="javascript:void(0);" class="w-full ti-list-group-item !bg-black/10 !text-defaulttextcolor hover:!bg-black/20">A simple dark list group item</a>
                                     </div>
                                 </div>
                                 <div class="box-footer hidden border-t-0">
@@ -665,7 +665,7 @@
     &lt;a href="javascript:void(0);" class="w-full ti-list-group-item !bg-warning/10 !text-warning hover:!bg-warning/20"&gt;A simple warning list group item&lt;/a&gt;
     &lt;a href="javascript:void(0);" class="w-full ti-list-group-item !bg-info/10 !text-info hover:!bg-info/20"&gt;A simple info list group item&lt;/a&gt;
     &lt;a href="javascript:void(0);" class="w-full ti-list-group-item !bg-light/10 !text-defaulttextcolor hover:!bg-light/20"&gt;A simple light list group item&lt;/a&gt;
-    &lt;a href="javascript:void(0);" class="w-full ti-list-group-item !bg-black/10 dark:!bg-light !text-defaulttextcolor hover:!bg-black/20"&gt;A simple dark list group item&lt;/a&gt;
+    &lt;a href="javascript:void(0);" class="w-full ti-list-group-item !bg-black/10 !text-defaulttextcolor hover:!bg-black/20"&gt;A simple dark list group item&lt;/a&gt;
     &lt;/div&gt;</code></pre>
 <!-- Prism Code -->
                                 </div>
@@ -711,7 +711,7 @@
                                         <li class="ti-list-group-item !bg-light !border-light">A simple light list group
                                             item
                                         </li>
-                                        <li class="ti-list-group-item !bg-black dark:!bg-white dark:!text-black !text-white !border-black">A simple dark list group
+                                        <li class="ti-list-group-item !bg-black !text-white !border-black">A simple dark list group
                                             item
                                         </li>
                                     </ul>
@@ -743,7 +743,7 @@
         &lt;li class="ti-list-group-item !bg-light !border-light"&gt;A simple light list group
             item
         &lt;/li&gt;
-        &lt;li class="ti-list-group-item !bg-black dark:!bg-white dark:!text-black !text-white !border-black"&gt;A simple dark list group
+        &lt;li class="ti-list-group-item !bg-black !text-white !border-black"&gt;A simple dark list group
             item
         &lt;/li&gt;
     &lt;/ul&gt;</code></pre>
@@ -779,30 +779,30 @@
                                                 <a href="javascript:void(0);">
                                                     <div class="flex w-full justify-between">
                                                         <h6 class="mb-1 font-semibold">Richard McClintock, a Latin professor?</h6>
-                                                        <small class="text-[#8c9097] dark:text-white/50">4 hrs ago</small>
+                                                        <small class="text-[#8c9097]">4 hrs ago</small>
                                                     </div>
                                                     <p class="mb-1">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature.</p>
-                                                    <small class="text-[#8c9097] dark:text-white/50">30,Nov 2022.</small>
+                                                    <small class="text-[#8c9097]">30,Nov 2022.</small>
                                                 </a>
                                             </li>
                                             <li class="ti-list-group-item ti-list-group-item-action ">
                                                 <a href="javascript:void(0);">
                                                     <div class="sm:flex w-full justify-between">
                                                         <h6 class="mb-1 font-semibold">It uses a dictionary of over 200 Latin words?</h6>
-                                                        <small class="text-[#8c9097] dark:text-white/50">15 hrs ago</small>
+                                                        <small class="text-[#8c9097]">15 hrs ago</small>
                                                     </div>
                                                     <p class="mb-1">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                                                    <small class="text-[#8c9097] dark:text-white/50">4,Nov 2022.</small>
+                                                    <small class="text-[#8c9097]">4,Nov 2022.</small>
                                                 </a>
                                             </li>
                                             <li class="ti-list-group-item ti-list-group-item-action ">
                                                 <a href="javascript:void(0);">
                                                     <div class="sm:flex w-full justify-between">
                                                         <h6 class="mb-1 font-semibold">The standard Lorem Ipsum used since the 1500s?</h6>
-                                                        <small class="text-[#8c9097] dark:text-white/50">45 mins ago</small>
+                                                        <small class="text-[#8c9097]">45 mins ago</small>
                                                     </div>
                                                     <p class="mb-1">All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.</p>
-                                                    <small class="text-[#8c9097] dark:text-white/50">28,Oct 2022.</small>
+                                                    <small class="text-[#8c9097]">28,Oct 2022.</small>
                                                 </a>
                                             </li>
                                         </ul>
@@ -828,30 +828,30 @@
             &lt;a href="javascript:void(0);"&gt;
                 &lt;div class="flex w-full justify-between"&gt;
                     &lt;h6 class="mb-1 font-semibold"&gt;Richard McClintock, a Latin professor?&lt;/h6&gt;
-                    &lt;small class="text-[#8c9097] dark:text-white/50"&gt;4 hrs ago&lt;/small&gt;
+                    &lt;small class="text-[#8c9097]"&gt;4 hrs ago&lt;/small&gt;
                 &lt;/div&gt;
                 &lt;p class="mb-1"&gt;Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature.&lt;/p&gt;
-                &lt;small class="text-[#8c9097] dark:text-white/50"&gt;30,Nov 2022.&lt;/small&gt;
+                &lt;small class="text-[#8c9097]"&gt;30,Nov 2022.&lt;/small&gt;
             &lt;/a&gt;
         &lt;/li&gt;
         &lt;li class="ti-list-group-item ti-list-group-item-action "&gt;
             &lt;a href="javascript:void(0);"&gt;
                 &lt;div class="sm:flex w-full justify-between"&gt;
                     &lt;h6 class="mb-1 font-semibold"&gt;It uses a dictionary of over 200 Latin words?&lt;/h6&gt;
-                    &lt;small class="text-[#8c9097] dark:text-white/50"&gt;15 hrs ago&lt;/small&gt;
+                    &lt;small class="text-[#8c9097]"&gt;15 hrs ago&lt;/small&gt;
                 &lt;/div&gt;
                 &lt;p class="mb-1"&gt;Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.&lt;/p&gt;
-                &lt;small class="text-[#8c9097] dark:text-white/50"&gt;4,Nov 2022.&lt;/small&gt;
+                &lt;small class="text-[#8c9097]"&gt;4,Nov 2022.&lt;/small&gt;
             &lt;/a&gt;
         &lt;/li&gt;
         &lt;li class="ti-list-group-item ti-list-group-item-action "&gt;
             &lt;a href="javascript:void(0);"&gt;
                 &lt;div class="sm:flex w-full justify-between"&gt;
                     &lt;h6 class="mb-1 font-semibold"&gt;The standard Lorem Ipsum used since the 1500s?&lt;/h6&gt;
-                    &lt;small class="text-[#8c9097] dark:text-white/50"&gt;45 mins ago&lt;/small&gt;
+                    &lt;small class="text-[#8c9097]"&gt;45 mins ago&lt;/small&gt;
                 &lt;/div&gt;
                 &lt;p class="mb-1"&gt;All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.&lt;/p&gt;
-                &lt;small class="text-[#8c9097] dark:text-white/50"&gt;28,Oct 2022.&lt;/small&gt;
+                &lt;small class="text-[#8c9097]"&gt;28,Oct 2022.&lt;/small&gt;
             &lt;/a&gt;
         &lt;/li&gt;
     &lt;/ul&gt;
@@ -878,25 +878,25 @@
                                 <div class="box-body">
                                     <ol class="ti-list-group !list-decimal">
                                         <li class="ti-list-group-item flex justify-between items-start">
-                                            <div class="ms-2 me-auto text-[#8c9097] dark:text-white/50">
+                                            <div class="ms-2 me-auto text-[#8c9097]">
                                                 <div class="font-semibold text-[.875rem] !text-defaulttextcolor">What Happened?</div>
                                                 Many experts have recently suggested may exist.
                                             </div>
                                         </li>
                                         <li class="ti-list-group-item flex justify-between items-start">
-                                            <div class="ms-2 me-auto text-[#8c9097] dark:text-white/50">
+                                            <div class="ms-2 me-auto text-[#8c9097]">
                                                 <div class="font-semibold text-[.875rem] !text-defaulttextcolor">It Was Amazing!</div>
                                                 His idea involved taking red.
                                             </div>
                                         </li>
                                         <li class="ti-list-group-item flex justify-between items-start">
-                                            <div class="ms-2 me-auto text-[#8c9097] dark:text-white/50">
+                                            <div class="ms-2 me-auto text-[#8c9097]">
                                                 <div class="font-semibold text-[.875rem] !text-defaulttextcolor">News Is A Great Weapon.</div>
                                                 News can influence in many ways.
                                             </div>
                                         </li>
                                         <li class="ti-list-group-item flex justify-between items-start">
-                                            <div class="ms-2 me-auto text-[#8c9097] dark:text-white/50">
+                                            <div class="ms-2 me-auto text-[#8c9097]">
                                                 <div class="font-semibold text-[.875rem] !text-defaulttextcolor">majority have suffered.</div>
                                                 If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything.
                                             </div>
@@ -908,25 +908,25 @@
 <pre class="language-html"><code class="language-html">
     &lt;ol class="ti-list-group !list-decimal"&gt;
         &lt;li class="ti-list-group-item flex justify-between items-start"&gt;
-            &lt;div class="ms-2 me-auto text-[#8c9097] dark:text-white/50"&gt;
+            &lt;div class="ms-2 me-auto text-[#8c9097]"&gt;
                 &lt;div class="font-semibold text-[.875rem] !text-defaulttextcolor"&gt;What Happened?&lt;/div&gt;
                 Many experts have recently suggested may exist.
             &lt;/div&gt;
         &lt;/li&gt;
         &lt;li class="ti-list-group-item flex justify-between items-start"&gt;
-            &lt;div class="ms-2 me-auto text-[#8c9097] dark:text-white/50"&gt;
+            &lt;div class="ms-2 me-auto text-[#8c9097]"&gt;
                 &lt;div class="font-semibold text-[.875rem] !text-defaulttextcolor"&gt;It Was Amazing!&lt;/div&gt;
                 His idea involved taking red.
             &lt;/div&gt;
         &lt;/li&gt;
         &lt;li class="ti-list-group-item flex justify-between items-start"&gt;
-            &lt;div class="ms-2 me-auto text-[#8c9097] dark:text-white/50"&gt;
+            &lt;div class="ms-2 me-auto text-[#8c9097]"&gt;
                 &lt;div class="font-semibold text-[.875rem] !text-defaulttextcolor"&gt;News Is A Great Weapon.&lt;/div&gt;
                 News can influence in many ways.
             &lt;/div&gt;
         &lt;/li&gt;
         &lt;li class="ti-list-group-item flex justify-between items-start"&gt;
-            &lt;div class="ms-2 me-auto text-[#8c9097] dark:text-white/50"&gt;
+            &lt;div class="ms-2 me-auto text-[#8c9097]"&gt;
                 &lt;div class="font-semibold text-[.875rem] !text-defaulttextcolor"&gt;majority have suffered.&lt;/div&gt;
                 If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything.
             &lt;/div&gt;

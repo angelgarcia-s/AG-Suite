@@ -10,16 +10,16 @@
                         <!-- Page Header -->
                         <div class="block justify-between page-header md:flex">
                             <div>
-                                <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Order Details</h3>
+                                <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Order Details</h3>
                             </div>
                             <ol class="flex items-center whitespace-nowrap min-w-0">
                                 <li class="text-[0.813rem] ps-[0.5rem]">
-                                    <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                    <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                     Ecommerce
-                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                     </a>
                                 </li>
-                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                     Order Details
                                 </li>
                             </ol>
@@ -53,7 +53,7 @@
                                                     </tr>
                                                 </thead>
                                                 <tbody>
-                                                    <tr class="border border-inherit border-solid dark:border-defaultborder/10">
+                                                    <tr class="border border-inherit border-solid">
                                                             <td>
                                                                 <div class="flex items-center">
                                                                     <div class="me-4">
@@ -66,10 +66,10 @@
                                                                             <a href="javascript:void(0);">Orange Watch Series 4</a>
                                                                         </div>
                                                                         <div class="mb-1">
-                                                                            <span class="me-1">Dial Size:</span><span class="text-[#8c9097] dark:text-white/50">44mm</span>
+                                                                            <span class="me-1">Dial Size:</span><span class="text-[#8c9097]">44mm</span>
                                                                         </div>
                                                                         <div class="mb-1">
-                                                                            <span class="me-1">Color:</span><span class="text-[#8c9097] dark:text-white/50">Metallic Black</span>
+                                                                            <span class="me-1">Color:</span><span class="text-[#8c9097]">Metallic Black</span>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -81,7 +81,7 @@
                                                             <td>1</td>
                                                             <td>$1,249</td>
                                                         </tr>
-                                                        <tr class="border border-inherit border-solid dark:border-defaultborder/10">
+                                                        <tr class="border border-inherit border-solid">
                                                             <td>
                                                                 <div class="flex items-center">
                                                                     <div class="me-4">
@@ -94,10 +94,10 @@
                                                                             <a href="javascript:void(0);">DapZem &amp; Co Sweat Shirt</a>
                                                                         </div>
                                                                         <div class="mb-1">
-                                                                            <span class="me-1">Size:</span><span class="text-[#8c9097] dark:text-white/50">Large</span>
+                                                                            <span class="me-1">Size:</span><span class="text-[#8c9097]">Large</span>
                                                                         </div>
                                                                         <div class="mb-1">
-                                                                            <span class="me-1">Color:</span><span class="text-[#8c9097] dark:text-white/50">Grey<span class="badge bg-success text-white ms-3">In Offer</span></span>
+                                                                            <span class="me-1">Color:</span><span class="text-[#8c9097]">Grey<span class="badge bg-success text-white ms-3">In Offer</span></span>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -109,7 +109,7 @@
                                                         <td>2</td>
                                                         <td>$998</td>
                                                     </tr>
-                                                    <tr class="border border-inherit border-solid dark:border-defaultborder/10">
+                                                    <tr class="border border-inherit border-solid">
                                                         <td>
                                                             <div class="flex items-center">
                                                                 <div class="me-4">
@@ -122,10 +122,10 @@
                                                                         <a href="javascript:void(0);">Denim Corporation Sweat Shirt</a>
                                                                     </div>
                                                                     <div class="mb-1">
-                                                                        <span class="me-1">Size:</span><span class="text-[#8c9097] dark:text-white/50">Large</span>
+                                                                        <span class="me-1">Size:</span><span class="text-[#8c9097]">Large</span>
                                                                     </div>
                                                                     <div class="mb-1">
-                                                                        <span class="me-1">Color:</span><span class="text-[#8c9097] dark:text-white/50">Orange<span class="badge text-white bg-info ms-3">32% Off</span></span>
+                                                                        <span class="me-1">Color:</span><span class="text-[#8c9097]">Orange<span class="badge text-white bg-info ms-3">32% Off</span></span>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -137,7 +137,7 @@
                                                     <td>1</td>
                                                     <td>$799</td>
                                                     </tr>
-                                                    <tr class="border border-inherit border-solid dark:border-defaultborder/10">
+                                                    <tr class="border border-inherit border-solid">
                                                         <td colspan="2"></td>
                                                         <td colspan="2">
                                                             <div class="font-semibold">Total Items :</div>
@@ -146,7 +146,7 @@
                                                             04
                                                         </td>
                                                     </tr>
-                                                    <tr class="border border-inherit border-solid dark:border-defaultborder/10">
+                                                    <tr class="border border-inherit border-solid">
                                                         <td colspan="2"></td>
                                                         <td colspan="2">
                                                             <div class="font-semibold">Sub Total :</div>
@@ -155,7 +155,7 @@
                                                             $3,100
                                                         </td>
                                                     </tr>
-                                                    <tr class="border border-inherit border-solid dark:border-defaultborder/10">
+                                                    <tr class="border border-inherit border-solid">
                                                         <td colspan="2"></td>
                                                         <td colspan="2">
                                                             <div class="font-semibold">Applied Coupon :</div>
@@ -164,7 +164,7 @@
                                                             <span class="badge bg-success/10 text-success">SPKFIR</span>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border border-inherit border-solid dark:border-defaultborder/10">
+                                                    <tr class="border border-inherit border-solid">
                                                         <td colspan="2"></td>
                                                         <td colspan="2">
                                                             <div class="font-semibold">Delivery Fees :</div>
@@ -173,7 +173,7 @@
                                                             <span class="text-danger">+$29</span>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border border-inherit border-solid dark:border-defaultborder/10">
+                                                    <tr class="border border-inherit border-solid">
                                                         <td colspan="2"></td>
                                                         <td colspan="2">
                                                             <div class="font-semibold">Total Saved :</div>
@@ -211,7 +211,7 @@
                                         </div>
                                     </div>
                                     <div class="box-body !p-0">
-                                        <div class="flex items-center border-b border-dashed dark:border-defaultborder/10 p-3 flex-wrap">
+                                        <div class="flex items-center border-b border-dashed p-3 flex-wrap">
                                             <div class="me-2">
                                                 <span class="avatar avatar-lg avatar-rounded">
                                                     <img src="{{asset('build/assets/images/faces/9.jpg')}}" alt="">
@@ -219,50 +219,50 @@
                                             </div>
                                             <div class="flex-grow">
                                                 <p class="mb-0">Json Taylor</p>
-                                                <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.75rem]">jsontaylor2135@gmail.com</p>
+                                                <p class="mb-0 text-[#8c9097] text-[0.75rem]">jsontaylor2135@gmail.com</p>
                                             </div>
                                             <div>
                                                 <span class="badge bg-primary/10 text-primary">Prime User</span>
                                             </div>
                                         </div>
-                                        <div class="p-4 border-b border-dashed dark:border-defaultborder/10">
+                                        <div class="p-4 border-b border-dashed">
                                             <div class="flex items-center justify-between mb-4">
                                                 <span class="text-[0.875rem] font-semibold">Delivery address :</span>
                                                 <button aria-label="button" type="button" class="ti-btn bg-primary ti-btn-sm text-white"><i class="ri-pencil-line"></i></button>
                                             </div>
-                                            <p class="mb-2 text-[#8c9097] dark:text-white/50"><span class="font-semibold text-defaulttextcolor dark:text-defaulttextcolor/70">Landmark : </span>MIG-1-11</p>
-                                            <p class="mb-2 text-[#8c9097] dark:text-white/50"><span class="font-semibold text-defaulttextcolor dark:text-defaulttextcolor/70">Street : </span>Monroe Street</p>
-                                            <p class="mb-2 text-[#8c9097] dark:text-white/50"><span class="font-semibold text-defaulttextcolor dark:text-defaulttextcolor/70">City : </span>Georgetown</p>
-                                            <p class="mb-2 text-[#8c9097] dark:text-white/50"><span class="font-semibold text-defaulttextcolor dark:text-defaulttextcolor/70">State : </span>Washington,D.C</p>
-                                            <p class="mb-2 text-[#8c9097] dark:text-white/50"><span class="font-semibold text-defaulttextcolor dark:text-defaulttextcolor/70">Country : </span>USA</p>
-                                            <p class="mb-0 text-[#8c9097] dark:text-white/50"><span class="font-semibold text-defaulttextcolor dark:text-defaulttextcolor/70">Zipcode : </span>200071</p>
+                                            <p class="mb-2 text-[#8c9097]"><span class="font-semibold text-defaulttextcolor">Landmark : </span>MIG-1-11</p>
+                                            <p class="mb-2 text-[#8c9097]"><span class="font-semibold text-defaulttextcolor">Street : </span>Monroe Street</p>
+                                            <p class="mb-2 text-[#8c9097]"><span class="font-semibold text-defaulttextcolor">City : </span>Georgetown</p>
+                                            <p class="mb-2 text-[#8c9097]"><span class="font-semibold text-defaulttextcolor">State : </span>Washington,D.C</p>
+                                            <p class="mb-2 text-[#8c9097]"><span class="font-semibold text-defaulttextcolor">Country : </span>USA</p>
+                                            <p class="mb-0 text-[#8c9097]"><span class="font-semibold text-defaulttextcolor">Zipcode : </span>200071</p>
                                         </div>
-                                        <div class="p-4 border-b border-dashed dark:border-defaultborder/10">
+                                        <div class="p-4 border-b border-dashed">
                                             <div class="mb-4">
                                                 <span class="text-[0.875rem] font-semibold">Send updates to :</span>
                                             </div>
-                                            <p class="mb-2 text-[#8c9097] dark:text-white/50">
+                                            <p class="mb-2 text-[#8c9097]">
                                                 <span class="font-semibold text-default">Phone : </span>
                                                 (555)-0123-1210
                                             </p>
-                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">
+                                            <p class="mb-0 text-[#8c9097]">
                                                 <span class="font-semibold text-default">Email : </span>
                                                 jsontaylor2134@gmail.com
                                             </p>
                                         </div>
-                                        <div class="p-4 border-b border-dashed dark:border-defaultborder/10">
+                                        <div class="p-4 border-b border-dashed">
                                             <div class="mb-4">
                                                 <span class="text-[0.875rem] font-semibold">Order Summary</span>
                                             </div>
-                                            <p class="mb-2 text-[#8c9097] dark:text-white/50">
+                                            <p class="mb-2 text-[#8c9097]">
                                                 <span class="font-semibold text-default">Ordered Date</span>
                                                 24,Nov 2022
                                             </p>
-                                            <p class="mb-2 text-[#8c9097] dark:text-white/50">
+                                            <p class="mb-2 text-[#8c9097]">
                                                 <span class="font-semibold text-default">Ordered Time :</span>
                                                 11:47AM
                                             </p>
-                                            <p class="mb-0 text-[#8c9097] dark:text-white/50">
+                                            <p class="mb-0 text-[#8c9097]">
                                                 <span class="font-semibold text-default">Payment Interface :</span>
                                                 UPI
                                             </p>
@@ -303,7 +303,7 @@
                                                     <div class="accordion-body !pt-0 !ps-8">
                                                         <div class="text-[0.6875rem]">
                                                             <p class="mb-0 ps-4">Order placed successfully by <a href="javascript:void(0);" class="font-weight-semibold text-primary">Sansa Taylor</a></p>
-                                                            <span class="text-[#8c9097] dark:text-white/50 opacity-[0.5] ps-4">Nov 03, 2022, 15:36</span>
+                                                            <span class="text-[#8c9097] opacity-[0.5] ps-4">Nov 03, 2022, 15:36</span>
                                                         </div>
                                                         </div>
                                                     </div>
@@ -329,7 +329,7 @@
                                                     <div class="accordion-body !pt-0 !ps-8">
                                                         <div class="text-[0.6875rem]">
                                                             <p class="mb-0 ps-4">Your order has been picked up by <span class="font-weight-semibold">Smart Good Services</span></p>
-                                                            <span class="text-[#8c9097] dark:text-white/50 opacity-[0.5] ps-4">Nov 03, 2022, 15:36</span>
+                                                            <span class="text-[#8c9097] opacity-[0.5] ps-4">Nov 03, 2022, 15:36</span>
                                                         </div>
                                                         </div>
                                                     </div>
@@ -354,15 +354,15 @@
                                                     <div class="accordion-body !pt-0 !ps-8">
                                                         <div class="text-[0.6875rem] mb-4 ps-4">
                                                             <p class="mb-0">Arrived USA <span class="font-weight-semibold">SGS Warehouse</span></p>
-                                                            <span class="text-[#8c9097] dark:text-white/50 opacity-[0.5]">Nov 03, 2022, 15:36</span>
+                                                            <span class="text-[#8c9097] opacity-[0.5]">Nov 03, 2022, 15:36</span>
                                                         </div>
                                                         <div class="text-[0.6875rem] mb-4 ps-4">
                                                             <p class="mb-0">picked up by <span class="font-weight-semibold">SGS Agent</span> and on the way to Hyderabad</p>
-                                                            <span class="text-[#8c9097] dark:text-white/50 opacity-[0.5]">Nov 03, 2022, 15:36</span>
+                                                            <span class="text-[#8c9097] opacity-[0.5]">Nov 03, 2022, 15:36</span>
                                                         </div>
                                                         <div class="text-[0.6875rem] ps-4">
                                                             <p class="mb-0">Arrived in Hyderabad and expected Delivery is <span class="font-weight-semibold">Apr 16, 2022</span> </p>
-                                                            <span class="text-[#8c9097] dark:text-white/50 opacity-[0.5]">Nov 03, 2022, 15:36</span>
+                                                            <span class="text-[#8c9097] opacity-[0.5]">Nov 03, 2022, 15:36</span>
                                                         </div>
                                                         </div>
                                                     </div>
@@ -375,7 +375,7 @@
                                                         </div>
                                                         <div class="flex-grow">
                                                             <p class="font-semibold mb-0 text-[0.875rem]">Out For Delivery</p>
-                                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">Nov 03, 15:10 (expected)</span>
+                                                            <span class="text-[#8c9097] text-[0.75rem]">Nov 03, 15:10 (expected)</span>
                                                         </div>
                                                     </div>
                                                     </a>
@@ -385,7 +385,7 @@
                                                         <div class="accordion-body !pt-0 !ps-8">
                                                             <div class="text-[0.6875rem]">
                                                                 <p class="mb-0 ps-4">Your order is out for devlivery</p>
-                                                                <span class="text-[#8c9097] dark:text-white/50 opacity-[0.5] ps-4">Nov 03, 2022, 15:36 (expected)</span>
+                                                                <span class="text-[#8c9097] opacity-[0.5] ps-4">Nov 03, 2022, 15:36 (expected)</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -398,7 +398,7 @@
                                                             </div>
                                                             <div class="flex-grow">
                                                                 <p class="font-semibold mb-0 text-[0.875rem]">Delivered</p>
-                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Nov 03, 18:42</span>
+                                                                <span class="text-[0.75rem] text-[#8c9097]">Nov 03, 18:42</span>
                                                             </div>
                                                         </div>
                                                     </a>

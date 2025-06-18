@@ -12,16 +12,16 @@
                       <!-- Page Header -->
                       <div class="block justify-between page-header md:flex">
                           <div>
-                              <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Button Groups</h3>
+                              <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Button Groups</h3>
                           </div>
                           <ol class="flex items-center whitespace-nowrap min-w-0">
                               <li class="text-[0.813rem] ps-[0.5rem]">
-                                <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                   Ui Elements
-                                  <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                  <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                 </a>
                               </li>
-                              <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                              <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                   Button Groups
                               </li>
                           </ol>
@@ -43,15 +43,15 @@
                             <div class="box-body">
                                 <div class="inline-flex rounded-md shadow-sm me-5">
                                     <button type="button"
-                                        class="ti-btn-group py-3 px-4 border bg-white dark:bg-bodybg text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50">
+                                        class="ti-btn-group py-3 px-4 border bg-white text-gray-700 hover:bg-gray-50 focus:ring-primary">
                                         Year
                                     </button>
                                     <button type="button"
-                                        class="ti-btn-group py-3 px-4 border bg-white dark:bg-bodybg text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50">
+                                        class="ti-btn-group py-3 px-4 border bg-white text-gray-700 hover:bg-gray-50 focus:ring-primary">
                                         Month
                                     </button>
                                     <button type="button"
-                                        class="ti-btn-group py-3 px-4 border bg-white dark:bg-bodybg text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50">
+                                        class="ti-btn-group py-3 px-4 border bg-white text-gray-700 hover:bg-gray-50 focus:ring-primary">
                                         Date
                                     </button>
                                 </div>
@@ -60,15 +60,15 @@
                                 <!-- Prism Code -->
                                 <pre class="language-html"><code class="language-html">&lt;div class="inline-flex rounded-md shadow-sm me-5"&gt;
     &lt;button type="button"
-        class="ti-btn-group py-3 px-4 border bg-white dark:bg-bodybg text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50"&gt;
+        class="ti-btn-group py-3 px-4 border bg-white text-gray-700 hover:bg-gray-50 focus:ring-primary"&gt;
         Year
     &lt;/button&gt;
     &lt;button type="button"
-        class="ti-btn-group py-3 px-4 border bg-white dark:bg-bodybg text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50"&gt;
+        class="ti-btn-group py-3 px-4 border bg-white text-gray-700 hover:bg-gray-50 focus:ring-primary"&gt;
         Month
     &lt;/button&gt;
     &lt;button type="button"
-        class="ti-btn-group py-3 px-4 border bg-white dark:bg-bodybg text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50"&gt;
+        class="ti-btn-group py-3 px-4 border bg-white text-gray-700 hover:bg-gray-50 focus:ring-primary"&gt;
         Date
     &lt;/button&gt;
 &lt;/div&gt;</code></pre>
@@ -117,15 +117,15 @@
                             <div class="box-body">
                                 <div class="flex flex-col md:inline-flex md:flex-row rounded-sm shadow-sm">
                                     <button type="button"
-                                        class="py-2 px-3 inline-flex justify-center items-center gap-2 -mt-px -ms-px first:rounded-t-sm last:rounded-b-sm sm:first:rounded-s-sm sm:mt-0 sm:first:ms-0 sm:first:rounded-se-none sm:last:rounded-es-none sm:last:rounded-e-sm border font-medium bg-white dark:bg-bodybg text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-0 focus:ring-primary transition-all text-sm dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50">
+                                        class="py-2 px-3 inline-flex justify-center items-center gap-2 -mt-px -ms-px first:rounded-t-sm last:rounded-b-sm sm:first:rounded-s-sm sm:mt-0 sm:first:ms-0 sm:first:rounded-se-none sm:last:rounded-es-none sm:last:rounded-e-sm border font-medium bg-white text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-0 focus:ring-primary transition-all text-sm">
                                         Item 1
                                     </button>
                                     <button type="button"
-                                        class="py-2 px-3 inline-flex justify-center items-center gap-2 -mt-px -ms-px first:rounded-t-sm last:rounded-b-sm sm:first:rounded-s-sm sm:mt-0 sm:first:ms-0 sm:first:rounded-se-none sm:last:rounded-es-none sm:last:rounded-e-sm border font-medium bg-white dark:bg-bodybg text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-0 focus:ring-primary transition-all text-sm dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50">
+                                        class="py-2 px-3 inline-flex justify-center items-center gap-2 -mt-px -ms-px first:rounded-t-sm last:rounded-b-sm sm:first:rounded-s-sm sm:mt-0 sm:first:ms-0 sm:first:rounded-se-none sm:last:rounded-es-none sm:last:rounded-e-sm border font-medium bg-white text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-0 focus:ring-primary transition-all text-sm">
                                         Item 2
                                     </button>
                                     <button type="button"
-                                        class="py-2 px-3 inline-flex justify-center items-center gap-2 -mt-px -ms-px first:rounded-t-sm last:rounded-b-sm sm:first:rounded-s-sm sm:mt-0 sm:first:ms-0 sm:first:rounded-se-none sm:last:rounded-es-none sm:last:rounded-e-sm border font-medium bg-white dark:bg-bodybg text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-0 focus:ring-primary transition-all text-sm dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50">
+                                        class="py-2 px-3 inline-flex justify-center items-center gap-2 -mt-px -ms-px first:rounded-t-sm last:rounded-b-sm sm:first:rounded-s-sm sm:mt-0 sm:first:ms-0 sm:first:rounded-se-none sm:last:rounded-es-none sm:last:rounded-e-sm border font-medium bg-white text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-0 focus:ring-primary transition-all text-sm">
                                         Item 3
                                     </button>
                                 </div>
@@ -134,15 +134,15 @@
                                 <!-- Prism Code -->
                                 <pre class="language-html"><code class="language-html">&lt;div class="flex flex-col md:inline-flex md:flex-row rounded-sm shadow-sm"&gt;
     &lt;button type="button"
-        class="py-2 px-3 inline-flex justify-center items-center gap-2 -mt-px -ms-px first:rounded-t-sm last:rounded-b-sm sm:first:rounded-s-sm sm:mt-0 sm:first:ms-0 sm:first:rounded-se-none sm:last:rounded-es-none sm:last:rounded-e-sm border font-medium bg-white dark:bg-bodybg text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-0 focus:ring-primary transition-all text-sm dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50"&gt;
+        class="py-2 px-3 inline-flex justify-center items-center gap-2 -mt-px -ms-px first:rounded-t-sm last:rounded-b-sm sm:first:rounded-s-sm sm:mt-0 sm:first:ms-0 sm:first:rounded-se-none sm:last:rounded-es-none sm:last:rounded-e-sm border font-medium bg-white text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-0 focus:ring-primary transition-all text-sm"&gt;
         Item 1
     &lt;/button&gt;
     &lt;button type="button"
-        class="py-2 px-3 inline-flex justify-center items-center gap-2 -mt-px -ms-px first:rounded-t-sm last:rounded-b-sm sm:first:rounded-s-sm sm:mt-0 sm:first:ms-0 sm:first:rounded-se-none sm:last:rounded-es-none sm:last:rounded-e-sm border font-medium bg-white dark:bg-bodybg text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-0 focus:ring-primary transition-all text-sm dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50"&gt;
+        class="py-2 px-3 inline-flex justify-center items-center gap-2 -mt-px -ms-px first:rounded-t-sm last:rounded-b-sm sm:first:rounded-s-sm sm:mt-0 sm:first:ms-0 sm:first:rounded-se-none sm:last:rounded-es-none sm:last:rounded-e-sm border font-medium bg-white text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-0 focus:ring-primary transition-all text-sm"&gt;
         Item 2
     &lt;/button&gt;
     &lt;button type="button"
-        class="py-2 px-3 inline-flex justify-center items-center gap-2 -mt-px -ms-px first:rounded-t-sm last:rounded-b-sm sm:first:rounded-s-sm sm:mt-0 sm:first:ms-0 sm:first:rounded-se-none sm:last:rounded-es-none sm:last:rounded-e-sm border font-medium bg-white dark:bg-bodybg text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-0 focus:ring-primary transition-all text-sm dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50"&gt;
+        class="py-2 px-3 inline-flex justify-center items-center gap-2 -mt-px -ms-px first:rounded-t-sm last:rounded-b-sm sm:first:rounded-s-sm sm:mt-0 sm:first:ms-0 sm:first:rounded-se-none sm:last:rounded-es-none sm:last:rounded-e-sm border font-medium bg-white text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-0 focus:ring-primary transition-all text-sm"&gt;
         Item 3
     &lt;/button&gt;
 &lt;/div&gt;</code></pre>
@@ -168,45 +168,45 @@
                                     <div class="box-body space-y-2">
                                         <div class="inline-flex rounded-md shadow-sm me-6">
                                             <button type="button"
-                                                class="ti-btn-group border py-3 px-4 bg-white dark:bg-bodybg text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50">
+                                                class="ti-btn-group border py-3 px-4 bg-white text-gray-700 hover:bg-gray-50 focus:ring-primary">
                                                 Small
                                             </button>
                                             <button type="button"
-                                                class="ti-btn-group border py-3 px-4 bg-white dark:bg-bodybg text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50">
+                                                class="ti-btn-group border py-3 px-4 bg-white text-gray-700 hover:bg-gray-50 focus:ring-primary">
                                                 Small
                                             </button>
                                             <button type="button"
-                                                class="ti-btn-group border py-3 px-4 bg-white dark:bg-bodybg text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50">
+                                                class="ti-btn-group border py-3 px-4 bg-white text-gray-700 hover:bg-gray-50 focus:ring-primary">
                                                 Small
                                             </button>
                                         </div>
 
                                         <div class="inline-flex rounded-md shadow-sm me-6">
                                             <button type="button"
-                                                class="ti-btn-group bg-white dark:bg-bodybg border text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50 sm:p-4 p-3">
+                                                class="ti-btn-group bg-white border text-gray-700 hover:bg-gray-50 focus:ring-primary sm:p-4 p-3">
                                                 Default
                                             </button>
                                             <button type="button"
-                                                class="ti-btn-group bg-white dark:bg-bodybg border text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50 sm:p-4 p-3">
+                                                class="ti-btn-group bg-white border text-gray-700 hover:bg-gray-50 focus:ring-primary sm:p-4 p-3">
                                                 Default
                                             </button>
                                             <button type="button"
-                                                class="ti-btn-group bg-white dark:bg-bodybg border text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50 sm:p-4 p-3">
+                                                class="ti-btn-group bg-white border text-gray-700 hover:bg-gray-50 focus:ring-primary sm:p-4 p-3">
                                                 Default
                                             </button>
                                         </div>
 
                                         <div class="inline-flex rounded-md shadow-sm">
                                             <button type="button"
-                                                class="ti-btn-group bg-white dark:bg-bodybg border text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50 p-[1.3125rem]">
+                                                class="ti-btn-group bg-white border text-gray-700 hover:bg-gray-50 focus:ring-primary p-[1.3125rem]">
                                                 Large
                                             </button>
                                             <button type="button"
-                                                class="ti-btn-group bg-white dark:bg-bodybg border text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50 p-[1.3125rem]">
+                                                class="ti-btn-group bg-white border text-gray-700 hover:bg-gray-50 focus:ring-primary p-[1.3125rem]">
                                                 Large
                                             </button>
                                             <button type="button"
-                                                class="ti-btn-group bg-white dark:bg-bodybg border text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50 p-[1.3125rem]">
+                                                class="ti-btn-group bg-white border text-gray-700 hover:bg-gray-50 focus:ring-primary p-[1.3125rem]">
                                                 Large
                                             </button>
                                         </div>
@@ -215,45 +215,45 @@
                                         <!-- Prism Code -->
                                         <pre class="language-html"><code class="language-html">&lt;div class="inline-flex rounded-md shadow-sm me-6"&gt;
     &lt;button type="button"
-        class="ti-btn-group border py-3 px-4 bg-white dark:bg-bodybg text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50"&gt;
+        class="ti-btn-group border py-3 px-4 bg-white text-gray-700 hover:bg-gray-50 focus:ring-primary"&gt;
         Small
     &lt;/button&gt;
     &lt;button type="button"
-        class="ti-btn-group border py-3 px-4 bg-white dark:bg-bodybg text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50"&gt;
+        class="ti-btn-group border py-3 px-4 bg-white text-gray-700 hover:bg-gray-50 focus:ring-primary"&gt;
         Small
     &lt;/button&gt;
     &lt;button type="button"
-        class="ti-btn-group border py-3 px-4 bg-white dark:bg-bodybg text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50"&gt;
+        class="ti-btn-group border py-3 px-4 bg-white text-gray-700 hover:bg-gray-50 focus:ring-primary"&gt;
         Small
     &lt;/button&gt;
 &lt;/div&gt;
 
 &lt;div class="inline-flex rounded-md shadow-sm me-6"&gt;
     &lt;button type="button"
-        class="ti-btn-group bg-white dark:bg-bodybg border text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50 sm:p-4 p-3"&gt;
+        class="ti-btn-group bg-white border text-gray-700 hover:bg-gray-50 focus:ring-primary sm:p-4 p-3"&gt;
         Default
     &lt;/button&gt;
     &lt;button type="button"
-        class="ti-btn-group bg-white dark:bg-bodybg border text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50 sm:p-4 p-3"&gt;
+        class="ti-btn-group bg-white border text-gray-700 hover:bg-gray-50 focus:ring-primary sm:p-4 p-3"&gt;
         Default
     &lt;/button&gt;
     &lt;button type="button"
-        class="ti-btn-group bg-white dark:bg-bodybg border text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50 sm:p-4 p-3"&gt;
+        class="ti-btn-group bg-white border text-gray-700 hover:bg-gray-50 focus:ring-primary sm:p-4 p-3"&gt;
         Default
     &lt;/button&gt;
 &lt;/div&gt;
 
 &lt;div class="inline-flex rounded-md shadow-sm"&gt;
     &lt;button type="button"
-        class="ti-btn-group bg-white dark:bg-bodybg border text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50 p-[1.3125rem]"&gt;
+        class="ti-btn-group bg-white border text-gray-700 hover:bg-gray-50 focus:ring-primary p-[1.3125rem]"&gt;
         Large
     &lt;/button&gt;
     &lt;button type="button"
-        class="ti-btn-group bg-white dark:bg-bodybg border text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50 p-[1.3125rem]"&gt;
+        class="ti-btn-group bg-white border text-gray-700 hover:bg-gray-50 focus:ring-primary p-[1.3125rem]"&gt;
         Large
     &lt;/button&gt;
     &lt;button type="button"
-        class="ti-btn-group bg-white dark:bg-bodybg border text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50 p-[1.3125rem]"&gt;
+        class="ti-btn-group bg-white border text-gray-700 hover:bg-gray-50 focus:ring-primary p-[1.3125rem]"&gt;
         Large
     &lt;/button&gt;
 &lt;/div&gt;</code></pre>
@@ -277,15 +277,15 @@
                                     <div class="box-body">
                                         <div class="max-w-xs flex flex-col rounded-sm shadow-sm">
                                             <button type="button"
-                                                class="focus-visible:outline-none focus:!outline-none py-2 px-3 inline-flex justify-center items-center gap-2 rounded-t-md border font-medium bg-white dark:bg-bodybg text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:ring-0 focus:ring-primary transition-all text-sm dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50">
+                                                class="focus-visible:outline-none focus:!outline-none py-2 px-3 inline-flex justify-center items-center gap-2 rounded-t-md border font-medium bg-white text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:ring-0 focus:ring-primary transition-all text-sm">
                                                 Item 1
                                             </button>
                                             <button type="button"
-                                                class="-mt-px focus-visible:outline-none focus:!outline-none py-2 px-3 inline-flex justify-center items-center gap-2 border font-medium bg-white dark:bg-bodybg text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:ring-0 focus:ring-primary transition-all text-sm dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50">
+                                                class="-mt-px focus-visible:outline-none focus:!outline-none py-2 px-3 inline-flex justify-center items-center gap-2 border font-medium bg-white text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:ring-0 focus:ring-primary transition-all text-sm">
                                                 Item 2
                                             </button>
                                             <button type="button"
-                                                class="-mt-px focus-visible:outline-none focus:!outline-none py-2 px-3 inline-flex justify-center items-center gap-2 rounded-b-md border font-medium bg-white dark:bg-bodybg text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:ring-0 focus:ring-primary transition-all text-sm dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50">
+                                                class="-mt-px focus-visible:outline-none focus:!outline-none py-2 px-3 inline-flex justify-center items-center gap-2 rounded-b-md border font-medium bg-white text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:ring-0 focus:ring-primary transition-all text-sm">
                                                 Item 3
                                             </button>
                                         </div>
@@ -294,15 +294,15 @@
                                         <!-- Prism Code -->
                                         <pre class="language-html"><code class="language-html">&lt;div class="max-w-xs flex flex-col rounded-sm shadow-sm"&gt;
 &lt;button type="button"
-    class="py-2 px-3 inline-flex justify-center items-center gap-2 rounded-t-md border font-medium bg-white dark:bg-bodybg text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-0 focus:ring-primary transition-all text-sm dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50"&gt;
+    class="py-2 px-3 inline-flex justify-center items-center gap-2 rounded-t-md border font-medium bg-white text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-0 focus:ring-primary transition-all text-sm"&gt;
     Item 1
 &lt;/button&gt;
 &lt;button type="button"
-    class="-mt-px py-2 px-3 inline-flex justify-center items-center gap-2 border font-medium bg-white dark:bg-bodybg text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-0 focus:ring-primary transition-all text-sm dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50"&gt;
+    class="-mt-px py-2 px-3 inline-flex justify-center items-center gap-2 border font-medium bg-white text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-0 focus:ring-primary transition-all text-sm"&gt;
     Item 2
 &lt;/button&gt;
 &lt;button type="button"
-    class="-mt-px py-2 px-3 inline-flex justify-center items-center gap-2 rounded-b-md border font-medium bg-white dark:bg-bodybg text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-0 focus:ring-primary transition-all text-sm dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50"&gt;
+    class="-mt-px py-2 px-3 inline-flex justify-center items-center gap-2 rounded-b-md border font-medium bg-white text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-0 focus:ring-primary transition-all text-sm"&gt;
     Item 3
 &lt;/button&gt;
 &lt;/div&gt;</code></pre>
@@ -322,79 +322,79 @@
                                 </div>
                                 <div class="box-body">
                                   <div class="inline-flex rounded-md shadow-sm mb-5 me-5">
-                                    <button type="button" class="ti-btn-group py-3 px-4 border bg-white dark:bg-bodybg text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50">
+                                    <button type="button" class="ti-btn-group py-3 px-4 border bg-white text-gray-700 hover:bg-gray-50 focus:ring-primary">
                                       Year
                                     </button>
-                                    <button type="button" class="ti-btn-group py-3 px-4 border bg-white dark:bg-bodybg text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50">
+                                    <button type="button" class="ti-btn-group py-3 px-4 border bg-white text-gray-700 hover:bg-gray-50 focus:ring-primary">
                                       Month
                                     </button>
-                                    <button type="button" class="ti-btn-group py-3 px-4 border bg-white dark:bg-bodybg text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50">
+                                    <button type="button" class="ti-btn-group py-3 px-4 border bg-white text-gray-700 hover:bg-gray-50 focus:ring-primary">
                                       Date
                                     </button>
                                   </div>
                                   <div class="inline-flex rounded-md shadow-sm mb-5 me-5">
-                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-primary-full border-white/10 dark:border-white/10">
+                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-primary-full border-white/10">
                                       Year
                                     </button>
-                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-primary-full border-white/10 dark:border-white/10">
+                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-primary-full border-white/10">
                                       Month
                                     </button>
-                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-primary-full border-white/10 dark:border-white/10">
+                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-primary-full border-white/10">
                                       Date
                                     </button>
                                   </div>
                                   <div class="inline-flex rounded-md shadow-sm mb-5 me-5">
-                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-secondary-full border-white/10 dark:border-white/10">
+                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-secondary-full border-white/10">
                                       Year
                                     </button>
-                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-secondary-full border-white/10 dark:border-white/10">
+                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-secondary-full border-white/10">
                                       Month
                                     </button>
-                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-secondary-full border-white/10 dark:border-white/10">
+                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-secondary-full border-white/10">
                                       Date
                                     </button>
                                   </div>
                                   <div class="inline-flex rounded-md shadow-sm mb-5 me-5">
-                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-warning-full border-white/10 dark:border-white/10">
+                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-warning-full border-white/10">
                                       Year
                                     </button>
-                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-warning-full border-white/10 dark:border-white/10">
+                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-warning-full border-white/10">
                                       Month
                                     </button>
-                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-warning-full border-white/10 dark:border-white/10">
+                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-warning-full border-white/10">
                                       Date
                                     </button>
                                   </div>
                                   <div class="inline-flex rounded-md shadow-sm mb-5 me-5">
-                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-danger-full border-white/10 dark:border-white/10">
+                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-danger-full border-white/10">
                                       Year
                                     </button>
-                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-danger-full border-white/10 dark:border-white/10">
+                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-danger-full border-white/10">
                                       Month
                                     </button>
-                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-danger-full border-white/10 dark:border-white/10">
+                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-danger-full border-white/10">
                                       Date
                                     </button>
                                   </div>
                                   <div class="inline-flex rounded-md shadow-sm mb-5 me-5">
-                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-info-full border-white/10 dark:border-white/10">
+                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-info-full border-white/10">
                                       Year
                                     </button>
-                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-info-full border-white/10 dark:border-white/10">
+                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-info-full border-white/10">
                                       Month
                                     </button>
-                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-info-full border-white/10 dark:border-white/10">
+                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-info-full border-white/10">
                                       Date
                                     </button>
                                   </div>
                                   <div class="inline-flex rounded-md shadow-sm mb-0">
-                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-success-full border-white/10 dark:border-white/10">
+                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-success-full border-white/10">
                                       Year
                                     </button>
-                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-success-full border-white/10 dark:border-white/10">
+                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-success-full border-white/10">
                                       Month
                                     </button>
-                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-success-full border-white/10 dark:border-white/10">
+                                    <button type="button" class="ti-btn-group py-3 px-4 border ti-btn-success-full border-white/10">
                                       Date
                                     </button>
                                   </div>
@@ -402,79 +402,79 @@
                                 <div class="box-footer hidden border-t-0">
                                     <!-- Prism Code -->
                                     <pre class="language-html"><code class="language-html">&lt;div class="inline-flex rounded-md shadow-sm mb-5 me-5"&gt;
-&lt;button type="button" class="ti-btn-group py-3 px-4 border bg-white dark:bg-bodybg text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50"&gt;
+&lt;button type="button" class="ti-btn-group py-3 px-4 border bg-white text-gray-700 hover:bg-gray-50 focus:ring-primary"&gt;
     Year
 &lt;/button&gt;
-&lt;button type="button" class="ti-btn-group py-3 px-4 border bg-white dark:bg-bodybg text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50"&gt;
+&lt;button type="button" class="ti-btn-group py-3 px-4 border bg-white text-gray-700 hover:bg-gray-50 focus:ring-primary"&gt;
     Month
 &lt;/button&gt;
-&lt;button type="button" class="ti-btn-group py-3 px-4 border bg-white dark:bg-bodybg text-gray-700 hover:bg-gray-50 focus:ring-primary dark:bg-bgdark dark:hover:bg-black/20 dark:border-white/10 dark:text-[#8c9097] dark:text-white/50"&gt;
+&lt;button type="button" class="ti-btn-group py-3 px-4 border bg-white text-gray-700 hover:bg-gray-50 focus:ring-primary"&gt;
     Date
 &lt;/button&gt;
 &lt;/div&gt;
 &lt;div class="inline-flex rounded-md shadow-sm mb-5 me-5"&gt;
-&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-primary-full border-white/10 dark:border-white/10"&gt;
+&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-primary-full border-white/10"&gt;
     Year
 &lt;/button&gt;
-&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-primary-full border-white/10 dark:border-white/10"&gt;
+&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-primary-full border-white/10"&gt;
     Month
 &lt;/button&gt;
-&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-primary-full border-white/10 dark:border-white/10"&gt;
+&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-primary-full border-white/10"&gt;
     Date
 &lt;/button&gt;
 &lt;/div&gt;
 &lt;div class="inline-flex rounded-md shadow-sm mb-5 me-5"&gt;
-&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-secondary-full border-white/10 dark:border-white/10"&gt;
+&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-secondary-full border-white/10"&gt;
     Year
 &lt;/button&gt;
-&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-secondary-full border-white/10 dark:border-white/10"&gt;
+&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-secondary-full border-white/10"&gt;
     Month
 &lt;/button&gt;
-&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-secondary-full border-white/10 dark:border-white/10"&gt;
+&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-secondary-full border-white/10"&gt;
     Date
 &lt;/button&gt;
 &lt;/div&gt;
 &lt;div class="inline-flex rounded-md shadow-sm mb-5 me-5"&gt;
-&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-warning-full border-white/10 dark:border-white/10"&gt;
+&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-warning-full border-white/10"&gt;
     Year
 &lt;/button&gt;
-&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-warning-full border-white/10 dark:border-white/10"&gt;
+&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-warning-full border-white/10"&gt;
     Month
 &lt;/button&gt;
-&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-warning-full border-white/10 dark:border-white/10"&gt;
+&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-warning-full border-white/10"&gt;
     Date
 &lt;/button&gt;
 &lt;/div&gt;
 &lt;div class="inline-flex rounded-md shadow-sm mb-5 me-5"&gt;
-&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-danger-full border-white/10 dark:border-white/10"&gt;
+&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-danger-full border-white/10"&gt;
     Year
 &lt;/button&gt;
-&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-danger-full border-white/10 dark:border-white/10"&gt;
+&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-danger-full border-white/10"&gt;
     Month
 &lt;/button&gt;
-&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-danger-full border-white/10 dark:border-white/10"&gt;
+&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-danger-full border-white/10"&gt;
     Date
 &lt;/button&gt;
 &lt;/div&gt;
 &lt;div class="inline-flex rounded-md shadow-sm mb-5 me-5"&gt;
-&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-info-full border-white/10 dark:border-white/10"&gt;
+&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-info-full border-white/10"&gt;
     Year
 &lt;/button&gt;
-&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-info-full border-white/10 dark:border-white/10"&gt;
+&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-info-full border-white/10"&gt;
     Month
 &lt;/button&gt;
-&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-info-full border-white/10 dark:border-white/10"&gt;
+&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-info-full border-white/10"&gt;
     Date
 &lt;/button&gt;
 &lt;/div&gt;
 &lt;div class="inline-flex rounded-md shadow-sm mb-0"&gt;
-&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-success-full border-white/10 dark:border-white/10"&gt;
+&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-success-full border-white/10"&gt;
     Year
 &lt;/button&gt;
-&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-success-full border-white/10 dark:border-white/10"&gt;
+&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-success-full border-white/10"&gt;
     Month
 &lt;/button&gt;
-&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-success-full border-white/10 dark:border-white/10"&gt;
+&lt;button type="button" class="ti-btn-group py-3 px-4 border ti-btn-success-full border-white/10"&gt;
     Date
 &lt;/button&gt;
 &lt;/div&gt;</code></pre>

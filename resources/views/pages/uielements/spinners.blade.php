@@ -12,16 +12,16 @@
                     <!-- Page Header -->
                     <div class="block justify-between page-header md:flex">
                         <div>
-                            <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Spinners</h3>
+                            <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Spinners</h3>
                         </div>
                         <ol class="flex items-center whitespace-nowrap min-w-0">
                             <li class="text-[0.813rem] ps-[0.5rem]">
-                              <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                              <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                Ui Elements
-                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                               </a>
                             </li>
-                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                 Spinners
                             </li>
                         </ol>
@@ -136,14 +136,14 @@
                                     </div>
                                 </div>
                                 <div class="box-body">
-                                    <div class="ti-spinner !bg-black dark:!bg-light !animate-ping !border-transparent ping-animation" role="status"
+                                    <div class="ti-spinner !bg-black !animate-ping !border-transparent ping-animation" role="status"
                                         aria-label="loading">
                                         <span class="sr-only">Loading...</span>
                                     </div>
                                 </div>
                                 <div class="box-footer hidden border-t-0">
 <!-- Prism Code -->
-<pre class="language-html"><code class="language-html">&lt;div class="ti-spinner !bg-black dark:!bg-light !animate-ping !border-transparent ping-animation" role="status"
+<pre class="language-html"><code class="language-html">&lt;div class="ti-spinner !bg-black !animate-ping !border-transparent ping-animation" role="status"
     aria-label="loading"&gt;
     &lt;span class="sr-only"&gt;Loading...&lt;/span&gt;
 &lt;/div&gt;</code></pre>
@@ -187,7 +187,7 @@
                                             aria-label="loading">
                                             <span class="sr-only">Loading...</span>
                                         </div>
-                                        <div class="ti-spinner !animate-ping !border-transparent  bg-black/20 dark:!bg-light dark:animate-ping ping-animation"
+                                        <div class="ti-spinner !animate-ping !border-transparent  bg-black/20 ping-animation"
                                             role="status" aria-label="loading">
                                             <span class="sr-only">Loading...</span>
                                         </div>
@@ -224,7 +224,7 @@
         aria-label="loading"&gt;
         &lt;span class="sr-only"&gt;Loading...&lt;/span&gt;
     &lt;/div&gt;
-    &lt;div class="ti-spinner !animate-ping !border-transparent  bg-black/20 dark:!bg-light dark:animate-ping ping-animation"
+    &lt;div class="ti-spinner !animate-ping !border-transparent  bg-black/20 ping-animation"
         role="status" aria-label="loading"&gt;
         &lt;span class="sr-only"&gt;Loading...&lt;/span&gt;
     &lt;/div&gt;
@@ -366,14 +366,14 @@
                                     <div class="ti-spinner !w-[1rem] !h-[1rem] me-6" role="status">
                                         <span class="sr-only">Loading...</span>
                                     </div>
-                                    <div class="ti-spinner !w-[1rem] !h-[1rem] !bg-black dark:!bg-white !animate-ping !border-transparent me-6 ping-animation" role="status">
+                                    <div class="ti-spinner !w-[1rem] !h-[1rem] !bg-black !animate-ping !border-transparent me-6 ping-animation" role="status">
                                         <span class="sr-only">Loading...</span>
                                     </div>
                                     <div class="ti-spinner me-6 w-12 h-12"
                                         role="status">
                                         <span class="sr-only">Loading...</span>
                                     </div>
-                                    <div class="ti-spinner !bg-black dark:!bg-white !animate-ping !border-transparent w-8 h-8 ping-animation" role="status">
+                                    <div class="ti-spinner !bg-black !animate-ping !border-transparent w-8 h-8 ping-animation" role="status">
                                         <span class="sr-only">Loading...</span>
                                     </div>
                                 </div>
@@ -384,14 +384,14 @@
         &lt;div class="ti-spinner !w-[1rem] !h-[1rem] me-6" role="status"&gt;
             &lt;span class="sr-only"&gt;Loading...&lt;/span&gt;
         &lt;/div&gt;
-        &lt;div class="ti-spinner !w-[1rem] !h-[1rem] !bg-black dark:!bg-white !animate-ping !border-transparent me-6" role="status"&gt;
+        &lt;div class="ti-spinner !w-[1rem] !h-[1rem] !bg-black !animate-ping !border-transparent me-6" role="status"&gt;
             &lt;span class="sr-only"&gt;Loading...&lt;/span&gt;
         &lt;/div&gt;
         &lt;div class="ti-spinner me-6 w-12 h-12"
             role="status"&gt;
             &lt;span class="sr-only"&gt;Loading...&lt;/span&gt;
         &lt;/div&gt;
-        &lt;div class="ti-spinner !bg-black dark:!bg-white !animate-ping !border-transparent w-8 h-8" role="status"&gt;
+        &lt;div class="ti-spinner !bg-black !animate-ping !border-transparent w-8 h-8" role="status"&gt;
             &lt;span class="sr-only"&gt;Loading...&lt;/span&gt;
         &lt;/div&gt;
     &lt;/div&gt;</code></pre>

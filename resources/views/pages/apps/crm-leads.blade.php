@@ -15,16 +15,16 @@
                         <!-- Page Header -->
                         <div class="block justify-between page-header md:flex">
                             <div>
-                                <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Leads</h3>
+                                <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Leads</h3>
                             </div>
                             <ol class="flex items-center whitespace-nowrap min-w-0">
                                 <li class="text-[0.813rem] ps-[0.5rem]">
-                                  <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                  <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                     CRM
-                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                   </a>
                                 </li>
-                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                     Leads
                                 </li>
                             </ol>
@@ -92,12 +92,12 @@
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>lisaconvay2981@gmail.com</span>
+                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>lisaconvay2981@gmail.com</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>1678-28993-223</span>
+                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>1678-28993-223</span>
                                                             </div>
                                                         </td>
                                                         <td>
@@ -148,12 +148,12 @@
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>jacobsmith289@gmail.com</span>
+                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>jacobsmith289@gmail.com</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>8122-2342-4453</span>
+                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>8122-2342-4453</span>
                                                             </div>
                                                         </td>
                                                         <td>
@@ -204,12 +204,12 @@
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>jakesully789@gmail.com</span>
+                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>jakesully789@gmail.com</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>1902-2001-3023</span>
+                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>1902-2001-3023</span>
                                                             </div>
                                                         </td>
                                                         <td>
@@ -259,12 +259,12 @@
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>kiaraadvain290@gmail.com</span>
+                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>kiaraadvain290@gmail.com</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>1603-2032-1123</span>
+                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>1603-2032-1123</span>
                                                             </div>
                                                         </td>
                                                         <td>
@@ -315,12 +315,12 @@
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>brendasimpson1993@gmail.com</span>
+                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>brendasimpson1993@gmail.com</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>1129-2302-1092</span>
+                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>1129-2302-1092</span>
                                                             </div>
                                                         </td>
                                                         <td>
@@ -371,12 +371,12 @@
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>jsontaylor345@gmail.com</span>
+                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>jsontaylor345@gmail.com</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>9923-2344-2003</span>
+                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>9923-2344-2003</span>
                                                             </div>
                                                         </td>
                                                         <td>
@@ -427,12 +427,12 @@
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>dwayenejhonson78@gmail.com</span>
+                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>dwayenejhonson78@gmail.com</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>7891-2093-1994</span>
+                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>7891-2093-1994</span>
                                                             </div>
                                                         </td>
                                                         <td>
@@ -483,12 +483,12 @@
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>emileyjackson678@gmail.com</span>
+                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>emileyjackson678@gmail.com</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>1899-2993-0923</span>
+                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>1899-2993-0923</span>
                                                             </div>
                                                         </td>
                                                         <td>
@@ -539,12 +539,12 @@
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>jessicamorris289@gmail.com</span>
+                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>jessicamorris289@gmail.com</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>1768-2332-4934</span>
+                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>1768-2332-4934</span>
                                                             </div>
                                                         </td>
                                                         <td>
@@ -595,12 +595,12 @@
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>michaeljeremy186@gmail.com</span>
+                                                                <span class="block mb-1"><i class="ri-mail-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>michaeljeremy186@gmail.com</span>
                                                             </div>
                                                         </td>
                                                         <td>
                                                             <div>
-                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] dark:text-white/50 inline-flex"></i>4788-7822-4786</span>
+                                                                <span class="block"><i class="ri-phone-line me-2 align-middle text-[.875rem] text-[#8c9097] inline-flex"></i>4788-7822-4786</span>
                                                             </div>
                                                         </td>
                                                         <td>

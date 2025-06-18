@@ -24,16 +24,16 @@
                 <!-- Page Header -->
                 <div class="block justify-between page-header md:flex">
                     <div>
-                        <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Create NFT</h3>
+                        <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Create NFT</h3>
                     </div>
                     <ol class="flex items-center whitespace-nowrap min-w-0">
                         <li class="text-[0.813rem] ps-[0.5rem]">
-                          <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                          <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                             NFT
-                            <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                            <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                           </a>
                         </li>
-                        <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                        <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                             Create NFT
                         </li>
                     </ol>
@@ -128,7 +128,7 @@
                                 </div>
                             </div>
                             <div class="box-body">
-                                <div class="box custom-box !mb-0 !shadow-none border dark:border-defaultborder/10">
+                                <div class="box custom-box !mb-0 !shadow-none border">
                                     <img src="{{asset('build/assets/images/nft-images/18.png')}}" class="box-img-top" alt="...">
                                     <div class="flex items-center justify-between nft-like-section w-full px-3">
                                         <div class="flex-fill">

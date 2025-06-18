@@ -10,16 +10,16 @@
                   <!-- Page Header -->
                   <div class="block justify-between page-header md:flex">
                       <div>
-                          <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Jobs</h3>
+                          <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Jobs</h3>
                       </div>
                       <ol class="flex items-center whitespace-nowrap min-w-0">
                           <li class="text-[0.813rem] ps-[0.5rem]">
-                            <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                            <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                               Dashboards
-                              <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible dark:text-white/50 rtl:rotate-180"></i>
+                              <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                             </a>
                           </li>
-                          <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                          <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                               Jobs
                           </li>
                       </ol>
@@ -49,7 +49,7 @@
                                                       <div class="text-danger font-semibold"><i
                                                           class="ri-arrow-down-s-fill me-1 align-middle"></i>-1.05%</div>
                                                   </div>
-                                                  <p class="mb-0 text-[0.625rem] opacity-[0.7] text-[#8c9097] dark:text-white/50 font-semibold">TOTAL EMPLOYERS</p>
+                                                  <p class="mb-0 text-[0.625rem] opacity-[0.7] text-[#8c9097] font-semibold">TOTAL EMPLOYERS</p>
                                               </div>
                                           </div>
                                       </div>
@@ -78,7 +78,7 @@
                                                       <div class="text-success font-semibold"><i
                                                           class="ri-arrow-up-s-fill me-1 align-middle"></i>+0.40%</div>
                                                   </div>
-                                                  <p class="mb-0 text-[0.625rem] opacity-[0.7] text-[#8c9097] dark:text-white/50  font-semibold">TOTAL CANDIDATES</p>
+                                                  <p class="mb-0 text-[0.625rem] opacity-[0.7] text-[#8c9097]  font-semibold">TOTAL CANDIDATES</p>
                                               </div>
                                           </div>
                                       </div>
@@ -105,7 +105,7 @@
                                                       <div class="text-success font-semibold"><i
                                                           class="ri-arrow-up-s-fill me-1 align-middle"></i>+0.82%</div>
                                                   </div>
-                                                  <p class="mb-0 text-[0.625rem] opacity-[0.7] text-[#8c9097] dark:text-white/50 font-semibold">TOTAL LOCATIONS</p>
+                                                  <p class="mb-0 text-[0.625rem] opacity-[0.7] text-[#8c9097] font-semibold">TOTAL LOCATIONS</p>
                                               </div>
                                           </div>
                                       </div>
@@ -143,7 +143,7 @@
                                                       <div class="text-success font-semibold"><i
                                                           class="ri-arrow-up-s-fill me-1 align-middle"></i>+0.21%</div>
                                                   </div>
-                                                  <p class="mb-0 text-[0.625rem] opacity-[0.7] text-[#8c9097] dark:text-white/50 font-semibold">TOTAL RECRUITERS</p>
+                                                  <p class="mb-0 text-[0.625rem] opacity-[0.7] text-[#8c9097] font-semibold">TOTAL RECRUITERS</p>
                                               </div>
                                           </div>
                                       </div>
@@ -169,7 +169,7 @@
                                                       <div class="text-danger font-semibold"><i
                                                           class="ri-arrow-down-s-fill me-1 align-middle"></i>-0.153%</div>
                                                   </div>
-                                                  <p class="mb-0 text-[0.625rem] opacity-[0.7] text-[#8c9097] dark:text-white/50 font-semibold">TOTAL SUBSCRIPTIONS</p>
+                                                  <p class="mb-0 text-[0.625rem] opacity-[0.7] text-[#8c9097] font-semibold">TOTAL SUBSCRIPTIONS</p>
                                               </div>
                                           </div>
                                       </div>
@@ -203,7 +203,7 @@
                                                       <div class="text-success font-semibold"><i
                                                           class="ri-arrow-up-s-fill me-1 align-middle"></i>+0.165%</div>
                                                   </div>
-                                                  <p class="mb-0  text-[0.625rem] opacity-[0.7] text-[#8c9097] dark:text-white/50 font-semibold">RESSUME UPLOAD RATIO</p>
+                                                  <p class="mb-0  text-[0.625rem] opacity-[0.7] text-[#8c9097] font-semibold">RESSUME UPLOAD RATIO</p>
                                               </div>
                                           </div>
                                       </div>
@@ -214,7 +214,7 @@
                                       <div class="box-header justify-between">
                                           <div class="box-title">Subscriptions Overview</div>
                                           <div class="hs-dropdown ti-dropdown">
-                                              <a href="javascript:void(0);" class="text-[0.75rem] px-2 font-normal text-[#8c9097] dark:text-white/50"
+                                              <a href="javascript:void(0);" class="text-[0.75rem] px-2 font-normal text-[#8c9097]"
                                                 aria-expanded="false">
                                                 View All<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                               </a>
@@ -233,19 +233,19 @@
                                               <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-4 md:col-span-4 sm:col-span-4 col-span-12">
                                                   <div class="p-3 sm:border-e !border-0 sm:text-start text-center">
                                                       <p class="text-[1.25rem] font-semibold mb-0">1,117</p>
-                                                      <p class="mb-0 text-[#8c9097] dark:text-white/50">Total Subscriptions</p>
+                                                      <p class="mb-0 text-[#8c9097]">Total Subscriptions</p>
                                                   </div>
                                               </div>
                                               <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-4 md:col-span-4 sm:col-span-4 col-span-12">
                                                   <div class="p-3 sm:border-e !border-0 sm:text-start text-center">
                                                       <p class="text-[1.25rem] font-semibold mb-0"><span class="basic-subscription">742</span></p>
-                                                      <p class="mb-0 text-[#8c9097] dark:text-white/50">Basic Subscriptions</p>
+                                                      <p class="mb-0 text-[#8c9097]">Basic Subscriptions</p>
                                                   </div>
                                               </div>
                                               <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-4 md:col-span-4 sm:col-span-4 col-span-12">
                                                   <div class="p-3 sm:text-start !border-0 text-center">
                                                       <p class="text-[1.25rem] font-semibold mb-0"><span class="pro-subscription">259</span></p>
-                                                      <p class="mb-0 text-[#8c9097] dark:text-white/50">Pro Subscriptions</p>
+                                                      <p class="mb-0 text-[#8c9097]">Pro Subscriptions</p>
                                                   </div>
                                               </div>
                                           </div>
@@ -265,7 +265,7 @@
                                               Recent Jobs
                                           </div>
                                           <div class="hs-dropdown ti-dropdown">
-                                              <a href="javascript:void(0);" class="text-[0.75rem] px-2 font-normal text-[#8c9097] dark:text-white/50"
+                                              <a href="javascript:void(0);" class="text-[0.75rem] px-2 font-normal text-[#8c9097]"
                                                 aria-expanded="false">
                                                 View All<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                               </a>
@@ -291,7 +291,7 @@
                                                           </div>
                                                           <div class="flex-grow">
                                                               <p class="mb-0 font-semibold">Ui Developer</p>
-                                                              <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">Achies - 12 hrs ago</p>
+                                                              <p class="text-[0.75rem] text-[#8c9097] mb-0">Achies - 12 hrs ago</p>
                                                           </div>
                                                           <div class="text-end">
                                                               <p class="mb-0 text-[0.75rem]">Full Time</p>
@@ -310,7 +310,7 @@
                                                           </div>
                                                           <div class="flex-grow">
                                                               <p class="mb-0 font-semibold">AWS Engineer</p>
-                                                              <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">Siachles - 2 hrs ago</p>
+                                                              <p class="text-[0.75rem] text-[#8c9097] mb-0">Siachles - 2 hrs ago</p>
                                                           </div>
                                                           <div class="text-end">
                                                               <p class="mb-0 text-[0.75rem]">Part Time</p>
@@ -329,7 +329,7 @@
                                                           </div>
                                                           <div class="flex-grow">
                                                               <p class="mb-0 font-semibold">React Developer</p>
-                                                              <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">LifeSpace - 6 hrs ago</p>
+                                                              <p class="text-[0.75rem] text-[#8c9097] mb-0">LifeSpace - 6 hrs ago</p>
                                                           </div>
                                                           <div class="text-end">
                                                               <p class="mb-0 text-[0.75rem] text-primary font-semibold">Freelancer</p>
@@ -348,7 +348,7 @@
                                                           </div>
                                                           <div class="flex-grow">
                                                               <p class="mb-0 font-semibold">Angular Developer</p>
-                                                              <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">MegaSoft - 14 hrs ago</p>
+                                                              <p class="text-[0.75rem] text-[#8c9097] mb-0">MegaSoft - 14 hrs ago</p>
                                                           </div>
                                                           <div class="text-end">
                                                               <p class="mb-0 text-[0.75rem]">Full Time</p>
@@ -367,7 +367,7 @@
                                                           </div>
                                                           <div class="flex-grow">
                                                               <p class="mb-0 font-semibold">UI Tester</p>
-                                                              <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">Joggle - 2 days ago</p>
+                                                              <p class="text-[0.75rem] text-[#8c9097] mb-0">Joggle - 2 days ago</p>
                                                           </div>
                                                           <div class="text-end">
                                                               <p class="mb-0 text-[0.75rem]">Full Time</p>
@@ -386,7 +386,7 @@
                                                           </div>
                                                           <div class="flex-grow">
                                                               <p class="mb-0 font-semibold">Php - Laravel Develope</p>
-                                                              <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">Nirlog - 2 days ago</p>
+                                                              <p class="text-[0.75rem] text-[#8c9097] mb-0">Nirlog - 2 days ago</p>
                                                           </div>
                                                           <div class="text-end">
                                                               <p class="mb-0 text-[0.75rem]">Part Time Time</p>
@@ -405,7 +405,7 @@
                                       <div class="box-header justify-between">
                                           <div class="box-title">Candidates</div>
                                           <div class="hs-dropdown ti-dropdown">
-                                              <a href="javascript:void(0);" class="text-[0.75rem] px-2 font-normal text-[#8c9097] dark:text-white/50"
+                                              <a href="javascript:void(0);" class="text-[0.75rem] px-2 font-normal text-[#8c9097]"
                                                 aria-expanded="false">
                                                 View All<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                               </a>
@@ -421,10 +421,10 @@
                                       </div>
                                       <div class="box-body !p-0">
                                           <div id="candidates-chart" class="p-3"></div>
-                                          <div class="grid grid-cols-2 border-t border-dashed dark:border-defaultborder/10">
+                                          <div class="grid grid-cols-2 border-t border-dashed">
                                               <div class="col">
-                                                  <div class="!p-4 border-e border-dashed dark:border-defaultborder/10">
-                                                      <div class="text-[#8c9097] dark:text-white/50 text-[0.75rem] text-center mb-1">Male Candidates
+                                                  <div class="!p-4 border-e border-dashed">
+                                                      <div class="text-[#8c9097] text-[0.75rem] text-center mb-1">Male Candidates
                                                       </div>
                                                       <div class="flex justify-center items-center"> <span
                                                               class="me-3 text-[1.625rem] font-semibold">1,234</span> <span
@@ -435,7 +435,7 @@
                                               </div>
                                               <div class="col">
                                                   <div class="!p-4">
-                                                      <div class="text-[#8c9097] dark:text-white/50 text-[0.75rem] text-center mb-1">Female Candidates
+                                                      <div class="text-[#8c9097] text-[0.75rem] text-center mb-1">Female Candidates
                                                       </div>
                                                       <div class="flex justify-center items-center"> <span
                                                               class="me-3 text-[1.625rem] font-semibold">1,754</span> <span
@@ -454,7 +454,7 @@
                                               Recent Recruiter Registrations
                                           </div>
                                           <div class="hs-dropdown ti-dropdown">
-                                              <a href="javascript:void(0);" class="text-[0.75rem] px-2 font-normal text-[#8c9097] dark:text-white/50"
+                                              <a href="javascript:void(0);" class="text-[0.75rem] px-2 font-normal text-[#8c9097]"
                                                 aria-expanded="false">
                                                 View All<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                               </a>
@@ -471,7 +471,7 @@
                                       <div class="box-body !p-0 recruiter">
                                           <div class="sm:grid xxxl:grid-cols-3 xxl:grid-cols-2 md:grid-cols-3 sm:grid-cols-2">
                                               <div class="col">
-                                                  <div class="p-4 md:border-e border-inline-e-dashed dark:border-white/10">
+                                                  <div class="p-4 md:border-e border-inline-e-dashed">
                                                       <div class="flex items-start !mb-6">
                                                           <div class="me-2 leading-none">
                                                               <span class="avatar avatar-md avatar-rounded">
@@ -481,7 +481,7 @@
                                                           <div class="flex-grow">
                                                               <div class="recent-recruiter">
                                                                   <a href="javascript:void(0);" class="font-semibold mb-0 text-truncate">Hr@Spruko</a>
-                                                                  <p class="mb-0 text-[0.75rem] text-[#8c9097] dark:text-white/50 text-truncate">hr.spruko@gmail.com</p>
+                                                                  <p class="mb-0 text-[0.75rem] text-[#8c9097] text-truncate">hr.spruko@gmail.com</p>
                                                               </div>
                                                           </div>
                                                           <div>
@@ -491,7 +491,7 @@
                                                           </div>
                                                       </div>
                                                       <div class="flex items-start justify-between mb-2">
-                                                          <div class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">
+                                                          <div class="text-[#8c9097] text-[0.75rem]">
                                                               Vacancies
                                                           </div>
                                                           <div class="font-semibold">
@@ -499,7 +499,7 @@
                                                           </div>
                                                       </div>
                                                       <div class="flex items-start justify-between mb-0">
-                                                          <div class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">
+                                                          <div class="text-[#8c9097] text-[0.75rem]">
                                                               Position
                                                           </div>
                                                           <div>
@@ -509,7 +509,7 @@
                                                   </div>
                                               </div>
                                               <div class="col">
-                                                  <div class="p-4 md:border-e border-inline-e-dashed dark:border-white/10">
+                                                  <div class="p-4 md:border-e border-inline-e-dashed">
                                                       <div class="flex items-start !mb-6">
                                                           <div class="me-2 leading-none">
                                                               <span class="avatar avatar-md avatar-rounded">
@@ -519,7 +519,7 @@
                                                           <div class="flex-grow">
                                                               <div class="recent-recruiter">
                                                                   <a href="javascript:void(0);" class="font-semibold mb-0 text-truncate">Hr@Nicero</a>
-                                                                  <p class="mb-0 text-[0.75rem] text-[#8c9097] dark:text-white/50 text-truncate">nicero.help@gmail.com</p>
+                                                                  <p class="mb-0 text-[0.75rem] text-[#8c9097] text-truncate">nicero.help@gmail.com</p>
                                                               </div>
                                                           </div>
                                                           <div>
@@ -529,7 +529,7 @@
                                                           </div>
                                                       </div>
                                                       <div class="flex items-start justify-between mb-2">
-                                                          <div class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">
+                                                          <div class="text-[#8c9097] text-[0.75rem]">
                                                               Vacancies
                                                           </div>
                                                           <div class="font-semibold">
@@ -537,7 +537,7 @@
                                                           </div>
                                                       </div>
                                                       <div class="flex items-start justify-between mb-0">
-                                                          <div class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">
+                                                          <div class="text-[#8c9097] text-[0.75rem]">
                                                               Position
                                                           </div>
                                                           <div>
@@ -557,7 +557,7 @@
                                                           <div class="flex-grow">
                                                               <div class="recent-recruiter">
                                                                   <a href="javascript:void(0);" class="font-semibold mb-0 text-truncate">JosephSmith</a>
-                                                                  <p class="mb-0 text-[0.75rem] text-[#8c9097] dark:text-white/50 text-truncate">josephsmith@gmail.com</p>
+                                                                  <p class="mb-0 text-[0.75rem] text-[#8c9097] text-truncate">josephsmith@gmail.com</p>
                                                               </div>
                                                           </div>
                                                           <div>
@@ -567,7 +567,7 @@
                                                           </div>
                                                       </div>
                                                       <div class="flex items-start justify-between mb-2">
-                                                          <div class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">
+                                                          <div class="text-[#8c9097] text-[0.75rem]">
                                                               Vacancies
                                                           </div>
                                                           <div class="font-semibold">
@@ -575,7 +575,7 @@
                                                           </div>
                                                       </div>
                                                       <div class="flex items-start justify-between mb-0">
-                                                          <div class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">
+                                                          <div class="text-[#8c9097] text-[0.75rem]">
                                                               Position
                                                           </div>
                                                           <div>
@@ -612,7 +612,7 @@
                                               </tr>
                                           </thead>
                                           <tbody>
-                                              <tr class="border border-defaultborder dark:border-defaultborder/10 !border-x-0">
+                                              <tr class="border border-defaultborder !border-x-0">
                                                   <th scope="row">
                                                       <div class="flex items-center">
                                                           <img src="{{asset('build/assets/images/flags/us_flag.jpg')}}" alt="" class="w-[1.25rem] h-[1.25rem] rounded-full me-2 leading-none">
@@ -629,7 +629,7 @@
                                                       <button type="button" class=" ti-btn-success  !px-2 !py-1 rounded-sm ti-btn-wave ti-btn-sm">View</button>
                                                   </td>
                                               </tr>
-                                              <tr class="border border-defaultborder dark:border-defaultborder/10 !border-x-0">
+                                              <tr class="border border-defaultborder !border-x-0">
                                                   <th scope="row">
                                                       <div class="flex items-center">
                                                           <img src="{{asset('build/assets/images/flags/french_flag.jpg')}}" alt="" class="w-[1.25rem] h-[1.25rem] rounded-full me-2 leading-none">
@@ -646,7 +646,7 @@
                                                       <button type="button" class=" ti-btn-success  !px-2 !py-1 rounded-sm ti-btn-wave ti-btn-sm">View</button>
                                                   </td>
                                               </tr>
-                                              <tr class="border border-defaultborder dark:border-defaultborder/10 !border-x-0">
+                                              <tr class="border border-defaultborder !border-x-0">
                                                   <th scope="row">
                                                       <div class="flex items-center">
                                                         <img src="{{asset('build/assets/images/flags/uae_flag.jpg')}}" alt="" class="w-[1.25rem] h-[1.25rem] rounded-full me-2 leading-none">
@@ -663,7 +663,7 @@
                                                       <button type="button" class=" ti-btn-success  !px-2 !py-1 rounded-sm ti-btn-wave ti-btn-sm">View</button>
                                                   </td>
                                               </tr>
-                                              <tr class="border border-defaultborder dark:border-defaultborder/10 !border-x-0">
+                                              <tr class="border border-defaultborder !border-x-0">
                                                   <th scope="row">
                                                       <div class="flex items-center">
                                                           <img src="{{asset('build/assets/images/flags/germany_flag.jpg')}}" alt="" class="w-[1.25rem] h-[1.25rem] rounded-full me-2 leading-none">
@@ -711,7 +711,7 @@
                                       Top Companies
                                   </div>
                                   <div class="hs-dropdown ti-dropdown">
-                                      <a href="javascript:void(0);" class="text-[0.75rem] px-2 font-normal text-[#8c9097] dark:text-white/50"
+                                      <a href="javascript:void(0);" class="text-[0.75rem] px-2 font-normal text-[#8c9097]"
                                         aria-expanded="false">
                                         View All<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                       </a>
@@ -737,13 +737,13 @@
                                               </tr>
                                           </thead>
                                           <tbody>
-                                              <tr class="border hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10 border-defaultborder !border-x-0">
+                                              <tr class="border hover:bg-gray-100 border-defaultborder !border-x-0">
                                                   <th scope="col">
                                                       <div class="flex items-center">
                                                           <img src="{{asset('build/assets/images/company-logos/4.png')}}" alt="" class="avatar avatar-md p-1 bg-light avatar-rounded me-2 !mb-0">
                                                           <div>
                                                               <p class="font-semibold mb-0">Obligation Pvt.Ltd</p>
-                                                              <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">Remote/Onsite</p>
+                                                              <p class="text-[0.75rem] text-[#8c9097] mb-0">Remote/Onsite</p>
                                                           </div>
                                                       </div>
                                                   </th>
@@ -753,13 +753,13 @@
                                                   <td>547</td>
                                                   <td>24,Nov 2021</td>
                                               </tr>
-                                              <tr class="border hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10 border-defaultborder !border-x-0">
+                                              <tr class="border hover:bg-gray-100 border-defaultborder !border-x-0">
                                                   <th scope="row">
                                                       <div class="flex items-center">
                                                           <img src="{{asset('build/assets/images/company-logos/10.png')}}" alt="" class="avatar avatar-md p-1 bg-light avatar-rounded me-2 !mb-0">
                                                           <div>
                                                               <p class="font-semibold mb-0">Voluptatem Pvt.Ltd</p>
-                                                              <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">Remote/Onsite</p>
+                                                              <p class="text-[0.75rem] text-[#8c9097] mb-0">Remote/Onsite</p>
                                                           </div>
                                                       </div>
                                                   </th>
@@ -769,13 +769,13 @@
                                                   <td>223</td>
                                                   <td>13,Jan 2020</td>
                                               </tr>
-                                              <tr class="border hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10 border-defaultborder !border-x-0">
+                                              <tr class="border hover:bg-gray-100 border-defaultborder !border-x-0">
                                                   <th scope="row">
                                                       <div class="flex items-center">
                                                           <img src="{{asset('build/assets/images/company-logos/8.png')}}" alt="" class="avatar avatar-md p-1 bg-light avatar-rounded me-2 !mb-0">
                                                           <div>
                                                               <p class="font-semibold mb-0">BloomTech.Inc</p>
-                                                              <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">Remote/Onsite</p>
+                                                              <p class="text-[0.75rem] text-[#8c9097] mb-0">Remote/Onsite</p>
                                                           </div>
                                                       </div>
                                                   </th>
@@ -785,13 +785,13 @@
                                                   <td>189</td>
                                                   <td>06,Sep 2020</td>
                                               </tr>
-                                              <tr class="!border-b-0 hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10 border-defaultborder !border-x-0">
+                                              <tr class="!border-b-0 hover:bg-gray-100 border-defaultborder !border-x-0">
                                                   <th scope="row">
                                                       <div class="flex items-center">
                                                           <img src="{{asset('build/assets/images/company-logos/1.png')}}" alt="" class="avatar avatar-md p-1 bg-light avatar-rounded me-2 !mb-0">
                                                           <div>
                                                               <p class="font-semibold mb-0">Beatae Industries</p>
-                                                              <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">Remote/Onsite</p>
+                                                              <p class="text-[0.75rem] text-[#8c9097] mb-0">Remote/Onsite</p>
                                                           </div>
                                                       </div>
                                                   </th>
@@ -893,7 +893,7 @@
                                               </tr>
                                           </thead>
                                           <tbody>
-                                              <tr class="border hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10 border-defaultborder !border-x-0">
+                                              <tr class="border hover:bg-gray-100 border-defaultborder !border-x-0">
                                                   <th scope="row" class="ps-6"><input class="form-check-input" type="checkbox" id="checkboxNoLabel12" value="" aria-label="..."></th>
                                                   <td>
                                                       <div class="flex items-center font-semibold">
@@ -907,7 +907,7 @@
                                                   <td>mayorkelly@gmail.com</td>
                                                   <td>
                                                       <div class="inline-flex items-center">
-                                                          <i class="ri-map-pin-fill text-[#8c9097] dark:text-white/50 text-[0.625rem]"></i>
+                                                          <i class="ri-map-pin-fill text-[#8c9097] text-[0.625rem]"></i>
                                                           <span class="ms-1">Germany</span>
                                                       </div>
                                                   </td>
@@ -923,7 +923,7 @@
                                                       </div>
                                                   </td>
                                               </tr>
-                                              <tr class="border hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10 border-defaultborder !border-x-0">
+                                              <tr class="border hover:bg-gray-100 border-defaultborder !border-x-0">
                                                   <th scope="row" class="ps-6"><input class="form-check-input" type="checkbox" id="checkboxNoLabel22" value="" aria-label="..." checked></th>
                                                   <td>
                                                       <div class="flex items-center font-semibold">
@@ -937,7 +937,7 @@
                                                   <td>andrewgarfield@gmail.com</td>
                                                   <td>
                                                       <div class="inline-flex items-center">
-                                                          <i class="ri-map-pin-fill text-[#8c9097] dark:text-white/50 text-[0.625rem]"></i>
+                                                          <i class="ri-map-pin-fill text-[#8c9097] text-[0.625rem]"></i>
                                                           <span class="ms-1">Canada</span>
                                                       </div>
                                                   </td>
@@ -953,7 +953,7 @@
                                                         </div>
                                                   </td>
                                               </tr>
-                                              <tr class="border hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10 border-defaultborder !border-x-0">
+                                              <tr class="border hover:bg-gray-100 border-defaultborder !border-x-0">
                                                   <th scope="row" class="ps-6"><input class="form-check-input" type="checkbox" id="checkboxNoLabel3" value="" aria-label="..."></th>
                                                   <td>
                                                       <div class="flex items-center font-semibold">
@@ -967,7 +967,7 @@
                                                   <td>simoncowel234@gmail.com</td>
                                                   <td>
                                                       <div class="inline-flex items-center">
-                                                          <i class="ri-map-pin-fill text-[#8c9097] dark:text-white/50 text-[0.625rem]"></i>
+                                                          <i class="ri-map-pin-fill text-[#8c9097] text-[0.625rem]"></i>
                                                           <span class="ms-1">Europe</span>
                                                       </div>
                                                   </td>
@@ -983,7 +983,7 @@
                                                         </div>
                                                   </td>
                                               </tr>
-                                              <tr class="border hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10 border-defaultborder !border-x-0">
+                                              <tr class="border hover:bg-gray-100 border-defaultborder !border-x-0">
                                                   <th scope="row" class="ps-6"><input class="form-check-input" type="checkbox" id="checkboxNoLabel13" value="" aria-label="..." checked></th>
                                                   <td>
                                                       <div class="flex items-center font-semibold">
@@ -997,7 +997,7 @@
                                                   <td>mirindahers@gmail.com</td>
                                                   <td>
                                                       <div class="inline-flex items-center">
-                                                          <i class="ri-map-pin-fill text-[#8c9097] dark:text-white/50 text-[0.625rem]"></i>
+                                                          <i class="ri-map-pin-fill text-[#8c9097] text-[0.625rem]"></i>
                                                           <span class="ms-1">USA</span>
                                                       </div>
                                                   </td>
@@ -1013,7 +1013,7 @@
                                                         </div>
                                                   </td>
                                               </tr>
-                                              <tr class="border hover:bg-gray-100 dark:hover:bg-light dark:border-defaultborder/10 border-defaultborder !border-x-0">
+                                              <tr class="border hover:bg-gray-100 border-defaultborder !border-x-0">
                                                   <th scope="row" class="ps-6"><input class="form-check-input" type="checkbox" id="checkboxNoLabel2" value="" aria-label="..." checked></th>
                                                   <td>
                                                       <div class="flex -items-center font-semibold">
@@ -1027,7 +1027,7 @@
                                                   <td>andrewgarfield@gmail.com</td>
                                                   <td>
                                                       <div class="inline-flex items-center">
-                                                          <i class="ri-map-pin-fill text-[#8c9097] dark:text-white/50 text-[0.625rem]"></i>
+                                                          <i class="ri-map-pin-fill text-[#8c9097] text-[0.625rem]"></i>
                                                           <span class="ms-1">London</span>
                                                       </div>
                                                   </td>

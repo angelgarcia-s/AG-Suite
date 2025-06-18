@@ -17,16 +17,16 @@
                     <!-- Page Header -->
                     <div class="block justify-between page-header md:flex">
                         <div>
-                            <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold">Mail Settings</h3>
+                            <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold">Mail Settings</h3>
                         </div>
                         <ol class="flex items-center whitespace-nowrap min-w-0">
                             <li class="text-[0.813rem] ps-[0.5rem]">
-                              <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                              <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                 Mail
-                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                               </a>
                             </li>
-                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                Mail Settings
                             </li>
                         </ol>
@@ -39,29 +39,29 @@
                             <div class="box">
                                 <div class="box-header sm:flex block !justify-start">
                                     <nav aria-label="Tabs" class="md:flex block !justify-start whitespace-nowrap">
-                                        <a class="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 flex-grow  text-[0.75rem] font-medium rounded-md hover:text-primary active" id="Personal-item" data-hs-tab="#personal-info" aria-controls="personal-info">
+                                        <a class="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor py-2 px-3 flex-grow  text-[0.75rem] font-medium rounded-md hover:text-primary active" id="Personal-item" data-hs-tab="#personal-info" aria-controls="personal-info">
                                             Personal Information
                                         </a>
-                                        <a class="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary " id="account-item" data-hs-tab="#account-settings" aria-controls="account-settings">
+                                        <a class="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary " id="account-item" data-hs-tab="#account-settings" aria-controls="account-settings">
                                             Account Settings
                                         </a>
-                                        <a class="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary " id="email-item" data-hs-tab="#email-settings" aria-controls="email-settings">
+                                        <a class="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary " id="email-item" data-hs-tab="#email-settings" aria-controls="email-settings">
                                             Email
                                         </a>
-                                        <a class="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary " id="labels-item" data-hs-tab="#labels" aria-controls="labels">
+                                        <a class="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary " id="labels-item" data-hs-tab="#labels" aria-controls="labels">
                                             Labels
                                         </a>
-                                        <a class="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary " id="notifications-item" data-hs-tab="#notification-settings" aria-controls="notification-settings">
+                                        <a class="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary " id="notifications-item" data-hs-tab="#notification-settings" aria-controls="notification-settings">
                                             Notifications
                                         </a>
-                                        <a class="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary " id="security-item" data-hs-tab="#security" aria-controls="security">
+                                        <a class="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary " id="security-item" data-hs-tab="#security" aria-controls="security">
                                             Security
                                         </a>
                                     </nav>
                                 </div>
                                 <div class="box-body">
                                     <div class="tab-content">
-                                        <div class="tab-pane show active dark:border-defaultborder/10" id="personal-info" aria-labelledby="Personal-item" >
+                                        <div class="tab-pane show active" id="personal-info" aria-labelledby="Personal-item" >
                                             <div class="sm:p-4 p-0">
                                                 <h6 class="font-semibold mb-4 text-[1rem]">
                                                     Photo :
@@ -132,20 +132,20 @@
                                                     </div>
                                                     <div class="xl:col-span-12 col-span-12">
                                                         <label for="bio" class="form-label">Bio :</label>
-                                                        <textarea class="form-control w-full !rounded-md dark:!text-defaulttextcolor/70" id="bio" rows="5">Lorem ipsum dolor sit amet consectetur adipisicing elit. At sit impedit, officiis non minima saepe voluptates a magnam enim sequi porro veniam ea suscipit dolorum vel mollitia voluptate iste nemo!</textarea>
+                                                        <textarea class="form-control w-full !rounded-md" id="bio" rows="5">Lorem ipsum dolor sit amet consectetur adipisicing elit. At sit impedit, officiis non minima saepe voluptates a magnam enim sequi porro veniam ea suscipit dolorum vel mollitia voluptate iste nemo!</textarea>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="tab-pane dark:border-defaultborder/10 hidden" id="account-settings" aria-labelledby="account-item" role="tabpanel">
+                                        <div class="tab-pane hidden" id="account-settings" aria-labelledby="account-item" role="tabpanel">
                                             <div class="grid grid-cols-12 gap-4">
                                                 <div class="xl:col-span-7 col-span-12">
-                                                    <div class="box  shadow-none mb-0 border dark:border-defaultborder/10">
+                                                    <div class="box  shadow-none mb-0 border">
                                                         <div class="box-body">
                                                             <div class="sm:flex block items-center mb-6 justify-between">
                                                                 <div>
                                                                     <p class="text-[0.875rem] mb-1 font-semibold">Two Step Verification</p>
-                                                                    <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">Two step verificatoin is very secured and restricts in happening faulty practices.</p>
+                                                                    <p class="text-[0.75rem] text-[#8c9097] mb-0">Two step verificatoin is very secured and restricts in happening faulty practices.</p>
                                                                 </div>
                                                                 <div class="custom-toggle-switch sm:ms-2 ms-0">
                                                                     <input id="two-step" name="toggleswitchsize" type="checkbox" checked>
@@ -174,7 +174,7 @@
                                                             <div class="sm:flex block items-center mb-6 justify-between">
                                                                 <div>
                                                                     <p class="text-[0.875rem] mb-1 font-semibold">Recovery Mail</p>
-                                                                    <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">Incase of forgetting password mails are sent to  heifo@gmail.com</p>
+                                                                    <p class="text-[0.75rem] text-[#8c9097] mb-0">Incase of forgetting password mails are sent to  heifo@gmail.com</p>
                                                                 </div>
                                                                 <div class="custom-toggle-switch sm:ms-2 ms-0">
                                                                     <input id="recovery-mail" name="toggleswitchsize2" type="checkbox" checked>
@@ -184,7 +184,7 @@
                                                             <div class="sm:flex block items-center mb-6 justify-between">
                                                                 <div>
                                                                     <p class="text-[0.875rem] mb-1 font-semibold">SMS Recovery</p>
-                                                                    <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">SMS are sent to 9102312xx in case of recovery</p>
+                                                                    <p class="text-[0.75rem] text-[#8c9097] mb-0">SMS are sent to 9102312xx in case of recovery</p>
                                                                 </div>
                                                                 <div class="custom-toggle-switch sm:ms-2 ms-0">
                                                                     <input id="sms-recovery" name="toggleswitchsize3" type="checkbox" checked>
@@ -194,7 +194,7 @@
                                                             <div class="flex items-center justify-between">
                                                                 <div>
                                                                     <p class="text-[0.875rem] mb-1 font-semibold">Reset Password</p>
-                                                                    <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Password should be min of <b class="text-success">8 digits<sup>*</sup></b>,atleast <b class="text-success">One Capital letter<sup>*</sup></b> and <b class="text-success">One Special Character<sup>*</sup></b> included.</p>
+                                                                    <p class="text-[0.75rem] text-[#8c9097]">Password should be min of <b class="text-success">8 digits<sup>*</sup></b>,atleast <b class="text-success">One Capital letter<sup>*</sup></b> and <b class="text-success">One Special Character<sup>*</sup></b> included.</p>
                                                                     <div class="mb-2">
                                                                         <label for="current-password" class="form-label">Current Password</label>
                                                                         <input type="text" class="form-control w-full !rounded-md" id="current-password" placeholder="Current Password">
@@ -214,7 +214,7 @@
                                                 </div>
                                                 <div class="xl:col-span-1 col-span-12"></div>
                                                 <div class="xl:col-span-4 col-span-12">
-                                                    <div class="box shadow-none mb-0 border dark:border-defaultborder/10">
+                                                    <div class="box shadow-none mb-0 border">
                                                         <div class="box-header justify-between items-center sm:flex block">
                                                             <div class="box-title">Registered Devices</div>
                                                             <div class="sm:mt-0">
@@ -225,13 +225,13 @@
                                                             <ul class="list-group">
                                                                 <li class="list-group-item">
                                                                     <div class="sm:flex block items-center">
-                                                                        <div class="lh-1 sm:mb-0 mb-2"><i class="bi bi-phone me-2 text-base align-middle text-[#8c9097] dark:text-white/50"></i></div>
+                                                                        <div class="lh-1 sm:mb-0 mb-2"><i class="bi bi-phone me-2 text-base align-middle text-[#8c9097]"></i></div>
                                                                         <div class="lh-1 flex-grow">
                                                                             <p class="mb-0">
                                                                                 <span class="font-semibold">Mobile-LG-1023</span>
                                                                             </p>
                                                                             <p class="mb-0">
-                                                                                <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">Manchester, UK-Nov 30, 04:45PM</span>
+                                                                                <span class="text-[#8c9097] text-[0.6875rem]">Manchester, UK-Nov 30, 04:45PM</span>
                                                                             </p>
                                                                         </div>
                                                                         <div class="hs-dropdown ti-dropdown">
@@ -253,13 +253,13 @@
                                                                 </li>
                                                                 <li class="list-group-item">
                                                                     <div class="sm:flex block items-center">
-                                                                        <div class="lh-1 sm:mb-0 mb-2"><i class="bi bi-laptop me-2 text-base align-middle text-[#8c9097] dark:text-white/50"></i></div>
+                                                                        <div class="lh-1 sm:mb-0 mb-2"><i class="bi bi-laptop me-2 text-base align-middle text-[#8c9097]"></i></div>
                                                                         <div class="lh-1 flex-grow">
                                                                             <p class="mb-0">
                                                                                 <span class="font-semibold">Lenovo-1291203</span>
                                                                             </p>
                                                                             <p class="mb-0">
-                                                                                <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">England, UK-Aug 12, 12:25PM</span>
+                                                                                <span class="text-[#8c9097] text-[0.6875rem]">England, UK-Aug 12, 12:25PM</span>
                                                                             </p>
                                                                         </div>
                                                                         <div class="hs-dropdown ti-dropdown">
@@ -281,13 +281,13 @@
                                                                 </li>
                                                                 <li class="list-group-item">
                                                                     <div class="sm:flex block items-center">
-                                                                        <div class="lh-1 sm:mb-0 mb-2"><i class="bi bi-laptop me-2 text-base align-middle text-[#8c9097] dark:text-white/50"></i></div>
+                                                                        <div class="lh-1 sm:mb-0 mb-2"><i class="bi bi-laptop me-2 text-base align-middle text-[#8c9097]"></i></div>
                                                                         <div class="lh-1 flex-grow">
                                                                             <p class="mb-0">
                                                                                 <span class="font-semibold">Macbook-Suzika</span>
                                                                             </p>
                                                                             <p class="mb-0">
-                                                                                <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">Brightoon, UK-Jul 18, 8:34AM</span>
+                                                                                <span class="text-[#8c9097] text-[0.6875rem]">Brightoon, UK-Jul 18, 8:34AM</span>
                                                                             </p>
                                                                         </div>
                                                                         <div class="hs-dropdown ti-dropdown">
@@ -309,13 +309,13 @@
                                                                 </li>
                                                                 <li class="list-group-item">
                                                                     <div class="sm:flex block items-center">
-                                                                        <div class="lh-1 sm:mb-0 mb-2"><i class="bi bi-pc-display-horizontal me-2 text-base align-middle text-[#8c9097] dark:text-white/50"></i></div>
+                                                                        <div class="lh-1 sm:mb-0 mb-2"><i class="bi bi-pc-display-horizontal me-2 text-base align-middle text-[#8c9097]"></i></div>
                                                                         <div class="lh-1 flex-grow">
                                                                             <p class="mb-0">
                                                                                 <span class="font-semibold">Apple-Desktop</span>
                                                                             </p>
                                                                             <p class="mb-0">
-                                                                                <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">Darlington, UK-Jan 14, 11:14AM</span>
+                                                                                <span class="text-[#8c9097] text-[0.6875rem]">Darlington, UK-Jan 14, 11:14AM</span>
                                                                             </p>
                                                                         </div>
                                                                         <div class="hs-dropdown ti-dropdown">
@@ -341,7 +341,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="tab-pane dark:border-defaultborder/10 !p-0 hidden" id="email-settings" aria-labelledby="email-item" role="tabpanel">
+                                        <div class="tab-pane !p-0 hidden" id="email-settings" aria-labelledby="email-item" role="tabpanel">
                                             <ul class="list-group list-group-flush">
                                                 <li class="list-group-item !border-t-0 !border-e-0 !border-s-0">
                                                     <div class="grid grid-cols-12 gap-4">
@@ -575,11 +575,11 @@
                                                 </li>
                                             </ul>
                                         </div>
-                                        <div class="tab-pane dark:border-defaultborder/10 hidden" id="labels" aria-labelledby="labels-item" role="tabpanel">
+                                        <div class="tab-pane hidden" id="labels" aria-labelledby="labels-item" role="tabpanel">
                                             <p class="text-[0.875rem] font-semibold mb-3">Mail Labels :</p>
                                             <div class="grid grid-cols-12 gap-4">
                                                 <div class="xl:col-span-3 col-span-12">
-                                                    <div class="box !shadow-none border dark:border-defaultborder/10">
+                                                    <div class="box !shadow-none border">
                                                         <div class="box-body flex items-center justify-between flex-wrap gap-2">
                                                             <div class="">
                                                                 <span class="font-semibold">All Mails</span>
@@ -596,7 +596,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="xl:col-span-3 col-span-12">
-                                                    <div class="box !shadow-none border dark:border-defaultborder/10">
+                                                    <div class="box !shadow-none border">
                                                         <div class="box-body flex items-center justify-between flex-wrap gap-2">
                                                             <div class="">
                                                                 <span class="font-semibold">Inbox</span>
@@ -613,7 +613,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="xl:col-span-3 col-span-12">
-                                                    <div class="box !shadow-none border dark:border-defaultborder/10">
+                                                    <div class="box !shadow-none border">
                                                         <div class="box-body flex items-center justify-between flex-wrap gap-2">
                                                             <div class="">
                                                                 <span class="font-semibold">Sent</span>
@@ -630,7 +630,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="xl:col-span-3 col-span-12">
-                                                    <div class="box !shadow-none border dark:border-defaultborder/10">
+                                                    <div class="box !shadow-none border">
                                                         <div class="box-body flex items-center justify-between flex-wrap gap-2">
                                                             <div class="">
                                                                 <span class="font-semibold">Drafts</span>
@@ -647,7 +647,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="xl:col-span-3 col-span-12">
-                                                    <div class="box !shadow-none border dark:border-defaultborder/10">
+                                                    <div class="box !shadow-none border">
                                                         <div class="box-body flex items-center justify-between flex-wrap gap-2">
                                                             <div class="">
                                                                 <span class="font-semibold">Spam</span>
@@ -664,7 +664,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="xl:col-span-3 col-span-12">
-                                                    <div class="box !shadow-none border dark:border-defaultborder/10">
+                                                    <div class="box !shadow-none border">
                                                         <div class="box-body flex items-center justify-between flex-wrap gap-2">
                                                             <div class="">
                                                                 <span class="font-semibold">Important</span>
@@ -681,7 +681,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="xl:col-span-3 col-span-12">
-                                                    <div class="box !shadow-none border dark:border-defaultborder/10">
+                                                    <div class="box !shadow-none border">
                                                         <div class="box-body flex items-center justify-between flex-wrap gap-2">
                                                             <div class="">
                                                                 <span class="font-semibold">Trash</span>
@@ -698,7 +698,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="xl:col-span-3 col-span-12">
-                                                    <div class="box !shadow-none border dark:border-defaultborder/10">
+                                                    <div class="box !shadow-none border">
                                                         <div class="box-body flex items-center justify-between flex-wrap gap-2">
                                                             <div class="">
                                                                 <span class="font-semibold">Archive</span>
@@ -715,7 +715,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="xl:col-span-3 col-span-12">
-                                                    <div class="box !shadow-none border dark:border-defaultborder/10">
+                                                    <div class="box !shadow-none border">
                                                         <div class="box-body flex items-center justify-between flex-wrap gap-2">
                                                             <div class="">
                                                                 <span class="font-semibold">Starred</span>
@@ -735,7 +735,7 @@
                                             <p class="text-[0.875rem] font-semibold mb-3">Settings :</p>
                                             <div class="grid grid-cols-12 gap-2">
                                                 <div class="xl:col-span-3 col-span-12">
-                                                    <div class="box !shadow-none border dark:border-defaultborder/10">
+                                                    <div class="box !shadow-none border">
                                                         <div class="box-body flex items-center justify-between flex-wrap gap-2">
                                                             <div class="">
                                                                 <span class="font-semibold">Settings</span>
@@ -755,7 +755,7 @@
                                             <p class="text-[0.875rem] font-semibold mb-3">Custom Labels :</p>
                                             <div class="grid grid-cols-12 gap-4">
                                                 <div class="xl:col-span-3 col-span-12">
-                                                    <div class="box !shadow-none border dark:border-defaultborder/10">
+                                                    <div class="box !shadow-none border">
                                                         <div class="box-body flex items-center justify-between flex-wrap gap-2">
                                                             <div class="">
                                                                 <span class="font-semibold">Mail</span>
@@ -772,7 +772,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="xl:col-span-3 col-span-12">
-                                                    <div class="box !shadow-none border dark:border-defaultborder/10">
+                                                    <div class="box !shadow-none border">
                                                         <div class="box-body flex items-center justify-between flex-wrap gap-2">
                                                             <div class="">
                                                                 <span class="font-semibold">Home</span>
@@ -789,7 +789,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="xl:col-span-3 col-span-12">
-                                                    <div class="box !shadow-none border dark:border-defaultborder/10">
+                                                    <div class="box !shadow-none border">
                                                         <div class="box-body flex items-center justify-between flex-wrap gap-2">
                                                             <div class="">
                                                                 <span class="font-semibold">Work</span>
@@ -806,7 +806,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="xl:col-span-3 col-span-12">
-                                                    <div class="box !shadow-none border dark:border-defaultborder/10">
+                                                    <div class="box !shadow-none border">
                                                         <div class="box-body flex items-center justify-between flex-wrap gap-2">
                                                             <div class="">
                                                                 <span class="font-semibold">Friends</span>
@@ -824,19 +824,19 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="tab-pane !p-0 !border-0 dark:border-defaultborder/10 hidden" id="notification-settings" aria-labelledby="notifications-item" role="tabpanel">
+                                        <div class="tab-pane !p-0 !border-0 hidden" id="notification-settings" aria-labelledby="notifications-item" role="tabpanel">
                                             <ul class="list-group list-group-flush list-none !rounded-md">
                                                 <li class="list-group-item">
                                                     <div class="grid grid-cols-12 xl:gap-x-[3rem] gap-y-4">
                                                         <div class="xl:col-span-5 col-span-12">
                                                             <p class="text-[1rem] mb-1 font-semibold">Email Notifications</p>
-                                                            <p class="text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50">Email notifications are the notifications you will receeive when you are offline, you can customize them by enabling or disabling them.</p>
+                                                            <p class="text-[0.75rem] mb-0 text-[#8c9097]">Email notifications are the notifications you will receeive when you are offline, you can customize them by enabling or disabling them.</p>
                                                         </div>
                                                         <div class="xl:col-span-7 col-span-12">
                                                             <div class="flex items-center justify-between sm:mt-0 mt-4">
                                                                 <div class="mail-notification-settings">
                                                                     <p class="text-[0.875rem] mb-1 font-semibold">Updates &amp; Features</p>
-                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50">Notifications about new updates and their features.</p>
+                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097]">Notifications about new updates and their features.</p>
                                                                 </div>
                                                                 <div>
                                                                     <div class="custom-toggle-switch ltr:sm:float-right rtl:sm:float-left">
@@ -848,7 +848,7 @@
                                                             <div class="flex items-center justify-between mt-4">
                                                                 <div class="mail-notification-settings">
                                                                     <p class="text-[0.875rem] mb-1 font-semibold">Early Access</p>
-                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50">Users are selected for beta testing of new update,notifications relating or participate in any of paid product promotion.</p>
+                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097]">Users are selected for beta testing of new update,notifications relating or participate in any of paid product promotion.</p>
                                                                 </div>
                                                                 <div>
                                                                     <div class="custom-toggle-switch ltr:sm:float-right rtl:sm:float-left">
@@ -860,7 +860,7 @@
                                                             <div class="flex items-center justify-between mt-4">
                                                                 <div class="mail-notification-settings">
                                                                     <p class="text-[0.875rem] mb-1 font-semibold">Email Shortcuts</p>
-                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50">Shortcut notifications for email.</p>
+                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097]">Shortcut notifications for email.</p>
                                                                 </div>
                                                                 <div>
                                                                     <div class="custom-toggle-switch ltr:sm:float-right rtl:sm:float-left">
@@ -872,7 +872,7 @@
                                                             <div class="flex items-center justify-between mt-4">
                                                                 <div class="mail-notification-settings">
                                                                     <p class="text-[0.875rem] mb-1 font-semibold">New Mails</p>
-                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50">Notifications related to new mails received.</p>
+                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097]">Notifications related to new mails received.</p>
                                                                 </div>
                                                                 <div>
                                                                     <div class="custom-toggle-switch ltr:sm:float-right rtl:sm:float-left">
@@ -884,7 +884,7 @@
                                                             <div class="flex items-center justify-between mt-4">
                                                                 <div class="mail-notification-settings">
                                                                     <p class="text-[0.875rem] mb-1 font-semibold">Mail Chat Messages</p>
-                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50">Any of new messages are received will be updated through notifications.</p>
+                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097]">Any of new messages are received will be updated through notifications.</p>
                                                                 </div>
                                                                 <div>
                                                                     <div class="custom-toggle-switch ltr:sm:float-right rtl:sm:float-left">
@@ -900,13 +900,13 @@
                                                     <div class="grid grid-cols-12 xl:gap-x-[3rem] gap-y-4">
                                                         <div class="xl:col-span-5 col-span-12">
                                                             <p class="text-[1rem] mb-1 font-semibold">Push Notifications</p>
-                                                            <p class="text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50">Push notifications are recieved when you are online, you can customize them by enabling or disabling them.</p>
+                                                            <p class="text-[0.75rem] mb-0 text-[#8c9097]">Push notifications are recieved when you are online, you can customize them by enabling or disabling them.</p>
                                                         </div>
                                                         <div class="xl:col-span-7 col-span-12">
                                                             <div class="flex items-center justify-between sm:mt-0 mt-4">
                                                                 <div class="mail-notification-settings">
                                                                     <p class="text-[0.875rem] mb-1 font-semibold">New Mails</p>
-                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50">Notifications related to new mails received.</p>
+                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097]">Notifications related to new mails received.</p>
                                                                 </div>
                                                                 <div>
                                                                     <div class="custom-toggle-switch ltr:sm:float-right rtl:sm:float-left">
@@ -918,7 +918,7 @@
                                                             <div class="flex items-center justify-between mt-4">
                                                                 <div class="mail-notification-settings">
                                                                     <p class="text-[0.875rem] mb-1 font-semibold">Mail Chat Messages</p>
-                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50">Any of new messages are received will be updated through notifications.</p>
+                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097]">Any of new messages are received will be updated through notifications.</p>
                                                                 </div>
                                                                 <div>
                                                                     <div class="custom-toggle-switch ltr:sm:float-right rtl:sm:float-left">
@@ -930,7 +930,7 @@
                                                             <div class="flex items-center justify-between mt-4">
                                                                 <div class="mail-notification-settings">
                                                                     <p class="text-[0.875rem] mb-1 font-semibold">Mail Extensions</p>
-                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50">Notifications related to the extensions received by new emails and thier propertied also been displayed.</p>
+                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097]">Notifications related to the extensions received by new emails and thier propertied also been displayed.</p>
                                                                 </div>
                                                                 <div>
                                                                     <div class="custom-toggle-switch ltr:sm:float-right rtl:sm:float-left">
@@ -944,19 +944,19 @@
                                                 </li>
                                             </ul>
                                         </div>
-                                        <div class="tab-pane  dark:border-defaultborder/10 !p-0 hidden" id="security" aria-labelledby="security-item" role="tabpanel">
+                                        <div class="tab-pane  !p-0 hidden" id="security" aria-labelledby="security-item" role="tabpanel">
                                             <ul class="list-group !border-0 list-group-flush list-unstyled">
-                                                <li class="list-group-item !border !border-defaultborder dark:!border-defaultborder/10 !border-t-0 !border-e-0 !border-s-0">
+                                                <li class="list-group-item !border !border-defaultborder !border-t-0 !border-e-0 !border-s-0">
                                                     <div class="grid grid-cols-12 xl:gap-x-[3rem] gap-y-4">
                                                         <div class="xl:col-span-4 col-span-12">
                                                             <p class="text-[1rem] mb-1 font-semibold">Logging In</p>
-                                                            <p class="text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50">Security settings related to logging into our email account and taking down account if any mischevious action happended.</p>
+                                                            <p class="text-[0.75rem] mb-0 text-[#8c9097]">Security settings related to logging into our email account and taking down account if any mischevious action happended.</p>
                                                         </div>
                                                         <div class="xl:col-span-8 col-span-12">
                                                             <div class="sm:flex block items-center justify-between sm:mt-0 mt-4">
                                                                 <div class="mail-security-settings">
                                                                     <p class="text-[0.875rem] mb-1 font-semibold">Max Limit for login attempts</p>
-                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50">Account will freeze for 24hrs while attempt to login with wrong credentials for selected number of times</p>
+                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097]">Account will freeze for 24hrs while attempt to login with wrong credentials for selected number of times</p>
                                                                 </div>
                                                                 <div>
                                                                     <select class="form-control w-full !rounded-md" data-trigger name="max-login-attempts" id="max-login-attempts">
@@ -970,7 +970,7 @@
                                                             <div class="sm:flex block items-center justify-between mt-4">
                                                                 <div class="mail-security-settings">
                                                                     <p class="text-[0.875rem] mb-1 font-semibold">Account Freeze time management</p>
-                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50">You can change the time for the account freeze when attempts for </p>
+                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097]">You can change the time for the account freeze when attempts for </p>
                                                                 </div>
                                                                 <div>
                                                                     <select class="form-control w-full !rounded-md" data-trigger name="account-freeze-time-format" id="account-freeze-time-format">
@@ -984,17 +984,17 @@
                                                         </div>
                                                     </div>
                                                 </li>
-                                                <li class="list-group-item !border !border-defaultborder dark:!border-defaultborder/10 !border-t-0 !border-e-0 !border-s-0">
+                                                <li class="list-group-item !border !border-defaultborder !border-t-0 !border-e-0 !border-s-0">
                                                     <div class="grid grid-cols-12 xl:gap-x-[3rem] gap-y-4">
                                                         <div class="xl:col-span-4 col-span-12">
                                                             <p class="text-base mb-1 font-semibold">Password Requirements</p>
-                                                            <p class="text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50">Security settings related to password strength.</p>
+                                                            <p class="text-[0.75rem] mb-0 text-[#8c9097]">Security settings related to password strength.</p>
                                                         </div>
                                                         <div class="xl:col-span-8 col-span-12">
                                                             <div class="sm:flex block items-center justify-between sm:mt-0 mt-4">
                                                                 <div class="mail-security-settings">
                                                                     <p class="text-[0.875rem] mb-1 font-semibold">Minimun number of characters in the password</p>
-                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50">There should be a minimum number of characters for a password to be validated that shouls be set here.</p>
+                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097]">There should be a minimum number of characters for a password to be validated that shouls be set here.</p>
                                                                 </div>
                                                                 <div>
                                                                     <input type="text" class="form-control !rounded-md" value="8">
@@ -1003,7 +1003,7 @@
                                                             <div class="sm:flex block items-center justify-between mt-4">
                                                                 <div>
                                                                     <p class="text-[0.875rem] mb-1 font-semibold">Contain A Number</p>
-                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50">Password should contain a number.</p>
+                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097]">Password should contain a number.</p>
                                                                 </div>
                                                                 <div>
                                                                     <div class="custom-toggle-switch ltr:sm:float-right rtl:sm:float-left">
@@ -1015,7 +1015,7 @@
                                                             <div class="sm:flex block items-center justify-between mt-4">
                                                                 <div>
                                                                     <p class="text-[0.875rem] mb-1 font-semibold">Contain A Special Character</p>
-                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50">Password should contain a special Character.</p>
+                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097]">Password should contain a special Character.</p>
                                                                 </div>
                                                                 <div>
                                                                     <div class="custom-toggle-switch ltr:sm:float-right rtl:sm:float-left">
@@ -1027,7 +1027,7 @@
                                                             <div class="sm:flex block items-center justify-between mt-4">
                                                                 <div>
                                                                     <p class="text-[0.875rem] mb-1 font-semibold">Atleast One Capital Letter</p>
-                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50">Password should contain atleast one capital letter.</p>
+                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097]">Password should contain atleast one capital letter.</p>
                                                                 </div>
                                                                 <div>
                                                                     <div class="custom-toggle-switch ltr:sm:float-right rtl:sm:float-left">
@@ -1039,7 +1039,7 @@
                                                             <div class="sm:flex block items-center justify-between mt-4">
                                                                 <div>
                                                                     <p class="text-[0.875rem] mb-1 font-semibold">Maximun Password Length</p>
-                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50">Maximum password lenth should be selected here.</p>
+                                                                    <p class="text-[0.75rem] mb-0 text-[#8c9097]">Maximum password lenth should be selected here.</p>
                                                                 </div>
                                                                 <div>
                                                                     <input type="text" class="form-control !rounded-md" value="16">
@@ -1052,7 +1052,7 @@
                                                     <div class="grid grid-cols-12 xl:gap-x-[3rem] gap-y-4">
                                                         <div class="xl:col-span-4 col-span-12">
                                                             <p class="text-[1rem] mb-1 font-semibold">Unknown Chats</p>
-                                                            <p class="text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50">Security settings related to unknown chats.</p>
+                                                            <p class="text-[0.75rem] mb-0 text-[#8c9097]">Security settings related to unknown chats.</p>
                                                         </div>
                                                         <div class="xl:col-span-8 col-span-12">
                                                             <div>

@@ -37,67 +37,67 @@
                     <!-- End::Home Content -->
 
                     <!-- Start:: Section-2 -->
-                    <section class="section !bg-[#f9fafb] dark:!bg-black/10 section-bg text-defaulttextcolor dark:text-defaulttextcolor/70" id="statistics">
+                    <section class="section !bg-[#f9fafb] section-bg text-defaulttextcolor" id="statistics">
                         <div class="container text-center relative">
                             <p class="text-[0.75rem] font-semibold text-success mb-1"><span class="landing-section-heading">STATISTICS</span></p>
-                            <h3 class="font-semibold mb-2 text-defaulttextcolor dark:text-defaulttextcolor/70 ">More than 120+ projects completed.</h3>
+                            <h3 class="font-semibold mb-2 text-defaulttextcolor ">More than 120+ projects completed.</h3>
                             <div class="">
                                 <div class="xl:col-span-7 col-span-12">
-                                    <p class="text-[#8c9097] dark:text-white/50 text-[0.9375rem] mb-12 font-normal">We are proud to have top class clients and customers,which motivates us to work more on projects.</p>
+                                    <p class="text-[#8c9097] text-[0.9375rem] mb-12 font-normal">We are proud to have top class clients and customers,which motivates us to work more on projects.</p>
                                 </div>
                             </div>
                             <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
                                 <div class="col-span-1 mb-4">
-                                    <div class="p-4 text-center !rounded-sm bg-white dark:bg-bodybg border dark:border-defaultborder/10">
+                                    <div class="p-4 text-center !rounded-sm bg-white border">
                                         <span class="mb-4 avatar avatar-lg avatar-rounded bg-primary/10 !text-primary">
                                             <i class="text-[1.5rem] bx bx-spreadsheet"></i>
                                             </span>
                                             <h3 class="font-semibold mb-0 text-dark">120+</h3>
-                                        <p class="mb-1 text-[0.875rem] opacity-[0.7] text-[#8c9097] dark:text-white/50 ">
+                                        <p class="mb-1 text-[0.875rem] opacity-[0.7] text-[#8c9097] ">
                                             Projects
                                         </p>
                                     </div>
                                 </div>
                                 <div class="col-span-1 mb-4">
-                                    <div class="p-4 text-center !rounded-sm !bg-white dark:!bg-bodybg border dark:border-defaultborder/10">
+                                    <div class="p-4 text-center !rounded-sm !bg-white border">
                                         <span class="mb-4 avatar avatar-lg avatar-rounded bg-primary/10 !text-primary">
                                             <i class="text-[1.5rem] bx bx-user-plus"></i>
                                             </span>
                                             <h3 class="font-semibold mb-0 text-dark">20K+</h3>
-                                        <p class="mb-1 text-[0.875rem] opacity-[0.7] text-[#8c9097] dark:text-white/50 ">
+                                        <p class="mb-1 text-[0.875rem] opacity-[0.7] text-[#8c9097] ">
                                             Clients
                                         </p>
                                     </div>
                                 </div>
                                 <div class="col-span-1 mb-4">
-                                    <div class="p-4 text-center !rounded-sm !bg-white dark:!bg-bodybg border dark:border-defaultborder/10">
+                                    <div class="p-4 text-center !rounded-sm !bg-white border">
                                         <span class="mb-4 avatar avatar-lg avatar-rounded bg-primary/10 !text-primary">
                                             <i class="text-[1.5rem] bx bx-money"></i>
                                             </span>
                                             <h3 class="font-semibold mb-0 text-dark">$45.8M</h3>
-                                        <p class="mb-1 text-[0.875rem] opacity-[0.7] text-[#8c9097] dark:text-white/50 ">
+                                        <p class="mb-1 text-[0.875rem] opacity-[0.7] text-[#8c9097] ">
                                             Income Earned
                                         </p>
                                     </div>
                                 </div>
                                 <div class="col-span-1 mb-4">
-                                    <div class="p-4 text-center !rounded-sm !bg-white dark:!bg-bodybg  border dark:border-defaultborder/10">
+                                    <div class="p-4 text-center !rounded-sm !bg-white  border">
                                         <span class="mb-4 avatar avatar-lg avatar-rounded bg-primary/10 !text-primary">
                                             <i class="text-[1.5rem] bx bx-user-circle"></i>
                                             </span>
                                             <h3 class="font-semibold mb-0 text-dark">854</h3>
-                                        <p class="mb-1 text-[0.875rem] opacity-[0.7] text-[#8c9097] dark:text-white/50 ">
+                                        <p class="mb-1 text-[0.875rem] opacity-[0.7] text-[#8c9097] ">
                                             Employees
                                         </p>
                                     </div>
                                 </div>
                                 <div class="col-span-1 mb-4">
-                                    <div class="p-4 text-center !rounded-sm bg-white dark:!bg-bodybg  border dark:border-defaultborder/10">
+                                    <div class="p-4 text-center !rounded-sm bg-white  border">
                                         <span class="mb-4 avatar avatar-lg avatar-rounded bg-primary/10 !text-primary">
                                             <i class="text-[1.5rem] bx bx-calendar"></i>
                                             </span>
                                             <h3 class="font-semibold mb-0 text-dark">5+</h3>
-                                        <p class="mb-1 text-[0.875rem] opacity-[0.7] text-[#8c9097] dark:text-white/50 ">
+                                        <p class="mb-1 text-[0.875rem] opacity-[0.7] text-[#8c9097] ">
                                             Years of Experience
                                         </p>
                                     </div>
@@ -108,13 +108,13 @@
                     <!-- End:: Section-2 -->
 
                     <!-- Start:: Section-3 -->
-                    <section class="section text-defaulttextcolor dark:text-defaulttextcolor/70 text-[0.813rem]" id="about">
+                    <section class="section text-defaulttextcolor text-[0.813rem]" id="about">
                         <div class="container text-center">
                             <p class="text-[0.75rem] font-semibold text-success mb-1"><span class="landing-section-heading">CUSTOMIZATION</span></p>
-                            <h3 class="font-semibold mb-2 dark:text-defaulttextcolor dark:text-defaulttextcolor/70710">Designed with precision and well documented</h3>
+                            <h3 class="font-semibold mb-2">Designed with precision and well documented</h3>
                             <div class="grid grid-cols-12 justify-center max-w-xl mx-auto">
                                 <div class="col-span-12">
-                                    <p class="text-[#8c9097] dark:text-white/50 text-[0.9375rem] mb-4 font-normal">ynex comes with multiple customization options that are very easy to implement.</p>
+                                    <p class="text-[#8c9097] text-[0.9375rem] mb-4 font-normal">ynex comes with multiple customization options that are very easy to implement.</p>
                                 </div>
                             </div>
                             <div class="grid grid-cols-8 justify-center align-center">
@@ -125,7 +125,7 @@
                                 </div>
                                 <div class="xxl:col-span-5 xl:col-span-5 lg:col-span-5 col-span-12 pt-5 pb-0 lg:px-2 !text-start px-12 my-auto">
                                     <h5 class="lg:text-start font-semibold mb-0 text-[1.25rem]">Present your awesome product</h5>
-                                    <p class=" text-[#8c9097] dark:text-white/50 mb-4">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+                                    <p class=" text-[#8c9097] mb-4">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
                                     <ul class="">
                                         <li class="mb-4">
                                             <div class="flex">
@@ -134,7 +134,7 @@
                                                 </span>
                                                 <div class="ms-2">
                                                     <h6 class="font-semibold mb-0 text-[1rem]">Can Switch Easily From Vertical to HorizontalMenu.</h6>
-                                                    <p class=" text-[#8c9097] dark:text-white/50">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur </p>
+                                                    <p class=" text-[#8c9097]">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur </p>
                                                 </div>
                                             </div>
                                         </li>
@@ -145,7 +145,7 @@
                                                 </span>
                                                 <div class="ms-2">
                                                     <h6 class="font-semibold mb-0 text-[1rem]">Switch Easily From One Color to Another Color style</h6>
-                                                    <p class=" text-[#8c9097] dark:text-white/50">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur </p>
+                                                    <p class=" text-[#8c9097]">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur </p>
                                                 </div>
                                             </div>
                                         </li>
@@ -156,7 +156,7 @@
                                                 </span>
                                                 <div class="ms-2">
                                                     <h6 class="font-semibold mb-0 text-[1rem]">Switch Easily From Fixed to Scrollable Layout.</h6>
-                                                    <p class=" text-[#8c9097] dark:text-white/50">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur </p>
+                                                    <p class=" text-[#8c9097]">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur </p>
                                                 </div>
                                             </div>
                                         </li>
@@ -168,13 +168,13 @@
                     <!-- End:: Section-3 -->
 
                     <!-- Start:: Section-4 -->
-                    <section class="section bg-[#f9fafb] section-bg text-defaulttextcolor dark:text-defaulttextcolor/70 text-[0.813rem]" id="our-mission">
+                    <section class="section bg-[#f9fafb] section-bg text-defaulttextcolor text-[0.813rem]" id="our-mission">
                         <div class="container text-center">
                             <p class="text-[0.75rem] font-semibold text-success mb-1"><span class="landing-section-heading">OUR MISSION</span></p>
                             <h3 class="font-semibold mb-2">Our mission consists of 8 major steps.</h3>
                             <div>
                                 <div class="xl:col-span-7">
-                                    <p class="text-[#8c9097] dark:text-white/50 text-sm mb-12 font-normal">Our mission is to make web design easy, so you can focus on building your brand.</p>
+                                    <p class="text-[#8c9097] text-sm mb-12 font-normal">Our mission is to make web design easy, so you can focus on building your brand.</p>
                                 </div>
                             </div>
                             <div class="grid grid-cols-12 gap-6">
@@ -191,7 +191,7 @@
                                                     <h6 class="font-semibold mb-1 text-[1rem]">
                                                         Design Quality
                                                     </h6>
-                                                    <p class="mb-0 text-[#8c9097] dark:text-white/50">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+                                                    <p class="mb-0 text-[#8c9097]">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -210,7 +210,7 @@
                                                     <h6 class="font-semibold mb-1 text-[1rem]">
                                                         Documentation
                                                     </h6>
-                                                    <p class="mb-0 text-[#8c9097] dark:text-white/50">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+                                                    <p class="mb-0 text-[#8c9097]">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -229,7 +229,7 @@
                                                     <h6 class="font-semibold mb-1 text-[1rem]">
                                                         Customization
                                                     </h6>
-                                                    <p class="mb-0 text-[#8c9097] dark:text-white/50">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+                                                    <p class="mb-0 text-[#8c9097]">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -248,7 +248,7 @@
                                                     <h6 class="font-semibold mb-1 text-[1rem]">
                                                         Regular Updates
                                                     </h6>
-                                                    <p class="mb-0 text-[#8c9097] dark:text-white/50">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+                                                    <p class="mb-0 text-[#8c9097]">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -267,7 +267,7 @@
                                                     <h6 class="font-semibold mb-1 text-[1rem]">
                                                         24/7 Support
                                                     </h6>
-                                                    <p class="mb-0 text-[#8c9097] dark:text-white/50">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+                                                    <p class="mb-0 text-[#8c9097]">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -286,7 +286,7 @@
                                                     <h6 class="font-semibold mb-1 text-[1rem]">
                                                         Pre-Built Theme Styles
                                                     </h6>
-                                                    <p class="mb-0 text-[#8c9097] dark:text-white/50">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+                                                    <p class="mb-0 text-[#8c9097]">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -305,7 +305,7 @@
                                                     <h6 class="font-semibold mb-1 text-[1rem]">
                                                         Compatibility
                                                     </h6>
-                                                    <p class="mb-0 text-[#8c9097] dark:text-white/50">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+                                                    <p class="mb-0 text-[#8c9097]">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -324,7 +324,7 @@
                                                     <h6 class="font-semibold mb-1 text-[1rem]">
                                                         Fully Responsive
                                                     </h6>
-                                                    <p class="mb-0 text-[#8c9097] dark:text-white/50">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+                                                    <p class="mb-0 text-[#8c9097]">lorem ipsum, dolor sit var ameto condesetrat aiatel varen or damsenlel verman code Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -336,7 +336,7 @@
                     <!-- End:: Section-4 -->
 
                     <!-- Start:: Section-5 -->
-                    <section class="section landing-Features text-defaulttextcolor dark:text-defaulttextcolor/70 text-[0.813rem]" id="features">
+                    <section class="section landing-Features text-defaulttextcolor text-[0.813rem]" id="features">
                         <div class="container text-center">
                             <p class="text-[0.75rem] font-semibold text-success mb-1"><span class="landing-section-heading">Features</span></p>
                             <h3 class="font-semibold mb-2 !text-white">Features Used in YNEX</h3>
@@ -384,13 +384,13 @@
                     <!-- End:: Section-5 -->
 
                     <!-- Start:: Section-6 -->
-                    <section class="section landing-testimonials bg-[#f9fafb] section-bg text-defaulttextcolor dark:text-defaulttextcolor/70 text-[0.813rem]" id="testimonials">
+                    <section class="section landing-testimonials bg-[#f9fafb] section-bg text-defaulttextcolor text-[0.813rem]" id="testimonials">
                         <div class="container text-center">
                             <p class="text-[0.75rem] font-semibold text-success mb-1"><span class="landing-section-heading">TESTIMONIALS</span></p>
                             <h3 class="font-semibold mb-2">We never failed to reach expectations</h3>
                             <div>
                                 <div class="xl:col-span-7 col-span-12">
-                                    <p class="text-[#8c9097] dark:text-white/50 text-[0.9375rem] mb-[3rem] font-normal">Some of the reviews our clients gave which brings motivation to work for future projects.</p>
+                                    <p class="text-[#8c9097] text-[0.9375rem] mb-[3rem] font-normal">Some of the reviews our clients gave which brings motivation to work for future projects.</p>
                                 </div>
                             </div>
                             <div class="swiper pagination-dynamic text-start rtl:dirrtl">
@@ -404,15 +404,15 @@
                                                     </span>
                                                     <div>
                                                         <p class="mb-0 font-semibold text-[0.875rem]">Json Taylor</p>
-                                                        <p class="mb-0 text-[0.625rem] font-semibold text-[#8c9097] dark:text-white/50">CEO OF NORJA</p>
+                                                        <p class="mb-0 text-[0.625rem] font-semibold text-[#8c9097]">CEO OF NORJA</p>
                                                     </div>
                                                 </div>
                                                 <div class="mb-4">
-                                                    <span class="text-[#8c9097] dark:text-white/50">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  --</span>
+                                                    <span class="text-[#8c9097]">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  --</span>
                                                 </div>
                                                 <div class="flex items-center justify-between">
                                                     <div class="flex items-center">
-                                                        <span class="text-[#8c9097] dark:text-white/50">Rating : </span>
+                                                        <span class="text-[#8c9097]">Rating : </span>
                                                         <span class="text-warning block ms-1">
                                                             <i class="ri-star-fill"></i>
                                                             <i class="ri-star-fill"></i>
@@ -421,7 +421,7 @@
                                                             <i class="ri-star-half-fill"></i>
                                                         </span>
                                                     </div>
-                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] dark:text-white/50 text-end">
+                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] text-end">
                                                         <span>12 days ago</span>
                                                         <span class="block font-normal text-[0.75rem] text-success"><i>Json Taylor</i></span>
                                                     </div>
@@ -438,15 +438,15 @@
                                                     </span>
                                                     <div>
                                                         <p class="mb-0 font-semibold text-[0.875rem]">Melissa Blue</p>
-                                                        <p class="mb-0 text-[0.625rem] font-semibold text-[#8c9097] dark:text-white/50">MANAGER CHO</p>
+                                                        <p class="mb-0 text-[0.625rem] font-semibold text-[#8c9097]">MANAGER CHO</p>
                                                     </div>
                                                 </div>
                                                 <div class="mb-4">
-                                                    <span class="text-[#8c9097] dark:text-white/50">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  --</span>
+                                                    <span class="text-[#8c9097]">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  --</span>
                                                 </div>
                                                 <div class="flex items-center justify-between">
                                                     <div class="flex items-center">
-                                                        <span class="text-[#8c9097] dark:text-white/50">Rating : </span>
+                                                        <span class="text-[#8c9097]">Rating : </span>
                                                         <span class="text-warning block ms-1">
                                                             <i class="ri-star-fill"></i>
                                                             <i class="ri-star-fill"></i>
@@ -455,7 +455,7 @@
                                                             <i class="ri-star-half-fill"></i>
                                                         </span>
                                                     </div>
-                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] dark:text-white/50 text-end">
+                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] text-end">
                                                         <span>7 days ago</span>
                                                         <span class="block font-normal text-[0.75rem] text-success"><i>Melissa Blue</i></span>
                                                     </div>
@@ -472,15 +472,15 @@
                                                     </span>
                                                     <div>
                                                         <p class="mb-0 font-semibold text-[0.875rem]">Kiara Advain</p>
-                                                        <p class="mb-0 text-[0.625rem] font-semibold text-[#8c9097] dark:text-white/50">CEO OF EMPIRO</p>
+                                                        <p class="mb-0 text-[0.625rem] font-semibold text-[#8c9097]">CEO OF EMPIRO</p>
                                                     </div>
                                                 </div>
                                                 <div class="mb-4">
-                                                    <span class="text-[#8c9097] dark:text-white/50">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  --</span>
+                                                    <span class="text-[#8c9097]">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  --</span>
                                                 </div>
                                                 <div class="flex items-center justify-between">
                                                     <div class="flex items-center">
-                                                        <span class="text-[#8c9097] dark:text-white/50">Rating : </span>
+                                                        <span class="text-[#8c9097]">Rating : </span>
                                                         <span class="text-warning block ms-1">
                                                             <i class="ri-star-fill"></i>
                                                             <i class="ri-star-fill"></i>
@@ -489,7 +489,7 @@
                                                             <i class="ri-star-line"></i>
                                                         </span>
                                                     </div>
-                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] dark:text-white/50 text-end">
+                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] text-end">
                                                         <span>2 days ago</span>
                                                         <span class="block font-normal text-[0.75rem] text-success"><i>Kiara Advain</i></span>
                                                     </div>
@@ -506,15 +506,15 @@
                                                     </span>
                                                     <div>
                                                         <p class="mb-0 font-semibold text-[0.875rem]">Jhonson Smith</p>
-                                                        <p class="mb-0 text-[0.625rem] font-semibold text-[#8c9097] dark:text-white/50">CHIEF SECRETARY MBIO</p>
+                                                        <p class="mb-0 text-[0.625rem] font-semibold text-[#8c9097]">CHIEF SECRETARY MBIO</p>
                                                     </div>
                                                 </div>
                                                 <div class="mb-4">
-                                                    <span class="text-[#8c9097] dark:text-white/50">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  --</span>
+                                                    <span class="text-[#8c9097]">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  --</span>
                                                 </div>
                                                 <div class="flex items-center justify-between">
                                                     <div class="flex items-center">
-                                                        <span class="text-[#8c9097] dark:text-white/50">Rating : </span>
+                                                        <span class="text-[#8c9097]">Rating : </span>
                                                         <span class="text-warning block ms-1">
                                                             <i class="ri-star-fill"></i>
                                                             <i class="ri-star-fill"></i>
@@ -523,7 +523,7 @@
                                                             <i class="ri-star-half-fill"></i>
                                                         </span>
                                                     </div>
-                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] dark:text-white/50 text-end">
+                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] text-end">
                                                         <span>16 hrs ago</span>
                                                         <span class="block font-normal text-[0.75rem] text-success"><i>Jhonson Smith</i></span>
                                                     </div>
@@ -540,15 +540,15 @@
                                                     </span>
                                                     <div>
                                                         <p class="mb-0 font-semibold text-[0.875rem]">Dwayne Stort</p>
-                                                        <p class="mb-0 text-[0.625rem] font-semibold text-[#8c9097] dark:text-white/50">CEO ARMEDILLO</p>
+                                                        <p class="mb-0 text-[0.625rem] font-semibold text-[#8c9097]">CEO ARMEDILLO</p>
                                                     </div>
                                                 </div>
                                                 <div class="mb-4">
-                                                    <span class="text-[#8c9097] dark:text-white/50">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  --</span>
+                                                    <span class="text-[#8c9097]">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  --</span>
                                                 </div>
                                                 <div class="flex items-center justify-between">
                                                     <div class="flex items-center">
-                                                        <span class="text-[#8c9097] dark:text-white/50">Rating : </span>
+                                                        <span class="text-[#8c9097]">Rating : </span>
                                                         <span class="text-warning block ms-1">
                                                             <i class="ri-star-fill"></i>
                                                             <i class="ri-star-fill"></i>
@@ -557,7 +557,7 @@
                                                             <i class="ri-star-line"></i>
                                                         </span>
                                                     </div>
-                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] dark:text-white/50 text-end">
+                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] text-end">
                                                         <span>22 days ago</span>
                                                         <span class="block font-normal text-[0.75rem] text-success"><i>Dwayne Stort</i></span>
                                                     </div>
@@ -574,15 +574,15 @@
                                                     </span>
                                                     <div>
                                                         <p class="mb-0 font-semibold text-[0.875rem]">Jasmine Kova</p>
-                                                        <p class="mb-0 text-[0.625rem] font-semibold text-[#8c9097] dark:text-white/50">AGGENT AMIO</p>
+                                                        <p class="mb-0 text-[0.625rem] font-semibold text-[#8c9097]">AGGENT AMIO</p>
                                                     </div>
                                                 </div>
                                                 <div class="mb-4">
-                                                    <span class="text-[#8c9097] dark:text-white/50">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  --</span>
+                                                    <span class="text-[#8c9097]">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  --</span>
                                                 </div>
                                                 <div class="flex items-center justify-between">
                                                     <div class="flex items-center">
-                                                        <span class="text-[#8c9097] dark:text-white/50">Rating : </span>
+                                                        <span class="text-[#8c9097]">Rating : </span>
                                                         <span class="text-warning block ms-1">
                                                             <i class="ri-star-fill"></i>
                                                             <i class="ri-star-fill"></i>
@@ -591,7 +591,7 @@
                                                             <i class="ri-star-half-fill"></i>
                                                         </span>
                                                     </div>
-                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] dark:text-white/50 text-end">
+                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] text-end">
                                                         <span>26 days ago</span>
                                                         <span class="block font-normal text-[0.75rem] text-success"><i>Jasmine Kova</i></span>
                                                     </div>
@@ -608,15 +608,15 @@
                                                     </span>
                                                     <div>
                                                         <p class="mb-0 font-semibold text-[0.875rem]">Dolph MR</p>
-                                                        <p class="mb-0 text-[0.625rem] font-semibold text-[#8c9097] dark:text-white/50">CEO MR BRAND</p>
+                                                        <p class="mb-0 text-[0.625rem] font-semibold text-[#8c9097]">CEO MR BRAND</p>
                                                     </div>
                                                 </div>
                                                 <div class="mb-4">
-                                                    <span class="text-[#8c9097] dark:text-white/50">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  --</span>
+                                                    <span class="text-[#8c9097]">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  --</span>
                                                 </div>
                                                 <div class="flex items-center justify-between">
                                                     <div class="flex items-center">
-                                                        <span class="text-[#8c9097] dark:text-white/50">Rating : </span>
+                                                        <span class="text-[#8c9097]">Rating : </span>
                                                         <span class="text-warning block ms-1">
                                                             <i class="ri-star-fill"></i>
                                                             <i class="ri-star-fill"></i>
@@ -625,7 +625,7 @@
                                                             <i class="ri-star-fill"></i>
                                                         </span>
                                                     </div>
-                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] dark:text-white/50 text-end">
+                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] text-end">
                                                         <span>1 month ago</span>
                                                         <span class="block font-normal text-[0.75rem] text-success"><i>Dolph MR</i></span>
                                                     </div>
@@ -642,15 +642,15 @@
                                                     </span>
                                                     <div>
                                                         <p class="mb-0 font-semibold text-[0.875rem]">Brenda Simpson</p>
-                                                        <p class="mb-0 text-[0.625rem] font-semibold text-[#8c9097] dark:text-white/50">CEO AIBMO</p>
+                                                        <p class="mb-0 text-[0.625rem] font-semibold text-[#8c9097]">CEO AIBMO</p>
                                                     </div>
                                                 </div>
                                                 <div class="mb-4">
-                                                    <span class="text-[#8c9097] dark:text-white/50">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  --</span>
+                                                    <span class="text-[#8c9097]">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  --</span>
                                                 </div>
                                                 <div class="flex items-center justify-between">
                                                     <div class="flex items-center">
-                                                        <span class="text-[#8c9097] dark:text-white/50">Rating : </span>
+                                                        <span class="text-[#8c9097]">Rating : </span>
                                                         <span class="text-warning block ms-1">
                                                             <i class="ri-star-fill"></i>
                                                             <i class="ri-star-fill"></i>
@@ -659,7 +659,7 @@
                                                             <i class="ri-star-half-fill"></i>
                                                         </span>
                                                     </div>
-                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] dark:text-white/50 text-end">
+                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] text-end">
                                                         <span>1 month ago</span>
                                                         <span class="block font-normal text-[0.75rem] text-success"><i>Brenda Simpson</i></span>
                                                     </div>
@@ -676,15 +676,15 @@
                                                     </span>
                                                     <div>
                                                         <p class="mb-0 font-semibold text-[0.875rem]">Julia Sams</p>
-                                                        <p class="mb-0 text-[0.625rem] font-semibold text-[#8c9097] dark:text-white/50">CHIEF SECRETARY BHOL</p>
+                                                        <p class="mb-0 text-[0.625rem] font-semibold text-[#8c9097]">CHIEF SECRETARY BHOL</p>
                                                     </div>
                                                 </div>
                                                 <div class="mb-4">
-                                                    <span class="text-[#8c9097] dark:text-white/50">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  --</span>
+                                                    <span class="text-[#8c9097]">- Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum autem quaerat distinctio  --</span>
                                                 </div>
                                                 <div class="flex items-center justify-between">
                                                     <div class="flex items-center">
-                                                        <span class="text-[#8c9097] dark:text-white/50">Rating : </span>
+                                                        <span class="text-[#8c9097]">Rating : </span>
                                                         <span class="text-warning block ms-1">
                                                             <i class="ri-star-fill"></i>
                                                             <i class="ri-star-fill"></i>
@@ -693,7 +693,7 @@
                                                             <i class="ri-star-fill"></i>
                                                         </span>
                                                     </div>
-                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] dark:text-white/50 text-end">
+                                                    <div class="ltr:float-right rtl:float-left text-[0.75rem] font-semibold text-[#8c9097] text-end">
                                                         <span>2 month ago</span>
                                                         <span class="block font-normal text-[0.75rem] text-success"><i>Julia Sams</i></span>
                                                     </div>
@@ -709,13 +709,13 @@
                     <!-- End:: Section-6 -->
 
                     <!-- Start:: Section-7 -->
-                    <section class="section  bg-[#f9fafb] section-bg text-defaulttextcolor dark:text-defaulttextcolor/70 text-[0.813rem]" id="team">
+                    <section class="section  bg-[#f9fafb] section-bg text-defaulttextcolor text-[0.813rem]" id="team">
                         <div class="container text-center">
                             <p class="text-[0.75rem] font-semibold text-success mb-1"><span class="landing-section-heading">OUR TEAM</span></p>
                             <h3 class="font-semibold mb-2">Great things in business are done by a team.</h3>
                             <div>
                                 <div class="xl:col-span-7 col-span-12">
-                                    <p class="text-[#8c9097] dark:text-white/50 text-[0.9375rem] mb-12 font-normal">Our team consists of highly qulified employees that works hard to raise company standards.</p>
+                                    <p class="text-[#8c9097] text-[0.9375rem] mb-12 font-normal">Our team consists of highly qulified employees that works hard to raise company standards.</p>
                                 </div>
                             </div>
                             <div class="grid grid-cols-12 gap-6">
@@ -726,8 +726,8 @@
                                                 <img src="{{asset('build/assets/images/faces/15.jpg')}}" alt="">
                                             </span>
                                             <p class="font-semibold text-[1.0625rem] mb-0 text-default">Peter Parker</p>
-                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.875rem] !text-primary font-semibold">Director</span>
-                                            <p class="text-[#8c9097] dark:text-white/50 mt-2 text-[0.8125rem] mb-4"> Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                            <span class="text-[#8c9097] text-[0.875rem] !text-primary font-semibold">Director</span>
+                                            <p class="text-[#8c9097] mt-2 text-[0.8125rem] mb-4"> Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                                             <div class="mt-2">
                                                 <a href="{{url('profile')}}" class="ti-btn ti-btn-light !font-medium" target="_blank">View profile</a>
                                             </div>
@@ -741,8 +741,8 @@
                                                 <img src="{{asset('build/assets/images/faces/12.jpg')}}" alt="">
                                             </span>
                                             <p class="font-semibold text-[1.0625rem] mb-0 text-default">Andrew garfield</p>
-                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.875rem] !text-primary font-semibold">Manager</span>
-                                            <p class="text-[#8c9097] dark:text-white/50 mt-2 text-[0.8125rem] mb-4"> Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                            <span class="text-[#8c9097] text-[0.875rem] !text-primary font-semibold">Manager</span>
+                                            <p class="text-[#8c9097] mt-2 text-[0.8125rem] mb-4"> Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                                             <div class="mt-2">
                                                 <a href="{{url('profile')}}" class="ti-btn ti-btn-light !font-medium" target="_blank">View profile</a>
                                             </div>
@@ -756,8 +756,8 @@
                                                 <img src="{{asset('build/assets/images/faces/5.jpg')}}" alt="">
                                             </span>
                                             <p class="font-semibold text-[1.0625rem] mb-0 text-default">Json Taylor</p>
-                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.875rem] !text-primary font-semibold">Web Designer</span>
-                                            <p class="text-[#8c9097] dark:text-white/50 mt-2 text-[0.8125rem] mb-4"> Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                            <span class="text-[#8c9097] text-[0.875rem] !text-primary font-semibold">Web Designer</span>
+                                            <p class="text-[#8c9097] mt-2 text-[0.8125rem] mb-4"> Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                                             <div class="mt-2">
                                                 <a href="{{url('profile')}}" class="ti-btn ti-btn-light !font-medium" target="_blank">View profile</a>
                                             </div>
@@ -771,8 +771,8 @@
                                                 <img src="{{asset('build/assets/images/faces/1.jpg')}}" alt="">
                                             </span>
                                             <p class="font-semibold text-[1.0625rem] mb-0 text-default">Elizabeth Rose</p>
-                                            <span class="text-[#8c9097] dark:text-white/50 text-[0.875rem] !text-primary font-semibold">HR</span>
-                                            <p class="text-[#8c9097] dark:text-white/50 mt-2 text-[0.8125rem] mb-4"> Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                            <span class="text-[#8c9097] text-[0.875rem] !text-primary font-semibold">HR</span>
+                                            <p class="text-[#8c9097] mt-2 text-[0.8125rem] mb-4"> Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                                             <div class="mt-2">
                                                 <a href="{{url('profile')}}" class="ti-btn ti-btn-light !font-medium" target="_blank">View profile</a>
                                             </div>
@@ -788,13 +788,13 @@
                     <!-- End:: Section-7 -->
 
                     <!-- Start:: Section-8 -->
-                    <section class="section text-defaulttextcolor dark:text-defaulttextcolor/70 text-[0.813rem] " id="pricing">
+                    <section class="section text-defaulttextcolor text-[0.813rem] " id="pricing">
                         <div class="container text-center">
                             <p class="text-[0.75rem] font-semibold text-success mb-1"><span class="landing-section-heading">PRICING</span></p>
                             <h3 class="font-semibold mb-2">ynex comes with most affordable pricing range.</h3>
                             <div class="grid grid-cols-12 justify-center">
                                 <div class="col-span-12">
-                                    <p class="text-[#8c9097] dark:text-white/50 text-[0.9375rem] mb-12 font-normal">Our plans are most affordable and are mainly placed by focussing every category in the sector even basic plan helps better.</p>
+                                    <p class="text-[#8c9097] text-[0.9375rem] mb-12 font-normal">Our plans are most affordable and are mainly placed by focussing every category in the sector even basic plan helps better.</p>
                                 </div>
                             </div>
                             <div class="flex justify-center mb-6">
@@ -809,11 +809,11 @@
                             </div>
                             <div class="box overflow-hidden shadow-none justify-center">
                                 <div class="box-body !p-0">
-                                    <div class="tab-content dark:!border-defaultborder/10" id="myTabContent">
-                                        <div class="tab-pane show active !p-0 dark:!border-defaultborder/10" id="pricing-monthly-pane" aria-labelledby="pm-item"
+                                    <div class="tab-content" id="myTabContent">
+                                        <div class="tab-pane show active !p-0" id="pricing-monthly-pane" aria-labelledby="pm-item"
                                             role="tabpanel" tabindex="0">
                                             <div class="grid grid-cols-12 justify-center">
-                                                <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-4 md:col-span-4 sm:col-span-12 col-span-12  md:border-e md:border-b-0 border-b border-dashed dark:border-defaultborder/10">
+                                                <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-4 md:col-span-4 sm:col-span-12 col-span-12  md:border-e md:border-b-0 border-b border-dashed">
                                                     <div class="p-6">
                                                         <h6 class="font-semibold text-center text-[1rem]">BASIC</h6>
                                                         <div class="py-6 flex items-center justify-center">
@@ -822,27 +822,27 @@
                                                             </div>
                                                             <div class="text-end ms-[3rem]">
                                                                 <p class="text-[1.5625rem] font-semibold mb-0">$199</p>
-                                                                <p class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] font-semibold mb-0">per month</p>
+                                                                <p class="text-[#8c9097] text-[0.6875rem] font-semibold mb-0">per month</p>
                                                             </div>
                                                         </div>
                                                         <ul class="list-unstyled text-center text-[0.75rem] px-4 pt-4 mb-0">
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Storage Capacity<span class="badge bg-light text-default ms-1">1Tb</span></span>
+                                                                <span class="text-[#8c9097]">Storage Capacity<span class="badge bg-light text-default ms-1">1Tb</span></span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Daily Updates<span class="badge bg-light text-default ms-1">Unlimited</span></span>
+                                                                <span class="text-[#8c9097]">Daily Updates<span class="badge bg-light text-default ms-1">Unlimited</span></span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Online Support</span>
+                                                                <span class="text-[#8c9097]">Online Support</span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Visitors Monitoring<span class="badge bg-light text-default ms-1">24/7</span></span>
+                                                                <span class="text-[#8c9097]">Visitors Monitoring<span class="badge bg-light text-default ms-1">24/7</span></span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">2 Free Domains</span>
+                                                                <span class="text-[#8c9097]">2 Free Domains</span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Money Back Guarentee</span>
+                                                                <span class="text-[#8c9097]">Money Back Guarentee</span>
                                                             </li>
                                                         </ul>
                                                         <div class="grid">
@@ -850,7 +850,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-4 md:col-span-4 sm:col-span-12 col-span-12  md:border-e md:border-b-0 border-b border-dashed dark:border-defaultborder/10">
+                                                <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-4 md:col-span-4 sm:col-span-12 col-span-12  md:border-e md:border-b-0 border-b border-dashed">
                                                     <div class="p-6">
                                                         <h6 class="font-semibold text-center text-[1rem]">ADVANCED</h6>
                                                         <div class="py-6 flex items-center justify-center">
@@ -859,27 +859,27 @@
                                                             </div>
                                                             <div class="text-end ms-[3rem]">
                                                                 <p class="text-[1.5625rem] font-semibold mb-0">$499</p>
-                                                                <p class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] font-semibold mb-0">per month</p>
+                                                                <p class="text-[#8c9097] text-[0.6875rem] font-semibold mb-0">per month</p>
                                                             </div>
                                                         </div>
                                                         <ul class="list-unstyled text-center text-[0.75rem] px-4 pt-4 mb-0">
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Storage Capacity<span class="badge bg-light text-default ms-1">5Tb</span></span>
+                                                                <span class="text-[#8c9097]">Storage Capacity<span class="badge bg-light text-default ms-1">5Tb</span></span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Daily Updates<span class="badge bg-light text-default ms-1">Unlimited</span></span>
+                                                                <span class="text-[#8c9097]">Daily Updates<span class="badge bg-light text-default ms-1">Unlimited</span></span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Online Support</span>
+                                                                <span class="text-[#8c9097]">Online Support</span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Visitors Monitoring<span class="badge bg-light text-default ms-1">24/7</span></span>
+                                                                <span class="text-[#8c9097]">Visitors Monitoring<span class="badge bg-light text-default ms-1">24/7</span></span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">10 Free Domains</span>
+                                                                <span class="text-[#8c9097]">10 Free Domains</span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Money Back Guarentee</span>
+                                                                <span class="text-[#8c9097]">Money Back Guarentee</span>
                                                             </li>
                                                         </ul>
                                                         <div class="grid">
@@ -899,27 +899,27 @@
                                                             </div>
                                                             <div class="text-end ms-[3rem]">
                                                                 <p class="text-[1.5625rem] font-semibold mb-0 !text-primary">$1,299</p>
-                                                                <p class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] font-semibold mb-0">per month</p>
+                                                                <p class="text-[#8c9097] text-[0.6875rem] font-semibold mb-0">per month</p>
                                                             </div>
                                                         </div>
                                                         <ul class="list-unstyled text-center text-[0.75rem] px-4 pt-4 mb-0">
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Storage Capacity<span class="badge bg-light text-default ms-1">10Tb</span></span>
+                                                                <span class="text-[#8c9097]">Storage Capacity<span class="badge bg-light text-default ms-1">10Tb</span></span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Daily Updates<span class="badge bg-light text-default ms-1">Unlimited</span></span>
+                                                                <span class="text-[#8c9097]">Daily Updates<span class="badge bg-light text-default ms-1">Unlimited</span></span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Online Support</span>
+                                                                <span class="text-[#8c9097]">Online Support</span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Visitors Monitoring<span class="badge bg-light text-default ms-1">24/7</span></span>
+                                                                <span class="text-[#8c9097]">Visitors Monitoring<span class="badge bg-light text-default ms-1">24/7</span></span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">30 Free Domains</span>
+                                                                <span class="text-[#8c9097]">30 Free Domains</span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Money Back Guarentee</span>
+                                                                <span class="text-[#8c9097]">Money Back Guarentee</span>
                                                             </li>
                                                         </ul>
                                                         <div class="grid">
@@ -929,10 +929,10 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="tab-pane !p-0 border dark:border-defaultborder/10 hidden" id="pricing-yearly-pane" aria-labelledby="py-item"
+                                        <div class="tab-pane !p-0 border hidden" id="pricing-yearly-pane" aria-labelledby="py-item"
                                             role="tabpanel" tabindex="0">
                                             <div class="grid grid-cols-12">
-                                                <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-4 md:col-span-4 sm:col-span-12 col-span-12  md:border-e md:border-b-0 border-b border-dashed dark:border-defaultborder/10">
+                                                <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-4 md:col-span-4 sm:col-span-12 col-span-12  md:border-e md:border-b-0 border-b border-dashed">
                                                     <div class="p-6">
                                                         <h6 class="font-semibold text-center text-[1rem]">BASIC</h6>
                                                         <div class="py-6 flex items-center justify-center">
@@ -941,27 +941,27 @@
                                                             </div>
                                                             <div class="text-end ms-[3rem]">
                                                                 <p class="text-[1.5625rem] font-semibold mb-0">$1,499</p>
-                                                                <p class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] font-semibold mb-0">per year</p>
+                                                                <p class="text-[#8c9097] text-[0.6875rem] font-semibold mb-0">per year</p>
                                                             </div>
                                                         </div>
                                                         <ul class="list-unstyled text-center text-[0.75rem] px-4 pt-4 mb-0">
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Storage Capacity<span class="badge bg-light text-default ms-1">1Tb</span></span>
+                                                                <span class="text-[#8c9097]">Storage Capacity<span class="badge bg-light text-default ms-1">1Tb</span></span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Daily Updates<span class="badge bg-light text-default ms-1">Unlimited</span></span>
+                                                                <span class="text-[#8c9097]">Daily Updates<span class="badge bg-light text-default ms-1">Unlimited</span></span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Online Support</span>
+                                                                <span class="text-[#8c9097]">Online Support</span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Visitors Monitoring<span class="badge bg-light text-default ms-1">24/7</span></span>
+                                                                <span class="text-[#8c9097]">Visitors Monitoring<span class="badge bg-light text-default ms-1">24/7</span></span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">2 Free Domains</span>
+                                                                <span class="text-[#8c9097]">2 Free Domains</span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Money Back Guarentee</span>
+                                                                <span class="text-[#8c9097]">Money Back Guarentee</span>
                                                             </li>
                                                         </ul>
                                                         <div class="grid">
@@ -969,7 +969,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-4 md:col-span-4 sm:col-span-12 col-span-12  md:border-e md:border-b-0 border-b border-dashed dark:border-defaultborder/10">
+                                                <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-4 md:col-span-4 sm:col-span-12 col-span-12  md:border-e md:border-b-0 border-b border-dashed">
                                                     <div class="p-6">
                                                         <h6 class="font-semibold text-center text-[1rem]">ADVANCED</h6>
                                                         <div class="py-6 flex items-center justify-center">
@@ -978,27 +978,27 @@
                                                             </div>
                                                             <div class="text-end ms-[3rem]">
                                                                 <p class="text-[1.5625rem] font-semibold mb-0">$5,999</p>
-                                                                <p class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] font-semibold mb-0">per year</p>
+                                                                <p class="text-[#8c9097] text-[0.6875rem] font-semibold mb-0">per year</p>
                                                             </div>
                                                         </div>
                                                         <ul class="list-unstyled text-center text-[0.75rem] px-4 pt-4 mb-0">
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Storage Capacity<span class="badge bg-light text-default ms-1">5Tb</span></span>
+                                                                <span class="text-[#8c9097]">Storage Capacity<span class="badge bg-light text-default ms-1">5Tb</span></span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Daily Updates<span class="badge bg-light text-default ms-1">Unlimited</span></span>
+                                                                <span class="text-[#8c9097]">Daily Updates<span class="badge bg-light text-default ms-1">Unlimited</span></span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Online Support</span>
+                                                                <span class="text-[#8c9097]">Online Support</span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Visitors Monitoring<span class="badge bg-light text-default ms-1">24/7</span></span>
+                                                                <span class="text-[#8c9097]">Visitors Monitoring<span class="badge bg-light text-default ms-1">24/7</span></span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">10 Free Domains</span>
+                                                                <span class="text-[#8c9097]">10 Free Domains</span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Money Back Guarentee</span>
+                                                                <span class="text-[#8c9097]">Money Back Guarentee</span>
                                                             </li>
                                                         </ul>
                                                         <div class="grid">
@@ -1018,27 +1018,27 @@
                                                             </div>
                                                             <div class="text-end ms-[3rem]">
                                                                 <p class="text-[1.5625rem] font-semibold mb-0 !text-primary">$11,499</p>
-                                                                <p class="text-[#8c9097] dark:text-white/50 text-[0.6875rem] font-semibold mb-0">per year</p>
+                                                                <p class="text-[#8c9097] text-[0.6875rem] font-semibold mb-0">per year</p>
                                                             </div>
                                                         </div>
                                                         <ul class="list-unstyled text-center text-[0.75rem] px-4 pt-4 mb-0">
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Storage Capacity<span class="badge bg-light text-default ms-1">10Tb</span></span>
+                                                                <span class="text-[#8c9097]">Storage Capacity<span class="badge bg-light text-default ms-1">10Tb</span></span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Daily Updates<span class="badge bg-light text-default ms-1">Unlimited</span></span>
+                                                                <span class="text-[#8c9097]">Daily Updates<span class="badge bg-light text-default ms-1">Unlimited</span></span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Online Support</span>
+                                                                <span class="text-[#8c9097]">Online Support</span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Visitors Monitoring<span class="badge bg-light text-default ms-1">24/7</span></span>
+                                                                <span class="text-[#8c9097]">Visitors Monitoring<span class="badge bg-light text-default ms-1">24/7</span></span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">30 Free Domains</span>
+                                                                <span class="text-[#8c9097]">30 Free Domains</span>
                                                             </li>
                                                             <li class="mb-4">
-                                                                <span class="text-[#8c9097] dark:text-white/50">Money Back Guarentee</span>
+                                                                <span class="text-[#8c9097]">Money Back Guarentee</span>
                                                             </li>
                                                         </ul>
                                                         <div class="grid">
@@ -1056,13 +1056,13 @@
                     <!-- End:: Section-8 -->
 
                     <!-- Start:: Section-9 -->
-                    <section class="section bg-[#f9fafb] section-bg text-defaulttextcolor dark:text-defaulttextcolor/70 text-[0.813rem]" id="faq">
+                    <section class="section bg-[#f9fafb] section-bg text-defaulttextcolor text-[0.813rem]" id="faq">
                         <div class="container text-center">
                             <p class="text-[0.75rem] font-semibold text-success mb-1"><span class="landing-section-heading">F.A.Q</span></p>
                             <h3 class="font-semibold mb-2">Frequently asked questions ?</h3>
                             <div class="grid grid-cols-12 justify-center">
                                 <div class="col-span-12">
-                                    <p class="text-[#8c9097] dark:text-white/50 text-[0.9375rem] mb-12 font-normal">We have shared some of the most frequently asked questions to help you out.</p>
+                                    <p class="text-[#8c9097] text-[0.9375rem] mb-12 font-normal">We have shared some of the most frequently asked questions to help you out.</p>
                                 </div>
                             </div>
                             <div class="grid grid-cols-12 gap-6 text-start">
@@ -1071,21 +1071,21 @@
                                         <div class="xl:col-span-6 col-span-12">
                                             <div class="accordion accordion-customicon1 accordion-primary accordions-items-seperate" id="accordionFAQ1">
                                                 <div class="hs-accordion-group">
-                                                    <div class="hs-accordion active bg-white dark:bg-bodybg  border dark:border-defaultborder/10 mt-[0.5rem] rounded-sm  dark:border dark:border-defaultborder/10-white/10"
+                                                    <div class="hs-accordion active bg-white  border mt-[0.5rem] rounded-sm "
                                                         id="faq-one">
                                                         <button type="button"
-                                                        class="hs-accordion-toggle hs-accordion-active:!text-primary hs-accordion-active:border dark:border-defaultborder/10-b hs-accordion-active:bg-primary/10   dark:border-defaultborder/10 dark:hs-accordion-active:border dark:border-defaultborder/10-white/10 justify-between inline-flex items-center w-full font-semibold text-start text-[0.85rem] transition py-3 px-4 dark:hs-accordion-active:!text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                        class="hs-accordion-toggle hs-accordion-active:!text-primary hs-accordion-active:border hs-accordion-active:bg-primary/10   justify-between inline-flex items-center w-full font-semibold text-start text-[0.85rem] transition py-3 px-4"
                                                         aria-controls="faq-collapse-one">
                                                         Where can I subscribe to your newsletter?
                                                         <svg
-                                                            class="hs-accordion-active:hidden hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary block w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor dark:text-defaulttextcolor/70 "
+                                                            class="hs-accordion-active:hidden hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary block w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor "
                                                             width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                             <path d="M1.5 8.85999L14.5 8.85998" stroke="currentColor" stroke-width="2"
                                                             stroke-linecap="round" />
                                                             <path d="M8 15.36L8 2.35999" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                         </svg>
                                                         <svg
-                                                            class="hs-accordion-active:block hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary hidden w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor dark:text-defaulttextcolor/70 "
+                                                            class="hs-accordion-active:block hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary hidden w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor "
                                                             width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                             <path d="M1.5 8.85999L14.5 8.85998" stroke="currentColor" stroke-width="2"
                                                             stroke-linecap="round" />
@@ -1095,7 +1095,7 @@
                                                         class="hs-accordion-content w-full overflow-hidden transition-[height] duration-300"
                                                         aria-labelledby="faq-one">
                                                         <div class="p-5">
-                                                            <p class="text-defaulttextcolor dark:text-defaulttextcolor/70 ">
+                                                            <p class="text-defaulttextcolor ">
                                                                 <strong>This is the first item's accordion body.</strong> It is shown by
                                                                 default, until the collapse plugin adds the appropriate classes that we
                                                                 use to style each element. These classes control the overall appearance,
@@ -1107,21 +1107,21 @@
                                                         </div>
                                                         </div>
                                                     </div>
-                                                    <div class="hs-accordion bg-white dark:bg-bodybg border dark:border-defaultborder/10 mt-[0.5rem] rounded-sm dark:border-defaultborder/10-white/10"
+                                                    <div class="hs-accordion bg-white border mt-[0.5rem] rounded-sm"
                                                         id="faq-two">
                                                         <button type="button"
-                                                        class="hs-accordion-toggle hs-accordion-active:!text-primary hs-accordion-active:border dark:border-defaultborder/10-b hs-accordion-active:bg-primary/10   dark:border-defaultborder/10 dark:hs-accordion-active:border dark:border-defaultborder/10-white/10 justify-between inline-flex items-center w-full font-semibold text-start text-[0.85rem] transition py-3 px-4 dark:hs-accordion-active:!text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                        class="hs-accordion-toggle hs-accordion-active:!text-primary hs-accordion-active:border hs-accordion-active:bg-primary/10   justify-between inline-flex items-center w-full font-semibold text-start text-[0.85rem] transition py-3 px-4"
                                                         aria-controls="faq-collapse-two">
                                                         Where can in edit my address?
                                                         <svg
-                                                            class="hs-accordion-active:hidden hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary block w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor dark:text-defaulttextcolor/70 "
+                                                            class="hs-accordion-active:hidden hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary block w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor "
                                                             width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                             <path d="M1.5 8.85999L14.5 8.85998" stroke="currentColor" stroke-width="2"
                                                             stroke-linecap="round" />
                                                             <path d="M8 15.36L8 2.35999" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                         </svg>
                                                         <svg
-                                                            class="hs-accordion-active:block hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary hidden w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor dark:text-defaulttextcolor/70 "
+                                                            class="hs-accordion-active:block hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary hidden w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor "
                                                             width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                             <path d="M1.5 8.85999L14.5 8.85998" stroke="currentColor" stroke-width="2"
                                                             stroke-linecap="round" />
@@ -1131,7 +1131,7 @@
                                                         class="hs-accordion-content w-full overflow-hidden hidden transition-[height] duration-300"
                                                         aria-labelledby="faq-two">
                                                         <div class="p-5">
-                                                            <p class="text-defaulttextcolor dark:text-defaulttextcolor/70 ">
+                                                            <p class="text-defaulttextcolor ">
                                                                 <strong>This is the first item's accordion body.</strong> It is shown by
                                                                 default, until the collapse plugin adds the appropriate classes that we
                                                                 use to style each element. These classes control the overall appearance,
@@ -1143,21 +1143,21 @@
                                                         </div>
                                                         </div>
                                                     </div>
-                                                    <div class="hs-accordion bg-white dark:bg-bodybg border dark:border-defaultborder/10 mt-[0.5rem] rounded-sm dark:border-defaultborder/10-white/10"
+                                                    <div class="hs-accordion bg-white border mt-[0.5rem] rounded-sm"
                                                         id="faq-twenty">
                                                         <button type="button"
-                                                        class="hs-accordion-toggle hs-accordion-active:!text-primary hs-accordion-active:border dark:border-defaultborder/10-b hs-accordion-active:bg-primary/10   dark:border-defaultborder/10 dark:hs-accordion-active:border dark:border-defaultborder/10-white/10 justify-between inline-flex items-center w-full font-semibold text-start text-[0.85rem] transition py-3 px-4 dark:hs-accordion-active:!text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                        class="hs-accordion-toggle hs-accordion-active:!text-primary hs-accordion-active:border hs-accordion-active:bg-primary/10   justify-between inline-flex items-center w-full font-semibold text-start text-[0.85rem] transition py-3 px-4"
                                                         aria-controls="faq-collapse-three">
                                                         What are your opening hours?
                                                         <svg
-                                                            class="hs-accordion-active:hidden hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary block w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor dark:text-defaulttextcolor/70 "
+                                                            class="hs-accordion-active:hidden hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary block w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor "
                                                             width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                             <path d="M1.5 8.85999L14.5 8.85998" stroke="currentColor" stroke-width="2"
                                                             stroke-linecap="round" />
                                                             <path d="M8 15.36L8 2.35999" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                         </svg>
                                                         <svg
-                                                            class="hs-accordion-active:block hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary hidden w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor dark:text-defaulttextcolor/70 "
+                                                            class="hs-accordion-active:block hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary hidden w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor "
                                                             width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                             <path d="M1.5 8.85999L14.5 8.85998" stroke="currentColor" stroke-width="2"
                                                             stroke-linecap="round" />
@@ -1167,7 +1167,7 @@
                                                         class="hs-accordion-content w-full overflow-hidden hidden transition-[height] duration-300"
                                                         aria-labelledby="faq-twenty">
                                                         <div class="p-5">
-                                                            <p class="text-defaulttextcolor dark:text-defaulttextcolor/70 ">
+                                                            <p class="text-defaulttextcolor ">
                                                                 <strong>This is the first item's accordion body.</strong> It is shown by
                                                                 default, until the collapse plugin adds the appropriate classes that we
                                                                 use to style each element. These classes control the overall appearance,
@@ -1179,21 +1179,21 @@
                                                         </div>
                                                         </div>
                                                     </div>
-                                                    <div class="hs-accordion bg-white dark:bg-bodybg border dark:border-defaultborder/10 mt-[0.5rem] rounded-sm dark:border-defaultborder/10-white/10"
+                                                    <div class="hs-accordion bg-white border mt-[0.5rem] rounded-sm"
                                                     id="faq-thirty">
                                                     <button type="button"
-                                                        class="hs-accordion-toggle hs-accordion-active:!text-primary hs-accordion-active:border dark:border-defaultborder/10-b hs-accordion-active:bg-primary/10   dark:border-defaultborder/10 dark:hs-accordion-active:border dark:border-defaultborder/10-white/10 justify-between inline-flex items-center w-full font-semibold text-start text-[0.85rem] transition py-3 px-4 dark:hs-accordion-active:!text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                        class="hs-accordion-toggle hs-accordion-active:!text-primary hs-accordion-active:border hs-accordion-active:bg-primary/10   justify-between inline-flex items-center w-full font-semibold text-start text-[0.85rem] transition py-3 px-4"
                                                         aria-controls="faq-collapse-four">
                                                         Do I have the right to return an item?
                                                         <svg
-                                                        class="hs-accordion-active:hidden hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary block w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor dark:text-defaulttextcolor/70 "
+                                                        class="hs-accordion-active:hidden hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary block w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor "
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M1.5 8.85999L14.5 8.85998" stroke="currentColor" stroke-width="2"
                                                             stroke-linecap="round" />
                                                         <path d="M8 15.36L8 2.35999" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                         </svg>
                                                         <svg
-                                                        class="hs-accordion-active:block hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary hidden w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor dark:text-defaulttextcolor/70 "
+                                                        class="hs-accordion-active:block hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary hidden w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor "
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M1.5 8.85999L14.5 8.85998" stroke="currentColor" stroke-width="2"
                                                             stroke-linecap="round" />
@@ -1203,7 +1203,7 @@
                                                         class="hs-accordion-content w-full overflow-hidden hidden transition-[height] duration-300"
                                                         aria-labelledby="faq-thirty">
                                                         <div class="p-5">
-                                                        <p class="text-defaulttextcolor dark:text-defaulttextcolor/70 ">
+                                                        <p class="text-defaulttextcolor ">
                                                             <strong>This is the first item's accordion body.</strong> It is shown by
                                                             default, until the collapse plugin adds the appropriate classes that we
                                                             use to style each element. These classes control the overall appearance,
@@ -1215,21 +1215,21 @@
                                                         </div>
                                                     </div>
                                                     </div>
-                                                    <div class="hs-accordion bg-white dark:bg-bodybg border dark:border-defaultborder/10 mt-[0.5rem] rounded-sm dark:border-defaultborder/10-white/10"
+                                                    <div class="hs-accordion bg-white border mt-[0.5rem] rounded-sm"
                                                     id="faq-three">
                                                     <button type="button"
-                                                        class="hs-accordion-toggle hs-accordion-active:!text-primary hs-accordion-active:border dark:border-defaultborder/10-b hs-accordion-active:bg-primary/10   dark:border-defaultborder/10 dark:hs-accordion-active:border dark:border-defaultborder/10-white/10 justify-between inline-flex items-center w-full font-semibold text-start text-[0.85rem] transition py-3 px-4 dark:hs-accordion-active:!text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                        class="hs-accordion-toggle hs-accordion-active:!text-primary hs-accordion-active:border hs-accordion-active:bg-primary/10   justify-between inline-flex items-center w-full font-semibold text-start text-[0.85rem] transition py-3 px-4"
                                                         aria-controls="faq-collapse-five">
                                                         General Terms &amp; Conditions (GTC)
                                                         <svg
-                                                        class="hs-accordion-active:hidden hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary block w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor dark:text-defaulttextcolor/70 "
+                                                        class="hs-accordion-active:hidden hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary block w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor "
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M1.5 8.85999L14.5 8.85998" stroke="currentColor" stroke-width="2"
                                                             stroke-linecap="round" />
                                                         <path d="M8 15.36L8 2.35999" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                         </svg>
                                                         <svg
-                                                        class="hs-accordion-active:block hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary hidden w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor dark:text-defaulttextcolor/70 "
+                                                        class="hs-accordion-active:block hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary hidden w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor "
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M1.5 8.85999L14.5 8.85998" stroke="currentColor" stroke-width="2"
                                                             stroke-linecap="round" />
@@ -1239,7 +1239,7 @@
                                                         class="hs-accordion-content w-full overflow-hidden hidden transition-[height] duration-300"
                                                         aria-labelledby="faq-three">
                                                         <div class="p-5">
-                                                        <p class="text-defaulttextcolor dark:text-defaulttextcolor/70 ">
+                                                        <p class="text-defaulttextcolor ">
                                                             <strong>This is the first item's accordion body.</strong> It is shown by
                                                             default, until the collapse plugin adds the appropriate classes that we
                                                             use to style each element. These classes control the overall appearance,
@@ -1251,21 +1251,21 @@
                                                         </div>
                                                     </div>
                                                     </div>
-                                                    <div class="hs-accordion bg-white dark:bg-bodybg border dark:border-defaultborder/10 mt-[0.5rem] rounded-sm dark:border-defaultborder/10-white/10"
+                                                    <div class="hs-accordion bg-white border mt-[0.5rem] rounded-sm"
                                                     id="faq-four">
                                                     <button type="button"
-                                                        class="hs-accordion-toggle hs-accordion-active:!text-primary hs-accordion-active:border dark:border-defaultborder/10-b hs-accordion-active:bg-primary/10   dark:border-defaultborder/10 dark:hs-accordion-active:border dark:border-defaultborder/10-white/10 justify-between inline-flex items-center w-full font-semibold text-start text-[0.85rem] transition py-3 px-4 dark:hs-accordion-active:!text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                        class="hs-accordion-toggle hs-accordion-active:!text-primary hs-accordion-active:border hs-accordion-active:bg-primary/10   justify-between inline-flex items-center w-full font-semibold text-start text-[0.85rem] transition py-3 px-4"
                                                         aria-controls="faq-collapse-six">
                                                         Do I need to create an account to make an order?
                                                         <svg
-                                                        class="hs-accordion-active:hidden hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary block w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor dark:text-defaulttextcolor/70 "
+                                                        class="hs-accordion-active:hidden hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary block w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor "
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M1.5 8.85999L14.5 8.85998" stroke="currentColor" stroke-width="2"
                                                             stroke-linecap="round" />
                                                         <path d="M8 15.36L8 2.35999" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                         </svg>
                                                         <svg
-                                                        class="hs-accordion-active:block hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary hidden w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor dark:text-defaulttextcolor/70 "
+                                                        class="hs-accordion-active:block hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary hidden w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor "
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M1.5 8.85999L14.5 8.85998" stroke="currentColor" stroke-width="2"
                                                             stroke-linecap="round" />
@@ -1275,7 +1275,7 @@
                                                         class="hs-accordion-content w-full overflow-hidden hidden transition-[height] duration-300"
                                                         aria-labelledby="faq-four">
                                                         <div class="p-5">
-                                                        <p class="text-defaulttextcolor dark:text-defaulttextcolor/70 ">
+                                                        <p class="text-defaulttextcolor ">
                                                             <strong>This is the first item's accordion body.</strong> It is shown by
                                                             default, until the collapse plugin adds the appropriate classes that we
                                                             use to style each element. These classes control the overall appearance,
@@ -1293,21 +1293,21 @@
                                         <div class="xl:col-span-6 col-span-12">
                                             <div class="accordion accordion-customicon1 accordion-primary accordions-items-seperate" id="accordionFAQ2">
                                                 <div class="hs-accordion-group">
-                                                    <div class="hs-accordion active bg-white dark:bg-bodybg border dark:border-defaultborder/10 mt-[0.5rem] rounded-sm dark:border dark:border-defaultborder/10-white/10"
+                                                    <div class="hs-accordion active bg-white border mt-[0.5rem] rounded-sm"
                                                     id="faq-five">
                                                     <button type="button"
-                                                        class="hs-accordion-toggle hs-accordion-active:!text-primary hs-accordion-active:border dark:border-defaultborder/10-b hs-accordion-active:bg-primary/10   dark:border-defaultborder/10 dark:hs-accordion-active:border dark:border-defaultborder/10-white/10 justify-between inline-flex items-center w-full font-semibold text-start text-[0.85rem] transition py-3 px-4 dark:hs-accordion-active:!text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                        class="hs-accordion-toggle hs-accordion-active:!text-primary hs-accordion-active:border hs-accordion-active:bg-primary/10   justify-between inline-flex items-center w-full font-semibold text-start text-[0.85rem] transition py-3 px-4"
                                                         aria-controls="faq-collapse-seven">
                                                         General Terms &amp; Conditions (GTC)
                                                         <svg
-                                                        class="hs-accordion-active:hidden hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary block w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor dark:text-defaulttextcolor/70 "
+                                                        class="hs-accordion-active:hidden hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary block w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor "
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M1.5 8.85999L14.5 8.85998" stroke="currentColor" stroke-width="2"
                                                             stroke-linecap="round" />
                                                         <path d="M8 15.36L8 2.35999" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                         </svg>
                                                         <svg
-                                                        class="hs-accordion-active:block hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary hidden w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor dark:text-defaulttextcolor/70 "
+                                                        class="hs-accordion-active:block hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary hidden w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor "
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M1.5 8.85999L14.5 8.85998" stroke="currentColor" stroke-width="2"
                                                             stroke-linecap="round" />
@@ -1317,7 +1317,7 @@
                                                         class="hs-accordion-content w-full overflow-hidden transition-[height] duration-300"
                                                         aria-labelledby="faq-five">
                                                         <div class="p-5">
-                                                        <p class="text-defaulttextcolor dark:text-defaulttextcolor/70 ">
+                                                        <p class="text-defaulttextcolor ">
                                                             <strong>This is the first item's accordion body.</strong> It is shown by
                                                             default, until the collapse plugin adds the appropriate classes that we
                                                             use to style each element. These classes control the overall appearance,
@@ -1329,21 +1329,21 @@
                                                         </div>
                                                     </div>
                                                     </div>
-                                                    <div class="hs-accordion bg-white dark:bg-bodybg border dark:border-defaultborder/10 mt-[0.5rem] rounded-sm dark:border dark:border-defaultborder/10-white/10"
+                                                    <div class="hs-accordion bg-white border mt-[0.5rem] rounded-sm"
                                                     id="faq-six">
                                                     <button type="button"
-                                                        class="hs-accordion-toggle hs-accordion-active:!text-primary hs-accordion-active:border dark:border-defaultborder/10-b hs-accordion-active:bg-primary/10   dark:border-defaultborder/10 dark:hs-accordion-active:border dark:border-defaultborder/10-white/10 justify-between inline-flex items-center w-full font-semibold text-start text-[0.85rem] transition py-3 px-4 dark:hs-accordion-active:!text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                        class="hs-accordion-toggle hs-accordion-active:!text-primary hs-accordion-active:border hs-accordion-active:bg-primary/10   justify-between inline-flex items-center w-full font-semibold text-start text-[0.85rem] transition py-3 px-4"
                                                         aria-controls="faq-collapse-eight">
                                                         Do I need to create an account to make an order?
                                                         <svg
-                                                        class="hs-accordion-active:hidden hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary block w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor dark:text-defaulttextcolor/70 "
+                                                        class="hs-accordion-active:hidden hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary block w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor "
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M1.5 8.85999L14.5 8.85998" stroke="currentColor" stroke-width="2"
                                                             stroke-linecap="round" />
                                                         <path d="M8 15.36L8 2.35999" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                         </svg>
                                                         <svg
-                                                        class="hs-accordion-active:block hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary hidden w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor dark:text-defaulttextcolor/70 "
+                                                        class="hs-accordion-active:block hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary hidden w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor "
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M1.5 8.85999L14.5 8.85998" stroke="currentColor" stroke-width="2"
                                                             stroke-linecap="round" />
@@ -1353,7 +1353,7 @@
                                                         class="hs-accordion-content w-full overflow-hidden hidden transition-[height] duration-300"
                                                         aria-labelledby="faq-six">
                                                         <div class="p-5">
-                                                        <p class="text-defaulttextcolor dark:text-defaulttextcolor/70 ">
+                                                        <p class="text-defaulttextcolor ">
                                                             <strong>This is the first item's accordion body.</strong> It is shown by
                                                             default, until the collapse plugin adds the appropriate classes that we
                                                             use to style each element. These classes control the overall appearance,
@@ -1365,21 +1365,21 @@
                                                         </div>
                                                     </div>
                                                     </div>
-                                                    <div class="hs-accordion bg-white dark:bg-bodybg border dark:border-defaultborder/10 mt-[0.5rem] rounded-sm dark:border dark:border-defaultborder/10-white/10"
+                                                    <div class="hs-accordion bg-white border mt-[0.5rem] rounded-sm"
                                                     id="faq-seven">
                                                     <button type="button"
-                                                        class="hs-accordion-toggle hs-accordion-active:!text-primary hs-accordion-active:border dark:border-defaultborder/10-b hs-accordion-active:bg-primary/10   dark:border-defaultborder/10 dark:hs-accordion-active:border dark:border-defaultborder/10-white/10 justify-between inline-flex items-center w-full font-semibold text-start text-[0.85rem] transition py-3 px-4 dark:hs-accordion-active:!text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                        class="hs-accordion-toggle hs-accordion-active:!text-primary hs-accordion-active:border hs-accordion-active:bg-primary/10   justify-between inline-flex items-center w-full font-semibold text-start text-[0.85rem] transition py-3 px-4"
                                                         aria-controls="faq-collapse-nine">
                                                         Where can I subscribe to your newsletter?
                                                         <svg
-                                                        class="hs-accordion-active:hidden hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary block w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor dark:text-defaulttextcolor/70 "
+                                                        class="hs-accordion-active:hidden hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary block w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor "
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M1.5 8.85999L14.5 8.85998" stroke="currentColor" stroke-width="2"
                                                             stroke-linecap="round" />
                                                         <path d="M8 15.36L8 2.35999" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                         </svg>
                                                         <svg
-                                                        class="hs-accordion-active:block hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary hidden w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor dark:text-defaulttextcolor/70 "
+                                                        class="hs-accordion-active:block hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary hidden w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor "
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M1.5 8.85999L14.5 8.85998" stroke="currentColor" stroke-width="2"
                                                             stroke-linecap="round" />
@@ -1389,7 +1389,7 @@
                                                         class="hs-accordion-content w-full overflow-hidden hidden transition-[height] duration-300"
                                                         aria-labelledby="faq-seven">
                                                         <div class="p-5">
-                                                        <p class="text-defaulttextcolor dark:text-defaulttextcolor/70 ">
+                                                        <p class="text-defaulttextcolor ">
                                                             <strong>This is the first item's accordion body.</strong> It is shown by
                                                             default, until the collapse plugin adds the appropriate classes that we
                                                             use to style each element. These classes control the overall appearance,
@@ -1401,21 +1401,21 @@
                                                         </div>
                                                     </div>
                                                     </div>
-                                                    <div class="hs-accordion bg-white dark:bg-bodybg border dark:border-defaultborder/10 mt-[0.5rem] rounded-sm dark:border dark:border-defaultborder/10-white/10"
+                                                    <div class="hs-accordion bg-white border mt-[0.5rem] rounded-sm"
                                                     id="faq-eight">
                                                     <button type="button"
-                                                    class="hs-accordion-toggle hs-accordion-active:!text-primary hs-accordion-active:border dark:border-defaultborder/10-b hs-accordion-active:bg-primary/10   dark:border-defaultborder/10 dark:hs-accordion-active:border dark:border-defaultborder/10-white/10 justify-between inline-flex items-center w-full font-semibold text-start text-[0.85rem] transition py-3 px-4 dark:hs-accordion-active:!text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                    class="hs-accordion-toggle hs-accordion-active:!text-primary hs-accordion-active:border hs-accordion-active:bg-primary/10   justify-between inline-flex items-center w-full font-semibold text-start text-[0.85rem] transition py-3 px-4"
                                                     aria-controls="faq-collapse-ten">
                                                     Where can in edit my address?
                                                     <svg
-                                                        class="hs-accordion-active:hidden hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary block w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor dark:text-defaulttextcolor/70 "
+                                                        class="hs-accordion-active:hidden hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary block w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor "
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M1.5 8.85999L14.5 8.85998" stroke="currentColor" stroke-width="2"
                                                         stroke-linecap="round" />
                                                         <path d="M8 15.36L8 2.35999" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                     </svg>
                                                     <svg
-                                                        class="hs-accordion-active:block hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary hidden w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor dark:text-defaulttextcolor/70 "
+                                                        class="hs-accordion-active:block hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary hidden w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor "
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M1.5 8.85999L14.5 8.85998" stroke="currentColor" stroke-width="2"
                                                         stroke-linecap="round" />
@@ -1425,7 +1425,7 @@
                                                     class="hs-accordion-content w-full overflow-hidden hidden transition-[height] duration-300"
                                                     aria-labelledby="faq-eight">
                                                     <div class="p-5">
-                                                        <p class="text-defaulttextcolor dark:text-defaulttextcolor/70 ">
+                                                        <p class="text-defaulttextcolor ">
                                                             <strong>This is the first item's accordion body.</strong> It is shown by
                                                             default, until the collapse plugin adds the appropriate classes that we
                                                             use to style each element. These classes control the overall appearance,
@@ -1437,21 +1437,21 @@
                                                     </div>
                                                     </div>
                                                     </div>
-                                                    <div class="hs-accordion bg-white dark:bg-bodybg border dark:border-defaultborder/10 mt-[0.5rem] rounded-sm dark:border dark:border-defaultborder/10-white/10"
+                                                    <div class="hs-accordion bg-white border mt-[0.5rem] rounded-sm"
                                                     id="faq-nine">
                                                     <button type="button"
-                                                    class="hs-accordion-toggle hs-accordion-active:!text-primary hs-accordion-active:border dark:border-defaultborder/10-b hs-accordion-active:bg-primary/10   dark:border-defaultborder/10 dark:hs-accordion-active:border dark:border-defaultborder/10-white/10 justify-between inline-flex items-center w-full font-semibold text-start text-[0.85rem] transition py-3 px-4 dark:hs-accordion-active:!text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                    class="hs-accordion-toggle hs-accordion-active:!text-primary hs-accordion-active:border hs-accordion-active:bg-primary/10   justify-between inline-flex items-center w-full font-semibold text-start text-[0.85rem] transition py-3 px-4"
                                                     aria-controls="faq-collapse-eleven">
                                                     What are your opening hours?
                                                     <svg
-                                                        class="hs-accordion-active:hidden hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary block w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor dark:text-defaulttextcolor/70 "
+                                                        class="hs-accordion-active:hidden hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary block w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor "
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M1.5 8.85999L14.5 8.85998" stroke="currentColor" stroke-width="2"
                                                         stroke-linecap="round" />
                                                         <path d="M8 15.36L8 2.35999" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                     </svg>
                                                     <svg
-                                                        class="hs-accordion-active:block hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary hidden w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor dark:text-defaulttextcolor/70 "
+                                                        class="hs-accordion-active:block hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary hidden w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor "
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M1.5 8.85999L14.5 8.85998" stroke="currentColor" stroke-width="2"
                                                         stroke-linecap="round" />
@@ -1461,7 +1461,7 @@
                                                     class="hs-accordion-content w-full overflow-hidden hidden transition-[height] duration-300"
                                                     aria-labelledby="faq-nine">
                                                     <div class="p-5">
-                                                        <p class="text-defaulttextcolor dark:text-defaulttextcolor/70 ">
+                                                        <p class="text-defaulttextcolor ">
                                                             <strong>This is the first item's accordion body.</strong> It is shown by
                                                             default, until the collapse plugin adds the appropriate classes that we
                                                             use to style each element. These classes control the overall appearance,
@@ -1473,21 +1473,21 @@
                                                     </div>
                                                     </div>
                                                     </div>
-                                                    <div class="hs-accordion bg-white dark:bg-bodybg border dark:border-defaultborder/10 mt-[0.5rem] rounded-sm dark:border dark:border-defaultborder/10-white/10"
+                                                    <div class="hs-accordion bg-white border mt-[0.5rem] rounded-sm"
                                                     id="faq-ten">
                                                     <button type="button"
-                                                    class="hs-accordion-toggle hs-accordion-active:!text-primary hs-accordion-active:border dark:border-defaultborder/10-b hs-accordion-active:bg-primary/10   dark:border-defaultborder/10 dark:hs-accordion-active:border dark:border-defaultborder/10-white/10 justify-between inline-flex items-center w-full font-semibold text-start text-[0.85rem] transition py-3 px-4 dark:hs-accordion-active:!text-primary dark:text-gray-200 dark:hover:text-white/80"
+                                                    class="hs-accordion-toggle hs-accordion-active:!text-primary hs-accordion-active:border hs-accordion-active:bg-primary/10   justify-between inline-flex items-center w-full font-semibold text-start text-[0.85rem] transition py-3 px-4"
                                                     aria-controls="faq-collapse-twelve">
                                                     Do I have the right to return an item?
                                                     <svg
-                                                        class="hs-accordion-active:hidden hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary block w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor dark:text-defaulttextcolor/70 "
+                                                        class="hs-accordion-active:hidden hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary block w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor "
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M1.5 8.85999L14.5 8.85998" stroke="currentColor" stroke-width="2"
                                                         stroke-linecap="round" />
                                                         <path d="M8 15.36L8 2.35999" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                                                     </svg>
                                                     <svg
-                                                        class="hs-accordion-active:block hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary hidden w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor dark:text-defaulttextcolor/70 "
+                                                        class="hs-accordion-active:block hs-accordion-active:!text-primary hs-accordion-active:group-hover:!text-primary hidden w-3 h-3 text-gray-600 group-hover:text-defaulttextcolor "
                                                         width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M1.5 8.85999L14.5 8.85998" stroke="currentColor" stroke-width="2"
                                                         stroke-linecap="round" />
@@ -1497,7 +1497,7 @@
                                                     class="hs-accordion-content w-full overflow-hidden hidden transition-[height] duration-300"
                                                     aria-labelledby="faq-ten">
                                                     <div class="p-5">
-                                                        <p class="text-defaulttextcolor dark:text-defaulttextcolor/70 ">
+                                                        <p class="text-defaulttextcolor ">
                                                             <strong>This is the first item's accordion body.</strong> It is shown by
                                                             default, until the collapse plugin adds the appropriate classes that we
                                                             use to style each element. These classes control the overall appearance,
@@ -1520,25 +1520,25 @@
                     <!-- End:: Section-9 -->
 
                     <!-- Start:: Section-10 -->
-                    <section class="section text-defaulttextcolor dark:text-defaulttextcolor/70 text-[0.813rem]" id="contact">
+                    <section class="section text-defaulttextcolor text-[0.813rem]" id="contact">
                         <div class="container text-center">
                             <p class="text-[0.75rem] font-semibold text-success mb-1"><span class="landing-section-heading">CONTACT US</span></p>
                             <h3 class="font-semibold mb-2">Have any questions ? We would love to hear from you.</h3>
                             <div class="grid grid-cols-12 justify-center">
                                 <div class="col-span-12">
-                                    <p class="text-[#8c9097] dark:text-white/50 text-[0.9375rem] mb-12 font-normal">You can contact us anytime regarding any queries or deals,dont hesitate to clear your doubts before trying our product.</p>
+                                    <p class="text-[#8c9097] text-[0.9375rem] mb-12 font-normal">You can contact us anytime regarding any queries or deals,dont hesitate to clear your doubts before trying our product.</p>
                                 </div>
                             </div>
                             <div class="grid grid-cols-12 gap-6 text-start">
                                 <div class="xxl:col-span-6 xl:col-span-6 lg:col-span-6 md:col-span-12 sm:col-spam-12 col-span-12">
-                                    <div class="box border dark:border-defaultborder/10 shadow-none">
+                                    <div class="box border shadow-none">
                                         <div class="box-body !p-0">
                                             <iframe title="map" src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d30444.274596168965!2d78.54114692513858!3d17.48198883339408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d17.4886524!2d78.5495041!4m5!1s0x3bcb9c7ec139a15d%3A0x326d1c90786b2ab6!2sspruko%20technologies!3m2!1d17.474805099999998!2d78.570258!5e0!3m2!1sen!2sin!4v1670225507254!5m2!1sen!2sin"  height="365" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="xxl:col-span-6 xl:col-span-6 lg:col-span-6 md:col-span-12 sm:col-span-12 col-span-12">
-                                    <div class="box  overflow-hidden !bg-[#f9fafb] dark:!bg-bodybg border dark:border-defaultborder/10 shadow-none">
+                                    <div class="box  overflow-hidden !bg-[#f9fafb] border shadow-none">
                                         <div class="box-body">
                                             <div class="grid grid-cols-12 gap-4 mt-2 px-4">
                                                 <div class="xl:col-span-6 col-span-12">

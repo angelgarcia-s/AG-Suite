@@ -15,16 +15,16 @@
                       <!-- Page Header -->
                       <div class="block justify-between page-header md:flex">
                           <div>
-                              <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Create Invoice</h3>
+                              <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Create Invoice</h3>
                           </div>
                           <ol class="flex items-center whitespace-nowrap min-w-0">
                               <li class="text-[0.813rem] ps-[0.5rem]">
-                                <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                   Invoice
-                                  <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                  <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                 </a>
                               </li>
-                              <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                              <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                   Create Invoice
                               </li>
                           </ol>
@@ -135,7 +135,7 @@
                                           </div>
                                           <div class="xl:col-span-12 col-span-12">
                                               <div class="table-responsive">
-                                                  <table class="table whitespace-nowrap border dark:border-defaultborder/10 mt-3">
+                                                  <table class="table whitespace-nowrap border mt-3">
                                                       <thead>
                                                           <tr>
                                                               <th scope="row">PRODUCT NAME</th>
@@ -147,7 +147,7 @@
                                                           </tr>
                                                       </thead>
                                                       <tbody>
-                                                          <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                          <tr class="border border-defaultborder">
                                                               <td>
                                                                   <input type="text" class="form-control !w-auto !rounded-md !bg-light" placeholder="Enter Product Name">
                                                               </td>
@@ -155,7 +155,7 @@
                                                                   <textarea rows="1" class="form-control !w-auto !rounded-md !bg-light" placeholder="Enter Description"></textarea>
                                                               </td>
                                                               <td class="invoice-quantity-container">
-                                                                  <div class="input-group border dark:border-defaultborder/10 rounded-md !flex-nowrap">
+                                                                  <div class="input-group border rounded-md !flex-nowrap">
                                                                       <button aria-label="button" type="button" class="ti-btn ti-btn-icon !bg-primary !text-white input-group-text !mb-0 product-quantity-minus !rounded-e-none"><i class="ri-subtract-line"></i></button>
                                                                       <input type="text" class="form-control  border-0 text-center !w-12 !p-1" aria-label="quantity" id="product-quantity4" value="1">
                                                                       <button aria-label="button" type="button" class="ti-btn ti-btn-icon !bg-primary !text-white input-group-text !mb-0 product-quantity-plus !rounded-s-none"><i class="ri-add-line"></i></button>
@@ -167,7 +167,7 @@
                                                                   <button aria-label="button" type="button" class="ti-btn ti-btn-sm ti-btn-icon ti-btn-danger"><i class="ri-delete-bin-5-line"></i></button>
                                                               </td>
                                                           </tr>
-                                                          <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                          <tr class="border border-defaultborder">
                                                               <td>
                                                                   <input type="text" class="form-control !w-auto !rounded-md !bg-light" placeholder="Enter Product Name">
                                                               </td>
@@ -175,7 +175,7 @@
                                                                   <textarea rows="1" class="form-control !w-auto !rounded-md !bg-light" placeholder="Enter Description"></textarea>
                                                               </td>
                                                               <td class="invoice-quantity-container">
-                                                                  <div class="input-group border dark:border-defaultborder/10 rounded-md  !flex-nowrap">
+                                                                  <div class="input-group border rounded-md  !flex-nowrap">
                                                                       <button aria-label="button" type="button" class="ti-btn ti-btn-icon !bg-primary !text-white input-group-text flex-fill !mb-0 product-quantity-minus !rounded-e-none"><i class="ri-subtract-line"></i></button>
                                                                       <input type="text" class="form-control  border-0 text-center !w-12 !p-1" aria-label="quantity" id="product-quantity5" value="1">
                                                                       <button aria-label="button" type="button" class="ti-btn ti-btn-icon !bg-primary !text-white input-group-text flex-fill !mb-0 product-quantity-plus !rounded-s-none"><i class="ri-add-line"></i></button>
@@ -193,7 +193,7 @@
                                                           <tr>
                                                               <td colspan="4"></td>
                                                               <td colspan="2">
-                                                                  <table class="table table-sm whitespace-nowrap mb-0 table-borderless dark:border-defaultborder/10">
+                                                                  <table class="table table-sm whitespace-nowrap mb-0 table-borderless">
                                                                       <tbody>
                                                                           <tr>
                                                                               <th scope="row">
@@ -277,9 +277,9 @@
                                           <div class="xl:col-span-12 col-span-12">
                                               <div class="inline-flex" role="group" aria-label="Basic radio toggle button group">
                                                   <input type="radio" class="btn-check " name="btnradio" id="btnradio2">
-                                                  <label class="ti-btn ti-btn-outline-light dark:text-defaulttextcolor/70 dark:!border-defaultborder/10 !border-e-0  sm:mt-0 mt-1 !rounded-e-none hover:!bg-light " for="btnradio2">UPI</label>
+                                                  <label class="ti-btn ti-btn-outline-light !border-e-0  sm:mt-0 mt-1 !rounded-e-none hover:!bg-light " for="btnradio2">UPI</label>
                                                   <input type="radio" class="btn-check " name="btnradio" id="btnradio3" checked>
-                                                  <label class="ti-btn ti-btn-light sm:mt-0 mt-1 dark:text-defaulttextcolor/70 dark:!border-defaultborder/10 !rounded-s-none hover:!bg-light" for="btnradio3">Credit/Debit Card</label>
+                                                  <label class="ti-btn ti-btn-light sm:mt-0 mt-1 !rounded-s-none hover:!bg-light" for="btnradio3">Credit/Debit Card</label>
                                               </div>
                                           </div>
                                           <div class="xl:col-span-12 col-span-12">

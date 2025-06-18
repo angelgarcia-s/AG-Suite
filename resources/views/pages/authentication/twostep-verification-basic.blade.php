@@ -25,7 +25,7 @@
                   <div class="box">
                     <div class="box-body sm:!p-[3rem]">
                       <p class="font-semibold mb-2 text-center text-xl">Verify Your Account</p>
-                      <p class="mb-4 text-[#8c9097] dark:text-white/50 opacity-[0.7] font-normal text-center">Enter the 4 digit code sent to the
+                      <p class="mb-4 text-[#8c9097] opacity-[0.7] font-normal text-center">Enter the 4 digit code sent to the
                         registered email Id.</p>
                       <div class="grid grid-cols-12 gap-y-4">
                         <div class="xl:col-span-12 col-span-12 mb-2">
@@ -56,11 +56,11 @@
                         </div>
                         <div class="xl:col-span-12 col-span-12 grid mt-2">
                           <a href="{{url('index')}}"
-                            class="ti-btn ti-btn-lg bg-primary text-white !font-medium dark:border-defaultborder/10">Verify</a>
+                            class="ti-btn ti-btn-lg bg-primary text-white !font-medium">Verify</a>
                         </div>
                       </div>
                       <div class="text-center">
-                        <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mt-4 text-danger"><sup><i class="ri-asterisk"></i></sup>Don't share
+                        <p class="text-[0.75rem] text-[#8c9097] mt-4 text-danger"><sup><i class="ri-asterisk"></i></sup>Don't share
                           the verification code with anyone !</p>
                       </div>
                     </div>

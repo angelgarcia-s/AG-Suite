@@ -25,7 +25,7 @@
                         <div class="box">
                             <div class="box-body !p-[3rem]">
                                 <p class="h5 font-semibold mb-2 text-center">Reset Password</p>
-                                <p class="mb-4 text-[#8c9097] dark:text-white/50 opacity-[0.7] font-normal text-center">Hello Jhon !</p>
+                                <p class="mb-4 text-[#8c9097] opacity-[0.7] font-normal text-center">Hello Jhon !</p>
                                 <div class="grid grid-cols-12 gap-y-4">
                                     <div class="xl:col-span-12 col-span-12">
                                         <label for="reset-password" class="form-label text-default">Current Password</label>
@@ -50,18 +50,18 @@
                                         <div class="mt-4">
                                             <div class="form-check !ps-0">
                                                 <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
-                                                <label class="form-check-label text-[#8c9097] dark:text-white/50 font-normal" for="defaultCheck1">
+                                                <label class="form-check-label text-[#8c9097] font-normal" for="defaultCheck1">
                                                     Remember password ?
                                                 </label>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="xl:col-span-12 col-span-12 grid mt-2">
-                                        <a href="{{url('signin-basic')}}" class="ti-btn ti-btn-lg bg-primary text-white !font-medium dark:border-defaultborder/10">Create</a>
+                                        <a href="{{url('signin-basic')}}" class="ti-btn ti-btn-lg bg-primary text-white !font-medium">Create</a>
                                     </div>
                                 </div>
                                 <div class="text-center">
-                                    <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mt-4">Already have an account? <a href="{{url('signin-basic')}}" class="text-primary">Sign In</a></p>
+                                    <p class="text-[0.75rem] text-[#8c9097] mt-4">Already have an account? <a href="{{url('signin-basic')}}" class="text-primary">Sign In</a></p>
                                 </div>
                                 <div class="text-center my-4 authentication-barrier">
                                     <span>OR</span>

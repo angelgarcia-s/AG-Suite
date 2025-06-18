@@ -76,7 +76,7 @@
                                           </a>
                                           <div class="box-body">
                                               <a href="{{url('blog-details')}}" class="font-semibold text-[0.875rem] text-dark mb-1">Touring excites in winter !</a>
-                                              <p class="card-text text-[#8c9097] dark:text-white/50 mb-3">The holographic principle, theorized to be a property of quantum gravity, postulates that the description.</p>
+                                              <p class="card-text text-[#8c9097] mb-3">The holographic principle, theorized to be a property of quantum gravity, postulates that the description.</p>
                                               <a href="javascript:void(0);" class="ti-btn ti-btn-primary !font-medium !mb-0">Read More</a>
                                           </div>
                                           <div class="box-footer">
@@ -87,7 +87,7 @@
                                                       </div>
                                                       <div>
                                                           <p class="mb-0 font-semibold">Justin Kim</p>
-                                                          <p class="text-[#8c9097] dark:text-white/50 text-[.625rem] mb-0">20,Dec 2022 - 16:32</p>
+                                                          <p class="text-[#8c9097] text-[.625rem] mb-0">20,Dec 2022 - 16:32</p>
                                                       </div>
                                                   </div>
                                                   <div>
@@ -105,7 +105,7 @@
                                           </a>
                                           <div class="box-body">
                                               <a href="{{url('blog-details')}}" class="font-semibold text-[0.875rem] text-dark mb-1"> Boat manufacutrers are in debt !</a>
-                                              <p class="card-text text-[#8c9097] dark:text-white/50 mb-3">when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                              <p class="card-text text-[#8c9097] mb-3">when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                                               <a href="javascript:void(0);" class="ti-btn ti-btn-primary !font-medium !mb-0">Read More</a>
                                           </div>
                                           <div class="box-footer">
@@ -116,7 +116,7 @@
                                                       </div>
                                                       <div>
                                                           <p class="mb-0 font-semibold">Monika Karen</p>
-                                                          <p class="text-[#8c9097] dark:text-white/50 text-[.625rem] mb-0">25,Dec 2022 - 12:45</p>
+                                                          <p class="text-[#8c9097] text-[.625rem] mb-0">25,Dec 2022 - 12:45</p>
                                                       </div>
                                                   </div>
                                                   <div>
@@ -222,7 +222,7 @@
                                                   </a>
                                                   <div class="box-body">
                                                       <a href="{{url('blog-details')}}" class="font-semibold text-[0.875rem] text-dark mb-1">Features of new car !</a>
-                                                      <p class="card-text text-[#8c9097] dark:text-white/50 mb-3">The holographic principle, theorized to be a property of quantum gravity, postulates that the description.</p>
+                                                      <p class="card-text text-[#8c9097] mb-3">The holographic principle, theorized to be a property of quantum gravity, postulates that the description.</p>
                                                       <a href="javascript:void(0);" class="ti-btn ti-btn-primary !font-medium !mb-0">Read More</a>
                                                   </div>
                                                   <div class="box-footer">
@@ -233,7 +233,7 @@
                                                               </div>
                                                               <div>
                                                                   <p class="mb-0 font-semibold">Alister Chuk</p>
-                                                                  <p class="text-[#8c9097] dark:text-white/50 text-[.625rem] mb-0">18,Dec 2022 - 12:25</p>
+                                                                  <p class="text-[#8c9097] text-[.625rem] mb-0">18,Dec 2022 - 12:25</p>
                                                               </div>
                                                           </div>
                                                           <div class="btn-list">
@@ -251,7 +251,7 @@
                                                   </a>
                                                   <div class="box-body">
                                                       <a href="{{url('blog-details')}}" class="font-semibold text-[0.875rem] text-dark mb-1">Beautiful beach on a sunny day !</a>
-                                                      <p class="card-text text-[#8c9097] dark:text-white/50 mb-3">The holographic principle, theorized to be a property of quantum gravity, postulates that the description.</p>
+                                                      <p class="card-text text-[#8c9097] mb-3">The holographic principle, theorized to be a property of quantum gravity, postulates that the description.</p>
                                                       <a href="javascript:void(0);" class="ti-btn ti-btn-primary !font-medium !mb-0">Read More</a>
                                                   </div>
                                                   <div class="box-footer">
@@ -262,7 +262,7 @@
                                                               </div>
                                                               <div>
                                                                   <p class="mb-0 font-semibold">Samantha Nans</p>
-                                                                  <p class="text-[#8c9097] dark:text-white/50 text-[.625rem] mb-0">25,Dec 2022 - 04:25</p>
+                                                                  <p class="text-[#8c9097] text-[.625rem] mb-0">25,Dec 2022 - 04:25</p>
                                                               </div>
                                                           </div>
                                                           <div class="btn-list">
@@ -297,7 +297,7 @@
                                                               <p class="mb-1 popular-blog-content text-truncate">
                                                                   There are many variations of passages of Lorem Ipsum available
                                                               </p>
-                                                              <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">24,Nov 2022 - 18:27</span>
+                                                              <span class="text-[#8c9097] text-[0.6875rem]">24,Nov 2022 - 18:27</span>
                                                           </div>
                                                           <div>
                                                               <button type="button" aria-label="button" class="ti-btn ti-btn-light ti-btn-sm rtl:rotate-180"><i class="ri-arrow-right-s-line"></i></button>
@@ -314,7 +314,7 @@
                                                               <p class="mb-1 popular-blog-content text-truncate">
                                                                   Latin words, combined with a handful of model sentence
                                                               </p>
-                                                              <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">28,Nov 2022 - 10:45</span>
+                                                              <span class="text-[#8c9097] text-[0.6875rem]">28,Nov 2022 - 10:45</span>
                                                           </div>
                                                           <div>
                                                               <button aria-label="button" type="button" class="ti-btn ti-btn-light ti-btn-sm rtl:rotate-180"><i class="ri-arrow-right-s-line"></i></button>
@@ -331,7 +331,7 @@
                                                               <p class="mb-1 popular-blog-content text-truncate">
                                                                   Contrary to popular belief, Lorem Ipsum is not simply random
                                                               </p>
-                                                              <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">30,Nov 2022 - 08:32</span>
+                                                              <span class="text-[#8c9097] text-[0.6875rem]">30,Nov 2022 - 08:32</span>
                                                           </div>
                                                           <div>
                                                               <button  type="button" aria-label="button" class="ti-btn ti-btn-light ti-btn-sm rtl:rotate-180"><i class="ri-arrow-right-s-line"></i></button>
@@ -348,7 +348,7 @@
                                                               <p class="mb-1 popular-blog-content text-truncate">
                                                                   It was popularised in the 1960s with the release of Letraset sheets containing
                                                               </p>
-                                                              <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">3,Dec 2022 - 12:56</span>
+                                                              <span class="text-[#8c9097] text-[0.6875rem]">3,Dec 2022 - 12:56</span>
                                                           </div>
                                                           <div>
                                                               <button type="button" aria-label="button" class="ti-btn ti-btn-light ti-btn-sm rtl:rotate-180"><i class="ri-arrow-right-s-line"></i></button>
@@ -373,7 +373,7 @@
                                           </a>
                                           <div class="box-body">
                                               <a href="{{url('blog-details')}}" class="font-semibold text-[0.875rem] text-dark mb-1">Strawberry juice recipe.</a>
-                                              <p class="card-text text-[#8c9097] dark:text-white/50 mb-4">Want to have something different but healthy to drink? Then look no further!! Strawberry Juice is rich in vitamin C.</p>
+                                              <p class="card-text text-[#8c9097] mb-4">Want to have something different but healthy to drink? Then look no further!! Strawberry Juice is rich in vitamin C.</p>
                                               <a href="javascript:void(0);" class="ti-btn ti-btn-primary !font-medium !mb-0">Read More</a>
                                           </div>
                                           <div class="box-footer">
@@ -384,7 +384,7 @@
                                                       </div>
                                                       <div>
                                                           <p class="mb-0 font-semibold">Maria Bose</p>
-                                                          <p class="text-[#8c9097] dark:text-white/50 text-[.625rem] mb-0">17,Dec 2022 - 12:32</p>
+                                                          <p class="text-[#8c9097] text-[.625rem] mb-0">17,Dec 2022 - 12:32</p>
                                                       </div>
                                                   </div>
                                                   <div class="btn-list">
@@ -402,7 +402,7 @@
                                           </a>
                                           <div class="box-body">
                                               <a href="{{url('blog-details')}}" class="font-semibold text-[0.875rem] text-dark mb-1">Night Sky is pleasent to watch.</a>
-                                              <p class="card-text text-[#8c9097] dark:text-white/50 mb-4">Sky map showing the night sky tonight from any location. What planets are visible tonight? Where is Mars. </p>
+                                              <p class="card-text text-[#8c9097] mb-4">Sky map showing the night sky tonight from any location. What planets are visible tonight? Where is Mars. </p>
                                               <a href="javascript:void(0);" class="ti-btn ti-btn-primary !font-medium !mb-0">Read More</a>
                                           </div>
                                           <div class="box-footer">
@@ -413,7 +413,7 @@
                                                       </div>
                                                       <div>
                                                           <p class="mb-0 font-semibold">Helsenky</p>
-                                                          <p class="text-[#8c9097] dark:text-white/50 text-[.625rem] mb-0">24,Dec 2022 - 14:21</p>
+                                                          <p class="text-[#8c9097] text-[.625rem] mb-0">24,Dec 2022 - 14:21</p>
                                                       </div>
                                                   </div>
                                                   <div class="btn-list">
@@ -431,7 +431,7 @@
                                           </a>
                                           <div class="box-body">
                                               <a href="{{url('blog-details')}}" class="font-semibold text-[0.875rem] text-dark mb-1">Is fashion industry growing ?</a>
-                                              <p class="card-text text-[#8c9097] dark:text-white/50 mb-4">The holographic principle, theorized to be a property of quantum gravity, postulates that the description.</p>
+                                              <p class="card-text text-[#8c9097] mb-4">The holographic principle, theorized to be a property of quantum gravity, postulates that the description.</p>
                                               <a href="javascript:void(0);" class="ti-btn ti-btn-primary !font-medium !mb-0">Read More</a>
                                           </div>
                                           <div class="box-footer">
@@ -442,7 +442,7 @@
                                                       </div>
                                                       <div>
                                                           <p class="mb-0 font-semibold">Jason Mama</p>
-                                                          <p class="text-[#8c9097] dark:text-white/50 text-[.625rem] mb-0">19,Dec 2022 - 15:48</p>
+                                                          <p class="text-[#8c9097] text-[.625rem] mb-0">19,Dec 2022 - 15:48</p>
                                                       </div>
                                                   </div>
                                                   <div class="btn-list">
@@ -460,7 +460,7 @@
                                           </a>
                                           <div class="box-body">
                                               <a href="{{url('blog-details')}}" class="font-semibold text-[0.875rem] text-dark mb-1">Raising sun is a blessing to watch ..</a>
-                                              <p class="card-text text-[#8c9097] dark:text-white/50 mb-4">Rising Sun is a 1993 American buddy cop crime thriller film directed by Philip Kaufman.</p>
+                                              <p class="card-text text-[#8c9097] mb-4">Rising Sun is a 1993 American buddy cop crime thriller film directed by Philip Kaufman.</p>
                                               <a href="javascript:void(0);" class="ti-btn ti-btn-primary !font-medium !mb-0">Read More</a>
                                           </div>
                                           <div class="box-footer">
@@ -471,7 +471,7 @@
                                                       </div>
                                                       <div>
                                                           <p class="mb-0 font-semibold">Stuart Hall</p>
-                                                          <p class="text-[#8c9097] dark:text-white/50 text-[.625rem] mb-0">13,Dec 2022 - 19:08</p>
+                                                          <p class="text-[#8c9097] text-[.625rem] mb-0">13,Dec 2022 - 19:08</p>
                                                       </div>
                                                   </div>
                                                   <div class="btn-list">

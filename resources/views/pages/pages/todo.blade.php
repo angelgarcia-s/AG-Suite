@@ -15,16 +15,16 @@
                         <!-- Page Header -->
                         <div class="block justify-between page-header md:flex">
                             <div>
-                                <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> To Do List</h3>
+                                <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> To Do List</h3>
                             </div>
                             <ol class="flex items-center whitespace-nowrap min-w-0">
                                 <li class="text-[0.813rem] ps-[0.5rem]">
-                                  <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                                  <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                     Pages
-                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                    <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                                   </a>
                                 </li>
-                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                                <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                     To Do List
                                 </li>
                             </ol>
@@ -36,7 +36,7 @@
                             <div class="xl:col-span-3 col-span-12">
                                 <div class="box">
                                     <div class="box-body !p-0">
-                                        <div class="p-4 grid border-b border-dashed dark:border-defaultborder/10">
+                                        <div class="p-4 grid border-b border-dashed">
                                             <a href="javascript:void(0);" class="hs-dropdown-toggle py-2  px-3 ti-btn bg-primary text-white !font-medium w-full !mb-0" data-hs-overlay="#todo-compose"><i class="ri-add-circle-line !text-[1rem]"></i>Create New Task
                                             </a>
                                             <div id="todo-compose" class="hs-overlay hidden ti-modal">
@@ -68,14 +68,14 @@
                                                             <div class="xl:col-span-6 col-span-12">
                                                                 <label class="ti-form-label">Assigned Date</label>
                                                                 <div class="inline-flex w-full">
-                                                                    <div class="input-group-text text-[#8c9097] dark:text-white/50 !rounded-e-none border border-defaultborder"> <i class="ri-calendar-line"></i> </div>
+                                                                    <div class="input-group-text text-[#8c9097] !rounded-e-none border border-defaultborder"> <i class="ri-calendar-line"></i> </div>
                                                                     <input type="text" class="form-control w-full !rounded-s-none" id="addignedDate" placeholder="Choose date and time">
                                                                 </div>
                                                             </div>
                                                             <div class="xl:col-span-6 col-span-12">
                                                                 <label class="ti-form-label">Target Date</label>
                                                                 <div class="inline-flex w-full">
-                                                                    <div class="input-group-text text-[#8c9097] dark:text-white/50 !rounded-e-none border border-defaultborder"> <i class="ri-calendar-line"></i> </div>
+                                                                    <div class="input-group-text text-[#8c9097] !rounded-e-none border border-defaultborder"> <i class="ri-calendar-line"></i> </div>
                                                                     <input type="text" class="form-control w-full !rounded-s-none" id="targetDate" placeholder="Choose date and time">
                                                                 </div>
                                                             </div>
@@ -103,16 +103,16 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="p-4 border-b border-dashed dark:border-defaultborder/10">
+                                        <div class="p-4 border-b border-dashed">
                                             <div class="input-group">
                                                 <input type="text" class="form-control w-full !rounded-md !bg-light border-0 !rounded-e-none" placeholder="Search Task Here" aria-describedby="button-addon2">
-                                                <button type="button" aria-label="button" class="ti-btn ti-btn-light !rounded-s-none !mb-0" id="button-addon2"><i class="ri-search-line text-[#8c9097] dark:text-white/50"></i></button>
+                                                <button type="button" aria-label="button" class="ti-btn ti-btn-light !rounded-s-none !mb-0" id="button-addon2"><i class="ri-search-line text-[#8c9097]"></i></button>
                                             </div>
                                         </div>
-                                        <div class="p-4 task-navigation border-b border-dashed dark:border-defaultborder/10">
+                                        <div class="p-4 task-navigation border-b border-dashed">
                                             <ul class="list-none task-main-nav mb-0">
                                                 <li class="!px-0 !pt-0">
-                                                    <span class="text-[.6875rem] text-[#8c9097] dark:text-white/50 opacity-[0.7] font-semibold">TASKS</span>
+                                                    <span class="text-[.6875rem] text-[#8c9097] opacity-[0.7] font-semibold">TASKS</span>
                                                 </li>
                                                 <li class="active">
                                                     <a href="javascript:void(0);">
@@ -152,7 +152,7 @@
                                                     </a>
                                                 </li>
                                                 <li class="!px-0 !pt-2">
-                                                    <span class="text-[.6875rem] text-[#8c9097] dark:text-white/50 op-7 font-semibold">CATEGORIES</span>
+                                                    <span class="text-[.6875rem] text-[#8c9097] op-7 font-semibold">CATEGORIES</span>
                                                 </li>
                                                 <li>
                                                     <a href="javascript:void(0);">
@@ -273,9 +273,9 @@
                                                         <div class="box-body">
                                                             <div class="flex justify-between flex-wrap gap-2">
                                                                 <div>
-                                                                    <p class="font-semibold mb-4 flex items-center"><a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] opacity-[0.5] me-1 text-[#8c9097] dark:text-white/50"></i></a>New Project Blueprint</p>
-                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">13,Nov 2022</span></p>
-                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">20,Nov 2022</span></p>
+                                                                    <p class="font-semibold mb-4 flex items-center"><a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] opacity-[0.5] me-1 text-[#8c9097]"></i></a>New Project Blueprint</p>
+                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097]">13,Nov 2022</span></p>
+                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097]">20,Nov 2022</span></p>
                                                                     <p class="mb-0">Assigned To :
                                                                         <span class="avatar-list-stacked ms-1">
                                                                             <span class="avatar avatar-sm avatar-rounded">
@@ -308,8 +308,8 @@
                                                             <div class="flex justify-between flex-wrap gap-2">
                                                                 <div>
                                                                     <p class="font-semibold mb-4 flex items-center"><a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] me-1 text-warning"></i></a>Designing New Authentication Pages</p>
-                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">26,Nov 2022</span></p>
-                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">12,Dec 2022</span></p>
+                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097]">26,Nov 2022</span></p>
+                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097]">12,Dec 2022</span></p>
                                                                     <p class="mb-0">Assigned To :
                                                                         <span class="avatar-list-stacked ms-1">
                                                                             <span class="avatar avatar-sm avatar-rounded">
@@ -336,9 +336,9 @@
                                                             <div class="flex justify-between flex-wrap gap-2">
                                                                 <div>
                                                                     <p class="font-semibold mb-4 flex items-center">
-                                                                    <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] opacity-[0.5] me-1 text-[#8c9097] dark:text-white/50"></i></a>Developing New Events in Plugin</p>
-                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">5,Dec 2022</span></p>
-                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">10,Dec 2022</span></p>
+                                                                    <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] opacity-[0.5] me-1 text-[#8c9097]"></i></a>Developing New Events in Plugin</p>
+                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097]">5,Dec 2022</span></p>
+                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097]">10,Dec 2022</span></p>
                                                                     <p class="mb-0">Assigned To :
                                                                         <span class="avatar-list-stacked ms-1">
                                                                             <span class="avatar avatar-sm avatar-rounded">
@@ -370,8 +370,8 @@
                                                             <div class="flex justify-between flex-wrap gap-2">
                                                                 <div>
                                                                     <p class="font-semibold mb-4 flex items-center"><a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] me-1 text-warning"></i></a>Design New Landing Pages </p>
-                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">21,Nov 2022</span></p>
-                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">28,Nov 2022</span></p>
+                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097]">21,Nov 2022</span></p>
+                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097]">28,Nov 2022</span></p>
                                                                     <p class="mb-0">Assigned To :
                                                                         <span class="avatar-list-stacked ms-1">
                                                                             <span class="avatar avatar-sm avatar-rounded">
@@ -400,9 +400,9 @@
                                                         <div class="box-body">
                                                             <div class="flex justify-between flex-wrap gap-2">
                                                                 <div>
-                                                                    <p class="font-semibold mb-4 flex items-center"><a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] opacity-[0.5] me-1 text-[#8c9097] dark:text-white/50"></i></a>New Plugin Development</p>
-                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">28,Oct 2022</span></p>
-                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">28,Nov 2022</span></p>
+                                                                    <p class="font-semibold mb-4 flex items-center"><a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] opacity-[0.5] me-1 text-[#8c9097]"></i></a>New Plugin Development</p>
+                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097]">28,Oct 2022</span></p>
+                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097]">28,Nov 2022</span></p>
                                                                     <p class="mb-0">Assigned To :
                                                                         <span class="avatar-list-stacked ms-1">
                                                                             <span class="avatar avatar-sm avatar-rounded">
@@ -431,9 +431,9 @@
                                                         <div class="box-body">
                                                             <div class="flex justify-between flex-wrap gap-2">
                                                                 <div>
-                                                                    <p class="font-semibold mb-4 flex items-center"><a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] opacity-[0.5] me-1 text-[#8c9097] dark:text-white/50"></i></a>Documentation For New Template</p>
-                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">25,Nov 2022</span></p>
-                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">10,Dec 2022</span></p>
+                                                                    <p class="font-semibold mb-4 flex items-center"><a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] opacity-[0.5] me-1 text-[#8c9097]"></i></a>Documentation For New Template</p>
+                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097]">25,Nov 2022</span></p>
+                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097]">10,Dec 2022</span></p>
                                                                     <p class="mb-0">Assigned To :
                                                                         <span class="avatar-list-stacked ms-1">
                                                                             <span class="avatar avatar-sm avatar-rounded">
@@ -466,8 +466,8 @@
                                                                 <div>
                                                                     <p class="font-semibold mb-4 flex items-center">
                                                                     <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] me-1 text-warning"></i></a>Updating Old Ui</p>
-                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">30,Nov 2022</span></p>
-                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">05,Dec 2022</span></p>
+                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097]">30,Nov 2022</span></p>
+                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097]">05,Dec 2022</span></p>
                                                                     <p class="mb-0">Assigned To :
                                                                         <span class="avatar-list-stacked ms-1">
                                                                             <span class="avatar avatar-sm avatar-rounded">
@@ -499,9 +499,9 @@
                                                         <div class="box-body">
                                                             <div class="flex justify-between flex-wrap gap-2">
                                                                 <div>
-                                                                    <p class="font-semibold mb-4 flex items-center"><a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] opacity-[0.5] me-1 text-[#8c9097] dark:text-white/50"></i></a>Designing Of New Ecommerce Pages</p>
-                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">1,Dec 2022</span></p>
-                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">15,Dec 2022</span></p>
+                                                                    <p class="font-semibold mb-4 flex items-center"><a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] opacity-[0.5] me-1 text-[#8c9097]"></i></a>Designing Of New Ecommerce Pages</p>
+                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097]">1,Dec 2022</span></p>
+                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097]">15,Dec 2022</span></p>
                                                                     <p class="mb-0">Assigned To :
                                                                         <span class="avatar-list-stacked ms-1">
                                                                             <span class="avatar avatar-sm avatar-rounded">
@@ -531,8 +531,8 @@
                                                             <div class="flex justify-between flex-wrap gap-2">
                                                                 <div>
                                                                     <p class="font-semibold mb-4 flex items-center"><a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] me-1 text-warning"></i></a>Improving Ui Of Updated Templates</p>
-                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">4,Dec 2022</span></p>
-                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">20,Dec 2022</span></p>
+                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097]">4,Dec 2022</span></p>
+                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097]">20,Dec 2022</span></p>
                                                                     <p class="mb-0">Assigned To :
                                                                         <span class="avatar-list-stacked ms-1">
                                                                             <span class="avatar avatar-sm avatar-rounded">
@@ -565,9 +565,9 @@
                                                         <div class="box-body">
                                                             <div class="flex justify-between flex-wrap gap-2">
                                                                 <div>
-                                                                    <p class="font-semibold mb-4 flex items-center"><a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] opacity-[0.5] me-1 text-[#8c9097] dark:text-white/50"></i></a>New Project Blueprint</p>
-                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">13,Nov 2022</span></p>
-                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">20,Nov 2022</span></p>
+                                                                    <p class="font-semibold mb-4 flex items-center"><a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] opacity-[0.5] me-1 text-[#8c9097]"></i></a>New Project Blueprint</p>
+                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097]">13,Nov 2022</span></p>
+                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097]">20,Nov 2022</span></p>
                                                                     <p class="mb-0">Assigned To :
                                                                         <span class="avatar-list-stacked ms-1">
                                                                             <span class="avatar avatar-sm avatar-rounded">
@@ -603,8 +603,8 @@
                                                                 <div>
                                                                     <p class="font-semibold mb-4 flex items-center">
                                                                     <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] me-1 text-warning"></i></a>Updating Old Ui</p>
-                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">30,Nov 2022</span></p>
-                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">05,Dec 2022</span></p>
+                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097]">30,Nov 2022</span></p>
+                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097]">05,Dec 2022</span></p>
                                                                     <p class="mb-0">Assigned To :
                                                                         <span class="avatar-list-stacked ms-1">
                                                                             <span class="avatar avatar-sm avatar-rounded">
@@ -643,8 +643,8 @@
                                                             <div class="flex justify-between flex-wrap gap-2">
                                                                 <div>
                                                                     <p class="font-semibold mb-4 flex items-center"><a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] me-1 text-warning"></i></a>Design New Landing Pages </p>
-                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">21,Nov 2022</span></p>
-                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">28,Nov 2022</span></p>
+                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097]">21,Nov 2022</span></p>
+                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097]">28,Nov 2022</span></p>
                                                                     <p class="mb-0">Assigned To :
                                                                         <span class="avatar-list-stacked ms-1">
                                                                             <span class="avatar avatar-sm avatar-rounded">
@@ -676,8 +676,8 @@
                                                             <div class="flex justify-between flex-wrap gap-2">
                                                                 <div>
                                                                     <p class="font-semibold mb-4 flex items-center"><a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] me-1 text-warning"></i></a>Designing New Authentication Pages</p>
-                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">26,Nov 2022</span></p>
-                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">12,Dec 2022</span></p>
+                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097]">26,Nov 2022</span></p>
+                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097]">12,Dec 2022</span></p>
                                                                     <p class="mb-0">Assigned To :
                                                                         <span class="avatar-list-stacked ms-1">
                                                                             <span class="avatar avatar-sm avatar-rounded">
@@ -706,8 +706,8 @@
                                                             <div class="flex justify-between flex-wrap gap-2">
                                                                 <div>
                                                                     <p class="font-semibold mb-4 flex items-center"><a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] me-1 text-warning"></i></a>Improving Ui Of Updated Templates</p>
-                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">4,Dec 2022</span></p>
-                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">20,Dec 2022</span></p>
+                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097]">4,Dec 2022</span></p>
+                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097]">20,Dec 2022</span></p>
                                                                     <p class="mb-0">Assigned To :
                                                                         <span class="avatar-list-stacked ms-1">
                                                                             <span class="avatar avatar-sm avatar-rounded">
@@ -740,9 +740,9 @@
                                                         <div class="box-body">
                                                             <div class="flex justify-between flex-wrap gap-2">
                                                                 <div>
-                                                                    <p class="font-semibold mb-4 flex items-center"><a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] opacity-[0.5] me-1 text-[#8c9097] dark:text-white/50"></i></a>New Plugin Development</p>
-                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">28,Oct 2022</span></p>
-                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">28,Nov 2022</span></p>
+                                                                    <p class="font-semibold mb-4 flex items-center"><a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] opacity-[0.5] me-1 text-[#8c9097]"></i></a>New Plugin Development</p>
+                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097]">28,Oct 2022</span></p>
+                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097]">28,Nov 2022</span></p>
                                                                     <p class="mb-0">Assigned To :
                                                                         <span class="avatar-list-stacked ms-1">
                                                                             <span class="avatar avatar-sm avatar-rounded">
@@ -773,9 +773,9 @@
                                                         <div class="box-body">
                                                             <div class="flex justify-between flex-wrap gap-2">
                                                                 <div>
-                                                                    <p class="font-semibold mb-4 flex items-center"><a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] opacity-[0.5] me-1 text-[#8c9097] dark:text-white/50"></i></a>Documentation For New Template</p>
-                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">25,Nov 2022</span></p>
-                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">10,Dec 2022</span></p>
+                                                                    <p class="font-semibold mb-4 flex items-center"><a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] opacity-[0.5] me-1 text-[#8c9097]"></i></a>Documentation For New Template</p>
+                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097]">25,Nov 2022</span></p>
+                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097]">10,Dec 2022</span></p>
                                                                     <p class="mb-0">Assigned To :
                                                                         <span class="avatar-list-stacked ms-1">
                                                                             <span class="avatar avatar-sm avatar-rounded">
@@ -807,9 +807,9 @@
                                                             <div class="flex justify-between flex-wrap gap-2">
                                                                 <div>
                                                                     <p class="font-semibold mb-4 flex items-center">
-                                                                    <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] opacity-[0.5] me-1 text-[#8c9097] dark:text-white/50"></i></a>Developing New Events in Plugin</p>
-                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">5,Dec 2022</span></p>
-                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">10,Dec 2022</span></p>
+                                                                    <a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] opacity-[0.5] me-1 text-[#8c9097]"></i></a>Developing New Events in Plugin</p>
+                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097]">5,Dec 2022</span></p>
+                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097]">10,Dec 2022</span></p>
                                                                     <p class="mb-0">Assigned To :
                                                                         <span class="avatar-list-stacked ms-1">
                                                                             <span class="avatar avatar-sm avatar-rounded">
@@ -840,9 +840,9 @@
                                                         <div class="box-body">
                                                             <div class="flex justify-between flex-wrap gap-2">
                                                                 <div>
-                                                                    <p class="font-semibold mb-4 flex items-center"><a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] opacity-[0.5] me-1 text-[#8c9097] dark:text-white/50"></i></a>Designing Of New Ecommerce Pages</p>
-                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">1,Dec 2022</span></p>
-                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097] dark:text-white/50">15,Dec 2022</span></p>
+                                                                    <p class="font-semibold mb-4 flex items-center"><a aria-label="anchor" href="javascript:void(0);"><i class="ri-star-s-fill text-[1rem] opacity-[0.5] me-1 text-[#8c9097]"></i></a>Designing Of New Ecommerce Pages</p>
+                                                                    <p class="mb-4">Assigned On : <span class="text-[0.75rem] mb-1 text-[#8c9097]">1,Dec 2022</span></p>
+                                                                    <p class="mb-4">Target Date : <span class="text-[0.75rem] mb-1 text-[#8c9097]">15,Dec 2022</span></p>
                                                                     <p class="mb-0">Assigned To :
                                                                         <span class="avatar-list-stacked ms-1">
                                                                             <span class="avatar avatar-sm avatar-rounded">

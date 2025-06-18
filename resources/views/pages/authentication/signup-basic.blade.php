@@ -25,7 +25,7 @@
                         <div class="box">
                             <div class="box-body !p-[3rem]">
                                 <p class="h5 font-semibold mb-2 text-center">Sign Up</p>
-                                <p class="mb-4 text-[#8c9097] dark:text-white/50 opacity-[0.7] font-normal text-center">Welcome &amp; Join us by
+                                <p class="mb-4 text-[#8c9097] opacity-[0.7] font-normal text-center">Welcome &amp; Join us by
                                     creating a free account !</p>
                                 <div class="grid grid-cols-12 gap-y-4">
                                     <div class="xl:col-span-12 col-span-12">
@@ -63,7 +63,7 @@
                                         <div class="mt-4">
                                             <div class="form-check !flex !ps-0">
                                                 <input class="form-check-input me-1" type="checkbox" value="" id="defaultCheck1">
-                                                <label class="ps-2 form-check-label text-[#8c9097] dark:text-white/50 font-normal block" for="defaultCheck1">
+                                                <label class="ps-2 form-check-label text-[#8c9097] font-normal block" for="defaultCheck1">
                                                     By creating a account you agree to our <a href="{{url('terms')}}"
                                                     class="text-success"><u>Terms &amp; Conditions</u></a> and <a
                                                     class="text-success"><u>Privacy Policy</u></a>
@@ -72,12 +72,12 @@
                                         </div>
                                     </div>
                                     <div class="xl:col-span-12 col-span-12 grid mt-2">
-                                        <button type="button" class="ti-btn ti-btn-lg bg-primary text-white !font-medium dark:border-defaultborder/10">Create
+                                        <button type="button" class="ti-btn ti-btn-lg bg-primary text-white !font-medium">Create
                                             Account</button>
                                     </div>
                                 </div>
                                 <div class="text-center">
-                                    <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mt-4">Already have an account? <a
+                                    <p class="text-[0.75rem] text-[#8c9097] mt-4">Already have an account? <a
                                             href="{{url('signin-basic')}}" class="text-primary">Sign In</a></p>
                                 </div>
                                 <div class="text-center my-4 authentication-barrier">

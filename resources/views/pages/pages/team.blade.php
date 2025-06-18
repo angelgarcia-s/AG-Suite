@@ -20,7 +20,7 @@
                                                         <div class="flex items-center">
                                                             <div class="input-group">
                                                                 <input type="text" class="form-control w-full !bg-light border-0 !rounded-s-md" placeholder="Search Person Name" aria-describedby="search-team-member">
-                                                                <button class="ti-btn ti-btn-light !mb-0" type="button" aria-label="button" id="search-team-member"><i class="ri-search-line text-[#8c9097] dark:text-white/50"></i></button>
+                                                                <button class="ti-btn ti-btn-light !mb-0" type="button" aria-label="button" id="search-team-member"><i class="ri-search-line text-[#8c9097]"></i></button>
                                                             </div>
                                                             <div class="hs-dropdown ti-dropdown ms-2">
                                                                 <button class="ti-btn ti-btn-icon ti-btn-light !py-3" type="button" aria-label="button" aria-expanded="false">
@@ -50,12 +50,12 @@
                                                 </a>
                                             </div>
                                             <div class="box-body !p-0">
-                                                <div class="flex flex-wrap align-item-center sm:mt-0 mt-[3rem] justify-between border-b border-dashed dark:border-defaultborder/10 p-4">
+                                                <div class="flex flex-wrap align-item-center sm:mt-0 mt-[3rem] justify-between border-b border-dashed p-4">
                                                     <div class="team-member-details flex-grow">
                                                         <p class="mb-0 font-semibold text-[1rem] text-truncate">
                                                             <a href="javascript:void(0);">Alexander Smith</a>
                                                         </p>
-                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097] dark:text-white/50 text-truncate">alexandersmith2135@gmail.com</p>
+                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097] text-truncate">alexandersmith2135@gmail.com</p>
                                                     </div>
                                                     <div class="hs-dropdown ti-dropdown">
                                                         <button class="ti-btn ti-btn-sm ti-btn-light" type="button" aria-label="button" aria-expanded="false">
@@ -71,19 +71,19 @@
                                                 <div class="team-member-stats sm:flex items-center justify-evenly">
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Member Since</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">16 Months</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">16 Months</span>
                                                     </div>
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Projects</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">45</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">45</span>
                                                     </div>
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Position</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">Member</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">Member</span>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="box-footer border-block-start-dashed dark:border-defaultborder/10 text-center">
+                                            <div class="box-footer border-block-start-dashed text-center">
                                                 <div class="btn-list">
                                                     <div class="btn-list">
                                                         <button type="button" aria-label="button" class="ti-btn ti-btn-sm ti-btn-light !me-[0.375rem]">
@@ -118,12 +118,12 @@
                                                 </a>
                                             </div>
                                             <div class="box-body !p-0">
-                                                <div class="flex flex-wrap align-item-center sm:mt-0 mt-[3rem] justify-between border-b border-dashed dark:border-defaultborder/10 p-4">
+                                                <div class="flex flex-wrap align-item-center sm:mt-0 mt-[3rem] justify-between border-b border-dashed p-4">
                                                     <div class="team-member-details flex-grow">
                                                         <p class="mb-0 font-semibold text-[1rem] text-truncate">
                                                             <a href="javsscript:void(0);">Alicia Sierra</a>
                                                         </p>
-                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097] dark:text-white/50 text-truncate">aliciasierra1645@gmail.com</p>
+                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097] text-truncate">aliciasierra1645@gmail.com</p>
                                                     </div>
                                                     <div class="hs-dropdown ti-dropdown">
                                                         <button class="ti-btn ti-btn-sm ti-btn-light" type="button" aria-label="button" aria-expanded="false">
@@ -139,19 +139,19 @@
                                                 <div class="team-member-stats sm:flex items-center justify-evenly">
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Member Since</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">2 Years</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">2 Years</span>
                                                     </div>
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Projects</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">78</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">78</span>
                                                     </div>
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Position</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">Associate</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">Associate</span>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="box-footer border-block-start-dashed dark:border-defaultborder/10 text-center">
+                                            <div class="box-footer border-block-start-dashed text-center">
                                                 <div class="btn-list">
                                                     <div class="btn-list">
                                                         <button type="button" aria-label="button" class="ti-btn ti-btn-sm ti-btn-light !me-[0.375rem]">
@@ -186,12 +186,12 @@
                                                 </a>
                                             </div>
                                             <div class="box-body !p-0">
-                                                <div class="flex flex-wrap align-item-center sm:mt-0 mt-[3rem] justify-between border-b border-dashed dark:border-defaultborder/10 p-4">
+                                                <div class="flex flex-wrap align-item-center sm:mt-0 mt-[3rem] justify-between border-b border-dashed p-4">
                                                     <div class="team-member-details flex-grow">
                                                         <p class="mb-0 font-semibold text-[1rem] text-truncate">
                                                             <a href="javascript:void(0);">Angelica Hose</a>
                                                         </p>
-                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097] dark:text-white/50 text-truncate">angelica143@gmail.com</p>
+                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097] text-truncate">angelica143@gmail.com</p>
                                                     </div>
                                                     <div class="hs-dropdown ti-dropdown">
                                                         <button class="ti-btn ti-btn-sm ti-btn-light" type="button" aria-label="button" aria-expanded="false">
@@ -207,19 +207,19 @@
                                                 <div class="team-member-stats sm:flex items-center justify-evenly">
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Member Since</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">12 Months</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">12 Months</span>
                                                     </div>
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Projects</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">35</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">35</span>
                                                     </div>
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Position</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">Member</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">Member</span>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="box-footer border-dashed dark:border-defaultborder/10 text-center">
+                                            <div class="box-footer border-dashed text-center">
                                                 <div class="btn-list">
                                                     <div class="btn-list">
                                                         <button type="button" aria-label="button" class="ti-btn ti-btn-sm ti-btn-light !me-[0.375rem]">
@@ -254,12 +254,12 @@
                                                 </a>
                                             </div>
                                             <div class="box-body !p-0">
-                                                <div class="flex flex-wrap align-item-center sm:mt-0 mt-[3rem] justify-between border-b dark:border-defaultborder/10 border-dashed p-4">
+                                                <div class="flex flex-wrap align-item-center sm:mt-0 mt-[3rem] justify-between border-b border-dashed p-4">
                                                     <div class="team-member-details flex-grow">
                                                         <p class="mb-0 font-semibold text-[1rem] text-truncate">
                                                             <a href="javascript:void(0);">Jhope Joseph</a>
                                                         </p>
-                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097] dark:text-white/50 text-truncate">jhope.joseph@gmail.com</p>
+                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097] text-truncate">jhope.joseph@gmail.com</p>
                                                     </div>
                                                     <div class="hs-dropdown ti-dropdown">
                                                         <button class="ti-btn ti-btn-sm ti-btn-light" type="button" aria-label="button" aria-expanded="false">
@@ -275,19 +275,19 @@
                                                 <div class="team-member-stats sm:flex items-center justify-evenly">
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Member Since</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">3 Years</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">3 Years</span>
                                                     </div>
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Projects</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">126</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">126</span>
                                                     </div>
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Position</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">Team Lead</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">Team Lead</span>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="box-footer border-dashed dark:border-defaultborder/10 text-center">
+                                            <div class="box-footer border-dashed text-center">
                                                 <div class="btn-list">
                                                     <div class="btn-list">
                                                         <button type="button" aria-label="button" class="ti-btn ti-btn-sm ti-btn-light !me-[0.375rem]">
@@ -322,12 +322,12 @@
                                                 </a>
                                             </div>
                                             <div class="box-body !p-0">
-                                                <div class="flex flex-wrap align-item-center sm:mt-0 mt-[3rem] justify-between border-b dark:border-defaultborder/10 border-dashed p-4">
+                                                <div class="flex flex-wrap align-item-center sm:mt-0 mt-[3rem] justify-between border-b border-dashed p-4">
                                                     <div class="team-member-details flex-grow">
                                                         <p class="mb-0 font-semibold text-[1rem] text-truncate">
                                                             <a href="javascript:void(0);">King Martin</a>
                                                         </p>
-                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097] dark:text-white/50 text-truncate">martinking1998@gmail.com</p>
+                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097] text-truncate">martinking1998@gmail.com</p>
                                                     </div>
                                                     <div class="hs-dropdown ti-dropdown">
                                                         <button class="ti-btn ti-btn-sm ti-btn-light" type="button" aria-label="button" aria-expanded="false">
@@ -343,15 +343,15 @@
                                                 <div class="team-member-stats sm:flex items-center justify-evenly">
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Member Since</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">28 Months</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">28 Months</span>
                                                     </div>
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Projects</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">114</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">114</span>
                                                     </div>
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Position</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">Member</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">Member</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -390,12 +390,12 @@
                                                 </a>
                                             </div>
                                             <div class="box-body !p-0">
-                                                <div class="flex flex-wrap align-item-center sm:mt-0 mt-[3rem] justify-between border-b border-dashed dark:border-defaultborder/10 p-4">
+                                                <div class="flex flex-wrap align-item-center sm:mt-0 mt-[3rem] justify-between border-b border-dashed p-4">
                                                     <div class="team-member-details flex-grow">
                                                         <p class="mb-0 font-semibold text-[1rem] text-truncate">
                                                             <a href="javascript:void(0);">Susan Sane</a>
                                                         </p>
-                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097] dark:text-white/50 text-truncate">susanasane@gmail.com</p>
+                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097] text-truncate">susanasane@gmail.com</p>
                                                     </div>
                                                     <div class="hs-dropdown ti-dropdown">
                                                         <button class="ti-btn ti-btn-sm ti-btn-light" type="button" aria-label="button" aria-expanded="false">
@@ -411,19 +411,19 @@
                                                 <div class="team-member-stats sm:flex items-center justify-evenly">
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Member Since</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">18 Months</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">18 Months</span>
                                                     </div>
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Projects</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">74</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">74</span>
                                                     </div>
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Position</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">Member</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">Member</span>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="box-footer border-dashed dark:border-defaultborder/10 text-center">
+                                            <div class="box-footer border-dashed text-center">
                                                 <div class="btn-list">
                                                     <div class="btn-list">
                                                         <button type="button" aria-label="button" class="ti-btn ti-btn-sm ti-btn-light !me-[0.375rem]">
@@ -458,12 +458,12 @@
                                                 </a>
                                             </div>
                                             <div class="box-body !p-0">
-                                                <div class="flex flex-wrap align-item-center sm:mt-0 mt-[3rem] justify-between border-b border-dashed  dark:border-defaultborder/10 p-4">
+                                                <div class="flex flex-wrap align-item-center sm:mt-0 mt-[3rem] justify-between border-b border-dashed  p-4">
                                                     <div class="team-member-details flex-grow">
                                                         <p class="mb-0 font-semibold text-[1rem] text-truncate">
                                                             <a href="javascript:void(0);">Brenda Hops</a>
                                                         </p>
-                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097] dark:text-white/50 text-truncate">brrendahops245@gmail.com</p>
+                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097] text-truncate">brrendahops245@gmail.com</p>
                                                     </div>
                                                     <div class="hs-dropdown ti-dropdown">
                                                         <button class="ti-btn ti-btn-sm ti-btn-light" type="button" aria-label="button" aria-expanded="false">
@@ -479,19 +479,19 @@
                                                 <div class="team-member-stats sm:flex items-center justify-evenly">
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Member Since</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">16 Months</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">16 Months</span>
                                                     </div>
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Projects</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">64</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">64</span>
                                                     </div>
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Position</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">Member</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">Member</span>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="box-footer border-dashed dark:border-defaultborder/10 text-center">
+                                            <div class="box-footer border-dashed text-center">
                                                 <div class="btn-list">
                                                     <div class="btn-list">
                                                         <button type="button" aria-label="button" class="ti-btn ti-btn-sm ti-btn-light !me-[0.375rem]">
@@ -526,12 +526,12 @@
                                                 </a>
                                             </div>
                                             <div class="box-body !p-0">
-                                                <div class="flex flex-wrap align-item-center sm:mt-0 mt-[3rem] justify-between border-b border-dashed dark:border-defaultborder/10 p-4">
+                                                <div class="flex flex-wrap align-item-center sm:mt-0 mt-[3rem] justify-between border-b border-dashed p-4">
                                                     <div class="team-member-details flex-grow">
                                                         <p class="mb-0 font-semibold text-[1rem] text-truncate">
                                                             <a href="javascript:void(0);">Paul Rudd</a>
                                                         </p>
-                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097] dark:text-white/50 text-truncate">paulrudd143@gmail.com</p>
+                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097] text-truncate">paulrudd143@gmail.com</p>
                                                     </div>
                                                     <div class="hs-dropdown ti-dropdown">
                                                         <button class="ti-btn ti-btn-sm ti-btn-light" type="button" aria-label="button" aria-expanded="false">
@@ -547,19 +547,19 @@
                                                 <div class="team-member-stats sm:flex items-center justify-evenly">
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Member Since</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">7 Months</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">7 Months</span>
                                                     </div>
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Projects</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">17</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">17</span>
                                                     </div>
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Position</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">Member</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">Member</span>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="box-footer border-dashed dark:border-defaultborder/10 text-center">
+                                            <div class="box-footer border-dashed text-center">
                                                 <div class="btn-list">
                                                     <div class="btn-list">
                                                         <button type="button" aria-label="button" class="ti-btn ti-btn-sm ti-btn-light !me-[0.375rem]">
@@ -594,12 +594,12 @@
                                                 </a>
                                             </div>
                                             <div class="box-body !p-0">
-                                                <div class="flex flex-wrap align-item-center sm:mt-0 mt-[3rem] justify-between border-b border-dashed dark:border-defaultborder/10 p-4">
+                                                <div class="flex flex-wrap align-item-center sm:mt-0 mt-[3rem] justify-between border-b border-dashed p-4">
                                                     <div class="team-member-details flex-grow">
                                                         <p class="mb-0 font-semibold text-[1rem] text-truncate">
                                                             <a href="javascript:void(0);">Elisha Jin</a>
                                                         </p>
-                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097] dark:text-white/50 text-truncate">elishajin@gmail.com</p>
+                                                        <p class="mb-0 text-[0.75rem] text-[#8c9097] text-truncate">elishajin@gmail.com</p>
                                                     </div>
                                                     <div class="hs-dropdown ti-dropdown">
                                                         <button class="ti-btn ti-btn-sm ti-btn-light" type="button" aria-label="button" aria-expanded="false">
@@ -615,19 +615,19 @@
                                                 <div class="team-member-stats sm:flex items-center justify-evenly">
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Member Since</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">4 Years</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">4 Years</span>
                                                     </div>
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Projects</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">321</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">321</span>
                                                     </div>
                                                     <div class="text-center p-4 w-full">
                                                         <p class="font-semibold mb-0">Position</p>
-                                                        <span class="text-[#8c9097] dark:text-white/50 text-[0.75rem]">Manager</span>
+                                                        <span class="text-[#8c9097] text-[0.75rem]">Manager</span>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="box-footer border-dashed dark:border-defaultborder/10 text-center">
+                                            <div class="box-footer border-dashed text-center">
                                                 <div class="btn-list">
                                                     <div class="btn-list">
                                                         <button type="button" aria-label="button" class="ti-btn ti-btn-sm ti-btn-light !me-[0.375rem]">
@@ -721,7 +721,7 @@
                                             <ul class="list-none mb-0 mt-2">
                                                 <li class="!pb-0">
                                                     <div class="flex justify-between items-center">
-                                                        <div class="text-[.625rem] font-semibold mb-2 text-[#8c9097] dark:text-white/50">TEAM UI</div>
+                                                        <div class="text-[.625rem] font-semibold mb-2 text-[#8c9097]">TEAM UI</div>
                                                         <button type="button" aria-label="button" class="ti-btn ti-btn-sm ti-btn-success" data-hs-overlay="#create-teamui-mem">
                                                             <i class="ri-add-line"></i>
                                                           </button>
@@ -740,7 +740,7 @@
                                                                 <span>Angelica Hale</span>
                                                             </div>
                                                             <div>
-                                                                <span class="text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50">
+                                                                <span class="text-[.625rem] font-semibold text-[#8c9097]">
                                                                 </span>
                                                             </div>
                                                         </div>
@@ -758,7 +758,7 @@
                                                                 <span>Mona Magore</span>
                                                             </div>
                                                             <div>
-                                                                <span class="text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50">
+                                                                <span class="text-[.625rem] font-semibold text-[#8c9097]">
                                                                     8 min
                                                                 </span>
                                                             </div>
@@ -777,7 +777,7 @@
                                                                 <span>Mark Wains</span>
                                                             </div>
                                                             <div>
-                                                                <span class="text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50">
+                                                                <span class="text-[.625rem] font-semibold text-[#8c9097]">
                                                                 </span>
                                                             </div>
                                                         </div>
@@ -795,7 +795,7 @@
                                                                 <span>Alex Carey</span>
                                                             </div>
                                                             <div>
-                                                                <span class="text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50">
+                                                                <span class="text-[.625rem] font-semibold text-[#8c9097]">
                                                                 </span>
                                                             </div>
                                                         </div>
@@ -813,7 +813,7 @@
                                                                 <span>Monika Karen</span>
                                                             </div>
                                                             <div>
-                                                                <span class="text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50">
+                                                                <span class="text-[.625rem] font-semibold text-[#8c9097]">
                                                                     24 mins
                                                                 </span>
                                                             </div>
@@ -822,7 +822,7 @@
                                                 </li>
                                                 <li class="pb-0">
                                                     <div class="flex justify-between items-center">
-                                                        <div class="text-[.625rem] font-semibold mb-2 text-[#8c9097] dark:text-white/50">TEAM REACT</div>
+                                                        <div class="text-[.625rem] font-semibold mb-2 text-[#8c9097]">TEAM REACT</div>
                                                         <button type="button" aria-label="button" class="ti-btn ti-btn-sm ti-btn-success" data-hs-overlay="#create-teamreact-mem">
                                                             <i class="ri-add-line"></i>
                                                           </button>
@@ -840,7 +840,7 @@
                                                                 <span>Matthew Ray</span>
                                                             </div>
                                                             <div>
-                                                                <span class="text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50">
+                                                                <span class="text-[.625rem] font-semibold text-[#8c9097]">
                                                                 </span>
                                                             </div>
                                                         </div>
@@ -858,7 +858,7 @@
                                                                 <span>Melissa Blue</span>
                                                             </div>
                                                             <div>
-                                                                <span class="text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50">
+                                                                <span class="text-[.625rem] font-semibold text-[#8c9097]">
                                                                 </span>
                                                             </div>
                                                         </div>
@@ -876,7 +876,7 @@
                                                                 <span>Brenda Sams</span>
                                                             </div>
                                                             <div>
-                                                                <span class="text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50">
+                                                                <span class="text-[.625rem] font-semibold text-[#8c9097]">
                                                                 </span>
                                                             </div>
                                                         </div>
@@ -894,7 +894,7 @@
                                                                 <span>Muhammed Kher</span>
                                                             </div>
                                                             <div>
-                                                                <span class="text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50">
+                                                                <span class="text-[.625rem] font-semibold text-[#8c9097]">
                                                                     13 mins
                                                                 </span>
                                                             </div>
@@ -913,7 +913,7 @@
                                                                 <span>Dorga Boavan</span>
                                                             </div>
                                                             <div>
-                                                                <span class="text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50">
+                                                                <span class="text-[.625rem] font-semibold text-[#8c9097]">
                                                                 </span>
                                                             </div>
                                                         </div>
@@ -931,7 +931,7 @@
                                                                 <span>Yashna Polana</span>
                                                             </div>
                                                             <div>
-                                                                <span class="text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50">
+                                                                <span class="text-[.625rem] font-semibold text-[#8c9097]">
                                                                     19 mins
                                                                 </span>
                                                             </div>
@@ -940,7 +940,7 @@
                                                 </li>
                                                 <li class="pb-0">
                                                     <div class="flex justify-between items-center">
-                                                        <div class="text-[.625rem] font-semibold mb-2 text-[#8c9097] dark:text-white/50">TEAM TESTING</div>
+                                                        <div class="text-[.625rem] font-semibold mb-2 text-[#8c9097]">TEAM TESTING</div>
                                                         <button type="button" aria-label="button" class="ti-btn ti-btn-sm ti-btn-success" data-hs-overlay="#create-teamtesting-mem">
                                                             <i class="ri-add-line"></i>
                                                           </button>
@@ -958,7 +958,7 @@
                                                                 <span>Jason Smith</span>
                                                             </div>
                                                             <div>
-                                                                <span class="text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50">
+                                                                <span class="text-[.625rem] font-semibold text-[#8c9097]">
                                                                 </span>
                                                             </div>
                                                         </div>
@@ -976,7 +976,7 @@
                                                                 <span>Sasha Hops</span>
                                                             </div>
                                                             <div>
-                                                                <span class="text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50">
+                                                                <span class="text-[.625rem] font-semibold text-[#8c9097]">
                                                                     21 mins
                                                                 </span>
                                                             </div>
@@ -995,7 +995,7 @@
                                                                 <span>Mark Zaker</span>
                                                             </div>
                                                             <div>
-                                                                <span class="text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50">
+                                                                <span class="text-[.625rem] font-semibold text-[#8c9097]">
                                                                     38 mins
                                                                 </span>
                                                             </div>
@@ -1014,7 +1014,7 @@
                                                                 <span>Suarez Adam</span>
                                                             </div>
                                                             <div>
-                                                                <span class="text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50"></span>
+                                                                <span class="text-[.625rem] font-semibold text-[#8c9097]"></span>
                                                             </div>
                                                         </div>
                                                     </a>
@@ -1031,7 +1031,7 @@
                                                                 <span>Kiara Advensh</span>
                                                             </div>
                                                             <div>
-                                                                <span class="text-[.625rem] font-semibold text-[#8c9097] dark:text-white/50">
+                                                                <span class="text-[.625rem] font-semibold text-[#8c9097]">
                                                                     1 hr
                                                                 </span>
                                                             </div>

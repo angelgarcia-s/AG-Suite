@@ -24,36 +24,36 @@
                       <div class="box">
                           <div class="box-body !p-[3rem]">
                               <p class="h5 font-semibold mb-2 text-center">Create Password</p>
-                              <p class="mb-4 text-[#8c9097] dark:text-white/50 opacity-[0.7] font-normal text-center">Hello Jhon !</p>
+                              <p class="mb-4 text-[#8c9097] opacity-[0.7] font-normal text-center">Hello Jhon !</p>
                               <div class="grid grid-cols-12 gap-y-4">
                                   <div class="xl:col-span-12 col-span-12">
                                       <label for="create-password" class="form-label text-default">Password</label>
                                       <div class="input-group">
                                           <input type="password" class="form-control form-control-lg !rounded-s-md !border-e-0" id="create-password" placeholder="password">
-                                          <button aria-label="button" type="button" class="ti-btn ti-btn-light !mb-0 !rounded-s-none dark:border-white/10 !border-s-0" onclick="createpassword('create-password',this)"><i class="ri-eye-off-line align-middle"></i></button>
+                                          <button aria-label="button" type="button" class="ti-btn ti-btn-light !mb-0 !rounded-s-none !border-s-0" onclick="createpassword('create-password',this)"><i class="ri-eye-off-line align-middle"></i></button>
                                       </div>
                                   </div>
                                   <div class="xl:col-span-12 col-span-12 mb-2">
                                       <label for="create-confirmpassword" class="form-label text-default">Confirm Password</label>
                                       <div class="input-group">
                                           <input type="password" class="form-control form-control-lg !rounded-s-md !border-e-0" id="create-confirmpassword" placeholder="password">
-                                          <button aria-label="button" type="button" class="ti-btn ti-btn-light !mb-0  !rounded-s-none dark:border-white/10 !border-s-0" onclick="createpassword('create-confirmpassword',this)"><i class="ri-eye-off-line align-middle"></i></button>
+                                          <button aria-label="button" type="button" class="ti-btn ti-btn-light !mb-0  !rounded-s-none !border-s-0" onclick="createpassword('create-confirmpassword',this)"><i class="ri-eye-off-line align-middle"></i></button>
                                       </div>
                                       <div class="mt-2">
                                           <div class="form-check !ps-0">
                                               <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
-                                              <label class="form-check-label text-[#8c9097] dark:text-white/50 font-normal" for="defaultCheck1">
+                                              <label class="form-check-label text-[#8c9097] font-normal" for="defaultCheck1">
                                                   Remember password ?
                                               </label>
                                           </div>
                                       </div>
                                   </div>
                                   <div class="xl:col-span-12 col-span-12 grid mt-2">
-                                      <button type="button" class="ti-btn ti-btn-lg bg-primary text-white !font-medium dark:border-defaultborder/10">Save Password</button>
+                                      <button type="button" class="ti-btn ti-btn-lg bg-primary text-white !font-medium">Save Password</button>
                                   </div>
                               </div>
                               <div class="text-center">
-                                  <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50  mt-4">Back to home ? <a href="{{url('index')}}" class="text-primary">Click Here</a></p>
+                                  <p class="text-[0.75rem] text-[#8c9097]  mt-4">Back to home ? <a href="{{url('index')}}" class="text-primary">Click Here</a></p>
                               </div>
                               <div class="text-center my-4 authentication-barrier">
                                   <span>OR</span>

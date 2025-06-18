@@ -10,16 +10,16 @@
                     <!-- Page Header -->
                     <div class="block justify-between page-header md:flex">
                         <div>
-                            <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Ecommerce</h3>
+                            <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Ecommerce</h3>
                         </div>
                         <ol class="flex items-center whitespace-nowrap min-w-0">
                             <li class="text-[0.813rem] ps-[0.5rem]">
-                            <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                            <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                 Dashboards
-                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                             </a>
                             </li>
-                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                 Ecommerce
                             </li>
                         </ol>
@@ -41,7 +41,7 @@
                                                 </div>
                                                 <div class="xxxl:col-span-9 col-span-8 ps-0">
                                                     <div class="mb-2">Total Sales</div>
-                                                    <div class="text-[#8c9097] dark:text-white/50 mb-1 text-[0.75rem]">
+                                                    <div class="text-[#8c9097] mb-1 text-[0.75rem]">
                                                         <span class="text-defaulttextcolor font-semibold text-[1.25rem] leading-none vertical-bottom">
                                                             14,732
                                                         </span>
@@ -65,7 +65,7 @@
                                                 </div>
                                                 <div class="xxxl:col-span-9 col-span-8 ps-0">
                                                     <div class="mb-2">Total Expenses</div>
-                                                    <div class="text-[#8c9097] dark:text-white/50 mb-1 text-[0.75rem]">
+                                                    <div class="text-[#8c9097] mb-1 text-[0.75rem]">
                                                         <span class="font-semibold text-[1.25rem] leading-none text-defaulttextcolor vertical-bottom">
                                                             $28,346.00
                                                         </span>
@@ -89,7 +89,7 @@
                                                 </div>
                                                 <div class="xxxl:col-span-9 col-span-8 ps-0">
                                                     <div class="mb-2">Total Visitors</div>
-                                                    <div class="text-[#8c9097] dark:text-white/50 mb-1 text-[0.75rem]">
+                                                    <div class="text-[#8c9097] mb-1 text-[0.75rem]">
                                                         <span class="text-defaulttextcolor font-semibold text-[1.25rem]  leading-none vertical-bottom">
                                                             1,29,368
                                                         </span>
@@ -113,7 +113,7 @@
                                                 </div>
                                                 <div class="xxxl:col-span-9 col-span-8 ps-0">
                                                     <div class="mb-2">Total Orders</div>
-                                                    <div class="text-[#8c9097] dark:text-white/50 mb-1 text-[0.75rem]">
+                                                    <div class="text-[#8c9097] mb-1 text-[0.75rem]">
                                                         <span class="font-semibold text-[1.25rem] leading-none vertical-bottom text-defaulttextcolor">
                                                             35,367
                                                         </span>
@@ -179,7 +179,7 @@
 
                                                             <div class="flex-grow ms-2">
                                                                 <p class="font-semibold mb-0">Smart Phone</p>
-                                                                <p class="text-[0.75rem] !text-[#8c9097] dark:text-white/50 mb-0">Mobiles</p>
+                                                                <p class="text-[0.75rem] !text-[#8c9097] mb-0">Mobiles</p>
                                                             </div>
                                                             <div>
                                                                 <span class="text-success font-semibold">$199.99</span>
@@ -197,7 +197,7 @@
                                                             </div>
                                                             <div class="flex-grow ms-2">
                                                                 <p class="font-semibold mb-0">White Headphones</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">Music</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">Music</p>
                                                             </div>
                                                             <div>
                                                                 <span class="text-success font-semibold">$79.49</span>
@@ -215,7 +215,7 @@
                                                             </div>
                                                             <div class="flex-grow ms-2">
                                                                 <p class="font-semibold mb-0">Stop Watch</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">Electronics</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">Electronics</p>
                                                             </div>
                                                             <div>
                                                                 <span class="text-success font-semibold">$49.29</span>
@@ -233,7 +233,7 @@
                                                             </div>
                                                             <div class="flex-grow ms-2">
                                                                 <p class="font-semibold mb-0">Kikon Camera</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">Electronics</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">Electronics</p>
                                                             </div>
                                                             <div>
                                                                 <span class="text-success font-semibold">$1,699.00</span>
@@ -251,7 +251,7 @@
                                                             </div>
                                                             <div class="flex-grow ms-2">
                                                                 <p class="font-semibold mb-0">Photo Frame</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">Furniture</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">Furniture</p>
                                                             </div>
                                                             <div>
                                                                 <span class="text-success font-semibold">$29.99</span>
@@ -269,7 +269,7 @@
                                                             </div>
                                                             <div class="flex-grow ms-2">
                                                                 <p class="font-semibold mb-0">Canvas Shoes</p>
-                                                                <p class="text-[0.75rem] text-[#8c9097] dark:text-white/50 mb-0">Footwear</p>
+                                                                <p class="text-[0.75rem] text-[#8c9097] mb-0">Footwear</p>
                                                             </div>
                                                             <div>
                                                                 <span class="text-success font-semibold">$89.99</span>
@@ -289,13 +289,13 @@
                                             </div>
                                             <div>
                                                 <nav class="sm:flex block sm:mt-0 mt-2" aria-label="Tabs">
-                                                    <a class="block w-full sm:w-auto hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-4  text-[0.8rem] font-medium text-center rounded-md hover:text-primary active" id="active-item" data-hs-tab="#taskactive" aria-controls="taskactive">
+                                                    <a class="block w-full sm:w-auto hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor py-2 px-4  text-[0.8rem] font-medium text-center rounded-md hover:text-primary active" id="active-item" data-hs-tab="#taskactive" aria-controls="taskactive">
                                                         Active Orders
                                                     </a>
-                                                    <a class="block w-full sm:w-auto hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-4 text-[0.8rem] font-medium text-center  rounded-md hover:text-primary " id="completed-item" data-hs-tab="#completed" aria-controls="completed">
+                                                    <a class="block w-full sm:w-auto hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor py-2 px-4 text-[0.8rem] font-medium text-center  rounded-md hover:text-primary " id="completed-item" data-hs-tab="#completed" aria-controls="completed">
                                                         Completed
                                                     </a>
-                                                    <a class="block w-full sm:w-auto hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-4 text-[0.8rem] font-medium text-center  rounded-md hover:text-primary " id="cancelled-item" data-hs-tab="#cancelled" aria-controls="cancelled">
+                                                    <a class="block w-full sm:w-auto hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor py-2 px-4 text-[0.8rem] font-medium text-center  rounded-md hover:text-primary " id="cancelled-item" data-hs-tab="#cancelled" aria-controls="cancelled">
                                                         Cancelled
                                                     </a>
                                                 </nav>
@@ -303,7 +303,7 @@
                                         </div>
                                         <div class="box-body !p-0">
                                             <div class="tab-content">
-                                                <div class="tab-pane show active text-[#8c9097] dark:text-white/50 !border-0 !p-0" id="taskactive"
+                                                <div class="tab-pane show active text-[#8c9097] !border-0 !p-0" id="taskactive"
                                                     role="tabpanel">
                                                     <div class="table-responsive overflow-auto">
                                                         <table class="table box-table table-vcenter whitespace-nowrap mb-0 min-w-full">
@@ -317,20 +317,20 @@
                                                                                 </span>
                                                                             </div>
                                                                             <div class="items-center">
-                                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Name</span>
+                                                                                <span class="text-[0.75rem] text-[#8c9097]">Name</span>
                                                                                 <p class="mb-0">Amanda Nanes</p>
                                                                             </div>
                                                                         </div>
                                                                     </td>
                                                                     <td>
                                                                         <div class="items-center">
-                                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Price</span>
+                                                                            <span class="text-[0.75rem] text-[#8c9097]">Price</span>
                                                                             <p class="mb-0 font-semibold">$229.99</p>
                                                                         </div>
                                                                     </td>
                                                                     <td>
                                                                         <div class="items-center">
-                                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Delivery Date</span>
+                                                                            <span class="text-[0.75rem] text-[#8c9097]">Delivery Date</span>
                                                                             <p class="mb-0">24 May 2022</p>
                                                                         </div>
                                                                     </td>
@@ -345,7 +345,7 @@
                                                                         </a>
                                                                     </td>
                                                                 </tr>
-                                                                <tr class="border-y border-inherit border-solid dark:border-defaultborder/10" >
+                                                                <tr class="border-y border-inherit border-solid" >
                                                                     <td>
                                                                         <div class="flex items-center">
                                                                             <div class="leading-none">
@@ -354,20 +354,20 @@
                                                                                 </span>
                                                                             </div>
                                                                             <div class="items-center">
-                                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Name</span>
+                                                                                <span class="text-[0.75rem] text-[#8c9097]">Name</span>
                                                                                 <p class="mb-0">Peter Parkour</p>
                                                                             </div>
                                                                         </div>
                                                                     </td>
                                                                     <td>
                                                                         <div class="items-center">
-                                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Price</span>
+                                                                            <span class="text-[0.75rem] text-[#8c9097]">Price</span>
                                                                             <p class="mb-0 font-semibold">$135.29</p>
                                                                         </div>
                                                                     </td>
                                                                     <td>
                                                                         <div class="items-center">
-                                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Delivery Date</span>
+                                                                            <span class="text-[0.75rem] text-[#8c9097]">Delivery Date</span>
                                                                             <p class="mb-0">18 May 2022</p>
                                                                         </div>
                                                                     </td>
@@ -382,7 +382,7 @@
                                                                         </a>
                                                                     </td>
                                                                 </tr>
-                                                                <tr class="border-y border-inherit border-solid dark:border-defaultborder/10">
+                                                                <tr class="border-y border-inherit border-solid">
                                                                     <td>
                                                                         <div class="flex items-center">
                                                                             <div class="leading-none">
@@ -391,20 +391,20 @@
                                                                                 </span>
                                                                             </div>
                                                                             <div class="items-center">
-                                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Name</span>
+                                                                                <span class="text-[0.75rem] text-[#8c9097]">Name</span>
                                                                                 <p class="mb-0">Jackie Chen</p>
                                                                             </div>
                                                                         </div>
                                                                     </td>
                                                                     <td>
                                                                         <div class="items-center">
-                                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Price</span>
+                                                                            <span class="text-[0.75rem] text-[#8c9097]">Price</span>
                                                                             <p class="mb-0 fw-semibold">$1,299.99</p>
                                                                         </div>
                                                                     </td>
                                                                     <td>
                                                                         <div class="aitems-center">
-                                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Delivery Date</span>
+                                                                            <span class="text-[0.75rem] text-[#8c9097]">Delivery Date</span>
                                                                             <p class="mb-0">29 May 2022</p>
                                                                         </div>
                                                                     </td>
@@ -419,7 +419,7 @@
                                                                         </a>
                                                                     </td>
                                                                 </tr>
-                                                                <tr class="border-y border-inherit border-solid dark:border-defaultborder/10">
+                                                                <tr class="border-y border-inherit border-solid">
                                                                     <td>
                                                                         <div class="flex items-center">
                                                                             <div class="leading-none">
@@ -428,20 +428,20 @@
                                                                                 </span>
                                                                             </div>
                                                                             <div class="items-center">
-                                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Name</span>
+                                                                                <span class="text-[0.75rem] text-[#8c9097]">Name</span>
                                                                                 <p class="mb-0">Ryan Gercia</p>
                                                                             </div>
                                                                         </div>
                                                                     </td>
                                                                     <td>
                                                                         <div class="items-center">
-                                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Price</span>
+                                                                            <span class="text-[0.75rem] text-[#8c9097]">Price</span>
                                                                             <p class="mb-0 fw-semibold">$249.29</p>
                                                                         </div>
                                                                     </td>
                                                                     <td>
                                                                         <div class="items-center">
-                                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Delivery Date</span>
+                                                                            <span class="text-[0.75rem] text-[#8c9097]">Delivery Date</span>
                                                                             <p class="mb-0">05 Jun 2022</p>
                                                                         </div>
                                                                     </td>
@@ -465,20 +465,20 @@
                                                                                 </span>
                                                                             </div>
                                                                             <div class="items-center">
-                                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Name</span>
+                                                                                <span class="text-[0.75rem] text-[#8c9097]">Name</span>
                                                                                 <p class="mb-0">Hugh Jackma</p>
                                                                             </div>
                                                                         </div>
                                                                     </td>
                                                                     <td>
                                                                         <div class="items-center">
-                                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Price</span>
+                                                                            <span class="text-[0.75rem] text-[#8c9097]">Price</span>
                                                                             <p class="mb-0 font-semibold">$499.99</p>
                                                                         </div>
                                                                     </td>
                                                                     <td>
                                                                         <div class="items-center">
-                                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Delivery Date</span>
+                                                                            <span class="text-[0.75rem] text-[#8c9097]">Delivery Date</span>
                                                                             <p class="mb-0">15 May 2022</p>
                                                                         </div>
                                                                     </td>
@@ -497,7 +497,7 @@
                                                         </table>
                                                     </div>
                                                 </div>
-                                                <div class="tab-pane text-[#8c9097] dark:text-white/50 !border-0 !p-0 hidden" id="completed"  role="tabpanel" aria-labelledby="completed-item">
+                                                <div class="tab-pane text-[#8c9097] !border-0 !p-0 hidden" id="completed"  role="tabpanel" aria-labelledby="completed-item">
                                                     <div class="table-responsive overflow-auto">
                                                         <table class="table card-table table-vcenter whitespace-nowrap mb-0 min-w-full">
                                                             <tbody class="active-tab">
@@ -510,14 +510,14 @@
                                                                                 </span>
                                                                             </div>
                                                                             <div class="items-center">
-                                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Name</span>
+                                                                                <span class="text-[0.75rem] text-[#8c9097]">Name</span>
                                                                                 <p class="mb-0">Lisa Rebecca</p>
                                                                             </div>
                                                                         </div>
                                                                     </td>
                                                                     <td>
                                                                         <div class="items-center">
-                                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Price</span>
+                                                                            <span class="text-[0.75rem] text-[#8c9097]">Price</span>
                                                                             <p class="mb-0 fw-semibold">$1,199.99</p>
                                                                         </div>
                                                                     </td>
@@ -547,14 +547,14 @@
                                                                                 </span>
                                                                             </div>
                                                                             <div class="items-center">
-                                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Name</span>
+                                                                                <span class="text-[0.75rem] text-[#8c9097]">Name</span>
                                                                                 <p class="mb-0">Matt Martin</p>
                                                                             </div>
                                                                         </div>
                                                                     </td>
                                                                     <td>
                                                                         <div class="items-center">
-                                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Price</span>
+                                                                            <span class="text-[0.75rem] text-[#8c9097]">Price</span>
                                                                             <p class="mb-0 font-semibold">$799.99</p>
                                                                         </div>
                                                                     </td>
@@ -584,14 +584,14 @@
                                                                                 </span>
                                                                             </div>
                                                                             <div class="items-center">
-                                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Name</span>
+                                                                                <span class="text-[0.75rem] text-[#8c9097]">Name</span>
                                                                                 <p class="mb-0">Mitchell Osama</p>
                                                                             </div>
                                                                         </div>
                                                                     </td>
                                                                     <td>
                                                                         <div class="items-center">
-                                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Price</span>
+                                                                            <span class="text-[0.75rem] text-[#8c9097]">Price</span>
                                                                             <p class="mb-0 fw-semibold">$279.00</p>
                                                                         </div>
                                                                     </td>
@@ -621,14 +621,14 @@
                                                                                 </span>
                                                                             </div>
                                                                             <div class="items-center">
-                                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Name</span>
+                                                                                <span class="text-[0.75rem] text-[#8c9097]">Name</span>
                                                                                 <p class="mb-0">Cornor Mcgood</p>
                                                                             </div>
                                                                         </div>
                                                                     </td>
                                                                     <td>
                                                                         <div class="items-center">
-                                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Price</span>
+                                                                            <span class="text-[0.75rem] text-[#8c9097]">Price</span>
                                                                             <p class="mb-0 font-semibold">$79.99</p>
                                                                         </div>
                                                                     </td>
@@ -658,14 +658,14 @@
                                                                                 </span>
                                                                             </div>
                                                                             <div class="items-center">
-                                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Name</span>
+                                                                                <span class="text-[0.75rem] text-[#8c9097]">Name</span>
                                                                                 <p class="mb-0">Kishan Patel</p>
                                                                             </div>
                                                                         </div>
                                                                     </td>
                                                                     <td>
                                                                         <div class="items-center">
-                                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Price</span>
+                                                                            <span class="text-[0.75rem] text-[#8c9097]">Price</span>
                                                                             <p class="mb-0 fw-semibold">$1449.29</p>
                                                                         </div>
                                                                     </td>
@@ -690,7 +690,7 @@
                                                         </table>
                                                     </div>
                                                 </div>
-                                                <div class="tab-pane text-[#8c9097] dark:text-white/50 !border-0 !p-0 hidden" id="cancelled" role="tabpanel" aria-labelledby="cancelled-item">
+                                                <div class="tab-pane text-[#8c9097] !border-0 !p-0 hidden" id="cancelled" role="tabpanel" aria-labelledby="cancelled-item">
                                                     <div class="table-responsive overflow-auto">
                                                         <table class="table card-table table-vcenter whitespace-nowrap mb-0 min-w-full">
                                                             <tbody class="active-tab">
@@ -703,14 +703,14 @@
                                                                                 </span>
                                                                             </div>
                                                                             <div class="items-center">
-                                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Name</span>
+                                                                                <span class="text-[0.75rem] text-[#8c9097]">Name</span>
                                                                                 <p class="mb-0">Hailey Bobber</p>
                                                                             </div>
                                                                         </div>
                                                                     </td>
                                                                     <td>
                                                                         <div class="items-center">
-                                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Price</span>
+                                                                            <span class="text-[0.75rem] text-[#8c9097]">Price</span>
                                                                             <p class="mb-0 fw-semibold">$199.99</p>
                                                                         </div>
                                                                     </td>
@@ -740,14 +740,14 @@
                                                                                 </span>
                                                                             </div>
                                                                             <div class="items-center">
-                                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Name</span>
+                                                                                <span class="text-[0.75rem] text-[#8c9097]">Name</span>
                                                                                 <p class="mb-0">Anthony Mansion</p>
                                                                             </div>
                                                                         </div>
                                                                     </td>
                                                                     <td>
                                                                         <div class="items-center">
-                                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Price</span>
+                                                                            <span class="text-[0.75rem] text-[#8c9097]">Price</span>
                                                                             <p class="mb-0 fw-semibold">$179.99</p>
                                                                         </div>
                                                                     </td>
@@ -777,14 +777,14 @@
                                                                                 </span>
                                                                             </div>
                                                                             <div class="items-center">
-                                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Name</span>
+                                                                                <span class="text-[0.75rem] text-[#8c9097]">Name</span>
                                                                                 <p class="mb-0">Simon Carter</p>
                                                                             </div>
                                                                         </div>
                                                                     </td>
                                                                     <td>
                                                                         <div class="items-center">
-                                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Price</span>
+                                                                            <span class="text-[0.75rem] text-[#8c9097]">Price</span>
                                                                             <p class="mb-0 fw-semibold">$149.99</p>
                                                                         </div>
                                                                     </td>
@@ -814,14 +814,14 @@
                                                                                 </span>
                                                                             </div>
                                                                             <div class="items-center">
-                                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Name</span>
+                                                                                <span class="text-[0.75rem] text-[#8c9097]">Name</span>
                                                                                 <p class="mb-0">Sofia Sekh</p>
                                                                             </div>
                                                                         </div>
                                                                     </td>
                                                                     <td>
                                                                         <div class="items-center">
-                                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Price</span>
+                                                                            <span class="text-[0.75rem] text-[#8c9097]">Price</span>
                                                                             <p class="mb-0 fw-semibold">$1439.99</p>
                                                                         </div>
                                                                     </td>
@@ -851,14 +851,14 @@
                                                                                 </span>
                                                                             </div>
                                                                             <div class="items-center">
-                                                                                <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Name</span>
+                                                                                <span class="text-[0.75rem] text-[#8c9097]">Name</span>
                                                                                 <p class="mb-0">Kimura Kai</p>
                                                                             </div>
                                                                         </div>
                                                                     </td>
                                                                     <td>
                                                                         <div class="items-center">
-                                                                            <span class="text-[0.75rem] text-[#8c9097] dark:text-white/50">Price</span>
+                                                                            <span class="text-[0.75rem] text-[#8c9097]">Price</span>
                                                                             <p class="mb-0 fw-semibold">$1092.99</p>
                                                                         </div>
                                                                     </td>
@@ -896,7 +896,7 @@
                                         <div class="box-header justify-between">
                                             <div class="box-title">Earnings</div>
                                             <div class="hs-dropdown ti-dropdown">
-                                                <a href="javascript:void(0);" class="text-[0.75rem] px-2 font-normal text-[#8c9097] dark:text-white/50"
+                                                <a href="javascript:void(0);" class="text-[0.75rem] px-2 font-normal text-[#8c9097]"
                                                 aria-expanded="false">
                                                 View All<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                                 </a>
@@ -959,7 +959,7 @@
                                                         </tr>
                                                     </thead>
                                                     <tbody class="top-selling">
-                                                        <tr class="border-y border-inherit border-solid dark:border-defaultborder/10 ">
+                                                        <tr class="border-y border-inherit border-solid ">
                                                             <td class="text-center leading-none">
                                                                 <span class="avatar avatar-md !rounded-full">
                                                                     <img src="{{asset('build/assets/images/ecommerce/png/36.png')}}" class="p-2 !rounded-full bg-light" alt="">
@@ -972,7 +972,7 @@
                                                                 <span class="font-semibold">5,093</span>
                                                             </td>
                                                         </tr>
-                                                        <tr class="border-y border-inherit border-solid dark:border-defaultborder/10 ">
+                                                        <tr class="border-y border-inherit border-solid ">
                                                             <td class="text-center leading-none">
                                                                 <span class="avatar avatar-md !rounded-full">
                                                                     <img src="{{asset('build/assets/images/ecommerce/png/38.png')}}" class="p-2 !rounded-full bg-light" alt="">
@@ -985,7 +985,7 @@
                                                                 <span class="font-semibold">6,890</span>
                                                             </td>
                                                         </tr>
-                                                        <tr class="border-y border-inherit border-solid dark:border-defaultborder/10 ">
+                                                        <tr class="border-y border-inherit border-solid ">
                                                             <td class="text-center leading-none">
                                                                 <span class="avatar avatar-md !rounded-full">
                                                                     <img src="{{asset('build/assets/images/ecommerce/png/39.png')}}" class="p-2 !rounded-full bg-light" alt="">
@@ -1038,7 +1038,7 @@
                                             <div class="flex items-center mb-2">
                                                 <h4 class="mb-0 leading-none text-[1.5rem] font-medium">38,256</h4>
                                                 <span class="badge bg-primary/10 mx-1 text-primary">12.24%</span>
-                                                <span class="text-[#8c9097] dark:text-white/50 text-[0.6875rem]">Since last week</span>
+                                                <span class="text-[#8c9097] text-[0.6875rem]">Since last week</span>
                                             </div>
                                             <ul class="mb-0 pt-3 list-none">
                                                 <li class="mb-3">
@@ -1122,7 +1122,7 @@
                                                 Top Customers
                                             </div>
                                             <div class="hs-dropdown ti-dropdown">
-                                                <a href="javascript:void(0);" class="text-[0.75rem] px-2 font-normal text-[#8c9097] dark:text-white/50"
+                                                <a href="javascript:void(0);" class="text-[0.75rem] px-2 font-normal text-[#8c9097]"
                                                 aria-expanded="false">
                                                 View All<i class="ri-arrow-down-s-line align-middle ms-1 inline-block"></i>
                                                 </a>
@@ -1145,7 +1145,7 @@
                                                                 <img src="{{asset('build/assets/images/faces/4.jpg')}}" alt="" class="avatar avatar-md avatar-rounded !mb-0 me-2">
                                                                 <div>
                                                                     <p class="mb-0 font-semibold">Emma Wilson</p>
-                                                                    <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.75rem]">15 Purchases<i class="bi bi-patch-check-fill text-[0.875rem] text-primary ms-2"></i></p>
+                                                                    <p class="mb-0 text-[#8c9097] text-[0.75rem]">15 Purchases<i class="bi bi-patch-check-fill text-[0.875rem] text-primary ms-2"></i></p>
                                                                 </div>
                                                             </div>
                                                             <div>
@@ -1161,7 +1161,7 @@
                                                                 <img src="{{asset('build/assets/images/faces/15.jpg')}}" alt="" class="avatar avatar-md avatar-rounded !mb-0 me-2">
                                                                 <div>
                                                                     <p class="mb-0 font-semibold">Robert Lewis</p>
-                                                                    <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.75rem]">18 Purchases<i class="bi bi-patch-check-fill text-[0.875rem] text-primary ms-2"></i></p>
+                                                                    <p class="mb-0 text-[#8c9097] text-[0.75rem]">18 Purchases<i class="bi bi-patch-check-fill text-[0.875rem] text-primary ms-2"></i></p>
                                                                 </div>
                                                             </div>
                                                             <div>
@@ -1177,7 +1177,7 @@
                                                                 <img src="{{asset('build/assets/images/faces/5.jpg')}}" alt="" class="avatar avatar-md avatar-rounded !mb-0 me-2">
                                                                 <div>
                                                                     <p class="mb-0 font-semibold">Angelina Hose</p>
-                                                                    <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.75rem]">21 Purchases<i class="bi bi-patch-check-fill text-[0.875rem] text-primary ms-2"></i></p>
+                                                                    <p class="mb-0 text-[#8c9097] text-[0.75rem]">21 Purchases<i class="bi bi-patch-check-fill text-[0.875rem] text-primary ms-2"></i></p>
                                                                 </div>
                                                             </div>
                                                             <div>
@@ -1193,7 +1193,7 @@
                                                                 <img src="{{asset('build/assets/images/faces/2.jpg')}}" alt="" class="me-2 avatar avatar-md avatar-rounded !mb-0">
                                                                 <div>
                                                                     <p class="mb-0 font-semibold">Samantha Sam</p>
-                                                                    <p class="mb-0 text-[#8c9097] dark:text-white/50 text-[0.75rem]">24 Purchases<i class="bi bi-patch-check-fill text-[0.875rem] text-primary ms-2"></i></p>
+                                                                    <p class="mb-0 text-[#8c9097] text-[0.75rem]">24 Purchases<i class="bi bi-patch-check-fill text-[0.875rem] text-primary ms-2"></i></p>
                                                                 </div>
                                                             </div>
                                                             <div>
@@ -1245,7 +1245,7 @@
                                     <div class="overflow-x-auto">
                                         <table class="table min-w-full whitespace-nowrap table-hover border table-bordered">
                                             <thead>
-                                                <tr class="border border-inherit border-solid  dark:border-defaultborder/10 ">
+                                                <tr class="border border-inherit border-solid  ">
                                                     <th scope="col" class="!text-start">Name</th>
                                                     <th scope="col" class="!text-start">Product Id</th>
                                                     <th scope="col" class="!text-start">Price</th>
@@ -1255,7 +1255,7 @@
                                                 </tr>
                                             </thead>
                                             <tbody>
-                                                <tr class="border-y border-inherit border-solid dark:border-defaultborder/10">
+                                                <tr class="border-y border-inherit border-solid">
                                                     <td>
                                                         <div class="flex items-center">
                                                             <div class="me-2 leading-none">
@@ -1282,7 +1282,7 @@
                                                         <span class="">$67,899.24</span>
                                                     </td>
                                                 </tr>
-                                                <tr class="border-y border-inherit border-solid dark:border-defaultborder/10">
+                                                <tr class="border-y border-inherit border-solid">
                                                     <td>
                                                         <div class="flex items-center">
                                                             <div class="me-2 leading-none">
@@ -1309,7 +1309,7 @@
                                                         <span class="">$3,24,781.92</span>
                                                     </td>
                                                 </tr>
-                                                <tr class="border-y border-inherit border-solid dark:border-defaultborder/10">
+                                                <tr class="border-y border-inherit border-solid">
                                                     <td>
                                                         <div class="flex items-center">
                                                             <div class="me-2 leading-none">
@@ -1336,7 +1336,7 @@
                                                         <span class="">$76,102.76</span>
                                                     </td>
                                                 </tr>
-                                                <tr class="border-y border-inherit border-solid dark:border-defaultborder/10">
+                                                <tr class="border-y border-inherit border-solid">
                                                     <td>
                                                         <div class="flex items-center">
                                                             <div class="me-2 leading-none">
@@ -1363,7 +1363,7 @@
                                                         <span class="">$78,211.83</span>
                                                     </td>
                                                 </tr>
-                                                <tr class="border-y border-inherit border-solid dark:border-defaultborder/10">
+                                                <tr class="border-y border-inherit border-solid">
                                                     <td>
                                                         <div class="flex items-center">
                                                             <div class="me-2 leading-none">

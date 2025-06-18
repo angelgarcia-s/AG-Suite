@@ -10,16 +10,16 @@
                     <!-- Page Header -->
                     <div class="block justify-between page-header md:flex">
                         <div>
-                            <h3 class="!text-defaulttextcolor dark:!text-defaulttextcolor/70 dark:text-white dark:hover:text-white text-[1.125rem] font-semibold"> Pricing</h3>
+                            <h3 class="!text-defaulttextcolor text-[1.125rem] font-semibold"> Pricing</h3>
                         </div>
                         <ol class="flex items-center whitespace-nowrap min-w-0">
                             <li class="text-[0.813rem] ps-[0.5rem]">
-                            <a class="flex items-center text-primary hover:text-primary dark:text-primary truncate" href="javascript:void(0);">
+                            <a class="flex items-center text-primary hover:text-primary truncate" href="javascript:void(0);">
                                 Pages
-                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] dark:text-white/50 px-[0.5rem] overflow-visible rtl:rotate-180"></i>
+                                <i class="ti ti-chevrons-right flex-shrink-0 text-[#8c9097] px-[0.5rem] overflow-visible rtl:rotate-180"></i>
                             </a>
                             </li>
-                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary dark:text-[#8c9097] dark:text-white/50 " aria-current="page">
+                            <li class="text-[0.813rem] text-defaulttextcolor font-semibold hover:text-primary " aria-current="page">
                                 Pricing
                             </li>
                         </ol>
@@ -30,7 +30,7 @@
                     <div class="grid grid-cols-12 gap-x-6 mb-[3rem]">
                         <div class="xl:col-span-12 col-span-12">
                             <h5 class="font-semibold text-center text-[1.25rem] !text-defaulttextcolor"> Simple Pricing For Everyone </h5>
-                            <p class="text-[#8c9097] dark:text-white/50 mb-4 text-center">Choose plan that suits best for your business needs, Our plans scales with you based on your needs</p>
+                            <p class="text-[#8c9097] mb-4 text-center">Choose plan that suits best for your business needs, Our plans scales with you based on your needs</p>
                             <div class="flex justify-center !mb-6">
                                 <nav class="bg-primary/10 p-4 rounded-md mb-4" aria-label="Tabs">
                                     <a class="hs-tab-active:bg-primary hs-tab-active:text-white cursor-pointer text-primary py-2 px-4  text-sm font-medium text-center rounded-sm hover:text-primary active" id="pricing-item" data-hs-tab="#pricing-monthly1-pane" aria-controls="pricing-monthly1-pane">
@@ -57,8 +57,8 @@
                                                                 <span class="badge bg-success/10 text-success">For Indivudials</span>
                                                             </div>
                                                         </div>
-                                                        <div class="text-[1.5625rem] font-bold mb-1">$0<sub class="text-[#8c9097] dark:text-white/50 font-semibold text-[.6875rem] ms-1">/ Per Month</sub></div>
-                                                        <div class="mb-1 text-[#8c9097] dark:text-white/50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam .</div>
+                                                        <div class="text-[1.5625rem] font-bold mb-1">$0<sub class="text-[#8c9097] font-semibold text-[.6875rem] ms-1">/ Per Month</sub></div>
+                                                        <div class="mb-1 text-[#8c9097]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam .</div>
                                                         <div class="text-[0.75rem] mb-4"><u>Billed Monthly</u></div>
                                                         <ul class="list-none mb-0">
                                                             <li class="flex items-center mb-4">
@@ -79,7 +79,7 @@
                                                             </li>
                                                             <li class="flex items-center mb-4">
                                                                 <span class="me-2">
-                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] dark:text-white/50 opacity-[0.3]"></i>
+                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] opacity-[0.3]"></i>
                                                                 </span>
                                                                 <span>
                                                                     <strong class="me-1">1 Year</strong>Email support
@@ -87,7 +87,7 @@
                                                             </li>
                                                             <li class="flex items-center mb-4">
                                                                 <span class="me-2">
-                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] dark:text-white/50 opacity-[0.3]"></i>
+                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] opacity-[0.3]"></i>
                                                                 </span>
                                                                 <span>
                                                                     <strong class="me-1">2</strong>Licenses
@@ -95,7 +95,7 @@
                                                             </li>
                                                             <li class="flex items-center mb-4">
                                                                 <span class="me-2">
-                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] dark:text-white/50 opacity-[0.3]"></i>
+                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] opacity-[0.3]"></i>
                                                                 </span>
                                                                 <span>
                                                                     Custom SEO optimizataion
@@ -103,7 +103,7 @@
                                                             </li>
                                                             <li class="flex items-center mb-4">
                                                                 <span class="me-2">
-                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] dark:text-white/50 opacity-[0.3]"></i>
+                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] opacity-[0.3]"></i>
                                                                 </span>
                                                                 <span>
                                                                     Chat Support
@@ -130,8 +130,8 @@
                                                                 </span>
                                                             </div>
                                                         </div>
-                                                        <div class="text-[1.5625rem] font-bold mb-1">$149<sub class="text-[#8c9097] dark:text-white/50 font-semibold text-[.6875rem] ms-1">/ Per Month</sub></div>
-                                                        <div class="mb-1 text-[#8c9097] dark:text-white/50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam .</div>
+                                                        <div class="text-[1.5625rem] font-bold mb-1">$149<sub class="text-[#8c9097] font-semibold text-[.6875rem] ms-1">/ Per Month</sub></div>
+                                                        <div class="mb-1 text-[#8c9097]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam .</div>
                                                         <div class="text-[0.75rem] mb-4"><u>Billed Monthly</u></div>
                                                         <ul class="list-none mb-0">
                                                             <li class="flex items-center mb-4">
@@ -168,7 +168,7 @@
                                                             </li>
                                                             <li class="flex items-center mb-4">
                                                                 <span class="me-2">
-                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] dark:text-white/50 opacity-[0.3]"></i>
+                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] opacity-[0.3]"></i>
                                                                 </span>
                                                                 <span>
                                                                     Custom SEO optimizataion
@@ -176,7 +176,7 @@
                                                             </li>
                                                             <li class="flex items-center mb-4">
                                                                 <span class="me-2">
-                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] dark:text-white/50 opacity-[0.3]"></i>
+                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] opacity-[0.3]"></i>
                                                                 </span>
                                                                 <span>
                                                                     Chat Support
@@ -203,8 +203,8 @@
                                                                 </span>
                                                             </div>
                                                         </div>
-                                                        <div class="text-[1.5625rem] font-bold mb-1">$1,299<sub class="text-[#8c9097] dark:text-white/50 font-semibold text-[.6875rem] ms-1">/ Per Month</sub></div>
-                                                        <div class="mb-1 text-[#8c9097] dark:text-white/50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam .</div>
+                                                        <div class="text-[1.5625rem] font-bold mb-1">$1,299<sub class="text-[#8c9097] font-semibold text-[.6875rem] ms-1">/ Per Month</sub></div>
+                                                        <div class="mb-1 text-[#8c9097]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam .</div>
                                                         <div class="text-[0.75rem] mb-4 text-dark"><u>Billed Monthly</u></div>
                                                         <ul class="list-none mb-0">
                                                             <li class="flex items-center mb-4">
@@ -249,7 +249,7 @@
                                                             </li>
                                                             <li class="flex items-center mb-4">
                                                                 <span class="me-2">
-                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] dark:text-white/50 opacity-[0.3]"></i>
+                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] opacity-[0.3]"></i>
                                                                 </span>
                                                                 <span>
                                                                     Chat Support
@@ -276,8 +276,8 @@
                                                                 </span>
                                                             </div>
                                                         </div>
-                                                        <div class="text-[1.5625rem] font-bold mb-1">$7,999<sub class="text-[#8c9097] dark:text-white/50 font-semibold text-[.6875rem] ms-1">/ Per Month</sub></div>
-                                                        <div class="mb-1 text-[#8c9097] dark:text-white/50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam .</div>
+                                                        <div class="text-[1.5625rem] font-bold mb-1">$7,999<sub class="text-[#8c9097] font-semibold text-[.6875rem] ms-1">/ Per Month</sub></div>
+                                                        <div class="mb-1 text-[#8c9097]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam .</div>
                                                         <div class="text-[0.75rem] mb-4"><u>Billed Monthly</u></div>
                                                         <ul class="list-none mb-0">
                                                             <li class="flex items-center mb-4">
@@ -351,8 +351,8 @@
                                                                 <span class="badge bg-success/10 text-success">For Indivudials</span>
                                                             </div>
                                                         </div>
-                                                        <div class="text-[1.5625rem] font-bold mb-1">$0<sub class="text-[#8c9097] dark:text-white/50 font-semibold text-[.6875rem] ms-1">/ Per Year</sub></div>
-                                                        <div class="mb-1 text-[#8c9097] dark:text-white/50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam .</div>
+                                                        <div class="text-[1.5625rem] font-bold mb-1">$0<sub class="text-[#8c9097] font-semibold text-[.6875rem] ms-1">/ Per Year</sub></div>
+                                                        <div class="mb-1 text-[#8c9097]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam .</div>
                                                         <div class="text-[0.75rem] mb-4"><u>Billed Yearly</u></div>
                                                         <ul class="list-none mb-0">
                                                             <li class="flex items-center mb-4">
@@ -373,7 +373,7 @@
                                                             </li>
                                                             <li class="flex items-center mb-4">
                                                                 <span class="me-2">
-                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] dark:text-white/50 opacity-[0.3]"></i>
+                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] opacity-[0.3]"></i>
                                                                 </span>
                                                                 <span>
                                                                     <strong class="me-1">1 Year</strong>Email support
@@ -381,7 +381,7 @@
                                                             </li>
                                                             <li class="flex items-center mb-4">
                                                                 <span class="me-2">
-                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] dark:text-white/50 opacity-[0.3]"></i>
+                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] opacity-[0.3]"></i>
                                                                 </span>
                                                                 <span>
                                                                     <strong class="me-1">2</strong>Licenses
@@ -389,7 +389,7 @@
                                                             </li>
                                                             <li class="flex items-center mb-4">
                                                                 <span class="me-2">
-                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] dark:text-white/50 opacity-[0.3]"></i>
+                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] opacity-[0.3]"></i>
                                                                 </span>
                                                                 <span>
                                                                     Custom SEO optimizataion
@@ -397,7 +397,7 @@
                                                             </li>
                                                             <li class="flex items-center mb-4">
                                                                 <span class="me-2">
-                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] dark:text-white/50 opacity-[0.3]"></i>
+                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] opacity-[0.3]"></i>
                                                                 </span>
                                                                 <span>
                                                                     Chat Support
@@ -424,8 +424,8 @@
                                                                 </span>
                                                             </div>
                                                         </div>
-                                                        <div class="text-[1.5625rem] font-bold mb-1">$1,799<sub class="text-[#8c9097] dark:text-white/50 font-semibold text-[.6875rem] ms-1">/ Per Year</sub></div>
-                                                        <div class="mb-1 text-[#8c9097] dark:text-white/50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam .</div>
+                                                        <div class="text-[1.5625rem] font-bold mb-1">$1,799<sub class="text-[#8c9097] font-semibold text-[.6875rem] ms-1">/ Per Year</sub></div>
+                                                        <div class="mb-1 text-[#8c9097]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam .</div>
                                                         <div class="text-[0.75rem] mb-4"><u>Billed Yearly</u></div>
                                                         <ul class="list-none mb-0">
                                                             <li class="flex items-center mb-4">
@@ -462,7 +462,7 @@
                                                             </li>
                                                             <li class="flex items-center mb-4">
                                                                 <span class="me-2">
-                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] dark:text-white/50 opacity-[0.3]"></i>
+                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] opacity-[0.3]"></i>
                                                                 </span>
                                                                 <span>
                                                                     Custom SEO optimizataion
@@ -470,7 +470,7 @@
                                                             </li>
                                                             <li class="flex items-center mb-4">
                                                                 <span class="me-2">
-                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] dark:text-white/50 opacity-[0.3]"></i>
+                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] opacity-[0.3]"></i>
                                                                 </span>
                                                                 <span>
                                                                     Chat Support
@@ -497,8 +497,8 @@
                                                                 </span>
                                                             </div>
                                                         </div>
-                                                        <div class="text-[1.5625rem] font-bold mb-1">$11,999<sub class="text-[#8c9097] dark:text-white/50 font-semibold text-[.6875rem] ms-1">/ Per Year</sub></div>
-                                                        <div class="mb-1 text-[#8c9097] dark:text-white/50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam .</div>
+                                                        <div class="text-[1.5625rem] font-bold mb-1">$11,999<sub class="text-[#8c9097] font-semibold text-[.6875rem] ms-1">/ Per Year</sub></div>
+                                                        <div class="mb-1 text-[#8c9097]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam .</div>
                                                         <div class="text-[0.75rem] mb-4 text-dark"><u>Billed Yearly</u></div>
                                                         <ul class="list-none mb-0">
                                                             <li class="flex items-center mb-4">
@@ -543,7 +543,7 @@
                                                             </li>
                                                             <li class="flex items-center mb-4">
                                                                 <span class="me-2">
-                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] dark:text-white/50 opacity-[0.3]"></i>
+                                                                    <i class="ri-checkbox-circle-line text-[.9375rem] text-[#8c9097] opacity-[0.3]"></i>
                                                                 </span>
                                                                 <span>
                                                                     Chat Support
@@ -570,8 +570,8 @@
                                                                 </span>
                                                             </div>
                                                         </div>
-                                                        <div class="text-[1.5625rem] font-bold mb-1">$83,999<sub class="text-[#8c9097] dark:text-white/50 font-semibold text-[.6875rem] ms-1">/ Per Year</sub></div>
-                                                        <div class="mb-1 text-[#8c9097] dark:text-white/50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam .</div>
+                                                        <div class="text-[1.5625rem] font-bold mb-1">$83,999<sub class="text-[#8c9097] font-semibold text-[.6875rem] ms-1">/ Per Year</sub></div>
+                                                        <div class="mb-1 text-[#8c9097]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam .</div>
                                                         <div class="text-[0.75rem] mb-4"><u>Billed Yearly</u></div>
                                                         <ul class="list-none mb-0">
                                                             <li class="flex items-center mb-4">
@@ -645,7 +645,7 @@
                                 <div class="flex justify-center !mx-auto">
                                     <div class="">
                                         <h5 class="font-semibold text-center text-[1.25rem] !text-defaulttextcolor"> Simple Pricing For Everyone </h5>
-                                        <p class="text-[#8c9097] dark:text-white/50 mb-4 text-center">Choose plan that suits best for your business needs, Our plans scales with you based on your needs</p>
+                                        <p class="text-[#8c9097] mb-4 text-center">Choose plan that suits best for your business needs, Our plans scales with you based on your needs</p>
                                     </div>
                                 </div>
                                 <div class="flex justify-center mb-4">
@@ -661,9 +661,9 @@
                                 <div class="box overflow-hidden">
                                     <div class="box-body !p-0">
                                         <div class="tab-content" id="myTabContent">
-                                            <div class="tab-pane show active !p-0 border-b-0 dark:border-defaultborder/10" id="pricing-monthly-pane" role="tabpanel" >
+                                            <div class="tab-pane show active !p-0 border-b-0" id="pricing-monthly-pane" role="tabpanel" >
                                                 <div class="grid grid-cols-12">
-                                                    <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-4 md:col-span-4 sm:col-span-12 col-span-12 md:border-e md:border-b-0 border-b border-dashed dark:border-defaultborder/10 pe-0">
+                                                    <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-4 md:col-span-4 sm:col-span-12 col-span-12 md:border-e md:border-b-0 border-b border-dashed pe-0">
                                                         <div class="p-6">
                                                             <h6 class="font-semibold text-center text-[1rem]">BASIC</h6>
                                                             <div class="py-4 flex items-center justify-center">
@@ -672,27 +672,27 @@
                                                                 </div>
                                                                 <div class="text-end ms-5">
                                                                     <p class="text-[1.5625rem] font-semibold mb-0">$199</p>
-                                                                    <p class="text-[#8c9097] dark:text-white/50 opacity-50 text-[.6875rem] font-semibold mb-0">per month</p>
+                                                                    <p class="text-[#8c9097] opacity-50 text-[.6875rem] font-semibold mb-0">per month</p>
                                                                 </div>
                                                             </div>
                                                             <ul class="list-none text-center text-[0.75rem] px-4 pt-4 mb-0">
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Storage Capacity<span class="badge bg-light text-defaulttextcolor ms-1">1Tb</span></span>
+                                                                    <span class="text-[#8c9097]">Storage Capacity<span class="badge bg-light text-defaulttextcolor ms-1">1Tb</span></span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Daily Updates<span class="badge bg-light text-defaulttextcolor ms-1">Unlimited</span></span>
+                                                                    <span class="text-[#8c9097]">Daily Updates<span class="badge bg-light text-defaulttextcolor ms-1">Unlimited</span></span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Online Support</span>
+                                                                    <span class="text-[#8c9097]">Online Support</span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Visitors Monitoring<span class="badge bg-light text-defaulttextcolor ms-1">24/7</span></span>
+                                                                    <span class="text-[#8c9097]">Visitors Monitoring<span class="badge bg-light text-defaulttextcolor ms-1">24/7</span></span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">2 Free Domains</span>
+                                                                    <span class="text-[#8c9097]">2 Free Domains</span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Money Back Guarentee</span>
+                                                                    <span class="text-[#8c9097]">Money Back Guarentee</span>
                                                                 </li>
                                                             </ul>
                                                             <div class="grid">
@@ -700,7 +700,7 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-4 md:col-span-4 sm:col-span-12 col-span-12 md:border-e md:border-b-0 border-b border-dashed dark:border-defaultborder/10 px-0">
+                                                    <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-4 md:col-span-4 sm:col-span-12 col-span-12 md:border-e md:border-b-0 border-b border-dashed px-0">
                                                         <div class="p-6">
                                                             <h6 class="font-semibold text-center text-[1rem]">ADVANCED</h6>
                                                             <div class="py-4 flex items-center justify-center">
@@ -709,27 +709,27 @@
                                                                 </div>
                                                                 <div class="text-end ms-5">
                                                                     <p class="text-[1.5625rem] font-semibold mb-0">$499</p>
-                                                                    <p class="text-[#8c9097] dark:text-white/50 opacity-50 text-[.6875rem] font-semibold mb-0">per month</p>
+                                                                    <p class="text-[#8c9097] opacity-50 text-[.6875rem] font-semibold mb-0">per month</p>
                                                                 </div>
                                                             </div>
                                                             <ul class="list-none text-center text-[0.75rem] px-4 pt-4 mb-0">
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Storage Capacity<span class="badge bg-light text-defaulttextcolor ms-1">5Tb</span></span>
+                                                                    <span class="text-[#8c9097]">Storage Capacity<span class="badge bg-light text-defaulttextcolor ms-1">5Tb</span></span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Daily Updates<span class="badge bg-light text-defaulttextcolor ms-1">Unlimited</span></span>
+                                                                    <span class="text-[#8c9097]">Daily Updates<span class="badge bg-light text-defaulttextcolor ms-1">Unlimited</span></span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Online Support</span>
+                                                                    <span class="text-[#8c9097]">Online Support</span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Visitors Monitoring<span class="badge bg-light text-defaulttextcolor ms-1">24/7</span></span>
+                                                                    <span class="text-[#8c9097]">Visitors Monitoring<span class="badge bg-light text-defaulttextcolor ms-1">24/7</span></span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">10 Free Domains</span>
+                                                                    <span class="text-[#8c9097]">10 Free Domains</span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Money Back Guarentee</span>
+                                                                    <span class="text-[#8c9097]">Money Back Guarentee</span>
                                                                 </li>
                                                             </ul>
                                                             <div class="grid">
@@ -749,27 +749,27 @@
                                                                 </div>
                                                                 <div class="text-end ms-5">
                                                                     <p class="text-[1.5625rem] font-semibold mb-0 text-primary">$1,299</p>
-                                                                    <p class="text-[#8c9097] dark:text-white/50 opacity-50 text-[.6875rem] font-semibold mb-0">per month</p>
+                                                                    <p class="text-[#8c9097] opacity-50 text-[.6875rem] font-semibold mb-0">per month</p>
                                                                 </div>
                                                             </div>
                                                             <ul class="list-none text-center text-[0.75rem] px-4 pt-4 mb-0">
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Storage Capacity<span class="badge bg-light text-defaulttextcolor ms-1">10Tb</span></span>
+                                                                    <span class="text-[#8c9097]">Storage Capacity<span class="badge bg-light text-defaulttextcolor ms-1">10Tb</span></span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Daily Updates<span class="badge bg-light text-defaulttextcolor ms-1">Unlimited</span></span>
+                                                                    <span class="text-[#8c9097]">Daily Updates<span class="badge bg-light text-defaulttextcolor ms-1">Unlimited</span></span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Online Support</span>
+                                                                    <span class="text-[#8c9097]">Online Support</span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Visitors Monitoring<span class="badge bg-light text-defaulttextcolor ms-1">24/7</span></span>
+                                                                    <span class="text-[#8c9097]">Visitors Monitoring<span class="badge bg-light text-defaulttextcolor ms-1">24/7</span></span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">30 Free Domains</span>
+                                                                    <span class="text-[#8c9097]">30 Free Domains</span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Money Back Guarentee</span>
+                                                                    <span class="text-[#8c9097]">Money Back Guarentee</span>
                                                                 </li>
                                                             </ul>
                                                             <div class="grid">
@@ -779,9 +779,9 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="tab-pane !p-0 border-b-0 dark:border-defaultborder/10 hidden" id="pricing-yearly-pane" role="tabpanel" >
+                                            <div class="tab-pane !p-0 border-b-0 hidden" id="pricing-yearly-pane" role="tabpanel" >
                                                 <div class="grid grid-cols-12">
-                                                    <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-4 md:col-span-4 sm:col-span-12  col-span-12 md:border-e md:border-b-0 border-b border-dashed dark:border-defaultborder/10 pe-0">
+                                                    <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-4 md:col-span-4 sm:col-span-12  col-span-12 md:border-e md:border-b-0 border-b border-dashed pe-0">
                                                         <div class="p-6">
                                                             <h6 class="font-semibold text-center text-[1rem]">BASIC</h6>
                                                             <div class="py-4 flex items-center justify-center">
@@ -790,27 +790,27 @@
                                                                 </div>
                                                                 <div class="text-end ms-5">
                                                                     <p class="text-[1.5625rem] font-semibold mb-0">$1,499</p>
-                                                                    <p class="text-[#8c9097] dark:text-white/50 opacity-50 text-[.6875rem] font-semibold mb-0">per Year</p>
+                                                                    <p class="text-[#8c9097] opacity-50 text-[.6875rem] font-semibold mb-0">per Year</p>
                                                                 </div>
                                                             </div>
                                                             <ul class="list-none text-center text-[0.75rem] px-4 pt-4 mb-0">
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Storage Capacity<span class="badge bg-light text-defaulttextcolor ms-1">1Tb</span></span>
+                                                                    <span class="text-[#8c9097]">Storage Capacity<span class="badge bg-light text-defaulttextcolor ms-1">1Tb</span></span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Daily Updates<span class="badge bg-light text-defaulttextcolor ms-1">Unlimited</span></span>
+                                                                    <span class="text-[#8c9097]">Daily Updates<span class="badge bg-light text-defaulttextcolor ms-1">Unlimited</span></span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Online Support</span>
+                                                                    <span class="text-[#8c9097]">Online Support</span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Visitors Monitoring<span class="badge bg-light text-defaulttextcolor ms-1">24/7</span></span>
+                                                                    <span class="text-[#8c9097]">Visitors Monitoring<span class="badge bg-light text-defaulttextcolor ms-1">24/7</span></span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">2 Free Domains</span>
+                                                                    <span class="text-[#8c9097]">2 Free Domains</span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Money Back Guarentee</span>
+                                                                    <span class="text-[#8c9097]">Money Back Guarentee</span>
                                                                 </li>
                                                             </ul>
                                                             <div class="grid">
@@ -818,7 +818,7 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-4 md:col-span-4 sm:col-span-12 col-span-12 md:border-e md:border-b-0 border-b border-dashed dark:border-defaultborder/10 px-0">
+                                                    <div class="xxl:col-span-4 xl:col-span-4 lg:col-span-4 md:col-span-4 sm:col-span-12 col-span-12 md:border-e md:border-b-0 border-b border-dashed px-0">
                                                         <div class="p-6">
                                                             <h6 class="font-semibold text-center text-[1rem]">ADVANCED</h6>
                                                             <div class="py-4 flex items-center justify-center">
@@ -827,27 +827,27 @@
                                                                 </div>
                                                                 <div class="text-end ms-5">
                                                                     <p class="text-[1.5625rem] font-semibold mb-0">$5,999</p>
-                                                                    <p class="text-[#8c9097] dark:text-white/50 opacity-50 text-[.6875rem] font-semibold mb-0">per Year</p>
+                                                                    <p class="text-[#8c9097] opacity-50 text-[.6875rem] font-semibold mb-0">per Year</p>
                                                                 </div>
                                                             </div>
                                                             <ul class="list-none text-center text-[0.75rem] px-4 pt-4 mb-0">
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Storage Capacity<span class="badge bg-light text-defaulttextcolor ms-1">5Tb</span></span>
+                                                                    <span class="text-[#8c9097]">Storage Capacity<span class="badge bg-light text-defaulttextcolor ms-1">5Tb</span></span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Daily Updates<span class="badge bg-light text-defaulttextcolor ms-1">Unlimited</span></span>
+                                                                    <span class="text-[#8c9097]">Daily Updates<span class="badge bg-light text-defaulttextcolor ms-1">Unlimited</span></span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Online Support</span>
+                                                                    <span class="text-[#8c9097]">Online Support</span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Visitors Monitoring<span class="badge bg-light text-defaulttextcolor ms-1">24/7</span></span>
+                                                                    <span class="text-[#8c9097]">Visitors Monitoring<span class="badge bg-light text-defaulttextcolor ms-1">24/7</span></span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">10 Free Domains</span>
+                                                                    <span class="text-[#8c9097]">10 Free Domains</span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Money Back Guarentee</span>
+                                                                    <span class="text-[#8c9097]">Money Back Guarentee</span>
                                                                 </li>
                                                             </ul>
                                                             <div class="grid">
@@ -867,27 +867,27 @@
                                                                 </div>
                                                                 <div class="text-end ms-5">
                                                                     <p class="text-[1.5625rem] font-semibold mb-0 text-primary">$11,499</p>
-                                                                    <p class="text-[#8c9097] dark:text-white/50 opacity-50 text-[.6875rem] font-semibold mb-0">per Year</p>
+                                                                    <p class="text-[#8c9097] opacity-50 text-[.6875rem] font-semibold mb-0">per Year</p>
                                                                 </div>
                                                             </div>
                                                             <ul class="list-none text-center text-[0.75rem] px-4 pt-4 mb-0">
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Storage Capacity<span class="badge bg-light text-defaulttextcolor ms-1">10Tb</span></span>
+                                                                    <span class="text-[#8c9097]">Storage Capacity<span class="badge bg-light text-defaulttextcolor ms-1">10Tb</span></span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Daily Updates<span class="badge bg-light text-defaulttextcolor ms-1">Unlimited</span></span>
+                                                                    <span class="text-[#8c9097]">Daily Updates<span class="badge bg-light text-defaulttextcolor ms-1">Unlimited</span></span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Online Support</span>
+                                                                    <span class="text-[#8c9097]">Online Support</span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Visitors Monitoring<span class="badge bg-light text-defaulttextcolor ms-1">24/7</span></span>
+                                                                    <span class="text-[#8c9097]">Visitors Monitoring<span class="badge bg-light text-defaulttextcolor ms-1">24/7</span></span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">30 Free Domains</span>
+                                                                    <span class="text-[#8c9097]">30 Free Domains</span>
                                                                 </li>
                                                                 <li class="mb-4">
-                                                                    <span class="text-[#8c9097] dark:text-white/50">Money Back Guarentee</span>
+                                                                    <span class="text-[#8c9097]">Money Back Guarentee</span>
                                                                 </li>
                                                             </ul>
                                                             <div class="grid">
@@ -914,13 +914,13 @@
                                 <div class="flex justify-center">
                                     <div class="">
                                         <h5 class="font-semibold text-center text-[1.25rem] text-defaulttextcolor"> Pricing Plans </h5>
-                                        <p class="text-[#8c9097] dark:text-white/50 text-center mb-6 text-[0.813rem]">Select best plans that fits your needs for your business growth,plans are flexible with the enterprise.Familiarize with the payment plans below</p>
+                                        <p class="text-[#8c9097] text-center mb-6 text-[0.813rem]">Select best plans that fits your needs for your business growth,plans are flexible with the enterprise.Familiarize with the payment plans below</p>
                                     </div>
                                 </div>
                                 <div class="box">
                                     <div class="box-body">
                                         <div class="table-responsive">
-                                            <table class="table table-bordered dark:border-defaultborder/10 whitespace-nowrap min-w-full">
+                                            <table class="table table-bordered whitespace-nowrap min-w-full">
                                                 <thead>
                                                     <tr>
                                                         <th scope="col" class="text-start">
@@ -938,12 +938,12 @@
                                                     </tr>
                                                 </thead>
                                                 <tbody>
-                                                    <tr class="text-center bg-light border border-defaultborder dark:border-defaultborder/10">
+                                                    <tr class="text-center bg-light border border-defaultborder">
                                                         <td colspan="4">
                                                             <span class="text-[.875rem] font-semibold">Main Features</span>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                    <tr class="border border-defaultborder">
                                                         <td></td>
                                                         <td>
                                                             <span>
@@ -964,7 +964,7 @@
                                                             </span>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                    <tr class="border border-defaultborder">
                                                         <td></td>
                                                         <td>
                                                             <span>
@@ -985,12 +985,12 @@
                                                             </span>
                                                         </td>
                                                     </tr>
-                                                    <tr class="text-center bg-light dark:border-defaultborder/10">
+                                                    <tr class="text-center bg-light">
                                                         <td colspan="4">
                                                             <span class="text-[.875rem] font-semibold">Complete Features</span>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                    <tr class="border border-defaultborder">
                                                         <td>
                                                             <span class="font-bold text-[.875rem]">
                                                                 Domains
@@ -1006,7 +1006,7 @@
                                                             <span class="font-semibold">10 Free</span> Domain names
                                                         </td>
                                                     </tr>
-                                                    <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                    <tr class="border border-defaultborder">
                                                         <td>
                                                             <span class="font-bold text-[.875rem]">
                                                                 Money Back Guarentee
@@ -1031,7 +1031,7 @@
                                                             </span>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                    <tr class="border border-defaultborder">
                                                         <td>
                                                             <span class="font-bold text-[.875rem]">
                                                                 App Integrations
@@ -1056,7 +1056,7 @@
                                                             </span>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                    <tr class="border border-defaultborder">
                                                         <td>
                                                             <span class="font-bold text-[.875rem]">
                                                                 Future Updates
@@ -1081,7 +1081,7 @@
                                                             </span>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                    <tr class="border border-defaultborder">
                                                         <td>
                                                             <span class="font-bold text-[.875rem]">
                                                                 Team Management
@@ -1106,7 +1106,7 @@
                                                             </span>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                    <tr class="border border-defaultborder">
                                                         <td>
                                                             <span class="font-bold text-[.875rem]">
                                                                 Customer Support
@@ -1131,12 +1131,12 @@
                                                             </span>
                                                         </td>
                                                     </tr>
-                                                    <tr class="text-center bg-light dark:border-defaultborder/10">
+                                                    <tr class="text-center bg-light">
                                                         <td colspan="4">
                                                             <span class="text-[.875rem] font-semibold">Pricing</span>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                    <tr class="border border-defaultborder">
                                                         <th scope="row">
                                                             <span class="font-bold text-[.875rem] text-start">Net Price</span>
                                                         </th>
@@ -1150,7 +1150,7 @@
                                                             <span class="text-[1.125rem] font-semibold text-dark">$499</span>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                    <tr class="border border-defaultborder">
                                                         <th scope="row">
                                                             <span class="font-bold text-[.875rem] text-start">Annual
                                                                 Subscription</span>
@@ -1165,7 +1165,7 @@
                                                             <span class="text-[1.125rem] font-semibold text-dark">$5,499</span>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                    <tr class="border border-defaultborder">
                                                         <th scope="row">
                                                             <span class="font-bold text-[.875rem] text-start">Activation
                                                                 Charges</span>
@@ -1180,7 +1180,7 @@
                                                             <span class="font-semibold">10% + $259</span>
                                                         </td>
                                                     </tr>
-                                                    <tr class="border border-defaultborder dark:border-defaultborder/10">
+                                                    <tr class="border border-defaultborder">
                                                         <td class="border-b-0"></td>
                                                         <td class="border-b-0">
                                                             <button type="button" class="ti-btn bg-primary text-white">Choose
