@@ -32,9 +32,11 @@ use App\Http\Controllers\IconsController;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Landing Pages
+Route::get('/', [App\Http\Controllers\LandingController::class, 'index'])->name('landing.home');
+Route::get('/features', [App\Http\Controllers\LandingController::class, 'features'])->name('landing.features');
+Route::get('/pricing', [App\Http\Controllers\LandingController::class, 'pricing'])->name('landing.pricing');
+Route::get('/contact', [App\Http\Controllers\LandingController::class, 'contact'])->name('landing.contact');
 
 Route::get('/dashboard', function () {
     return view('dashboard');
@@ -70,7 +72,7 @@ require __DIR__.'/auth.php';
 // Route::get('', [Controller::class, 'index']);
 
 // DASHBOARDS //
-Route::get('/', [DashboardsController::class, 'index']);
+
 Route::get('index', [DashboardsController::class, 'index']);
 Route::get('index2', [DashboardsController::class, 'index2']);
 Route::get('index3', [DashboardsController::class, 'index3']);

@@ -23,6 +23,9 @@ class Cliente extends Model
         'plan_id',
         'fecha_inicio_suscripcion',
         'fecha_fin_suscripcion',
+        'estado_suscripcion',
+        'ultimo_pago',
+        'proximo_pago',
         'activo',
         'metadata',
         // Campos fiscales básicos
@@ -43,6 +46,8 @@ class Cliente extends Model
     protected $casts = [
         'fecha_inicio_suscripcion' => 'date',
         'fecha_fin_suscripcion' => 'date',
+        'ultimo_pago' => 'datetime',
+        'proximo_pago' => 'datetime',
         'activo' => 'boolean',
         'metadata' => 'array',
         // Campos de facturación
@@ -86,9 +91,13 @@ class Cliente extends Model
     /**
      * Verificar si la suscripción está activa
      */
-    public function suscripcionActiva(): bool
+    public function tieneSuscripcionActiva(): bool
     {
         if (!$this->activo) {
+            return false;
+        }
+
+        if ($this->estado_suscripcion !== 'activa') {
             return false;
         }
 
@@ -105,7 +114,7 @@ class Cliente extends Model
      */
     public function puedeUsarModulo(string $slug): bool
     {
-        if (!$this->suscripcionActiva()) {
+        if (!$this->tieneSuscripcionActiva()) {
             return false;
         }
 

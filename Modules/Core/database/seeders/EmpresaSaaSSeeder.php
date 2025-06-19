@@ -71,6 +71,33 @@ class EmpresaSaaSSeeder extends Seeder
                 ]
             ],
             [
+                'nombre' => 'Free',
+                'slug' => 'free',
+                'descripcion' => 'Plan gratuito de prueba para nuevos usuarios',
+                'precio_mensual' => 0,
+                'precio_anual' => 0,
+                'precio_usuario_adicional_mensual' => 0,
+                'precio_usuario_adicional_anual' => 0,
+                'precio_empresa_adicional_mensual' => 0,
+                'precio_empresa_adicional_anual' => 0,
+                'limite_empresas' => 1, // Sin límite (valor muy alto en lugar de null)
+                'limite_usuarios' => 5, // Sin límite (valor muy alto en lugar de null)
+                'permite_empresas_adicionales' => false,
+                'permite_usuarios_adicionales' => false,
+                'maximo_empresas_totales' => 2, // Sin límite (estos sí son nulleables)
+                'maximo_usuarios_totales' => 10, // Sin límite (estos sí son nulleables)
+                'limite_almacenamiento_gb' => 5, // Gran capacidad para la matriz
+                'soporte_prioritario' => false,
+                'backup_automatico' => false,
+                'api_acceso' => true,
+                'orden' => 1,
+                'activo' => true,
+                'destacado' => true,
+                'caracteristicas' => [
+                    'Acceso completo a todos los módulos',
+                ]
+            ],
+            [
                 'nombre' => 'Básico',
                 'slug' => 'basico',
                 'descripcion' => 'Plan ideal para pequeñas empresas que están comenzando',
@@ -90,7 +117,7 @@ class EmpresaSaaSSeeder extends Seeder
                 'soporte_prioritario' => false,
                 'backup_automatico' => true,
                 'api_acceso' => false,
-                'orden' => 1,
+                'orden' => 2,
                 'activo' => true,
                 'destacado' => false,
                 'caracteristicas' => [
@@ -123,7 +150,7 @@ class EmpresaSaaSSeeder extends Seeder
                 'soporte_prioritario' => true,
                 'backup_automatico' => true,
                 'api_acceso' => true,
-                'orden' => 2,
+                'orden' => 3,
                 'activo' => true,
                 'destacado' => true,
                 'caracteristicas' => [
@@ -156,7 +183,7 @@ class EmpresaSaaSSeeder extends Seeder
                 'soporte_prioritario' => true,
                 'backup_automatico' => true,
                 'api_acceso' => true,
-                'orden' => 3,
+                'orden' => 4,
                 'activo' => true,
                 'destacado' => false,
                 'caracteristicas' => [
@@ -232,7 +259,6 @@ class EmpresaSaaSSeeder extends Seeder
                 'nombre' => 'AG Business Suite'
             ],
             [
-                'codigo_pais' => 'MX',
                 'pais' => 'México',
                 'ciudad' => 'Ciudad de México',
                 'direccion' => 'Av. Reforma 123, Colonia Cuauhtémoc, CDMX',

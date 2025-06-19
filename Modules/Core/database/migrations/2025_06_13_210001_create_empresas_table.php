@@ -15,9 +15,8 @@ return new class extends Migration
             $table->id();
             $table->foreignId('cliente_id')->constrained('clientes')->onDelete('cascade');
             $table->string('nombre');
-            $table->string('codigo_pais', 3); // MEX, USA, etc.
             $table->string('pais');
-            $table->string('ciudad');
+            $table->string('ciudad')->nullable(); // Ciudad es ahora opcional
             $table->text('direccion')->nullable();
             $table->string('telefono')->nullable();
             $table->string('email')->nullable();

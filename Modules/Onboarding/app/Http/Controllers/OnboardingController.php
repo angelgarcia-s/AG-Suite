@@ -26,19 +26,15 @@ class OnboardingController extends Controller
      */
     public function showRegisterForm(Request $request): View
     {
-        // Obtener plan seleccionado desde la landing (opcional)
-        $selectedPlanId = $request->get('plan_id');
+        // Verificamos que exista un plan Free
+        $freePlan = Plan::where('nombre', 'Free')->first();
 
-        // Obtener todos los planes disponibles
-        $planes = Plan::where('activo', true)->orderBy('precio_mensual')->get();
-
-        // Si hay un plan preseleccionado, verificar que existe
-        $selectedPlan = null;
-        if ($selectedPlanId) {
-            $selectedPlan = $planes->firstWhere('id', $selectedPlanId);
+        if (!$freePlan) {
+            // Log de error si no hay plan gratuito
+            Log::error('No se encontró un plan gratuito (Free) para el registro de clientes');
         }
 
-        return view('onboarding::register', compact('planes', 'selectedPlan'));
+        return view('onboarding::register');
     }
 
     /**
@@ -72,9 +68,14 @@ class OnboardingController extends Controller
                 'trace' => $e->getTraceAsString()
             ]);
 
+            // Para desarrollo: mostrar el error específico en lugar del mensaje genérico
+            $errorMessage = env('APP_DEBUG')
+                ? 'Error: ' . $e->getMessage()
+                : 'Ocurrió un error inesperado. Por favor, intente nuevamente.';
+
             return back()
                 ->withInput()
-                ->withErrors(['error' => 'Ocurrió un error inesperado. Por favor, intente nuevamente.']);
+                ->withErrors(['error' => $errorMessage]);
         }
     }
 

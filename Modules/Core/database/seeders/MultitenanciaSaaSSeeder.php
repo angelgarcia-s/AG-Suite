@@ -85,7 +85,6 @@ class MultitenanciaSaaSSeeder extends Seeder
                 'nombre' => 'Restaurante Centro'
             ],
             [
-                'codigo_pais' => 'MX',
                 'pais' => 'México',
                 'ciudad' => 'Ciudad de México',
                 'direccion' => 'Centro Histórico, CDMX',
@@ -109,7 +108,6 @@ class MultitenanciaSaaSSeeder extends Seeder
                 'nombre' => 'Restaurante Norte'
             ],
             [
-                'codigo_pais' => 'MX',
                 'pais' => 'México',
                 'ciudad' => 'Monterrey',
                 'direccion' => 'Zona Norte, Monterrey, NL',

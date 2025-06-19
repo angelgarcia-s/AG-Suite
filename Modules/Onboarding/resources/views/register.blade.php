@@ -46,21 +46,20 @@
                 <form method="POST" action="{{ route('onboarding.register') }}" class="space-y-6">
                     @csrf
 
-                    <!-- Plan seleccionado -->
-                    <div class="bg-indigo-50 border border-indigo-200 rounded-lg p-4">
-                        <label for="plan_id" class="block text-sm font-medium text-indigo-800 mb-2">
-                            <i class="fas fa-crown mr-2"></i>Plan Seleccionado
-                        </label>
-                        <select name="plan_id" id="plan_id" required
-                                class="w-full border border-indigo-300 rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500">
-                            <option value="">Selecciona un plan</option>
-                            @foreach($planes as $plan)
-                                <option value="{{ $plan->id }}"
-                                        {{ (old('plan_id', $selectedPlan?->id) == $plan->id) ? 'selected' : '' }}>
-                                    {{ $plan->nombre }} - ${{ number_format($plan->precio_mensual, 0) }}/mes
-                                </option>
-                            @endforeach
-                        </select>
+                    <!-- Información de Prueba Gratuita -->
+                    <div class="bg-green-50 border border-green-200 rounded-lg p-4">
+                        <div class="flex items-center">
+                            <div class="flex-shrink-0 bg-green-100 rounded-full p-2">
+                                <i class="fas fa-gift text-green-600"></i>
+                            </div>
+                            <div class="ml-3">
+                                <h3 class="text-sm font-medium text-green-800">Prueba gratuita de 30 días</h3>
+                                <div class="mt-1 text-sm text-green-700">
+                                    <p>Al registrarte, obtendrás acceso gratuito a todas las funciones por 30 días. Sin compromisos.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <input type="hidden" name="plan_id" value="{{ \Modules\Core\app\Models\Plan::where('nombre', 'Free')->first()->id ?? '' }}">
                     </div>
 
                     <!-- Información Personal -->

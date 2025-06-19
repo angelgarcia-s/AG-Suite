@@ -18,6 +18,8 @@ class Plan extends Model
         'descripcion',
         'precio_mensual',
         'precio_anual',
+        'duracion_dias',
+        'tipo_periodo',
         'precio_usuario_adicional_mensual',
         'precio_usuario_adicional_anual',
         'precio_empresa_adicional_mensual',
@@ -42,6 +44,7 @@ class Plan extends Model
     protected $casts = [
         'precio_mensual' => 'decimal:2',
         'precio_anual' => 'decimal:2',
+        'duracion_dias' => 'integer',
         'precio_usuario_adicional_mensual' => 'decimal:2',
         'precio_usuario_adicional_anual' => 'decimal:2',
         'precio_empresa_adicional_mensual' => 'decimal:2',
@@ -97,6 +100,27 @@ class Plan extends Model
     public function permite(string $caracteristica): bool
     {
         return in_array($caracteristica, $this->caracteristicas ?? []);
+    }
+
+    /**
+     * Obtener duración formateada (en días o meses)
+     */
+    public function getDuracionFormateada(): string
+    {
+        if ($this->duracion_dias % 30 == 0) {
+            $meses = $this->duracion_dias / 30;
+            return $meses == 1 ? '1 mes' : $meses . ' meses';
+        }
+
+        return $this->duracion_dias == 1 ? '1 día' : $this->duracion_dias . ' días';
+    }
+
+    /**
+     * Verificar si el plan es gratuito
+     */
+    public function esGratuito(): bool
+    {
+        return $this->precio_mensual == 0 && $this->precio_anual == 0;
     }
 
     /**

@@ -25,7 +25,7 @@ class RegisterClientRequest extends FormRequest
             'email' => 'required|string|email|max:255|unique:users',
             'empresa_nombre' => 'required|string|max:255',
             'pais' => 'required|string|max:3|in:MX,CO,US',
-            'plan_id' => 'required|exists:planes,id',
+            'plan_id' => 'sometimes|exists:planes,id',
             'password' => 'required|string|min:8|confirmed',
             'terms' => 'required|accepted',
             'privacy' => 'required|accepted',

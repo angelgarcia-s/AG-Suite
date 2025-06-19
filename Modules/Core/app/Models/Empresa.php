@@ -7,16 +7,16 @@ use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Support\Facades\Storage;
+use Modules\Core\app\Traits\HasModulos;
 use App\Models\User;
 
 class Empresa extends Model
 {
-    use HasFactory;
+    use HasFactory, HasModulos;
 
     protected $fillable = [
         'cliente_id',
         'nombre',
-        'codigo_pais',
         'pais',
         'ciudad',
         'direccion',
@@ -226,6 +226,11 @@ class Empresa extends Model
 
         return $nombre;
     }
+
+    /**
+     * Este bloque ha sido reemplazado por el trait HasModulos
+     * @see \Modules\Core\app\Traits\HasModulos
+     */
 
     /**
      * Boot method para eventos del modelo

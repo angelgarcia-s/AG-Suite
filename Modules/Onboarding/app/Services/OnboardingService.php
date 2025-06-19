@@ -10,21 +10,37 @@ use Modules\Core\app\Models\Cliente;
 use Modules\Core\app\Models\Empresa;
 use Modules\Core\app\Models\Plan;
 use Modules\Core\app\Models\Modulo;
+use Modules\Core\app\Services\SubscriptionService;
 use Spatie\Permission\Models\Role;
 use Carbon\Carbon;
 
 class OnboardingService
 {
+    protected $subscriptionService;
+
+    public function __construct(SubscriptionService $subscriptionService)
+    {
+        $this->subscriptionService = $subscriptionService;
+    }
+
     /**
      * Crear un nuevo cliente con empresa y usuario administrador
      */
     public function createClient(array $data): array
     {
         return DB::transaction(function () use ($data) {
+            // Obtener el plan gratuito
+            $freePlan = Plan::where('nombre', 'Free')->firstOrFail();
+
+            // Asegurar que data tenga plan_id (usar Free si no se especifica)
+            if (empty($data['plan_id'])) {
+                $data['plan_id'] = $freePlan->id;
+            }
+
             // 1. Crear Cliente
             $cliente = $this->createCliente($data);
 
-            // 2. Procesar suscripción (mock en local, real en producción)
+            // 2. Asignar plan gratuito (siempre en registro inicial)
             $subscriptionData = $this->processSuscripcion($cliente, $data['plan_id']);
 
             // 3. Crear Empresa
@@ -58,41 +74,52 @@ class OnboardingService
      */
     private function createCliente(array $data): Cliente
     {
+        $now = now();
+
         return Cliente::create([
             'nombre' => $data['empresa_nombre'],
             'email' => $data['email'],
             'pais' => $data['pais'],
             'plan_id' => $data['plan_id'],
             'activo' => true,
-            'fecha_registro' => now(),
+            'fecha_inicio_suscripcion' => $now,
+            'fecha_fin_suscripcion' => null, // Se establecerá al asignar el plan
+            'estado_suscripcion' => 'pendiente', // Se actualizará al asignar el plan
         ]);
     }
 
     /**
-     * Procesar suscripción (Mock en local, real en producción)
+     * Procesar suscripción utilizando el SubscriptionService
      */
     private function processSuscripcion(Cliente $cliente, int $planId): array
     {
-        $plan = Plan::findOrFail($planId);
+        // Buscar plan Free para prueba gratuita
+        $freePlan = Plan::where('nombre', 'Free')->first();
+
+        if (!$freePlan) {
+            throw new \Exception('No se encontró el plan gratuito (Free) para registrar al cliente.');
+        }
+
+        // Aplicar plan gratuito usando el servicio de suscripción
+        $clienteActualizado = $this->subscriptionService->asignarPruebaGratuita($cliente);
+
+        // Preparar datos de retorno
+        $subscriptionData = [
+            'estado_suscripcion' => $clienteActualizado->estado_suscripcion,
+            'fecha_inicio_suscripcion' => $clienteActualizado->fecha_inicio_suscripcion,
+            'fecha_fin_suscripcion' => $clienteActualizado->fecha_fin_suscripcion,
+            'ultimo_pago' => $clienteActualizado->ultimo_pago,
+            'proximo_pago' => $clienteActualizado->proximo_pago,
+            'plan_id' => $freePlan->id,
+            'plan_nombre' => $freePlan->nombre,
+        ];
 
         if (app()->environment('local')) {
-            // MOCK para desarrollo local
-            $subscriptionData = [
-                'stripe_id' => 'mock_stripe_' . uniqid(),
-                'subscription_status' => 'active',
-                'subscription_start' => now(),
-                'subscription_end' => now()->addMonth(),
-                'last_payment' => now(),
-                'next_payment' => now()->addMonth(),
-            ];
-
-            // Actualizar cliente con datos mock
-            $cliente->update($subscriptionData);
-
             return [
                 'mock' => true,
                 'status' => 'active',
-                'message' => 'Suscripción simulada creada exitosamente'
+                'message' => 'Suscripción de prueba gratuita creada exitosamente',
+                'data' => $subscriptionData
             ];
         } else {
             // TODO: Implementar integración real con Laravel Cashier + Stripe
@@ -114,7 +141,7 @@ class OnboardingService
             'pais' => $data['pais'],
             'moneda' => $this->getCurrencyByCountry($data['pais']),
             'timezone' => $this->getTimezoneByCountry($data['pais']),
-            'activa' => true,
+            'activo' => true,
         ]);
     }
 
@@ -153,17 +180,41 @@ class OnboardingService
      */
     private function activateModulesForPlan(Cliente $cliente, int $planId): void
     {
-        $plan = Plan::with('modulos')->findOrFail($planId);
+        $plan = Plan::findOrFail($planId);
+
+        // Obtener la empresa asociada al cliente
+        $empresa = $cliente->empresas()->first();
+
+        if (!$empresa) {
+            throw new \Exception('No hay empresa asociada para activar los módulos');
+        }
 
         // Obtener módulos básicos que vienen con el plan
         $modulosBasicos = Modulo::where('categoria', 'core')
             ->orWhere('categoria', 'basico')
             ->get();
 
+        // Fecha de vencimiento basada en la duración del plan
+        $fechaVencimiento = now()->addDays($plan->duracion_dias ?? 365);
+
         foreach ($modulosBasicos as $modulo) {
-            $cliente->modulos()->attach($modulo->id, [
+            // Activar el módulo para la empresa
+            $empresa->activarModulo(
+                $modulo->nombre, // Nombre del módulo
+                [
+                    'plan_inicial' => $plan->nombre,
+                    'auto_renovacion' => true,
+                    'modulo_id' => $modulo->id
+                ],
+                $fechaVencimiento
+            );
+        }
+
+        // Compatibilidad con la estructura anterior
+        foreach ($modulosBasicos as $modulo) {
+            $cliente->modulos()->syncWithoutDetaching([$modulo->id => [
                 'fecha_activacion' => now(),
-                'fecha_vencimiento' => now()->addYear(), // Activar por 1 año
+                'fecha_vencimiento' => $fechaVencimiento,
                 'activo' => true,
                 'configuracion' => json_encode([
                     'plan_inicial' => $plan->nombre,
@@ -171,7 +222,7 @@ class OnboardingService
                 ]),
                 'created_at' => now(),
                 'updated_at' => now(),
-            ]);
+            ]]);
         }
     }
 
@@ -182,6 +233,19 @@ class OnboardingService
     {
         // TODO: Implementar envío de email de bienvenida
         // Mail::to($user->email)->send(new WelcomeClientMail($user, $cliente, $empresa));
+    }
+
+    /**
+     * Obtener ciudad predeterminada por país
+     */
+    private function getCiudadByPais(string $country): string
+    {
+        return match($country) {
+            'MX' => 'Ciudad de México',
+            'CO' => 'Bogotá',
+            'US' => 'New York',
+            default => 'Ciudad de México'
+        };
     }
 
     /**

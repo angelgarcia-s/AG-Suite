@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use Modules\Onboarding\app\Http\Controllers\OnboardingController;
+use Modules\Onboarding\app\Http\Controllers\SubscriptionController;
 
 /*
 |--------------------------------------------------------------------------
@@ -26,4 +27,23 @@ Route::middleware(['web'])->group(function () {
     // Página de éxito post-registro (opcional)
     Route::get('/register/success', [OnboardingController::class, 'success'])
         ->name('onboarding.success');
+});
+
+// Rutas para suscripciones (requieren autenticación)
+Route::middleware(['web', 'auth'])->group(function () {
+    // Ver planes disponibles para upgrade
+    Route::get('/subscription/planes', [SubscriptionController::class, 'planes'])
+        ->name('subscription.planes');
+
+    // Ver estado de la suscripción actual
+    Route::get('/subscription/estado', [SubscriptionController::class, 'estado'])
+        ->name('subscription.estado');
+
+    // Actualizar/cambiar plan de suscripción
+    Route::post('/subscription/upgrade', [SubscriptionController::class, 'upgrade'])
+        ->name('subscription.upgrade');
+
+    // Cancelar suscripción actual
+    Route::post('/subscription/cancelar', [SubscriptionController::class, 'cancelar'])
+        ->name('subscription.cancelar');
 });

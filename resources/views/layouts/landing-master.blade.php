@@ -8,7 +8,7 @@
         <meta name="Author" content="Spruko Technologies Private Limited">
         <meta name="Description" content="Ynex – Laravel Tailwind CSS Responsive Admin Web Dashboard Template">
         <meta name="keywords" content="admin panel in laravel, tailwind, tailwind template admin, laravel admin panel, tailwind css dashboard, admin dashboard template, admin template, tailwind laravel, template dashboard, admin panel tailwind, tailwind css admin template, laravel tailwind template, laravel tailwind, tailwind admin dashboard">
-        
+
         <!-- TITLE -->
 		<title> YNEX - Laravel Tailwind CSS Admin & Dashboard Template </title>
 
@@ -17,7 +17,7 @@
 
         <!-- ICONS CSS -->
         <link href="{{asset('build/assets/iconfonts/icons.css')}}" rel="stylesheet">
-        
+
         <!-- APP SCSS -->
         @vite(['resources/sass/app.scss'])
 
@@ -53,7 +53,7 @@
             <!-- END SIDEBAR -->
 
             <!-- MAIN-CONTENT -->
-            <div class="main-content !p-0 landing-main">
+            <div class="main-content !p-0 landing-main dark:text-defaulttextcolor/70">
                 @yield('content')
 
                     <!-- FOOTER -->
@@ -71,7 +71,7 @@
         @include('layouts.components.landing.scripts')
 
         @yield('scripts')
-        
+
         <!-- STICKY JS -->
 		<script src="{{asset('build/assets/sticky.js')}}"></script>
 
